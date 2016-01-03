@@ -1,1 +1,34 @@
-<h4>No valid url or html text provided</h4>
+[Source](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm "Permalink to Yahoo Privacy Center")
+
+# Yahoo Privacy Center
+
+* _⌂[_**Home**][1]
+* [Mail][2]
+* [Search][3]
+* [News][4]
+* [Sports][5]
+* [Finance][6]
+* [Celebrity][7]
+* [Weather][8]
+* [Games][9]
+* [Answers][10]
+* [Flickr][11]
+* [Mobile][12]
+* [**More**_⋁_][13]
+
+    * [Politics][14]
+    * [Movies][15]
+    * [Music][16]
+    * [TV][17]
+    * [Groups][18]
+    * [Health][19]
+    * [Style][20]
+    * [Beauty][21]
+    * [Food][22]
+    * [Parenting][23]
+    * [Makers][24]
+    * [Tech][25]
+    * [Shopping][26]
+    * [Travel][27]
+    * [Autos][28]
+    * [Real Estate][29]
