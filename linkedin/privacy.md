@@ -422,7 +422,7 @@ Back to Top
 * [Universities][67]
 * [Titles][68]
 
-LinkedIn Corporation _© 2015_
+LinkedIn Corporation _© 2016_
 
 * [User Agreement][69]
 * [Privacy Policy][70]
