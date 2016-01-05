@@ -37,35 +37,35 @@ Main Menu
     * Popular Topics
         * [The Record: Climate][21]
         * [The Record: Health Care][22]
-        * [The Record: Foreign Policy][23]
-        * [Immigration Action][24]
+        * [The Record: Social Progress][23]
+        * [The Record: Foreign Policy][24]
+        * [Reducing Gun Violence][25]
         * [See All][20]
     * Top Issues
-        * [Economy][25]
-        * [Education][26]
-        * [Foreign Policy][27]
-        * [Health Care][28]
-        * [Immigration][29]
-        * [Climate Change][30]
-        * [Energy and Environment][31]
-        * [Civil Rights][32]
+        * [Economy][26]
+        * [Education][27]
+        * [Foreign Policy][28]
+        * [Health Care][29]
+        * [Immigration][30]
+        * [Climate Change][31]
+        * [Energy and Environment][32]
+        * [Civil Rights][33]
     * More
-        * [Defense][33]
-        * [Disabilities][34]
-        * [Ethics][35]
-        * [Equal Pay][36]
-        * [Homeland Security][37]
-        * [Refinancing][38]
-        * [Rural][39]
-        * [Service][40]
+        * [Defense][34]
+        * [Disabilities][35]
+        * [Ethics][36]
+        * [Equal Pay][37]
+        * [Homeland Security][38]
+        * [Refinancing][39]
+        * [Rural][40]
+        * [Service][41]
     * More
-        * [Seniors & Social Security][41]
-        * [Taxes][42]
-        * [Technology][43]
-        * [Trade][44]
-        * [Urban and Economic Mobility][45]
-        * [Veterans][46]
-        * [Violence Prevention][47]
+        * [Seniors & Social Security][42]
+        * [Taxes][43]
+        * [Technology][44]
+        * [Trade][45]
+        * [Urban and Economic Mobility][46]
+        * [Veterans][47]
         * [Women][48]
 * [The Administration][49]
 
@@ -330,31 +330,31 @@ Go back up to the term in use.
 [20]: /issues
 [21]: https://www.whitehouse.gov/the-record/climate
 [22]: https://www.whitehouse.gov/the-record/health-care
-[23]: https://www.whitehouse.gov/the-record/foreign-policy
-[24]: /issues/immigration/immigration-action
-[25]: /economy
-[26]: /issues/education
-[27]: /issues/foreign-policy
-[28]: /healthreform
-[29]: /issues/immigration
-[30]: /climate-change
-[31]: http://www.whitehouse.gov/energy
-[32]: /issues/civil-rights
-[33]: http://whitehouse.gov/issues/defense
-[34]: https://www.whitehouse.gov/issues/disabilities
-[35]: /21stcenturygov
-[36]: /issues/equal-pay
-[37]: https://www.whitehouse.gov/issues/homeland-security
-[38]: /refi
-[39]: /administration/eop/rural-council
-[40]: https://www.whitehouse.gov/issues/service
-[41]: https://www.whitehouse.gov/issues/seniors-and-social-security
-[42]: https://www.whitehouse.gov/issues/taxes
-[43]: https://www.whitehouse.gov/issues/technology
-[44]: https://www.whitehouse.gov/issues/economy/trade
-[45]: /issues/urban-and-economic-mobility
-[46]: /issues/veterans
-[47]: /issues/preventing-gun-violence
+[23]: https://www.whitehouse.gov/the-record/social-progress
+[24]: https://www.whitehouse.gov/the-record/foreign-policy
+[25]: https://www.whitehouse.gov/blog/2016/01/04/live-updates-what-president-doing-keep-guns-out-wrong-hands
+[26]: /economy
+[27]: /issues/education
+[28]: /issues/foreign-policy
+[29]: /healthreform
+[30]: /issues/immigration
+[31]: /climate-change
+[32]: http://www.whitehouse.gov/energy
+[33]: /issues/civil-rights
+[34]: http://www.whitehouse.gov/issues/defense
+[35]: https://www.whitehouse.gov/issues/disabilities
+[36]: /21stcenturygov
+[37]: /issues/equal-pay
+[38]: https://www.whitehouse.gov/issues/homeland-security
+[39]: /refi
+[40]: /administration/eop/rural-council
+[41]: https://www.whitehouse.gov/issues/service
+[42]: https://www.whitehouse.gov/issues/seniors-and-social-security
+[43]: https://www.whitehouse.gov/issues/taxes
+[44]: https://www.whitehouse.gov/issues/technology
+[45]: https://www.whitehouse.gov/issues/economy/trade
+[46]: /issues/urban-and-economic-mobility
+[47]: /issues/veterans
 [48]: /administration/eop/cwg
 [49]: /administration
 [50]: /administration/president-obama
