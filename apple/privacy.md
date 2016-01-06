@@ -249,7 +249,7 @@ More ways to shop: Visit an [Apple Store][36], call 1-800-MY-APPLE, or [find a r
 
 [United States][68]
 
-Copyright © 2015 Apple Inc. All rights reserved.
+Copyright © 2016 Apple Inc. All rights reserved.
 
 [Privacy Policy][69] [Terms of Use][70] [Sales and Refunds][71] [Site Map][72]
 
