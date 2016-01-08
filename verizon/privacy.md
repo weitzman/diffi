@@ -814,8 +814,8 @@ Verizon is a global leader delivering innovative communications and technology s
 [131]: /about/careers/contact-military-recruiter
 [132]: /about/careers/military-faqs
 [133]: /about/careers/we-are-global
-[134]: /about/overview
-[135]: /about/overview ""
+[134]: /about/careers/events-calendar
+[135]: /about/careers/events-calendar ""
 [136]: /about/careers/faqs
 [137]: /about/
 [138]: /about/privacy/privacy-policy-summary
