@@ -679,7 +679,7 @@ Verizon is a global leader delivering innovative communications and technology s
 
 [ ][200][ ][201]
 
-![Advertisement][202] ![Quantcast][203]
+![Quantcast][202]
 
 [1]: http://www.verizonwireless.com/
 [2]: http://www.verizon.com/?lid=//global//residential
@@ -865,7 +865,7 @@ Verizon is a global leader delivering innovative communications and technology s
 [182]: http://www.verizon.com/about/sites/default/files/Verizon_social_icon.jpg "Verizon"
 [183]: http://www.verizon.com/about/sites/default/files/VZ_careers_footer.jpg "Follow Verizon Careers"
 [184]: http://www.verizon.com/about/sites/default/files/verizon_foundation_footer.jpg "Follow Verizon Foundation"
-[185]: /about "About Verizon"
+[185]: /about/ "About Verizon"
 [186]: /about/our-company "Our Company"
 [187]: /about/responsibility "Responsibility"
 [188]: /about/news "News"
@@ -882,5 +882,4 @@ Verizon is a global leader delivering innovative communications and technology s
 [199]: https://www.verizon.com/Support/Residential/contact-us/index.htm "Contact Us"
 [200]: http://clicktoverify.truste.com/pvr.php?page=validate&url=www.verizon.com&sealid=101 "TRUSTe Certified Privacy"
 [201]: http://www.bbb.org/new-york-city/business-reviews/telephone-communications/verizon-communications-in-new-york-ny-411/ "BBB Accredited Business"
-[202]:
-[203]: //pixel.quantserve.com/pixel/p-gBa6jXyn4LuQA.gif?labels=_fp.event.Default
+[202]: //pixel.quantserve.com/pixel/p-gBa6jXyn4LuQA.gif?labels=_fp.event.Default
