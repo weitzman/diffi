@@ -44,9 +44,9 @@ Main Menu
         * [The Record: Health Care][24]
         * [The Record: Social Progress][25]
         * [The Record: Foreign Policy][26]
-        * [Reducing Gun Violence][27]
-        * [See All][21]
+        * [Iran Deal][27]
         * [21st Century Policing][28]
+        * [See All][21]
     * Top Issues
         * [Economy][29]
         * [Education][30]
@@ -62,7 +62,7 @@ Main Menu
         * [Ethics][39]
         * [Equal Pay][40]
         * [Homeland Security][41]
-        * [Refinancing][42]
+        * [Reducing Gun Violence][42]
         * [Rural][43]
         * [Service][44]
     * More
@@ -340,7 +340,7 @@ Go back up to the term in use.
 [24]: https://www.whitehouse.gov/the-record/health-care
 [25]: https://www.whitehouse.gov/the-record/social-progress
 [26]: https://www.whitehouse.gov/the-record/foreign-policy
-[27]: https://www.whitehouse.gov/blog/2016/01/04/live-updates-what-president-doing-keep-guns-out-wrong-hands
+[27]: https://www.whitehouse.gov/issues/foreign-policy/iran-deal
 [28]: https://www.whitehouse.gov/blog/2015/07/28/presidents-task-force-21st-century-policing-recommendations-print-action
 [29]: /economy
 [30]: /issues/education
@@ -355,7 +355,7 @@ Go back up to the term in use.
 [39]: /21stcenturygov
 [40]: /issues/equal-pay
 [41]: https://www.whitehouse.gov/issues/homeland-security
-[42]: /refi
+[42]: https://www.whitehouse.gov/blog/2016/01/04/live-updates-what-president-doing-keep-guns-out-wrong-hands
 [43]: /administration/eop/rural-council
 [44]: https://www.whitehouse.gov/issues/service
 [45]: https://www.whitehouse.gov/issues/seniors-and-social-security
