@@ -6,6 +6,7 @@
 * [Geofilters][2]
 * [Jobs][3]
 * [Support][4]
+[ ![Snapchat][5] ][6]
 
 # Privacy Policy
 
@@ -15,7 +16,7 @@ Snapchat is a fast and fun way to share experiences with your friends and the wo
 
 When you use these services—and any others we roll out—you’ll inevitably share some information with us. We get that that can affect your privacy. So we want to be upfront about the information we collect, how we use it, whom we share it with, and the choices we give you to control, access, and update your information.
 
-That’s why we’ve written this privacy policy. And it’s why we’ve tried to write it in a way that’s blissfully free of the legalese that often clouds these documents. Of course, if you still have questions about anything in our privacy policy, just [ping us][5].
+That’s why we’ve written this privacy policy. And it’s why we’ve tried to write it in a way that’s blissfully free of the legalese that often clouds these documents. Of course, if you still have questions about anything in our privacy policy, just [ping us][7].
 
 ## Information We Collect
 
@@ -111,7 +112,7 @@ A few final words on deletion: We can’t guarantee that messages and correspond
 
 ## Choice and Control over Your Information
 
-We want you to be in control of your information, so we let you update or correct most of your basic Snapchat account information by editing your account settings within the app. Occasionally we may ask you to verify your identity or provide additional information before we let you update your information. And if you later change your mind about our ongoing ability to collect information from certain sources that you have already consented to, such as your phonebook, camera, photos, or location services, you can simply revoke your consent by changing the settings on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality. And while we hope you’ll remain a lifelong Snapchatter, if for some reason you ever want to delete your account, just go [here][6].
+We want you to be in control of your information, so we let you update or correct most of your basic Snapchat account information by editing your account settings within the app. Occasionally we may ask you to verify your identity or provide additional information before we let you update your information. And if you later change your mind about our ongoing ability to collect information from certain sources that you have already consented to, such as your phonebook, camera, photos, or location services, you can simply revoke your consent by changing the settings on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality. And while we hope you’ll remain a lifelong Snapchatter, if for some reason you ever want to delete your account, just go [here][8].
 
 It’s also important to us that you stay in control over whom you communicate with. That’s why we’ve built a number of tools in settings that let you indicate, among other things, who you want to see your Stories, whether you’d like to receive Snaps from just your friends or all Snapchatters, and whether you’d like to block another Snapchatter from contacting you again.
 
@@ -119,7 +120,7 @@ It’s also important to us that you stay in control over whom you communicate w
 
 We may let other companies use cookies, web beacons, and other tracking technologies on the services. These companies may collect information about how you use the services and other websites and online services over time and across different services. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.
 
-Additionally, some companies may use the information they collect on our services to deliver targeted advertisements on behalf of us or other companies, including on third-party websites and apps. Snapchat does not currently respond to do-not-track signals that may be sent from your device. If we do so in the future, we will provide information about that practice in an updated version of this privacy policy. For more information about interest-based ads, including how to opt out of having your web-browsing information used for behavioral-advertising purposes, please visit [www.aboutads.info/choices][7].
+Additionally, some companies may use the information they collect on our services to deliver targeted advertisements on behalf of us or other companies, including on third-party websites and apps. Snapchat does not currently respond to do-not-track signals that may be sent from your device. If we do so in the future, we will provide information about that practice in an updated version of this privacy policy. For more information about interest-based ads, including how to opt out of having your web-browsing information used for behavioral-advertising purposes, please visit [www.aboutads.info/choices][9].
 
 ## Children
 
@@ -131,44 +132,45 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 
 ##### Company
 
-[Home][8] [Blog][1] [Jobs][3] [Brand Guidelines][9] [Support][10] [Twitter][11]
+[Home][6] [Blog][1] [Jobs][3] [Brand Guidelines][10] [Support][11] [Twitter][12]
 
 ##### Apps
 
-[Snapchat for iOS][12] [Snapchat for Android][13]
+[Snapchat for iOS][13] [Snapchat for Android][14]
 
 ##### Community
 
-[Snapcodes][14] [Geofilters][2] [Safety Center][15] [Community Guidelines][16]
+[Snapcodes][15] [Geofilters][2] [Safety Center][16] [Community Guidelines][17]
 
 ##### Advertising
 
-[Overview and FAQ][17] [General Guidelines][18] [Political Guidelines][19] [Inquiries][20]
+[Overview and FAQ][18] [General Guidelines][19] [Political Guidelines][20] [Inquiries][21]
 
 ##### Legal
 
-[Terms of Service][21] [Privacy Policy][22] [Copyright][23]
+[Terms of Service][22] [Privacy Policy][23] [Copyright][24]
 
 [1]: /blog
 [2]: /geofilters
 [3]: /jobs
 [4]: /support
-[5]: https://support.snapchat.com
-[6]: https://support.snapchat.com/delete-account
-[7]: http://www.aboutads.info/choices
-[8]: /
-[9]: /brand-guidelines
-[10]: https://support.snapchat.com/
-[11]: https://twitter.com/snapchat
-[12]: https://itunes.apple.com/us/app/snapchat/id447188370
-[13]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[14]: https://accounts.snapchat.com/accounts/snapcodes
-[15]: /safety
-[16]: https://support.snapchat.com/a/guidelines
-[17]: /ads
-[18]: /ads/guidelines
-[19]: /ads/political-guidelines
-[20]: https://support.snapchat.com/co/bizdev
-[21]: /terms
-[22]: /privacy
-[23]: https://support.snapchat.com/co/report-copyright
+[5]: https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg?version=2015-06-26-a
+[6]: /
+[7]: https://support.snapchat.com
+[8]: https://support.snapchat.com/delete-account
+[9]: http://www.aboutads.info/choices
+[10]: /brand-guidelines
+[11]: https://support.snapchat.com/
+[12]: https://twitter.com/snapchat
+[13]: https://itunes.apple.com/us/app/snapchat/id447188370
+[14]: https://play.google.com/store/apps/details?id=com.snapchat.android
+[15]: https://accounts.snapchat.com/accounts/snapcodes
+[16]: /safety
+[17]: https://support.snapchat.com/a/guidelines
+[18]: /ads
+[19]: /ads/guidelines
+[20]: /ads/political-guidelines
+[21]: https://support.snapchat.com/co/bizdev
+[22]: /terms
+[23]: /privacy
+[24]: https://support.snapchat.com/co/report-copyright
