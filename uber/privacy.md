@@ -216,14 +216,14 @@ If you have any questions about this Privacy Statement, please contact us at [pr
 [22]: /legal/terms
 [23]: /legal/privacy
 [24]: /legal/copyright
-[25]: /security
+[25]: /legal/security
 [26]: /legal/other
 [27]: /legal/privacy/users
 [28]: /legal/privacy/drivers-non-us
 [29]: /legal/privacy/drivers-us
 [30]: /legal/privacy/cookies
-[31]: /ios/permissions
-[32]: /android/permissions
+[31]: /legal/ios/permissions
+[32]: /legal/android/permissions
 [33]: http://www.export.gov/safeharbor/.
 [34]: mailto:support@uber.com
 [35]: mailto:privacy@uber.com
