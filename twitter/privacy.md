@@ -150,16 +150,16 @@ Thoughts or questions about this Privacy Policy? Please, [let us know][14].
 * [Help][47]
 * [Status][48]
 * [Jobs][49]
-* [Terms][50]
-* [Privacy][51]
+* [Terms][12]
+* [Privacy][50]
 * [Cookies][32]
 * [Ads info][36]
-* [Brand][52]
-* [Advertise][53]
-* [Businesses][54]
-* [Media][55]
-* [Developers][56]
-* [Directory][57]
+* [Brand][51]
+* [Advertise][52]
+* [Businesses][53]
+* [Media][54]
+* [Developers][55]
+* [Directory][56]
 
 © 2016 Twitter, Inc.
 
@@ -174,8 +174,8 @@ Thoughts or questions about this Privacy Policy? Please, [let us know][14].
 [9]: https://twitter.com/login
 [10]: http://m.twitter.com
 [11]: https://support.twitter.com/articles/20172501
-[12]: twitter.com/tos
-[13]: twitter.com/rules
+[12]: https://twitter.com/tos
+[13]: https://twitter.com/rules
 [14]: https://support.twitter.com/forms/privacy
 [15]: https://support.twitter.com/articles/20170388
 [16]: https://support.twitter.com/articles/14589-getting-started-with-twitter-via-your-mobile-phone
@@ -212,11 +212,10 @@ Thoughts or questions about this Privacy Policy? Please, [let us know][14].
 [47]: https://support.twitter.com
 [48]: http://status.twitter.com
 [49]: https://about.twitter.com/careers
-[50]: https://twitter.com/tos
-[51]: https://twitter.com/privacy
-[52]: https://about.twitter.com/press/brand-assets
-[53]: https://ads.twitter.com/start?ref=gl-tw-tw-twitter-advertise
-[54]: https://business.twitter.com
-[55]: https://media.twitter.com
-[56]: https://dev.twitter.com
-[57]: https://twitter.com/i/directory/profiles
+[50]: https://twitter.com/privacy
+[51]: https://about.twitter.com/press/brand-assets
+[52]: https://ads.twitter.com/start?ref=gl-tw-tw-twitter-advertise
+[53]: https://business.twitter.com
+[54]: https://media.twitter.com
+[55]: https://dev.twitter.com
+[56]: https://twitter.com/i/directory/profiles
