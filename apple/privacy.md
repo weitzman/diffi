@@ -27,7 +27,7 @@ Open Menu Close Menu
 
 # Privacy Policy
 
-##### The Apple Privacy Policy was updated on September 17, 2014.
+##### The Apple Privacy Policy was updated on February 1, 2016
 
 Your privacy is important to Apple and always has been. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know][15] if you have any questions.
 
@@ -71,7 +71,7 @@ If we do combine non-personal information with personal information the combined
 
 Apple's websites, online services, interactive applications, email messages, and advertisements may use ["cookies" and other technologies][19] such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com.][20] Alternatively, if you are using iOS 6 or above operating system on your mobile device or iTunes Radio on your computer, you may opt‑out by electing Limit Ad Tracking. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads.
+Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com.][20] Alternatively, if you are using the iOS 6 operating system or later on your mobile device, you may opt out by selecting Limit Ad Tracking. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third-party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads.
 
 Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, hardware identifiers, and information about your computer or device helps us personalize your operating system, set up your iCloud service, and provide you with better customer service.
 
@@ -161,7 +161,7 @@ Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
 ## Apple Footer
 
-* Last updated: 17 September, 2014
+* Last updated: 1 February, 2016
 [  Apple ][1]
 
 1. [Privacy][11]
