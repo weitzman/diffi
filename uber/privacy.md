@@ -199,7 +199,7 @@ If you have any questions about this Privacy Statement, please contact us at [pr
 [5]: //partners.uber.com/drive
 [6]: /features
 [7]: /safety
-[8]: /business
+[8]: //www.uber.com/business
 [9]: //developer.uber.com
 [10]: /about
 [11]: //help.uber.com
