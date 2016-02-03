@@ -144,7 +144,7 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 
 ##### Advertising
 
-[Overview and FAQ][18] [General Guidelines][19] [Political Guidelines][20] [Inquiries][21]
+[Overview and FAQ][18] [General Policies][19] [Political Guidelines][20] [Inquiries][21]
 
 ##### Legal
 
@@ -168,7 +168,7 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 [16]: /safety
 [17]: https://support.snapchat.com/a/guidelines
 [18]: /ads
-[19]: /ads/guidelines
+[19]: /ads/policies
 [20]: /ads/political-guidelines
 [21]: https://support.snapchat.com/co/bizdev
 [22]: /terms
