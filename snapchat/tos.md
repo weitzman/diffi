@@ -224,21 +224,21 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 
 [Home][6] [Blog][1] [Jobs][3] [Brand Guidelines][14] [Support][8] [Twitter][15]
 
-##### Apps
+##### [Download][16]
 
-[Snapchat for iOS][16] [Snapchat for Android][17]
+[Snapchat for iOS][17] [Snapchat for Android][18]
 
 ##### Community
 
-[Snapcodes][18] [Geofilters][2] [Safety Center][19] [Community Guidelines][9]
+[Snapcodes][19] [Geofilters][2] [Safety Center][20] [Community Guidelines][9]
 
-##### Advertising
+##### [Advertising][21]
 
-[Overview and FAQ][20] [General Policies][21] [Political Guidelines][22] [Inquiries][23]
+[Overview and FAQ][22] [General Policies][23] [Political Guidelines][24] [Inquiries][25]
 
 ##### Legal
 
-[Terms of Service][24] [Privacy Policy][7] [Copyright][25]
+[Terms of Service][26] [Privacy Policy][7] [Copyright][27]
 
 [1]: /blog
 [2]: /geofilters
@@ -255,13 +255,15 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 [13]: http://www.adr.org
 [14]: /brand-guidelines
 [15]: https://twitter.com/snapchat
-[16]: https://itunes.apple.com/us/app/snapchat/id447188370
-[17]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[18]: https://accounts.snapchat.com/accounts/snapcodes
-[19]: /safety
-[20]: /ads
-[21]: /ads/policies
-[22]: /ads/political-guidelines
-[23]: https://support.snapchat.com/co/bizdev
-[24]: /terms
-[25]: https://support.snapchat.com/co/report-copyright
+[16]: /download "Download Snapchat"
+[17]: https://itunes.apple.com/us/app/snapchat/id447188370
+[18]: https://play.google.com/store/apps/details?id=com.snapchat.android
+[19]: https://accounts.snapchat.com/accounts/snapcodes
+[20]: /safety
+[21]: /ads "Advertising"
+[22]: /ads
+[23]: /ads/policies
+[24]: /ads/political-guidelines
+[25]: https://support.snapchat.com/co/bizdev
+[26]: /terms
+[27]: https://support.snapchat.com/co/report-copyright
