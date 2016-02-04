@@ -134,21 +134,21 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 
 [Home][6] [Blog][1] [Jobs][3] [Brand Guidelines][10] [Support][11] [Twitter][12]
 
-##### Apps
+##### [Download][13]
 
-[Snapchat for iOS][13] [Snapchat for Android][14]
+[Snapchat for iOS][14] [Snapchat for Android][15]
 
 ##### Community
 
-[Snapcodes][15] [Geofilters][2] [Safety Center][16] [Community Guidelines][17]
+[Snapcodes][16] [Geofilters][2] [Safety Center][17] [Community Guidelines][18]
 
-##### Advertising
+##### [Advertising][19]
 
-[Overview and FAQ][18] [General Policies][19] [Political Guidelines][20] [Inquiries][21]
+[Overview and FAQ][20] [General Policies][21] [Political Guidelines][22] [Inquiries][23]
 
 ##### Legal
 
-[Terms of Service][22] [Privacy Policy][23] [Copyright][24]
+[Terms of Service][24] [Privacy Policy][25] [Copyright][26]
 
 [1]: /blog
 [2]: /geofilters
@@ -162,15 +162,17 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 [10]: /brand-guidelines
 [11]: https://support.snapchat.com/
 [12]: https://twitter.com/snapchat
-[13]: https://itunes.apple.com/us/app/snapchat/id447188370
-[14]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[15]: https://accounts.snapchat.com/accounts/snapcodes
-[16]: /safety
-[17]: https://support.snapchat.com/a/guidelines
-[18]: /ads
-[19]: /ads/policies
-[20]: /ads/political-guidelines
-[21]: https://support.snapchat.com/co/bizdev
-[22]: /terms
-[23]: /privacy
-[24]: https://support.snapchat.com/co/report-copyright
+[13]: /download "Download Snapchat"
+[14]: https://itunes.apple.com/us/app/snapchat/id447188370
+[15]: https://play.google.com/store/apps/details?id=com.snapchat.android
+[16]: https://accounts.snapchat.com/accounts/snapcodes
+[17]: /safety
+[18]: https://support.snapchat.com/a/guidelines
+[19]: /ads "Advertising"
+[20]: /ads
+[21]: /ads/policies
+[22]: /ads/political-guidelines
+[23]: https://support.snapchat.com/co/bizdev
+[24]: /terms
+[25]: /privacy
+[26]: https://support.snapchat.com/co/report-copyright
