@@ -27,7 +27,7 @@ Open Menu Close Menu
 
 # Privacy Policy
 
-##### The Apple Privacy Policy was updated on February 1, 2016
+##### The Apple Privacy Policy was updated on February 1, 2016.
 
 Your privacy is important to Apple and always has been. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know][15] if you have any questions.
 
