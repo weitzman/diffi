@@ -898,5 +898,5 @@ Verizon is a global leader delivering innovative communications and technology s
 [200]: https://www.verizon.com/Support/Residential/contact-us/index.htm "Contact Us"
 [201]: http://clicktoverify.truste.com/pvr.php?page=validate&url=www.verizon.com&sealid=101 "TRUSTe Certified Privacy"
 [202]: http://www.bbb.org/new-york-city/business-reviews/telephone-communications/verizon-communications-in-new-york-ny-411/ "BBB Accredited Business"
-[203]:
+[203]: http://ad.doubleclick.net/ad/N4789.Google/B6983316.110586359;sz=1x1;ord=1234567890?
 [204]: //pixel.quantserve.com/pixel/p-gBa6jXyn4LuQA.gif?labels=_fp.event.Default
