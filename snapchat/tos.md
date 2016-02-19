@@ -230,15 +230,15 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 
 ##### Community
 
-[Snapcodes][19] [Geofilters][2] [Safety Center][20] [Community Guidelines][9]
+[Snapcodes][19] [Geofilters][2] [Safety Center][20] [Community Guidelines][9] [Tribeca Snapchat Shorts][21]
 
-##### [Advertising][21]
+##### [Advertising][22]
 
-[Overview and FAQ][22] [General Policies][23] [Political Guidelines][24] [Inquiries][25]
+[Overview and FAQ][23] [General Policies][24] [Political Guidelines][25] [Inquiries][26]
 
 ##### Legal
 
-[Terms of Service][26] [Privacy Policy][7] [Copyright][27]
+[Terms of Service][27] [Privacy Policy][7] [Copyright][28]
 
 [1]: /blog
 [2]: /geofilters
@@ -260,10 +260,11 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 [18]: https://play.google.com/store/apps/details?id=com.snapchat.android
 [19]: https://accounts.snapchat.com/accounts/snapcodes
 [20]: /safety
-[21]: /ads "Advertising"
-[22]: /ads
-[23]: /ads/policies
-[24]: /ads/political-guidelines
-[25]: https://support.snapchat.com/co/bizdev
-[26]: /terms
-[27]: https://support.snapchat.com/co/report-copyright
+[21]: http://www.tribecafilm.com/snapchatshorts
+[22]: /ads "Advertising"
+[23]: /ads
+[24]: /ads/policies
+[25]: /ads/political-guidelines
+[26]: https://support.snapchat.com/co/bizdev
+[27]: /terms
+[28]: https://support.snapchat.com/co/report-copyright
