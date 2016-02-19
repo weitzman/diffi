@@ -477,7 +477,7 @@ LinkedIn Corporation _© 2016_
 [42]: https://help.linkedin.com/app/answers/detail/a_id/62533/loc/na/trk/NoPageKey/
 [43]: /settings/security-v2?goback=
 [44]: /reg/join?trk=hb_ft_join
-[45]: https://help.linkedin.com/app/home/loc/ft/trk/microsites-legal-privacy_policy/
+[45]: https://linkedin.com/help/linkedin?trk=microsites-legal-privacy_policy
 [46]: http://www.linkedin.com/about-us?trk=hb_ft_about
 [47]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fpress%2Elinkedin%2Ecom%2F&urlhash=UMoC
 [48]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fblog%2Elinkedin%2Ecom%2F&urlhash=ULil
@@ -503,7 +503,7 @@ LinkedIn Corporation _© 2016_
 [68]: http://www.linkedin.com/directory/title/
 [69]: http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag
 [70]: http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv
-[71]: https://help.linkedin.com/app/answers/detail/a_id/34593/loc/na/trk/microsites-legal-privacy_policy/
+[71]: https://linkedin.com/help/linkedin/answer/34593?trk=microsites-legal-privacy_policy
 [72]: http://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
 [73]: http://www.linkedin.com/legal/copyright-policy?trk=hb_ft_copy
 [74]: https://sb.scorecardresearch.com/b?c1=2&c2=6402952&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1
