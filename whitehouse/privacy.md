@@ -312,7 +312,7 @@ Go back up to the term in use.
 [4]: /briefing-room
 [5]: https://www.whitehouse.gov/blog "Read the latest blog posts from 1600 Pennsylvania Ave"
 [6]: /share/all "Check out the most popular infographics and videos"
-[7]: /photos "View the photo of the day and other galleries"
+[7]: /slideshows "View the photo of the day and other galleries"
 [8]: /video "Watch behind-the-scenes videos and more"
 [9]: http://www.whitehouse.gov/live "Tune in to White House events and statements as they happen"
 [10]: https://www.whitehouse.gov/performances "See the lineup of artists and performers at the White House"
@@ -362,7 +362,7 @@ Go back up to the term in use.
 [54]: /administration/eop
 [55]: /administration/other-advisory-boards
 [56]: /omb
-[57]: /ostp
+[57]: /administration/eop/ostp
 [58]: /administration/eop/cea
 [59]: /administration/eop/ceq
 [60]: https://www.whitehouse.gov/administration/eop/nsc/
