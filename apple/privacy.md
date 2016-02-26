@@ -101,11 +101,11 @@ We may also disclose information about you if we determine that disclosure is re
 
 ##### Protection of Personal Information
 
-Apple takes the security of your personal information very seriously. Apple online services such as the Apple Online Store and iTunes Store protect your personal information during transit using encryption such as Transport Layer Security (TLS). When your personal data is stored by Apple, we use computer systems with limited access housed in facilities using physical security measures. iCloud data is stored in encrypted form including when we utilize third party storage.
+Apple takes the security of your personal information very seriously. Apple online services such as the Apple Online Store and iTunes Store protect your personal information during transit using encryption such as Transport Layer Security (TLS). When your personal data is stored by Apple, we use computer systems with limited access housed in facilities using physical security measures. iCloud data is stored in encrypted form including when we utilize third-party storage.
 
 When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
 
-If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third party device thereby disclosing any such shared information. [See [About Family Sharing][21] for more information.]
+If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third-party device thereby disclosing any such shared information. [See [About Family Sharing][21] for more information.]
 
 ##### Integrity and Retention of Personal Information
 
