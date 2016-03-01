@@ -95,7 +95,7 @@ Another example are software tools that allow you to see our and other public in
 
 We collect information when you contact us for customer support.
 
-When you contact our customer support services (e.g. on our [Help Center][14] and SlideShare’s [Help Center][15]), we may have to access your InMails, Groups and other contributions to our Services and collect the information we need to categorize your question, respond to it, and, if applicable, investigate any breach of our User Agreement or this Privacy Policy. We also use this information to track potential problems and trends and customize our support responses to better serve you. We do not use this information for advertising.
+When you contact our customer support services (e.g. on our [Help Center][5] and SlideShare’s [Help Center][14]), we may have to access your InMails, Groups and other contributions to our Services and collect the information we need to categorize your question, respond to it, and, if applicable, investigate any breach of our User Agreement or this Privacy Policy. We also use this information to track potential problems and trends and customize our support responses to better serve you. We do not use this information for advertising.
 
 ### 1.6. Using the LinkedIn Sites and Applications
 
@@ -107,19 +107,19 @@ We collect information when you use (whether as a Member or a Visitor) our websi
 
 We collect information when you use your account to sign in to other sites or services, and when you view web pages that include our plugins and cookies.
 
-You allow us to receive information when you use your account to log in to a third-party website or application. Also, when you visit a third-party site that embeds our social plugins (such as “Share on LinkedIn” for publishers) we receive information that those pages have loaded in your web browser. If you are logged in as a Member when you visit sites with our plugins, we use this information to recommend tailored content to you. We will use this information to personalize the functionality we provide on third-party sites, including providing you insights from your professional network and allowing you to share information with your [network][16]. Our retention of this data is addressed in Section 3.2. We may provide reports containing aggregated impression information to companies hosting our plugins and similar technologies to help them measure traffic to their websites, but no personal data. Please note that SlideShare.net, Pulse.me and the Pulse app are part of the LinkedIn Services, not third-party sites or applications.
+You allow us to receive information when you use your account to log in to a third-party website or application. Also, when you visit a third-party site that embeds our social plugins (such as “Share on LinkedIn” for publishers) we receive information that those pages have loaded in your web browser. If you are logged in as a Member when you visit sites with our plugins, we use this information to recommend tailored content to you. We will use this information to personalize the functionality we provide on third-party sites, including providing you insights from your professional network and allowing you to share information with your [network][15]. Our retention of this data is addressed in Section 3.2. We may provide reports containing aggregated impression information to companies hosting our plugins and similar technologies to help them measure traffic to their websites, but no personal data. Please note that SlideShare.net, Pulse.me and the Pulse app are part of the LinkedIn Services, not third-party sites or applications.
 
-You also allow us to receive information about your visits and interaction with the sites and services of our partners that include our cookies and similar technologies, unless you [opt out][17]. If you are not a Member, we rely on the online terms between you and our partners.
+You also allow us to receive information about your visits and interaction with the sites and services of our partners that include our cookies and similar technologies, unless you [opt out][16]. If you are not a Member, we rely on the online terms between you and our partners.
 
 ### 1.8. Cookies
 
 We use cookies and similar technologies to collect information.
 
-As described in our [Cookie Policy][18], we use cookies and similar technologies, including mobile application identifiers, to help us recognize you across different Services, learn about your interests both on and off our Services, improve your experience, increase security, measure use and effectiveness of our Services, and serve advertising. You can control cookies through your browser settings and other tools. **By visiting our Services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this Privacy Policy, which incorporates by reference our [Cookie Policy][18].**
+As described in our [Cookie Policy][17], we use cookies and similar technologies, including mobile application identifiers, to help us recognize you across different Services, learn about your interests both on and off our Services, improve your experience, increase security, measure use and effectiveness of our Services, and serve advertising. You can control cookies through your browser settings and other tools. **By visiting our Services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this Privacy Policy, which incorporates by reference our [Cookie Policy][17].**
 
 ### 1.9. Advertising Technologies and Web Beacons
 
-We use advertising technologies and web beacons to collect information. We give you a number of ways to opt out of targeted ads, including through the Ad Choices icon shown with any ads we serve on third-party sites. If you do not want us to track your behavior on third-party sites, you can [opt out][17]. **If you do not opt out, you consent to our use of beacons and other advertising technologies.**
+We use advertising technologies and web beacons to collect information. We give you a number of ways to opt out of targeted ads, including through the Ad Choices icon shown with any ads we serve on third-party sites. If you do not want us to track your behavior on third-party sites, you can [opt out][16]. **If you do not opt out, you consent to our use of beacons and other advertising technologies.**
 
 We target (and measure the performance of) ads to Members, Visitors and others both on and off of our Services through a variety of ad networks and ad exchanges, using the following, whether separately or combined:
 
@@ -133,7 +133,7 @@ We do not share your personal information with any third-party advertisers or ad
 
 We may show you sponsored content in your network update stream (NUS), which will be designated as sponsored content and will behave like other NUS updates. If you take social action (for example, if you “like” or “comment” on the sponsored content), your action may be seen by your network and other Members who are shown the sponsored content after you have acted on it. Please note that all social actions on SlideShare (e.g. liking certain content, following or being followed by others) are public, unless expressly specified otherwise with respect to premium accounts.
 
-We adhere to [self-regulatory principles][19] for interest based advertising. If you wish to not receive targeted ads from most third party companies, you may opt-out as described [here][19]. Please note this does not opt you out of being served advertising. You will continue to receive generic ads or targeted ads by companies not listed with these opt-out tools. You can also [opt out][17] specifically from our use of cookies and similar technologies to track your behavior on third party sites. For non-Members, this opt out setting is [here][20].
+We adhere to [self-regulatory principles][18] for interest based advertising. If you wish to not receive targeted ads from most third party companies, you may opt-out as described [here][18]. Please note this does not opt you out of being served advertising. You will continue to receive generic ads or targeted ads by companies not listed with these opt-out tools. You can also [opt out][16] specifically from our use of cookies and similar technologies to track your behavior on third party sites. For non-Members, this opt out setting is [here][19].
 
 ### 1.10. Log Files, IP Addresses, and Information About Your Computer and Mobile Device
 
@@ -157,13 +157,13 @@ Back to Top
 
 You agree that information you provide on your profile can be seen by others and used by us as described in this Privacy Policy and our User Agreement.
 
-The personal information that you provide to us may reveal or allow others to identify aspects of your life that are not expressly stated on your profile (for example, your picture or your name may reveal your gender). By providing personal information to us when you create or update your account and profile, **you are expressly and voluntarily accepting the terms and conditions of our User Agreement and freely accepting and agreeing to our processing of your personal information in ways set out by this Privacy Policy.** Supplying to us any information deemed “sensitive” by applicable law is entirely voluntary on your part. **You can withdraw or modify your consent to our collection and processing of the information you provide at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your account settings or your profile on [LinkedIn][21] or SlideShare, or by closing your [LinkedIn][7], [SlideShare][8] and [Pulse][9] accounts.**
+The personal information that you provide to us may reveal or allow others to identify aspects of your life that are not expressly stated on your profile (for example, your picture or your name may reveal your gender). By providing personal information to us when you create or update your account and profile, **you are expressly and voluntarily accepting the terms and conditions of our User Agreement and freely accepting and agreeing to our processing of your personal information in ways set out by this Privacy Policy.** Supplying to us any information deemed “sensitive” by applicable law is entirely voluntary on your part. **You can withdraw or modify your consent to our collection and processing of the information you provide at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your account settings or your profile on [LinkedIn][20] or SlideShare, or by closing your [LinkedIn][7], [SlideShare][8] and [Pulse][9] accounts.**
 
 ### 2.2. LinkedIn Communications
 
 We communicate with you using LinkedIn messaging, email, and other ways available to us. We may send you messages relating to the availability of the Services, security, or other service-related issues. We also may send promotional InMail messages to your LinkedIn inbox. You can change your email settings at any time.
 
-We communicate with you through email, notices posted on the LinkedIn websites or apps, messages to your LinkedIn inbox, and other means available through the Services, including mobile text messages and push notifications. Examples of these communications include: (1) welcome and engagement communications - informing you about how to best use our Services, new features, updates about other Members you are connected to and their actions, etc.; (2) service communications - these will cover service availability, security, and other issues about the functioning of our Services; (3) promotional communications - these include both email and InMail messages (InMail messages are only delivered to your LinkedIn InBox), and may contain promotional information directly or on behalf of our partners, including job opportunities and information from companies that are hiring. These messages will be sent to you based on your profile information and messaging preferences. We track the open rate of your InMails to provide your InMail acceptance score. You may change your email and contact preferences at any time by signing into your account and changing your [LinkedIn][22] or [SlideShare][23] email settings. You can also opt out of promotional messages by sending a request to LinkedIn [Help Center][14].
+We communicate with you through email, notices posted on the LinkedIn websites or apps, messages to your LinkedIn inbox, and other means available through the Services, including mobile text messages and push notifications. Examples of these communications include: (1) welcome and engagement communications - informing you about how to best use our Services, new features, updates about other Members you are connected to and their actions, etc.; (2) service communications - these will cover service availability, security, and other issues about the functioning of our Services; (3) promotional communications - these include both email and InMail messages (InMail messages are only delivered to your LinkedIn InBox), and may contain promotional information directly or on behalf of our partners, including job opportunities and information from companies that are hiring. These messages will be sent to you based on your profile information and messaging preferences. We track the open rate of your InMails to provide your InMail acceptance score. You may change your email and contact preferences at any time by signing into your account and changing your [LinkedIn][21] or [SlideShare][22] email settings. You can also opt out of promotional messages by sending a request to LinkedIn [Help Center][5].
 
 Please be aware that you cannot opt out of receiving service messages from us.
 
@@ -179,7 +179,7 @@ We use automatic scanning technology to help protect you and other Members. Such
 
 We use the information and content you provide to us to conduct research and development and to customize your experience and try to make it relevant and useful to you.
 
-We use information and content that you and other Members provide to us to conduct [research][24] and development for the improvement of our Services in order to provide you and other Members and Visitors with a better, more intuitive experience and drive membership growth and engagement on our Services and to help connect professionals to economic opportunity.
+We use information and content that you and other Members provide to us to conduct [research][23] and development for the improvement of our Services in order to provide you and other Members and Visitors with a better, more intuitive experience and drive membership growth and engagement on our Services and to help connect professionals to economic opportunity.
 
 We also customize your experience and the experiences of others on our Services. For example, when you sign in to your account, we may display the names and photos of new Members who have recently joined your network or recent updates from your connections and companies you follow. We try to show you content, such as news and presentations, that is relevant to you, your industry, or your profession. We also use Members information and content for invitations and communications promoting our Services that are tailored to the recipient.
 
@@ -199,9 +199,9 @@ We don’t provide any of your non-public information (like your email address) 
 
 Other people may find your LinkedIn profile information through search engines (you can choose which parts of your public profile are accessible to public search engines in your settings), or use services like Twitter in conjunction with your LinkedIn account.
 
-We offer a “public profile” feature that allows you as a Member to publish portions of your professional profile to the public Internet. This public profile will be indexed and displayed through public search engines when someone searches for your name. You may choose the parts of your profile that search engines index or completely opt out of this feature in your LinkedIn account [settings][25], or limit the publicly visible information in your SlideShare profile. However, third-party search engines may not automatically update their caches, which may contain old public profile information. Unless you delete them, your profiles on LinkedIn.com and our corresponding app or on SlideShare.net are always viewable on the respective Services.
+We offer a “public profile” feature that allows you as a Member to publish portions of your professional profile to the public Internet. This public profile will be indexed and displayed through public search engines when someone searches for your name. You may choose the parts of your profile that search engines index or completely opt out of this feature in your LinkedIn account [settings][24], or limit the publicly visible information in your SlideShare profile. However, third-party search engines may not automatically update their caches, which may contain old public profile information. Unless you delete them, your profiles on LinkedIn.com and our corresponding app or on SlideShare.net are always viewable on the respective Services.
 
-The visibility of your professional profile to other Members depends on your degree of connection with the viewing Member, the subscriptions they may have, their [usage of the Services][26], access channels and search types (e.g. by name or by keyword). For example, first degree connections can see your full profile and contact information. Others have more limited access, as detailed in our [Help Center][27]. Please note that recruiters and other such professional subscribers can see your full profile even if you did not approve their InMail.
+The visibility of your professional profile to other Members depends on your degree of connection with the viewing Member, the subscriptions they may have, their [usage of the Services][25], access channels and search types (e.g. by name or by keyword). For example, first degree connections can see your full profile and contact information. Others have more limited access, as detailed in our [Help Center][26]. Please note that recruiters and other such professional subscribers can see your full profile even if you did not approve their InMail.
 
 We do not rent or sell personal information that you have not posted on our Services, except as described in this Privacy Policy. We will not disclose personal information that is not published to your profile or generated through engagement with our other services, such as Groups and Company Pages, except to carry out your instructions (for example, to process payment information) or unless we have your separate consent, unless we have a good faith belief that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Privacy Policy or our User Agreement; (3) respond to claims of a violation of the rights of third parties; (4) respond to Member service inquiries; or (5) protect the rights, property, or safety of LinkedIn, our Services, our Members, Visitors, or the public. See Section 2.14 for additional details about our compliance with legal requests for information.
 
@@ -219,13 +219,13 @@ If you have given a Platform Application access to your LinkedIn account, you ca
 
 We collaborate with and allow third parties to use our developer platform to offer services and functionality in conjunction with our Services. These third-party developers have either negotiated an agreement to use our platform technology or have agreed to our self-service API and Plugin terms in order to build applications (“Platform Applications”). Both the negotiated agreements and our API and Plugin terms contain restrictions on how third parties may access, store, and use the personal information you provide to us.
 
-If you choose to use a Platform Application, you will be asked to confirm acceptance of the privacy policy and user agreement of the third-party developer. To revoke permission granted to a Platform Application, please visit your [settings][21]. Note, however, that even if you revoke the permission granted to a Platform Application, your connections may still be using the Platform Application, so the Platform Application may still have access to certain information about you, just as your connections do. You may opt out of providing information to third-party developers through your connections by accessing the “[Turn on/off data sharing with third-party applications][28]” control in the “Groups, Companies, and Applications” tab under [settings][29].
+If you choose to use a Platform Application, you will be asked to confirm acceptance of the privacy policy and user agreement of the third-party developer. To revoke permission granted to a Platform Application, please visit your [settings][20]. Note, however, that even if you revoke the permission granted to a Platform Application, your connections may still be using the Platform Application, so the Platform Application may still have access to certain information about you, just as your connections do. You may opt out of providing information to third-party developers through your connections by accessing the “[Turn on/off data sharing with third-party applications][27]” control in the “Groups, Companies, and Applications” tab under [settings][28].
 
 ### 2.8. Polls and Surveys
 
 We conduct our own surveys and polls and also help third parties do this type of research. Your participation in surveys or polls is up to you. You may also opt out of getting invitations to participate in surveys.
 
-Polls and Surveys may be conducted by us, Members, or third parties. Some third parties may target advertisements to you on the results page based on your answers in the poll. We or third parties may follow up with you via InMail regarding your participation unless you have opted out of receiving InMail messages. We may use third parties to deliver incentives to you to participate in surveys or polls. If the delivery of incentives requires your contact information, you may be asked to provide personal information to the third party fulfilling the incentive offer, which will be used only for the purpose of delivering incentives and verifying your contact information. It is up to you whether you provide this information, or whether you desire to take advantage of an incentive. Your consent to use any personal information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. We are a member of the Council of American Survey Research Organizations (“CASRO”) and abides by CASRO guidelines for market research. You may opt out of participating in surveys by changing your [settings][30] to stop receiving these inquiries and requests.
+Polls and Surveys may be conducted by us, Members, or third parties. Some third parties may target advertisements to you on the results page based on your answers in the poll. We or third parties may follow up with you via InMail regarding your participation unless you have opted out of receiving InMail messages. We may use third parties to deliver incentives to you to participate in surveys or polls. If the delivery of incentives requires your contact information, you may be asked to provide personal information to the third party fulfilling the incentive offer, which will be used only for the purpose of delivering incentives and verifying your contact information. It is up to you whether you provide this information, or whether you desire to take advantage of an incentive. Your consent to use any personal information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. We are a member of the Council of American Survey Research Organizations (“CASRO”) and abides by CASRO guidelines for market research. You may opt out of participating in surveys by changing your [settings][29] to stop receiving these inquiries and requests.
 
 ### 2.9. Search
 
@@ -241,13 +241,13 @@ If you participate in Groups, share content on your network update stream, or im
 
 ### 2.11. Testimonials and Advertisements Placed through LinkedIn Ads
 
-If you provide any testimonials about our goods or services or place advertisements through the LinkedIn Ads, we may post those testimonials and examples of advertisements you place in connection with our promotion of these services to third parties. Testimonials and advertisements may include your name and other personal information that you have provided. For more information about LinkedIn Ads, please see the [LinkedIn Ads Terms of Use][31].
+If you provide any testimonials about our goods or services or place advertisements through the LinkedIn Ads, we may post those testimonials and examples of advertisements you place in connection with our promotion of these services to third parties. Testimonials and advertisements may include your name and other personal information that you have provided. For more information about LinkedIn Ads, please see the [LinkedIn Ads Terms of Use][30].
 
 ### 2.12. Talent Recruiting, Marketing and Sales Solutions
 
 We offer a premium service to recruiters and others, which can be used to search for, organize, and communicate with potential candidates or offer business opportunities. In some cases we allow the export of public profile information. You can control how your information is exported by changing which parts of your public profile are accessible to search engines.
 
-We offer customized people-search functionality along with organizational and communications tools (including activity alerts) as part of our talent recruiting, marketing and sales solutions. These services allow subscribers - generally, enterprises and professional organizations - to export limited information from Members’ public profiles, such as name, headline, current company, current title, and location (for example, San Francisco Bay Area), in order to effectively manage candidate sourcing. You may limit or prevent such subscribers from exporting your profile information by configuring your [public profile visibility settings][32] to restrict access to these fields. We do not provide email or other contact information to these subscribers. However, if you post that information as part of your profile it will be available to them and others. A recruiter or other such subscriber may also manage and store information it has independently obtained about you outside of our Services, such as a resume, in connection with our platform. Any personal information obtained independently of our Services will not be added by us to your profile and is not under our control but is subject to the policies of our recruiting, marketing or sales solution subscriber. We store such information on behalf of such subscriber who can remove it at any time. We do not further process such information.
+We offer customized people-search functionality along with organizational and communications tools (including activity alerts) as part of our talent recruiting, marketing and sales solutions. These services allow subscribers - generally, enterprises and professional organizations - to export limited information from Members’ public profiles, such as name, headline, current company, current title, and location (for example, San Francisco Bay Area), in order to effectively manage candidate sourcing. You may limit or prevent such subscribers from exporting your profile information by configuring your [public profile visibility settings][31] to restrict access to these fields. We do not provide email or other contact information to these subscribers. However, if you post that information as part of your profile it will be available to them and others. A recruiter or other such subscriber may also manage and store information it has independently obtained about you outside of our Services, such as a resume, in connection with our platform. Any personal information obtained independently of our Services will not be added by us to your profile and is not under our control but is subject to the policies of our recruiting, marketing or sales solution subscriber. We store such information on behalf of such subscriber who can remove it at any time. We do not further process such information.
 
 ### 2.13. Pages for Companies, Schools, Influencers, and Other Entities
 
@@ -259,7 +259,7 @@ Certain pages on the Services are public (e.g., company and college pages), and 
 
 We may disclose your personal information if compelled by law, subpoena, or other legal process, or if necessary to enforce our User Agreement.
 
-It is possible that we may need to disclose personal information, profile information, or information about your activities as a Member or Visitor when required by law, subpoena, or other legal process, whether in the United States, Ireland, or other jurisdictions, or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce the User Agreement, investigate and defend ourselves against any third-party claims or allegations, or protect the security or integrity of our Service; or (3) exercise or protect the rights, property, or safety of LinkedIn, our Members, personnel, or others. We attempt to notify Members about legal demands for their personal information when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. In light of our principles, we may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but do not commit to challenge every demand. To find out more about how we engage with government requests for data see our [Law Enforcement Data Request Guidelines][33].
+It is possible that we may need to disclose personal information, profile information, or information about your activities as a Member or Visitor when required by law, subpoena, or other legal process, whether in the United States, Ireland, or other jurisdictions, or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce the User Agreement, investigate and defend ourselves against any third-party claims or allegations, or protect the security or integrity of our Service; or (3) exercise or protect the rights, property, or safety of LinkedIn, our Members, personnel, or others. We attempt to notify Members about legal demands for their personal information when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. In light of our principles, we may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but do not commit to challenge every demand. To find out more about how we engage with government requests for data see our [Law Enforcement Data Request Guidelines][32].
 
 ### 2.15. Disclosures to Others as the Result of a Change in Control or Sale of LinkedIn Corporation
 
@@ -287,7 +287,7 @@ Back to Top
 
 You can change your LinkedIn information at any time by editing your profile, deleting content that you have posted, or by closing your account. You can also ask us for additional information we may have about your account.
 
-You have a right to (1) access, modify, correct, or delete your personal information controlled by LinkedIn regarding your profile, (2) change or remove your content, and (3) close your account. You can request your personal information that is not viewable on your profile or readily accessible to you (for example, your IP access logs) through LinkedIn‘s [Help Center][34]. If you [close your account(s)][7], your information will generally be removed from the Service within 24 hours. We generally delete closed account information and will de-personalize any logs or other backup information through the deletion process within 30 days of account closure, except as noted below.
+You have a right to (1) access, modify, correct, or delete your personal information controlled by LinkedIn regarding your profile, (2) change or remove your content, and (3) close your account. You can request your personal information that is not viewable on your profile or readily accessible to you (for example, your IP access logs) through LinkedIn‘s [Help Center][33]. If you [close your account(s)][7], your information will generally be removed from the Service within 24 hours. We generally delete closed account information and will de-personalize any logs or other backup information through the deletion process within 30 days of account closure, except as noted below.
 
 With respect to SlideShare accounts and activity, if you would like us to delete your record and/or remove a particular comment you have made on SlideShare.net, or to provide a copy of any personal information to which you may be entitled, please contact us at privacy@slideshare.com. We will remove your information from SlideShare.net within 24 hours and delete and/or de-personalize it from our systems within 30 days of closure, except as noted below.
 
@@ -315,15 +315,15 @@ As described in Section 2.1 of the User Agreement, persons must be of Minimum Ag
 
 We partner with TRUSTe because we take your privacy seriously and are committed to putting you and all of our Members first. TRUSTe certifies our compliance with the TRUSTe program and verifies our compliance with the US-EU and US-Swiss Safe Harbor programs. If you can't resolve a complaint through LinkedIn Customer Support, you may also contact TRUSTe.
 
-![TRUSTe European Safe Harbor certification][35]
+![TRUSTe European Safe Harbor certification][34]
 
-LinkedIn.com and SlideShare.net have been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements][36].
+LinkedIn.com and SlideShare.net have been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements][35].
 
-If you have questions or concerns regarding this Policy, you should first [contact LinkedIn][37]. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet][38], by fax at 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept. ([click for mailing address][39]). The complaint should include the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. The TRUSTe dispute resolution process shall be conducted in English. The TRUSTe program only covers information collected through [www.linkedin.com][40], and does not cover information that may be collected through downloaded software or Plugins.
+If you have questions or concerns regarding this Policy, you should first [contact LinkedIn][36]. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet][37], by fax at 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept. ([click for mailing address][38]). The complaint should include the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. The TRUSTe dispute resolution process shall be conducted in English. The TRUSTe program only covers information collected through [www.linkedin.com][39], and does not cover information that may be collected through downloaded software or Plugins.
 
-We comply with the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LinkedIn’s certification, please visit [http://www.export.gov/safeharbor/][41].
+We comply with the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LinkedIn’s certification, please visit [http://www.export.gov/safeharbor/][40].
 
-**Note:** The U.S.-E.U. Safe Harbor Framework is no longer recognized as a legal mechanism to transfer personal data from the EU to the US. LinkedIn Ireland uses other legal mechanisms, including standard contractual clauses. [Learn more][42].
+**Note:** The U.S.-E.U. Safe Harbor Framework is no longer recognized as a legal mechanism to transfer personal data from the EU to the US. LinkedIn Ireland uses other legal mechanisms, including standard contractual clauses. [Learn more][41].
 
 ### 4.3. Changes to this Privacy Policy
 
@@ -339,7 +339,7 @@ California Civil Code Section 1798.83, known as the “Shine The Light” law, p
 
 ### 4.5. Security
 
-We take privacy and security seriously and have enabled HTTPS access to our site ([turn on HTTPS][43]), in addition to existing SSL access over mobile devices. Also, please know that the Internet is not a secure environment, so be careful and select strong passwords.
+We take privacy and security seriously and have enabled HTTPS access to our site ([turn on HTTPS][42]), in addition to existing SSL access over mobile devices. Also, please know that the Internet is not a secure environment, so be careful and select strong passwords.
 
 We have implemented security safeguards designed to protect the personal information that you provide in accordance with industry standards. Access to your data on our Services is password-protected, and data such as credit card information is protected by SSL encryption when it is exchanged between your web browser and the Services. We also offer secure https access to the LinkedIn.com website. To protect any data you store on our servers, we also regularly monitor our system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of any information that you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Members are not encrypted, and we strongly advise you not to communicate any confidential information through these means. Please help keep your account safe by using a strong password.
 
@@ -347,7 +347,7 @@ Back to Top
 
 ## How To Contact Us
 
-If you have questions or comments about this Privacy Policy, please contact us [online][37] or by physical mail at:
+If you have questions or comments about this Privacy Policy, please contact us [online][36] or by physical mail at:
 
 ### For Members in the United States:
 
@@ -371,140 +371,139 @@ Ireland
 
 Back to Top
 
-* [Sign up][44]
-* [Help Center][45]
-* [About][46]
-    * [Press][47]
-    * [Blog][48]
-    * [Developers][49]
-* [Careers][50]
-* [Advertising][51]
-* [Talent Solutions][52]
-* [Sales Solutions][53]
-* [Small Business][54]
-* [Mobile][55]
-* [Language][56]
-    * [Bahasa Indonesia][56]
-    * [Bahasa Malaysia][56]
-    * [Čeština][56]
-    * [Dansk][56]
-    * [Deutsch][56]
-    * [**English**][56]
-    * [Español][56]
-    * [正體中文][56]
-    * [Français][56]
-    * [한국어][56]
-    * [Italiano][56]
-    * [简体中文][56]
-    * [Nederlands][56]
-    * [日本語][56]
-    * [Norsk][56]
-    * [Polski][56]
-    * [Português][56]
-    * [Română][56]
-    * [Русский][56]
-    * [Svenska][56]
-    * [Tagalog][56]
-    * [ภาษาไทย][56]
-    * [Türkçe][56]
-    * [العربية][56]
-* [SlideShare][57]
-* [Online Learning][58]
-* [LinkedIn Updates][59]
-* [LinkedIn Influencers][60]
-* [LinkedIn Jobs][61]
+* [Sign up][43]
+* [Help Center][44]
+* [About][45]
+    * [Press][46]
+    * [Blog][47]
+    * [Developers][48]
+* [Careers][49]
+* [Advertising][50]
+* [Talent Solutions][51]
+* [Sales Solutions][52]
+* [Small Business][53]
+* [Mobile][54]
+* [Language][55]
+    * [Bahasa Indonesia][55]
+    * [Bahasa Malaysia][55]
+    * [Čeština][55]
+    * [Dansk][55]
+    * [Deutsch][55]
+    * [**English**][55]
+    * [Español][55]
+    * [正體中文][55]
+    * [Français][55]
+    * [한국어][55]
+    * [Italiano][55]
+    * [简体中文][55]
+    * [Nederlands][55]
+    * [日本語][55]
+    * [Norsk][55]
+    * [Polski][55]
+    * [Português][55]
+    * [Română][55]
+    * [Русский][55]
+    * [Svenska][55]
+    * [Tagalog][55]
+    * [ภาษาไทย][55]
+    * [Türkçe][55]
+    * [العربية][55]
+* [SlideShare][56]
+* [Online Learning][57]
+* [LinkedIn Updates][58]
+* [LinkedIn Influencers][59]
+* [LinkedIn Jobs][60]
 * Directories
-* [Members][62]
-* [Jobs][63]
-* [Pulse][64]
-* [Companies][65]
-* [Groups][66]
-* [Universities][67]
-* [Titles][68]
+* [Members][61]
+* [Jobs][62]
+* [Pulse][63]
+* [Companies][64]
+* [Groups][65]
+* [Universities][66]
+* [Titles][67]
 
 LinkedIn Corporation _© 2016_
 
-* [User Agreement][69]
-* [Privacy Policy][70]
-* [Community Guidelines][71]
-* [Cookie Policy][72]
-* [Copyright Policy][73]
-* [Guest Controls][20]
+* [User Agreement][68]
+* [Privacy Policy][69]
+* [Community Guidelines][70]
+* [Cookie Policy][71]
+* [Copyright Policy][72]
+* [Guest Controls][19]
 
-![][74] ![][75]
+![][73] ![][74]
 
 [1]: http://www.linkedin.com/
 [2]: http://www.linkedin.com/static?key=what_is_linkedin&trk=hb_what
 [3]: /start/join?trk=hb_join
 [4]: https://www.linkedin.com/uas/login?goback=&trk=hb_signin
-[5]: https://help.linkedin.com/app/safety/home/loc/na/trk/NoPageKey/
+[5]: https://linkedin.com/help/linkedin
 [6]: http://www.linkedin.com/legal/do-not-track
 [7]: /secure/settings?closemyaccountstart=
-[8]: https://help.linkedin.com/app/answers/detail/a_id/53671/loc/na/trk/NoPageKey/
-[9]: https://help.linkedin.com/app/answers/detail/a_id/49959/loc/na/trk/NoPageKey/
+[8]: https://linkedin.com/help/linkedin/answer/53671
+[9]: https://linkedin.com/help/linkedin/answer/49959
 [10]: http://www.linkedin.com/legal/user-agreement
 [11]: http://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eslideshare%2Enet%2Fsignup&urlhash=5NZq
-[12]: https://help.linkedin.com/app/answers/detail/a_id/44737/loc/na/trk/NoPageKey/
+[12]: https://linkedin.com/help/linkedin/answer/44737
 [13]: http://www.linkedin.com/profile/edit
-[14]: https://help.linkedin.com/app/home/loc/na/trk/NoPageKey/
-[15]: https://help.linkedin.com/app/answers/detail/a_id/53685/loc/na/trk/NoPageKey/
-[16]: https://help.linkedin.com/app/answers/detail/a_id/110/loc/na/trk/microsites-legal-privacy_policy/
-[17]: /settings/?tab=account&modal=nsettings-enhanced-advertising
-[18]: http://www.linkedin.com/legal/cookie-policy
-[19]: https://help.linkedin.com/app/answers/detail/a_id/62931/loc/na/trk/NoPageKey/
-[20]: /psettings/guest-controls
-[21]: /settings/
-[22]: /settings/?tab=email
-[23]: https://help.linkedin.com/app/answers/detail/a_id/53692/loc/na/trk/NoPageKey/
-[24]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fengineering%2Elinkedin%2Ecom%2Fab-testing%2Fxlnt-platform-driving-ab-testing-linkedin&urlhash=0Cup
-[25]: /profile/public-profile-settings
-[26]: https://help.linkedin.com/app/answers/detail/a_id/52950/loc/na/trk/NoPageKey/
-[27]: https://help.linkedin.com/app/answers/detail/a_id/77/loc/na/trk/NoPageKey/
-[28]: /settings/?tab=groups&modal=nsettings-data-sharing
-[29]: /settings/?tab=groups
-[30]: /settings/?tab=email&modal=nsettings-research-invitations
-[31]: http://www.linkedin.com/legal/pop/pop-sas-terms
-[32]: http://www.linkedin.com/profile/public-profile-settings
-[33]: https://help.linkedin.com/app/answers/detail/a_id/16880/loc/na/trk/NoPageKey/
-[34]: https://help.linkedin.com/app/answers/detail/a_id/30364/loc/na/trk/NoPageKey/
-[35]: //privacy-policy.truste.com/privacy-seal/LinkedIn-Corp-/seal?rid=7e7c0786-6eb0-41e5-97e4-e132f18a6ae9
-[36]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Etruste%2Ecom%2Fprivacy_seals_and_services%2Fconsumer_privacy%2Fprivacy-programs-requirements%2Ehtml&urlhash=6YNM
-[37]: https://help.linkedin.com/app/ask/path/ppq/loc/na/trk/NoPageKey/
-[38]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwatchdog%2Etruste%2Ecom%2Fpvr%2Ephp%3Fpage%3Dcomplaint%26url%3D&urlhash=y-Dy
-[39]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Etruste%2Ecom%2Fabout-TRUSTe%2Fcontact-us&urlhash=XrXK
-[40]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Elinkedin%2Ecom&urlhash=VSkZ
-[41]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eexport%2Egov%2Fsafeharbor%2F&urlhash=XXR4
-[42]: https://help.linkedin.com/app/answers/detail/a_id/62533/loc/na/trk/NoPageKey/
-[43]: /settings/security-v2?goback=
-[44]: /reg/join?trk=hb_ft_join
-[45]: https://linkedin.com/help/linkedin?trk=microsites-legal-privacy_policy
-[46]: http://www.linkedin.com/about-us?trk=hb_ft_about
-[47]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fpress%2Elinkedin%2Ecom%2F&urlhash=UMoC
-[48]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fblog%2Elinkedin%2Ecom%2F&urlhash=ULil
-[49]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fdeveloper%2Elinkedin%2Ecom&urlhash=EFv_
-[50]: http://www.linkedin.com/company/linkedin/careers?trk=hb_ft_work
-[51]: http://www.linkedin.com/advertising?src=en-all-el-li-hb_ft_ads&trk=hb_ft_ads
-[52]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Ftalent-solutions%3Fsrc%3Dli-footer%26veh%3D%26trk%3Dhb_ft_talent&urlhash=cn_U
-[53]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Fsales-solutions%3Fsrc%3Dli-footer%26trk%3Dlss_linkedin_footer_link2micro%26utm_source%3Dfooter%26utm_medium%3Dlinkedin%26utm_campaign%3Dlinkedin-footer&urlhash=_ibI
-[54]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fsmallbusiness%2Elinkedin%2Ecom%2F%3Ftrk%3Dlnkd_footer%26utm_source%3Dlinkedin%26utm_medium%3Dfooter%26utm_content%3D%26utm_campaign%3Dlifooter&urlhash=zrGO
-[55]: http://www.linkedin.com/mobile?trk=hb_ft_mobile
-[56]: /secure/settings?trk=hb_ft_lang
-[57]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet&urlhash=nLLC
-[58]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Elynda%2Ecom%3Ftrk%3Dhb_ft_lynda&urlhash=XP_V
-[59]: http://www.linkedin.com/in/updates?trk=hb_ft_liup
-[60]: http://www.linkedin.com/today/post/whoToFollow?trk=hb_ft_influencers
-[61]: http://www.linkedin.com/job/?trk=hb_ft_jobs
-[62]: http://www.linkedin.com/directory/people-a/?trk=hb_ft_peopledir
-[63]: https://www.linkedin.com/jobs2/directory/?trk=hb_ft_jobs2_dir
-[64]: http://www.linkedin.com/directory/pulse/
-[65]: http://www.linkedin.com/directory/companies/
-[66]: http://www.linkedin.com/directory/groups/
-[67]: http://www.linkedin.com/directory/universities/
-[68]: http://www.linkedin.com/directory/title/
-[69]: http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag
-[70]: http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv
-[71]: https://linkedin.com/help/linkedin/answer/34593?trk=microsites-legal-privacy_policy
-[72]: http://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
-[73]: http://www.linkedin.com/legal/copyright-policy?trk=hb_ft_copy
-[74]: https://sb.scorecardresearch.com/b?c1=2&c2=6402952&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1
-[75]: /csp/dtag?p=10
+[14]: https://linkedin.com/help/linkedin/answer/53685
+[15]: https://linkedin.com/help/linkedin/answer/110?trk=microsites-legal-privacy_policy
+[16]: /settings/?tab=account&modal=nsettings-enhanced-advertising
+[17]: http://www.linkedin.com/legal/cookie-policy
+[18]: https://linkedin.com/help/linkedin/answer/62931
+[19]: /psettings/guest-controls
+[20]: /settings/
+[21]: /settings/?tab=email
+[22]: https://linkedin.com/help/linkedin/answer/53692
+[23]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fengineering%2Elinkedin%2Ecom%2Fab-testing%2Fxlnt-platform-driving-ab-testing-linkedin&urlhash=0Cup
+[24]: /profile/public-profile-settings
+[25]: https://linkedin.com/help/linkedin/answer/52950
+[26]: https://linkedin.com/help/linkedin/answer/77
+[27]: /settings/?tab=groups&modal=nsettings-data-sharing
+[28]: /settings/?tab=groups
+[29]: /settings/?tab=email&modal=nsettings-research-invitations
+[30]: http://www.linkedin.com/legal/pop/pop-sas-terms
+[31]: http://www.linkedin.com/profile/public-profile-settings
+[32]: https://linkedin.com/help/linkedin/answer/16880
+[33]: https://linkedin.com/help/linkedin/answer/30364
+[34]: //privacy-policy.truste.com/privacy-seal/LinkedIn-Corp-/seal?rid=7e7c0786-6eb0-41e5-97e4-e132f18a6ae9
+[35]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Etruste%2Ecom%2Fprivacy_seals_and_services%2Fconsumer_privacy%2Fprivacy-programs-requirements%2Ehtml&urlhash=6YNM
+[36]: https://help.linkedin.com/app/ask/path/ppq/loc/na/trk/NoPageKey/
+[37]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwatchdog%2Etruste%2Ecom%2Fpvr%2Ephp%3Fpage%3Dcomplaint%26url%3D&urlhash=y-Dy
+[38]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Etruste%2Ecom%2Fabout-TRUSTe%2Fcontact-us&urlhash=XrXK
+[39]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Elinkedin%2Ecom&urlhash=VSkZ
+[40]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eexport%2Egov%2Fsafeharbor%2F&urlhash=XXR4
+[41]: https://linkedin.com/help/linkedin/answer/62533
+[42]: /settings/security-v2?goback=
+[43]: /reg/join?trk=hb_ft_join
+[44]: https://linkedin.com/help/linkedin?trk=microsites-legal-privacy_policy
+[45]: http://www.linkedin.com/about-us?trk=hb_ft_about
+[46]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fpress%2Elinkedin%2Ecom%2F&urlhash=UMoC
+[47]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fblog%2Elinkedin%2Ecom%2F&urlhash=ULil
+[48]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fdeveloper%2Elinkedin%2Ecom&urlhash=EFv_
+[49]: http://www.linkedin.com/company/linkedin/careers?trk=hb_ft_work
+[50]: http://www.linkedin.com/advertising?src=en-all-el-li-hb_ft_ads&trk=hb_ft_ads
+[51]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Ftalent-solutions%3Fsrc%3Dli-footer%26veh%3D%26trk%3Dhb_ft_talent&urlhash=cn_U
+[52]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Fsales-solutions%3Fsrc%3Dli-footer%26trk%3Dlss_linkedin_footer_link2micro%26utm_source%3Dfooter%26utm_medium%3Dlinkedin%26utm_campaign%3Dlinkedin-footer&urlhash=_ibI
+[53]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fsmallbusiness%2Elinkedin%2Ecom%2F%3Ftrk%3Dlnkd_footer%26utm_source%3Dlinkedin%26utm_medium%3Dfooter%26utm_content%3D%26utm_campaign%3Dlifooter&urlhash=zrGO
+[54]: http://www.linkedin.com/mobile?trk=hb_ft_mobile
+[55]: /secure/settings?trk=hb_ft_lang
+[56]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet&urlhash=nLLC
+[57]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Elynda%2Ecom%3Ftrk%3Dhb_ft_lynda&urlhash=XP_V
+[58]: http://www.linkedin.com/in/updates?trk=hb_ft_liup
+[59]: http://www.linkedin.com/today/post/whoToFollow?trk=hb_ft_influencers
+[60]: http://www.linkedin.com/job/?trk=hb_ft_jobs
+[61]: http://www.linkedin.com/directory/people-a/?trk=hb_ft_peopledir
+[62]: https://www.linkedin.com/jobs2/directory/?trk=hb_ft_jobs2_dir
+[63]: http://www.linkedin.com/directory/pulse/
+[64]: http://www.linkedin.com/directory/companies/
+[65]: http://www.linkedin.com/directory/groups/
+[66]: http://www.linkedin.com/directory/universities/
+[67]: http://www.linkedin.com/directory/title/
+[68]: http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag
+[69]: http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv
+[70]: https://linkedin.com/help/linkedin/answer/34593?trk=microsites-legal-privacy_policy
+[71]: http://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
+[72]: http://www.linkedin.com/legal/copyright-policy?trk=hb_ft_copy
+[73]: https://sb.scorecardresearch.com/b?c1=2&c2=6402952&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1
+[74]: /csp/dtag?p=10
