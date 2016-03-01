@@ -2,7 +2,7 @@
 
 # Terms of Service &bull; Snapchat
 
-* [Blog][1]
+* [Live][1]
 * [Geofilters][2]
 * [Jobs][3]
 * [Support][4]
@@ -222,25 +222,25 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 
 ##### Company
 
-[Home][6] [Blog][1] [Jobs][3] [Brand Guidelines][14] [Support][8] [Twitter][15]
+[Home][6] [Blog][14] [Jobs][3] [Brand Guidelines][15] [Support][8] [Twitter][16]
 
-##### [Download][16]
+##### [Download][17]
 
-[Snapchat for iOS][17] [Snapchat for Android][18]
+[Snapchat for iOS][18] [Snapchat for Android][19]
 
 ##### Community
 
-[Snapcodes][19] [Geofilters][2] [Safety Center][20] [Community Guidelines][9] [Tribeca Snapchat Shorts][21]
+[Snapcodes][20] [Geofilters][2] [Safety Center][21] [Community Guidelines][9] [Tribeca Snapchat Shorts][22]
 
-##### [Advertising][22]
+##### [Advertising][23]
 
-[Overview and FAQ][23] [General Policies][24] [Political Guidelines][25] [Inquiries][26]
+[Overview and FAQ][24] [General Policies][25] [Political Guidelines][26] [Inquiries][27]
 
 ##### Legal
 
-[Terms of Service][27] [Privacy Policy][7] [Copyright][28]
+[Terms of Service][28] [Privacy Policy][7] [Copyright][29]
 
-[1]: /blog
+[1]: /live
 [2]: /geofilters
 [3]: /jobs
 [4]: /support
@@ -253,18 +253,19 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 [11]: https://www.law.cornell.edu/uscode/text/17/512
 [12]: https://support.snapchat.com/a/hacked-howto
 [13]: http://www.adr.org
-[14]: /brand-guidelines
-[15]: https://twitter.com/snapchat
-[16]: /download "Download Snapchat"
-[17]: https://itunes.apple.com/us/app/snapchat/id447188370
-[18]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[19]: https://accounts.snapchat.com/accounts/snapcodes
-[20]: /safety
-[21]: http://www.tribecafilm.com/snapchatshorts
-[22]: /ads "Advertising"
-[23]: /ads
-[24]: /ads/policies
-[25]: /ads/political-guidelines
-[26]: https://support.snapchat.com/co/bizdev
-[27]: /terms
-[28]: https://support.snapchat.com/co/report-copyright
+[14]: /blog
+[15]: /brand-guidelines
+[16]: https://twitter.com/snapchat
+[17]: /download "Download Snapchat"
+[18]: https://itunes.apple.com/us/app/snapchat/id447188370
+[19]: https://play.google.com/store/apps/details?id=com.snapchat.android
+[20]: https://accounts.snapchat.com/accounts/snapcodes
+[21]: /safety
+[22]: http://www.tribecafilm.com/snapchatshorts
+[23]: /ads "Advertising"
+[24]: /ads
+[25]: /ads/policies
+[26]: /ads/political-guidelines
+[27]: https://support.snapchat.com/co/bizdev
+[28]: /terms
+[29]: https://support.snapchat.com/co/report-copyright
