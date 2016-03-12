@@ -132,28 +132,28 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 
 ##### Company
 
-[Home][6] [Blog][10] [Jobs][3] [Brand Guidelines][11] [Support][12] [Twitter][13]
+[Home][6] [Blog][10] [Jobs][3] [Brand Guidelines][11] [Support][4] [Twitter][12]
 
-##### [Download][14]
+##### [Download][13]
 
-[Snapchat for iOS][15] [Snapchat for Android][16]
+[Snapchat for iOS][14] [Snapchat for Android][15]
 
 ##### Community
 
-[Snapcodes][17] [Geofilters][2] [Safety Center][18] [Community Guidelines][19] [Tribeca Snapchat Shorts][20]
+[Snapcodes][16] [Geofilters][2] [Safety Center][17] [Community Guidelines][18] [Tribeca Snapchat Shorts][19]
 
-##### [Advertising][21]
+##### [Advertising][20]
 
-[Overview and FAQ][22] [General Policies][23] [Political Guidelines][24] [Inquiries][25]
+[Overview and FAQ][21] [General Policies][22] [Political Guidelines][23] [Inquiries][24]
 
 ##### Legal
 
-[Terms of Service][26] [Privacy Policy][27] [Copyright][28]
+[Terms of Service][25] [Privacy Policy][26] [Copyright][27]
 
 [1]: /live
 [2]: /geofilters
 [3]: /jobs
-[4]: /support
+[4]: https://support.snapchat.com/
 [5]: https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg?version=2015-06-26-a
 [6]: /
 [7]: https://support.snapchat.com
@@ -161,20 +161,19 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 [9]: http://www.aboutads.info/choices
 [10]: /blog
 [11]: /brand-guidelines
-[12]: https://support.snapchat.com/
-[13]: https://twitter.com/snapchat
-[14]: /download "Download Snapchat"
-[15]: https://itunes.apple.com/us/app/snapchat/id447188370
-[16]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[17]: https://accounts.snapchat.com/accounts/snapcodes
-[18]: /safety
-[19]: https://support.snapchat.com/a/guidelines
-[20]: http://www.tribecafilm.com/snapchatshorts
-[21]: /ads "Advertising"
-[22]: /ads
-[23]: /ads/policies
-[24]: /ads/political-guidelines
-[25]: https://support.snapchat.com/co/bizdev
-[26]: /terms
-[27]: /privacy
-[28]: https://support.snapchat.com/co/report-copyright
+[12]: https://twitter.com/snapchat
+[13]: /download "Download Snapchat"
+[14]: https://itunes.apple.com/us/app/snapchat/id447188370
+[15]: https://play.google.com/store/apps/details?id=com.snapchat.android
+[16]: https://accounts.snapchat.com/accounts/snapcodes
+[17]: /safety
+[18]: https://support.snapchat.com/a/guidelines
+[19]: http://www.tribecafilm.com/snapchatshorts
+[20]: /ads "Advertising"
+[21]: /ads
+[22]: /ads/policies
+[23]: /ads/political-guidelines
+[24]: https://support.snapchat.com/co/bizdev
+[25]: /terms
+[26]: /privacy
+[27]: https://support.snapchat.com/co/report-copyright
