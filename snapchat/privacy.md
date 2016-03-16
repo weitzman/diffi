@@ -140,15 +140,15 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 
 ##### Community
 
-[Snapcodes][16] [Geofilters][2] [Safety Center][17] [Community Guidelines][18] [Tribeca Snapchat Shorts][19]
+[Snapcodes][16] [Geofilters][2] [Safety Center][17] [Community Guidelines][18]
 
-##### [Advertising][20]
+##### [Advertising][19]
 
-[Overview and FAQ][21] [General Policies][22] [Political Guidelines][23] [Inquiries][24]
+[Overview and FAQ][20] [General Policies][21] [Political Guidelines][22] [Inquiries][23]
 
 ##### Legal
 
-[Terms of Service][25] [Privacy Policy][26] [Copyright][27]
+[Terms of Service][24] [Privacy Policy][25] [Copyright][26]
 
 [1]: /live
 [2]: /geofilters
@@ -168,12 +168,11 @@ We may change this privacy policy from time to time. But when we do, we’ll let
 [16]: https://accounts.snapchat.com/accounts/snapcodes
 [17]: /safety
 [18]: https://support.snapchat.com/a/guidelines
-[19]: http://www.tribecafilm.com/snapchatshorts
-[20]: /ads "Advertising"
-[21]: /ads
-[22]: /ads/policies
-[23]: /ads/political-guidelines
-[24]: https://support.snapchat.com/co/bizdev
-[25]: /terms
-[26]: /privacy
-[27]: https://support.snapchat.com/co/report-copyright
+[19]: /ads "Advertising"
+[20]: /ads
+[21]: /ads/policies
+[22]: /ads/political-guidelines
+[23]: https://support.snapchat.com/co/bizdev
+[24]: /terms
+[25]: /privacy
+[26]: https://support.snapchat.com/co/report-copyright
