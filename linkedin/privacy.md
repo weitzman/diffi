@@ -409,7 +409,7 @@ Back to Top
     * [Türkçe][55]
     * [العربية][55]
 * [SlideShare][56]
-* [Online Learning][57]
+* [ Online Learning ][57]
 * [LinkedIn Updates][58]
 * [LinkedIn Influencers][59]
 * [LinkedIn Jobs][60]
@@ -489,7 +489,7 @@ LinkedIn Corporation _© 2016_
 [54]: http://www.linkedin.com/mobile?trk=hb_ft_mobile
 [55]: /secure/settings?trk=hb_ft_lang
 [56]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet&urlhash=nLLC
-[57]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Elynda%2Ecom%3Ftrk%3Dhb_ft_lynda&urlhash=XP_V
+[57]: http://www.linkedin.com/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fpremium%2Flynda%2Flanding&urlhash=I896&trk=hb_ft_lynda
 [58]: http://www.linkedin.com/in/updates?trk=hb_ft_liup
 [59]: http://www.linkedin.com/today/post/whoToFollow?trk=hb_ft_influencers
 [60]: http://www.linkedin.com/job/?trk=hb_ft_jobs
