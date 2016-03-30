@@ -108,7 +108,7 @@ We may use the information we collect about you to:
 * Send you communications we think will be of interest to you, including information about products, services, promotions, news, and events of Uber and other companies, where permissible and according to local applicable laws; and to process contest, sweepstake, or other promotion entries and fulfill any related awards;
 * Personalize and improve the Services, including to provide or recommend features, content, social connections, referrals, and advertisements.
 
-We may transfer the information described in this Statement to, and process and store it in, the United States and other countries, some of which may have less protective data protection laws than the region in which you reside. Where this is the case, we will take appropriate measures to protect your personal information in accordance with this Statement. If you are in the EU or Switzerland, please see the Safe Harbor notice below.
+We may transfer the information described in this Statement to, and process and store it in, the United States and other countries, some of which may have less protective data protection laws than the region in which you reside. Where this is the case, we will take appropriate measures to protect your personal information in accordance with this Statement.
 
 #### Sharing of Information
 
@@ -145,15 +145,11 @@ The Services may integrate with social sharing features and other related tools 
 
 We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements. These entities may use cookies, web beacons, SDKs, and other technologies to identify your device when you visit our site and use our Services, as well as when you visit other online sites and services. For more information about these technologies and service providers, please refer to our [Cookie Statement][30].
 
-#### U.S.-EU and U.S.-Swiss Safe Harbor
-
-Uber Technologies, Inc. complies with the U.S.-EU and the U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce in connection with its processing of personal data about data subjects in European Union member countries and Switzerland. With respect to this data, Uber Technologies, Inc. has certified that it adheres to the relevant Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about these Safe Harbor programs, and to view our certification, please visit the Safe Harbor [website][33].
-
 #### Your Choices
 
 ##### Account Information
 
-You may correct your account information at any time by logging into your online or in-app account. If you wish to cancel your account, please email us at [support@uber.com][34]. Please note that in some cases we may retain certain information about you as required by law, or for legitimate business purposes to the extent permitted by law. For instance, if you have a standing credit or debt on your account, or if we believe you have committed fraud or violated our Terms, we may seek to resolve the issue before deleting your information.
+You may correct your account information at any time by logging into your online or in-app account. If you wish to cancel your account, please email us at [support@uber.com][33]. Please note that in some cases we may retain certain information about you as required by law, or for legitimate business purposes to the extent permitted by law. For instance, if you have a standing credit or debt on your account, or if we believe you have committed fraud or violated our Terms, we may seek to resolve the issue before deleting your information.
 
 ##### Access Rights
 
@@ -185,9 +181,9 @@ We may change this Statement from time to time. If we make significant changes i
 
 #### Contact Us
 
-If you have any questions about this Privacy Statement, please contact us at [privacy@uber.com][35], or write us at Uber Technologies, Inc., Attn: Legal,1455 Market Street, Suite 400, San Francisco, CA 94103 (if you reside in the U.S.), or at Uber B.V., Attn: Legal, Vijzelstraat 68-78, 1017 HL Amsterdam, Netherlands (if you do not reside in the U.S.).
+If you have any questions about this Privacy Statement, please contact us at [privacy@uber.com][34], or write us at Uber Technologies, Inc., Attn: Legal,1455 Market Street, Suite 400, San Francisco, CA 94103 (if you reside in the U.S.), or at Uber B.V., Attn: Legal, Vijzelstraat 68-78, 1017 HL Amsterdam, Netherlands (if you do not reside in the U.S.).
 
-[ Download Uber ][21] [ Sign up for Uber ][2] [ Home ][3] • [ Cities ][4] • [ Drive ][5] [ Help Center ][11] [ Careers ][12] [ Developers ][9] [ Newsroom ][14] [ About Us ][10] English  Azərbaycan  Bahasa Indonesia  Bahasa Melayu  Dansk  Deutsch  Deutsch (Austria)  ελληνικά  English  Español  Español (España)  Eesti Keel  Français  Italiano  Magyar  Hrvatski  Lietuvių  Nederlands  Polski  Português (Brasil)  Português (Portugal)  Română  Suomi  Slovenčina  Svenska  Tagalog  Tiếng Việt  Türkçe  Čeština  Pусский  български език  עברית  العربية  ภาษาไทย  简体中文  繁體中文  日本語  한국어  [Apple Store][36] [Google Play Store][37] [Windows Store][38]
+[ Download Uber ][21] [ Sign up for Uber ][2] [ Home ][3] • [ Cities ][4] • [ Drive ][5] [ Help Center ][11] [ Careers ][12] [ Developers ][9] [ Newsroom ][14] [ About Us ][10] English  Azərbaycan  Bahasa Indonesia  Bahasa Melayu  Dansk  Deutsch  Deutsch (Austria)  ελληνικά  English  Español  Español (España)  Eesti Keel  Français  Italiano  Magyar  Hrvatski  Lietuvių  Nederlands  Polski  Português (Brasil)  Português (Portugal)  Română  Suomi  Slovenčina  Svenska  Tagalog  Tiếng Việt  Türkçe  Čeština  Pусский  български език  עברית  العربية  ภาษาไทย  简体中文  繁體中文  日本語  한국어  [Apple Store][35] [Google Play Store][36] [Windows Store][37]
 
 [Terms and Conditions][22]   
 [Privacy Policy][27]
@@ -224,9 +220,8 @@ If you have any questions about this Privacy Statement, please contact us at [pr
 [30]: /legal/privacy/cookies
 [31]: /legal/ios/permissions
 [32]: /legal/android/permissions
-[33]: http://www.export.gov/safeharbor/.
-[34]: mailto:support@uber.com
-[35]: mailto:privacy@uber.com
-[36]: https://itunes.apple.com/us/app/uber/id368677368?mt=8
-[37]: https://play.google.com/store/apps/details?id=com.ubercab
-[38]: https://www.windowsphone.com/s?appid=b905a877-bd55-4ce7-a7aa-467cdc3a21f4
+[33]: mailto:support@uber.com
+[34]: mailto:privacy@uber.com
+[35]: https://itunes.apple.com/us/app/uber/id368677368?mt=8
+[36]: https://play.google.com/store/apps/details?id=com.ubercab
+[37]: https://www.windowsphone.com/s?appid=b905a877-bd55-4ce7-a7aa-467cdc3a21f4
