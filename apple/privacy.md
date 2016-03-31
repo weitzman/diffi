@@ -242,16 +242,15 @@ Open Menu Close Menu
 * [Investors][62]
 * [Events][63]
 * [Hot News][64]
-* [Legal][65]
-* [Contact Apple][66]
+* [Contact Apple][65]
 
-More ways to shop: Visit an [Apple Store][36], call 1-800-MY-APPLE, or [find a reseller][67].
+More ways to shop: Visit an [Apple Store][36], call 1-800-MY-APPLE, or [find a reseller][66].
 
-[United States][68]
+[United States][67]
 
 Copyright © 2016 Apple Inc. All rights reserved.
 
-[Privacy Policy][69] [Terms of Use][70] [Sales and Refunds][71] [Site Map][72]
+[Privacy Policy][68] [Terms of Use][69] [Sales and Refunds][70] [Legal][71] [Site Map][72]
 
 [1]: /
 [2]: /us/shop/goto/bag
@@ -317,11 +316,11 @@ Copyright © 2016 Apple Inc. All rights reserved.
 [62]: http://investor.apple.com
 [63]: /apple-events/
 [64]: /hotnews/
-[65]: /legal/
-[66]: /contact/
-[67]: https://locate.apple.com/
-[68]: /choose-your-country/ "Choose your country or region"
-[69]: /privacy/privacy-policy/
-[70]: /legal/internet-services/terms/site.html
-[71]: /us/shop/goto/help/sales_refunds
+[65]: /contact/
+[66]: https://locate.apple.com/
+[67]: /choose-your-country/ "Choose your country or region"
+[68]: /privacy/privacy-policy/
+[69]: /legal/internet-services/terms/site.html
+[70]: /us/shop/goto/help/sales_refunds
+[71]: /legal/
 [72]: /sitemap/
