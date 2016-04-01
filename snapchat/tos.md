@@ -263,7 +263,7 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 [4]: https://support.snapchat.com/
 [5]: https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg?version=2015-06-26-a
 [6]: /
-[7]: /pdf/us-tos-amendment.pdf
+[7]: /us-tos-amendment
 [8]: https://support.snapchat.com/a/guidelines
 [9]: https://www.snapchat.com/privacy
 [10]: https://support.snapchat.com
