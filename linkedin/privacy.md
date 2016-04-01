@@ -476,7 +476,7 @@ LinkedIn Corporation _© 2016_
 [41]: https://linkedin.com/help/linkedin/answer/62533?lang=en
 [42]: /settings/security-v2?goback=
 [43]: /reg/join?trk=hb_ft_join
-[44]: https://linkedin.com/help/linkedin?trk=microsites-legal-privacy_policy
+[44]: https://linkedin.com/help/linkedin?trk=microsites-legal-privacy_policy&lang=en
 [45]: http://www.linkedin.com/about-us?trk=hb_ft_about
 [46]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fpress%2Elinkedin%2Ecom%2F&urlhash=UMoC
 [47]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fblog%2Elinkedin%2Ecom%2F&urlhash=ULil
@@ -502,7 +502,7 @@ LinkedIn Corporation _© 2016_
 [67]: http://www.linkedin.com/directory/title/
 [68]: http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag
 [69]: http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv
-[70]: https://linkedin.com/help/linkedin/answer/34593?trk=microsites-legal-privacy_policy
+[70]: https://linkedin.com/help/linkedin/answer/34593?trk=microsites-legal-privacy_policy&lang=en
 [71]: http://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
 [72]: http://www.linkedin.com/legal/copyright-policy?trk=hb_ft_copy
 [73]: https://sb.scorecardresearch.com/b?c1=2&c2=6402952&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1
