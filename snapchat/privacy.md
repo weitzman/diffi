@@ -161,6 +161,8 @@ We may change this privacy policy from time to time. But when we do, we'll let y
 
 [Terms of Service][26] [Privacy Policy][27] [Cookie Policy][8] [Copyright][28]
 
+Hi! We use cookies on this website to help operate our site and for analytics purposes. For more on how we use cookies and your cookie choices, go [here][8]! By continuing to use our services, you are giving us your consent to use cookies.
+
 [1]: /live
 [2]: /geofilters
 [3]: /jobs
