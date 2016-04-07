@@ -257,6 +257,8 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 
 [Terms of Service][29] [Privacy Policy][11] [Cookie Policy][30] [Copyright][12]
 
+Hi! We use cookies on this website to help operate our site and for analytics purposes. For more on how we use cookies and your cookie choices, go [here][30]! By continuing to use our services, you are giving us your consent to use cookies.
+
 [1]: /live
 [2]: /geofilters
 [3]: /jobs
