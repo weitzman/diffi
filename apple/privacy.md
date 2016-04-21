@@ -208,49 +208,47 @@ Open Menu Close Menu
 
 Open Menu Close Menu
 
-* [iPhone in Business][48]
-* [iPad in Business][49]
-* [Mac in Business][50]
-* [Shop for Your Business][51]
+* [Apple and Business][48]
+* [Shop for Business][49]
 
 ### Account
 
 Open Menu Close Menu
 
-* [Manage Your Apple ID][52]
+* [Manage Your Apple ID][50]
 * [Apple Store Account][44]
-* [iCloud.com][53]
+* [iCloud.com][51]
 
 ### Apple Values
 
 Open Menu Close Menu
 
-* [Environment][54]
-* [Supplier Responsibility][55]
-* [Accessibility][56]
+* [Environment][52]
+* [Supplier Responsibility][53]
+* [Accessibility][54]
 * [Privacy][11]
-* [Inclusion and Diversity][57]
-* [Education][58]
+* [Inclusion and Diversity][55]
+* [Education][56]
 
 ### About Apple
 
 Open Menu Close Menu
 
-* [Apple Info][59]
-* [Job Opportunities][60]
-* [Press Info][61]
-* [Investors][62]
-* [Events][63]
-* [Hot News][64]
-* [Contact Apple][65]
+* [Apple Info][57]
+* [Job Opportunities][58]
+* [Press Info][59]
+* [Investors][60]
+* [Events][61]
+* [Hot News][62]
+* [Contact Apple][63]
 
-More ways to shop: Visit an [Apple Store][36], call 1-800-MY-APPLE, or [find a reseller][66].
+More ways to shop: Visit an [Apple Store][36], call 1-800-MY-APPLE, or [find a reseller][64].
 
-[United States][67]
+[United States][65]
 
 Copyright © 2016 Apple Inc. All rights reserved.
 
-[Privacy Policy][68] [Terms of Use][69] [Sales and Refunds][70] [Legal][71] [Site Map][72]
+[Privacy Policy][66] [Terms of Use][67] [Sales and Refunds][68] [Legal][69] [Site Map][70]
 
 [1]: /
 [2]: /us/shop/goto/bag
@@ -299,28 +297,26 @@ Copyright © 2016 Apple Inc. All rights reserved.
 [45]: /us/shop/goto/help
 [46]: /education/
 [47]: /us/shop/goto/educationrouting
-[48]: /iphone/business/
-[49]: /ipad/business/
-[50]: /business/mac/
-[51]: /retail/business/
-[52]: https://appleid.apple.com/us/
-[53]: https://www.icloud.com
-[54]: /environment/
-[55]: /supplier-responsibility/
-[56]: /accessibility/
-[57]: /diversity/
-[58]: /education/connectED/
-[59]: /about/
-[60]: https://www.apple.com/jobs/us/
-[61]: /pr/
-[62]: http://investor.apple.com
-[63]: /apple-events/
-[64]: /hotnews/
-[65]: /contact/
-[66]: https://locate.apple.com/
-[67]: /choose-your-country/ "Choose your country or region"
-[68]: /privacy/privacy-policy/
-[69]: /legal/internet-services/terms/site.html
-[70]: /us/shop/goto/help/sales_refunds
-[71]: /legal/
-[72]: /sitemap/
+[48]: /business/
+[49]: /retail/business/
+[50]: https://appleid.apple.com/us/
+[51]: https://www.icloud.com
+[52]: /environment/
+[53]: /supplier-responsibility/
+[54]: /accessibility/
+[55]: /diversity/
+[56]: /education/connectED/
+[57]: /about/
+[58]: https://www.apple.com/jobs/us/
+[59]: /pr/
+[60]: http://investor.apple.com
+[61]: /apple-events/
+[62]: /hotnews/
+[63]: /contact/
+[64]: https://locate.apple.com/
+[65]: /choose-your-country/ "Choose your country or region"
+[66]: /privacy/privacy-policy/
+[67]: /legal/internet-services/terms/site.html
+[68]: /us/shop/goto/help/sales_refunds
+[69]: /legal/
+[70]: /sitemap/
