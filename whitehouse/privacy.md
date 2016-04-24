@@ -36,20 +36,20 @@ Main Menu
 
     * Popular Topics
         * [SCOTUS Nomination][21]
-        * [Cuba][22]
+        * [Criminal Justice Reform][22]
         * [The Record][23]
-        * [Iran Deal][24]
+        * [Cuba][24]
         * [21st Century Policing][25]
         * [See All][20]
     * Top Issues
-        * [Economy][26]
-        * [Education][27]
-        * [Foreign Policy][28]
-        * [Health Care][29]
-        * [Immigration][30]
-        * [Climate Change][31]
-        * [Energy and Environment][32]
-        * [Civil Rights][33]
+        * [Civil Rights][26]
+        * [Climate Change][27]
+        * [Economy][28]
+        * [Education][29]
+        * [Foreign Policy][30]
+        * [Health Care][31]
+        * [Immigration][32]
+        * [Iran Deal][33]
     * More
         * [Defense][34]
         * [Disabilities][35]
@@ -328,18 +328,18 @@ Go back up to the term in use.
 [19]: https://www.whitehouse.gov/briefing-room/disclosures
 [20]: /issues
 [21]: https://www.whitehouse.gov/scotus
-[22]: https://www.whitehouse.gov/issues/foreign-policy/cuba
+[22]: https://www.whitehouse.gov/issues/criminal-justice-reform
 [23]: https://www.whitehouse.gov/the-record
-[24]: https://www.whitehouse.gov/issues/foreign-policy/iran-deal
+[24]: https://www.whitehouse.gov/issues/foreign-policy/cuba
 [25]: https://www.whitehouse.gov/blog/2015/07/28/presidents-task-force-21st-century-policing-recommendations-print-action
-[26]: /economy
-[27]: /issues/education
-[28]: /issues/foreign-policy
-[29]: /healthreform
-[30]: /issues/immigration
-[31]: /climate-change
-[32]: http://www.whitehouse.gov/energy
-[33]: /issues/civil-rights
+[26]: /issues/civil-rights
+[27]: /climate-change
+[28]: /economy
+[29]: /issues/education
+[30]: /issues/foreign-policy
+[31]: /healthreform
+[32]: /issues/immigration
+[33]: https://www.whitehouse.gov/issues/foreign-policy/iran-deal
 [34]: http://www.whitehouse.gov/issues/defense
 [35]: https://www.whitehouse.gov/issues/disabilities
 [36]: /21stcenturygov
