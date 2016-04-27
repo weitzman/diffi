@@ -439,7 +439,7 @@ LinkedIn Corporation _© 2016_
 [4]: https://www.linkedin.com/uas/login?goback=&trk=hb_signin
 [5]: https://linkedin.com/help/linkedin?lang=en
 [6]: http://www.linkedin.com/legal/do-not-track
-[7]: /secure/settings?closemyaccountstart=
+[7]: /psettings/account-management/close-action-needed
 [8]: https://linkedin.com/help/linkedin/answer/53671?lang=en
 [9]: https://linkedin.com/help/linkedin/answer/49959?lang=en
 [10]: http://www.linkedin.com/legal/user-agreement
