@@ -258,7 +258,7 @@ Copyright © 2016 Apple Inc. All rights reserved.
 [6]: /watch/
 [7]: /tv/
 [8]: /music/
-[9]: /support/
+[9]: https://support.apple.com/
 [10]: /us/search
 [11]: /privacy/
 [12]: /privacy/approach-to-privacy/
