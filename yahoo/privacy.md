@@ -24,4 +24,3 @@
     * [Beauty][19]
     * [Tech][20]
     * [Shopping][21]
-    * [Autos][22]
