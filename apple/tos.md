@@ -76,8 +76,8 @@ The following terms also govern and apply to your use of the Site, and they are 
 * [Piracy][23]
 * [Counterfeit Products][24]
 * [Apple’s Unsolicited Idea Submission Policy][25]
-* [Software License Information][13]
-* [Legal Contacts][26]
+* [Software License Information][26]
+* [Legal Contacts][27]
 
 Each of these policies may be changed from time to time and are effective immediately upon posting such changes on the Site.
 
@@ -89,7 +89,7 @@ You may not use anyone else’s Apple ID, password or account at any time withou
 
 ###  Privacy
 
-Apple’s Privacy Policy applies to use of this Site, and its terms are made a part of these Terms of Use by this reference. To view Apple’s Privacy Policy, [click here][27]. Additionally, by using the Site, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the Site may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, credit card information) is encrypted.
+Apple’s Privacy Policy applies to use of this Site, and its terms are made a part of these Terms of Use by this reference. To view Apple’s Privacy Policy, [click here][28]. Additionally, by using the Site, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the Site may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, credit card information) is encrypted.
 
 ###  Links to Other Sites and to the Apple Site
 
@@ -151,8 +151,10 @@ Apple Inc., 1 Infinite Loop, Cupertino, CA 95014, USA._
 
 Updated by The Apple Legal Team on Nov. 20, 2009
 
+  
+
 1. [Home][1]
-2. [Legal][28]
+2. [Legal][29]
 3. [Internet Services][15]
 4. Legal Information & Notices
 
@@ -160,65 +162,69 @@ Updated by The Apple Legal Team on Nov. 20, 2009
 
 * [Hardware Warranties][12]
 * [Software License Agreements][13]
-* [RF Exposure][29]
+* [RF Exposure][30]
 
 ###  [More Resources][17]
 
-* [Phishing & Other Suspicious Emails][30]
-* [Government Information Requests][31]
-* [Global Trade Compliance][32]
-* [Supplier Provisions][33]
-* [Contact Apple Legal][26]
-* [FileMaker Legal Information][34]
+* [Phishing & Other Suspicious Emails][31]
+* [Government Information Requests][32]
+* [Global Trade Compliance][33]
+* [Supplier Provisions][34]
+* [Contact Apple Legal][27]
+* [FileMaker Legal Information][35]
 
 ###  [Sales & Support][14]
 
-* [AppleCare][35]
-* [Support Communities Terms of Use][36]
-* [Express Replacement Service][37]
-* [Remote Support Terms and Conditions][38]
-* [One to One][39]
-* [Repair Terms and Conditions][40]
-* [Certification Agreements and Policies][41]
-* [Training Service Terms and Conditions][42]
-* [Sales Policies][43]
+* [AppleCare][36]
+* [Support Communities Terms of Use][37]
+* [Express Replacement Service][38]
+* [Remote Support Terms and Conditions][39]
+* [One to One][40]
+* [Repair Terms and Conditions][41]
+* [Certification Agreements and Policies][42]
+* [Training Service Terms and Conditions][43]
+* [Sales Policies][44]
 
 ###  [Internet Services][15]
 
-* [Website Terms of Use][44]
-* [iTunes Store, App Store, and iBooks Store Terms and Conditions][45]
-* [Game Center Terms and Conditions][46]
-* [iCloud Terms of Service][47]
-* [Apple Maps Terms of Use][48]
-* [Print Services Sales Policies][49]
-* [Print Services Terms of Use][50]
-* [Privacy Policy][51]
+* [Website Terms of Use][45]
+* [iTunes Store, App Store, and iBooks Store Terms and Conditions][46]
+* [Game Center Terms and Conditions][47]
+* [iCloud Terms of Service][48]
+* [Apple Maps Terms of Use][49]
+* [Print Services Sales Policies][50]
+* [Print Services Terms of Use][51]
+* [Privacy Policy][52]
 
 ###  [Intellectual Property][16]
 
-* [Unsolicited Idea Submission Policy][25]
-* [Trademarks][21]
-* [Rights and Permissions][20]
-* [Guidelines for Using Apple Trademarks and Copyrights][19]
-* [Piracy Prevention][23]
+* [Unsolicited Idea Submission Policy][53]
+* [Trademarks][54]
+* [Rights and Permissions][55]
+* [Guidelines for Using Apple Trademarks and Copyrights][56]
+* [Piracy Prevention][57]
+
+###  [Education][58]
+
+* [Apple School Manager][59]
 
  
 
   
 
-Shop the [Apple Online Store][52] (1-800-MY-APPLE), visit an [Apple Retail Store][53], or find a [reseller][54].
+Shop the [Apple Online Store][60] (1-800-MY-APPLE), visit an [Apple Retail Store][61], or find a [reseller][62].
 
-* [Apple Info][55]
-* [Site Map][56]
-* [Hot News][57]
-* [RSS Feeds][58]
-* [Contact Us][59]
-* [ ![Choose your country or region][60] ][61]
+* [Apple Info][63]
+* [Site Map][64]
+* [Hot News][65]
+* [RSS Feeds][66]
+* [Contact Us][67]
+* [ ![Choose your country or region][68] ][69]
 
 Copyright © 2016 Apple Inc. All rights reserved.
 
-* [Terms of Use][44]
-* [Updated Privacy Policy][62]
+* [Terms of Use][45]
+* [Updated Privacy Policy][70]
 
 [1]: /
 [2]: /us/shop/goto/bag
@@ -238,47 +244,55 @@ Copyright © 2016 Apple Inc. All rights reserved.
 [16]: /legal/intellectual-property/
 [17]: /legal/more-resources/
 [18]: https://www.apple.com/legal/internet-services/images/terms_site_title.png
-[19]: /legal/intellectual-property/guidelinesfor3rdparties.html
-[20]: /legal/intellectual-property/rightsandpermissions.html
-[21]: /legal/intellectual-property/trademark/
+[19]: ../../intellectual-property/guidelinesfor3rdparties.html
+[20]: ../../intellectual-property/rightsandpermissions.html
+[21]: ../../intellectual-property/
 [22]: /legal/contact/#copyright-infringement
-[23]: /legal/intellectual-property/piracy.html
+[23]: ../../intellectual-property/piracy.html
 [24]: /legal/contact/#counterfeit
-[25]: /legal/intellectual-property/policies/ideas.html
-[26]: /legal/contact/
-[27]: /legal/privacy/
-[28]: /legal/
-[29]: /legal/rfexposure/
-[30]: /legal/more-resources/phishing/
-[31]: /privacy/government-information-requests/
-[32]: /legal/more-resources/gtc.html
-[33]: /legal/more-resources/supplier-provisions.html
-[34]: http://www.filemaker.com/company/legal/trademark_guidelines.html
-[35]: /legal/sales-support/applecare/
-[36]: https://discussions.apple.com/static/apple/tutorial/tou.html
-[37]: /legal/sales-support/terms/iphonears/index.html
-[38]: https://www.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf
-[39]: /retail/learn/one-to-one/terms.html
-[40]: /legal/sales-support/terms/repair/
-[41]: /legal/sales-support/certification/
-[42]: /legal/sales-support/terms/training/trainingservice.html
-[43]: /legal/sales-support/sales-policies/
-[44]: /legal/internet-services/terms/site.html
-[45]: /legal/internet-services/itunes/ww/
-[46]: /legal/internet-services/gamecenter/
-[47]: /legal/internet-services/icloud/ww/
-[48]: /legal/internet-services/maps/
-[49]: /internetservices/terms/sales_policies.html
-[50]: /internetservices/terms/membership_terms.html
-[51]: /legal/internet-services/privacy/
-[52]: http://store.apple.com/us
-[53]: /retail/
-[54]: /buy/
-[55]: /about/
-[56]: /sitemap/
-[57]: /hotnews/
-[58]: /rss/
-[59]: /contact/
-[60]: https://www.apple.com/global/elements/flags/22x22/usa.png
-[61]: /choose-your-country/
-[62]: /privacy/privacy-policy/
+[25]: ../../intellectual-property/policies/ideas.html
+[26]: ../../sla/
+[27]: /legal/contact/
+[28]: ../../privacy/
+[29]: /legal/
+[30]: /legal/rfexposure/
+[31]: /legal/more-resources/phishing/
+[32]: /privacy/government-information-requests/
+[33]: /legal/more-resources/gtc.html
+[34]: /legal/more-resources/supplier-provisions.html
+[35]: http://www.filemaker.com/company/legal/trademark_guidelines.html
+[36]: /legal/sales-support/applecare/
+[37]: https://discussions.apple.com/static/apple/tutorial/tou.html
+[38]: /legal/sales-support/terms/iphonears/index.html
+[39]: https://www.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf
+[40]: /retail/learn/one-to-one/terms.html
+[41]: /legal/sales-support/terms/repair/
+[42]: /legal/sales-support/certification/
+[43]: /legal/sales-support/terms/training/trainingservice.html
+[44]: /legal/sales-support/sales-policies/
+[45]: /legal/internet-services/terms/site.html
+[46]: /legal/internet-services/itunes/ww/
+[47]: /legal/internet-services/gamecenter/
+[48]: /legal/internet-services/icloud/ww/
+[49]: /legal/internet-services/maps/
+[50]: /internetservices/terms/sales_policies.html
+[51]: /internetservices/terms/membership_terms.html
+[52]: /legal/internet-services/privacy/
+[53]: /legal/intellectual-property/policies/ideas.html
+[54]: /legal/intellectual-property/trademark/
+[55]: /legal/intellectual-property/rightsandpermissions.html
+[56]: /legal/intellectual-property/guidelinesfor3rdparties.html
+[57]: /legal/intellectual-property/piracy.html
+[58]: /legal/education/
+[59]: /legal/education/apple-school-manager/
+[60]: http://store.apple.com/us
+[61]: /retail/
+[62]: /buy/
+[63]: /about/
+[64]: /sitemap/
+[65]: /hotnews/
+[66]: /rss/
+[67]: /contact/
+[68]: https://www.apple.com/global/elements/flags/22x22/usa.png
+[69]: /choose-your-country/
+[70]: /privacy/privacy-policy/
