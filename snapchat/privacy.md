@@ -141,7 +141,7 @@ We may change this privacy policy from time to time. But when we do, we'll let y
 
 ##### Company
 
-[Home][6] [Blog][12] [Jobs][3] [Brand Guidelines][13] [Support][4] [Twitter][14]
+[Home][6] [Blog][12] [Jobs][3] [Press Inquiries][13] [Twitter][14]
 
 ##### Language
 
@@ -151,11 +151,11 @@ We may change this privacy policy from time to time. But when we do, we'll let y
 
 ##### Community
 
-[Snapcodes][18] [Geofilters][2] [Safety Center][19] [Community Guidelines][20]
+[Support][4] [Community Guidelines][18] [Safety Center][19] [Snapcodes][20] [Geofilters][2]
 
-##### [Advertising][21]
+##### Business
 
-[Overview and FAQ][22] [General Policies][23] [Political Guidelines][24] [Inquiries][25]
+[Advertising][21] [Inquiries][22] [Advertising Policies][23] [Brand Guidelines][24] [Promotions Rules][25]
 
 ##### Legal
 
@@ -175,19 +175,19 @@ Hi! We use cookies on this website to help operate our site and for analytics pu
 [10]: https://accounts.snapchat.com/accounts/login?continue=https%3A%2F%2Faccounts.snapchat.com%2Faccounts%2Fdelete_account
 [11]: http://www.aboutads.info/choices
 [12]: /blog
-[13]: /brand-guidelines
+[13]: https://support.snapchat.com/a/press
 [14]: https://twitter.com/snapchat
 [15]: /download "Download Snapchat"
 [16]: https://itunes.apple.com/us/app/snapchat/id447188370
 [17]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[18]: https://accounts.snapchat.com/accounts/snapcodes
+[18]: https://support.snapchat.com/a/guidelines
 [19]: /safety
-[20]: https://support.snapchat.com/a/guidelines
-[21]: /ads "Advertising"
-[22]: /ads
+[20]: https://accounts.snapchat.com/accounts/snapcodes
+[21]: /ads
+[22]: https://support.snapchat.com/co/inquiries
 [23]: /ads/policies
-[24]: /ads/political-guidelines
-[25]: https://support.snapchat.com/co/international-inquiries
+[24]: /brand-guidelines
+[25]: https://support.snapchat.com/a/promotions-rules
 [26]: /terms
 [27]: /privacy
 [28]: https://support.snapchat.com/co/report-copyright
