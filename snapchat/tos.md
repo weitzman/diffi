@@ -237,7 +237,7 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 
 ##### Company
 
-[Home][6] [Blog][16] [Jobs][3] [Brand Guidelines][17] [Support][4] [Twitter][18]
+[Home][6] [Blog][16] [Jobs][3] [Press Inquiries][17] [Twitter][18]
 
 ##### Language
 
@@ -247,11 +247,11 @@ Snapchat, Inc. is located in the United States at 63 Market Street, Venice, Cali
 
 ##### Community
 
-[Snapcodes][22] [Geofilters][2] [Safety Center][23] [Community Guidelines][8]
+[Support][4] [Community Guidelines][8] [Safety Center][22] [Snapcodes][23] [Geofilters][2]
 
-##### [Advertising][24]
+##### Business
 
-[Overview and FAQ][25] [General Policies][26] [Political Guidelines][27] [Inquiries][28]
+[Advertising][24] [Inquiries][25] [Advertising Policies][26] [Brand Guidelines][27] [Promotions Rules][28]
 
 ##### Legal
 
@@ -275,17 +275,17 @@ Hi! We use cookies on this website to help operate our site and for analytics pu
 [14]: https://support.snapchat.com/a/hacked-howto
 [15]: http://www.adr.org
 [16]: /blog
-[17]: /brand-guidelines
+[17]: https://support.snapchat.com/a/press
 [18]: https://twitter.com/snapchat
 [19]: /download "Download Snapchat"
 [20]: https://itunes.apple.com/us/app/snapchat/id447188370
 [21]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[22]: https://accounts.snapchat.com/accounts/snapcodes
-[23]: /safety
-[24]: /ads "Advertising"
-[25]: /ads
+[22]: /safety
+[23]: https://accounts.snapchat.com/accounts/snapcodes
+[24]: /ads
+[25]: https://support.snapchat.com/co/inquiries
 [26]: /ads/policies
-[27]: /ads/political-guidelines
-[28]: https://support.snapchat.com/co/international-inquiries
+[27]: /brand-guidelines
+[28]: https://support.snapchat.com/a/promotions-rules
 [29]: /terms
 [30]: /cookie-policy
