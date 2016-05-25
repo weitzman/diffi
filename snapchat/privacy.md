@@ -159,7 +159,7 @@ We may change this privacy policy from time to time. But when we do, we'll let y
 
 ##### Legal
 
-[Terms of Service][26] [Privacy Policy][27] [Cookie Policy][8] [Copyright][28]
+[Terms of Service][26] [Privacy Policy][27] [Privacy Center][28] [Cookie Policy][8] [Copyright][29]
 
 Hi! We use cookies on this website to help operate our site and for analytics purposes. For more on how we use cookies and your cookie choices, go [here][8]! By continuing to use our services, you are giving us your consent to use cookies.
 
@@ -190,4 +190,5 @@ Hi! We use cookies on this website to help operate our site and for analytics pu
 [25]: https://support.snapchat.com/a/promotions-rules
 [26]: /terms
 [27]: /privacy
-[28]: https://support.snapchat.com/co/report-copyright
+[28]: /privacy-center
+[29]: https://support.snapchat.com/co/report-copyright
