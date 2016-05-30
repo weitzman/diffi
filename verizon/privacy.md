@@ -708,7 +708,7 @@ Verizon is a global leader delivering innovative communications and technology s
 
 [ ][206][ ][207]
 
-![Quantcast][208]
+![Advertisement][208] ![Quantcast][209]
 
 [1]: http://www.verizonwireless.com/
 [2]: http://www.verizon.com/?lid=//global//residential
@@ -917,4 +917,5 @@ Verizon is a global leader delivering innovative communications and technology s
 [205]: https://www.verizon.com/Support/Residential/contact-us/index.htm "Contact Us"
 [206]: http://clicktoverify.truste.com/pvr.php?page=validate&url=www.verizon.com&sealid=101 "TRUSTe Certified Privacy"
 [207]: http://www.bbb.org/new-york-city/business-reviews/telephone-communications/verizon-communications-in-new-york-ny-411/ "BBB Accredited Business"
-[208]: //pixel.quantserve.com/pixel/p-gBa6jXyn4LuQA.gif?labels=_fp.event.Default
+[208]:
+[209]: //pixel.quantserve.com/pixel/p-gBa6jXyn4LuQA.gif?labels=_fp.event.Default
