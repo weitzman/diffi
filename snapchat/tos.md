@@ -1,13 +1,3 @@
-[Source](https://www.snapchat.com/terms "Permalink to Terms of Service &bull; Snapchat")
-
-# Terms of Service &bull; Snapchat
-
-* [Live][1]
-* [Geofilters][2]
-* [Jobs][3]
-* [Support][4]
-[ ![Snapchat][5] ][6]
-
 # Terms of Service
 
 Effective: March 29, 2016
@@ -32,11 +22,11 @@ By using the Services, you state that:
 * You are not a person who is barred from receiving the Services under the laws of the United States or any other applicable jurisdiction–meaning that you do not appear on the U.S. Treasury Department's list of Specially Designated Nationals or face any other similar prohibition; and
 * You will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations.
 
-If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity. If you are using the Services on behalf of an entity of the U.S. Government, you agree to the [Amendment to Snapchat Terms of Service for U.S. Government Users][7].
+If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity. If you are using the Services on behalf of an entity of the U.S. Government, you agree to the [Amendment to Snapchat Terms of Service for U.S. Government Users][1].
 
 ## 2\. Rights We Grant You
 
-Snapchat grants you a personal, worldwide, royalty-free, non-assignable, nonexclusive, revocable, and non-sublicensable license to access and use the Services. This license is for the sole purpose of letting you use and enjoy the Service's benefits in a way that these Terms and our usage policies, such as our [Community Guidelines][8], allow.
+Snapchat grants you a personal, worldwide, royalty-free, non-assignable, nonexclusive, revocable, and non-sublicensable license to access and use the Services. This license is for the sole purpose of letting you use and enjoy the Service's benefits in a way that these Terms and our usage policies, such as our [Community Guidelines][2], allow.
 
 Any software that we provide you may automatically download and install upgrades, updates, or other new features. You may be able to adjust these automatic downloads through your device's settings.
 
@@ -50,7 +40,7 @@ For all Services other than Live, Local, and any other crowd-sourced Service, yo
 
 Because Live, Local, and any other crowd-sourced Services are inherently public and chronicle matters of public interest, the license you grant us for content submitted to those Services is broader. In addition to the rights you grant us in connection with other Services, you also grant us a perpetual license to create derivative works from, promote, exhibit, broadcast, syndicate, publicly perform, and publicly display content submitted to Live, Local, or any other crowd-sourced Services in any form and in any and all media or distribution methods (now known or later developed). To the extent it's necessary, you also grant Snapchat and our business partners the unrestricted, worldwide, perpetual right and license to use your name, likeness, and voice solely in Live, Local, or other crowd-sourced content that you appear in, create, upload, post, or send. This means, among other things, that you will not be entitled to any compensation from Snapchat or our business partners if your name, likeness, or voice is conveyed through Live, Local, or other crowd-sourced Services.
 
-For more information about how to tailor who can watch your content, please take a look at our [privacy policy][9] and [Support Site][10].
+For more information about how to tailor who can watch your content, please take a look at our [privacy policy][3] and [Support Site][4].
 
 While we're not required to do so, we may access, review, screen, and delete your content at any time and for any reason, including if we think your content violates these Terms. You alone though remain responsible for the content you create, upload, post, send, or store through the Service.
 
@@ -62,11 +52,11 @@ We always love to hear from our users. But if you volunteer feedback or suggesti
 
 Much of the content on our Services is produced by users, publishers, and other third parties. Whether that content is posted publicly or sent privately, the content is the sole responsibility of the person or organization that submitted it. Although Snapchat reserves the right to review all content that appears on the Services and to remove any content that violates these Terms, we do not necessarily review all of it. So we cannot—and do not—take responsibility for any content that others provide through the Services.
 
-Through these Terms and our [Community Guidelines][8], we make clear that we do not want the Services put to bad uses. But because we do not review all content, we cannot guarantee that content on the Services will always conform to our Terms or Guidelines.
+Through these Terms and our [Community Guidelines][2], we make clear that we do not want the Services put to bad uses. But because we do not review all content, we cannot guarantee that content on the Services will always conform to our Terms or Guidelines.
 
 ## 5\. Privacy
 
-Your privacy matters to us. You can learn how we handle your information when you use our Services by reading our [privacy policy][11]. We encourage you to give the privacy policy a careful look because, by using our Services, you agree that Snapchat can collect, use, and transfer your information consistent with that policy.
+Your privacy matters to us. You can learn how we handle your information when you use our Services by reading our [privacy policy][5]. We encourage you to give the privacy policy a careful look because, by using our Services, you agree that Snapchat can collect, use, and transfer your information consistent with that policy.
 
 ## 6\. Respecting Other People's Rights
 
@@ -89,7 +79,7 @@ In short: You may not use the Services or the content on the Services in ways th
 
 Snapchat honors the requirements set forth in the Digital Millennium Copyright Act. We therefore take reasonable steps to expeditiously remove from our Services any infringing material that we become aware of. And if Snapchat becomes aware that one of its users has repeatedly infringed copyrights, we will take reasonable steps within our power to terminate the user's account.
 
-We make it easy for you to report suspected copyright infringement. If you believe that anything on the Services infringes a copyright that you own or control, please fill out this [form][12]. Or you may file a notice with our designated agent:
+We make it easy for you to report suspected copyright infringement. If you believe that anything on the Services infringes a copyright that you own or control, please fill out this [form][6]. Or you may file a notice with our designated agent:
 
 Snapchat, Inc.  
 Attn: Copyright Agent  
@@ -97,7 +87,7 @@ Attn: Copyright Agent
 Venice, CA 90291  
 email: copyright@snapchat.com
 
-If you file a notice with our Copyright Agent, it must comply with the requirements set forth at [17 U.S.C. § 512(c)(3)][13]. That means the notice must:
+If you file a notice with our Copyright Agent, it must comply with the requirements set forth at [17 U.S.C. § 512(c)(3)][7]. That means the notice must:
 
 * contain the physical or electronic signature of a person authorized to act on behalf of the copyright owner;
 * identify the copyrighted work claimed to have been infringed;
@@ -136,7 +126,7 @@ By using the Services, you agree that, in addition to exercising common sense:
 * You will not share your password.
 * You will not log in or attempt to access the Services through unauthorized third-party applications or clients.
 
-If you think that someone has gained access to your account, please immediately reach out to [Snapchat Support][14].
+If you think that someone has gained access to your account, please immediately reach out to [Snapchat Support][8].
 
 ## 10\. Purchases and Payments
 
@@ -193,7 +183,7 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, 
 PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY REQUIRE YOU TO ARBITRATE DISPUTES WITH SNAPCHAT, AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.
 
 1. **Applicability of Arbitration Agreement**. All claims and disputes arising out of or relating to these Terms or the use of the Services that cannot be resolved in small claims court will be resolved by binding arbitration on an individual basis, except that you and Snapchat are not required to arbitrate any dispute in which either party seeks equitable relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents.
-2. **Arbitration Rules**. The Federal Arbitration Act governs the interpretation and enforcement of this dispute-resolution provision. Arbitration will be initiated through the American Arbitration Association ("AAA"). If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms. The AAA Consumer Arbitration Rules governing the arbitration are available online at [www.adr.org][15] or by calling the AAA at 1-800-778-7879. The arbitration will be conducted by a single neutral arbitrator. Any claims or disputes where the total amount sought is less than $10,000 USD may be resolved through binding non-appearance-based arbitration, at the option of the party seeking relief. For claims or disputes where the total amount sought is $10,000 USD or more, the right to a hearing will be determined by the arbitral forum's rules. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+2. **Arbitration Rules**. The Federal Arbitration Act governs the interpretation and enforcement of this dispute-resolution provision. Arbitration will be initiated through the American Arbitration Association ("AAA"). If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms. The AAA Consumer Arbitration Rules governing the arbitration are available online at [www.adr.org][9] or by calling the AAA at 1-800-778-7879. The arbitration will be conducted by a single neutral arbitrator. Any claims or disputes where the total amount sought is less than $10,000 USD may be resolved through binding non-appearance-based arbitration, at the option of the party seeking relief. For claims or disputes where the total amount sought is $10,000 USD or more, the right to a hearing will be determined by the arbitral forum's rules. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
 3. **Additional Rules for Non-appearance Arbitration**. If non-appearance arbitration is elected, the arbitration will be conducted by telephone, online, written submissions, or any combination of the three; the specific manner will be chosen by the party initiating the arbitration. The arbitration will not involve any personal appearance by the parties or witnesses unless the parties mutually agree otherwise.
 4. **Authority of the Arbitrator**. The arbitrator will decide the jurisdiction of the arbitrator and the rights and liabilities, if any, of you and Snapchat. The dispute will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator will have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator will have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law, the arbitral forum's rules, and the Terms. The arbitrator will issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and Snapchat.
 5. **Waiver of Jury Trial**. YOU AND SNAPCHAT WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO GO TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and Snapchat are instead electing to have claims and disputes resolved by arbitration. Arbitration procedures are typically more limited, more efficient, and less costly than rules applicable in court and are subject to very limited review by a court. In any litigation between you and Snapchat over whether to vacate or enforce an arbitration award, YOU AND SNAPCHAT WAIVE ALL RIGHTS TO A JURY TRIAL, and elect instead to have the dispute be resolved by a judge.
@@ -235,58 +225,12 @@ Snapchat welcomes comments, questions, concerns, or suggestions. Please send fee
 
 Snapchat, Inc. is located in the United States at 63 Market Street, Venice, California 90291.
 
-##### Company
-
-[Home][6] [Blog][16] [Jobs][3] [Press Inquiries][17] [Twitter][18]
-
-##### Language
-
-##### [Download][19]
-
-[Snapchat for iOS][20] [Snapchat for Android][21]
-
-##### Community
-
-[Support][4] [Community Guidelines][8] [Safety Center][22] [Snapcodes][23] [Geofilters][2]
-
-##### Business
-
-[Advertising][24] [Inquiries][25] [Advertising Policies][26] [Brand Guidelines][27] [Promotions Rules][28]
-
-##### Legal
-
-[Terms of Service][29] [Privacy Policy][11] [Privacy Center][30] [Cookie Policy][31] [Copyright][12]
-
-Hi! We use cookies on this website to help operate our site and for analytics purposes. For more on how we use cookies and your cookie choices, go [here][31]! By continuing to use our services, you are giving us your consent to use cookies.
-
-[1]: /live
-[2]: /geofilters
-[3]: /jobs
-[4]: https://support.snapchat.com/
-[5]: https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg?version=2015-06-26-a
-[6]: /
-[7]: /us-tos-amendment
-[8]: https://support.snapchat.com/a/guidelines
-[9]: https://www.snapchat.com/privacy
-[10]: https://support.snapchat.com
-[11]: /privacy
-[12]: https://support.snapchat.com/co/report-copyright
-[13]: https://www.law.cornell.edu/uscode/text/17/512
-[14]: https://support.snapchat.com/a/hacked-howto
-[15]: http://www.adr.org
-[16]: /blog
-[17]: https://support.snapchat.com/a/press
-[18]: https://twitter.com/snapchat
-[19]: /download "Download Snapchat"
-[20]: https://itunes.apple.com/us/app/snapchat/id447188370
-[21]: https://play.google.com/store/apps/details?id=com.snapchat.android
-[22]: /safety
-[23]: https://accounts.snapchat.com/accounts/snapcodes
-[24]: /ads
-[25]: https://support.snapchat.com/co/inquiries
-[26]: /ads/policies
-[27]: /brand-guidelines
-[28]: https://support.snapchat.com/a/promotions-rules
-[29]: /terms
-[30]: /privacy-center
-[31]: /cookie-policy
+[1]: /us-tos-amendment
+[2]: https://support.snapchat.com/a/guidelines
+[3]: https://www.snapchat.com/privacy
+[4]: https://support.snapchat.com
+[5]: /privacy
+[6]: https://support.snapchat.com/co/report-copyright
+[7]: https://www.law.cornell.edu/uscode/text/17/512
+[8]: https://support.snapchat.com/a/hacked-howto
+[9]: http://www.adr.org
