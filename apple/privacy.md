@@ -1,37 +1,10 @@
-[Source](https://www.apple.com/privacy/privacy-policy/ "Permalink to Privacy - Our Privacy Policy - Apple")
-
-# Privacy - Our Privacy Policy - Apple
-
-* Open Menu Close Menu
-* [ Apple ][1]
-* [ Shopping Bag ][2]
-* [ Apple ][1]
-* [ Mac ][3]
-* [ iPad ][4]
-* [ iPhone ][5]
-* [ Watch ][6]
-* [ TV ][7]
-* [ Music ][8]
-* [ Support ][9]
-* [ Search apple.com ][10]
-* [ Shopping Bag ][2]
-
-##  [Privacy][11]
-
-Open Menu Close Menu
-
-* [Our Approach to Privacy][12]
-* [Manage Your Privacy][13]
-* [Government Information Requests][14]
-* Our Privacy Policy
-
 # Privacy Policy
 
 ##### The Apple Privacy Policy was updated on May 31, 2016.
 
-Your privacy is important to Apple. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know][15] if you have any questions.
+Your privacy is important to Apple. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know][1] if you have any questions.
 
-[Your California Privacy Disclosures][16] [Information Regarding Commercial Electronic Messages in Canada][17]
+[Your California Privacy Disclosures][2] [Information Regarding Commercial Electronic Messages in Canada][3]
 
 ##### Collection and Use of Personal Information
 
@@ -49,11 +22,11 @@ Here are some examples of the types of personal information Apple may collect an
 
 ###### How we use your personal information
 
-* The personal information we collect allows us to keep you posted on Apple's latest product announcements, software updates, and upcoming events. If you don't want to be on our mailing list, you can opt out anytime by [updating your preferences][18].
+* The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by [updating your preferences][4].
 * We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes.
 * We may use your personal information, including date of birth, to verify identity, assist with identification of users, and to determine appropriate services. For example, we may use date of birth to determine the age of Apple ID account holders.
 * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Apple, you may not opt out of receiving these communications.
-* We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple's products, services, and customer communications.
+* We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple’s products, services, and customer communications.
 * If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
 ##### Collection and Use of Non-Personal Information
@@ -69,25 +42,25 @@ If we do combine non-personal information with personal information the combined
 
 ##### Cookies and Other Technologies
 
-Apple's websites, online services, interactive applications, email messages, and advertisements may use ["cookies" and other technologies][19] such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+Apple’s websites, online services, interactive applications, email messages, and advertisements may use “[cookies” and other technologies][5] such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com.][20] Alternatively, if you are using the iOS 6 operating system or later on your mobile device, you may opt-out by selecting Limit Ad Tracking. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third-party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads.
+Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com.][6] Alternatively, if you are using the iOS 6 operating system or later on your mobile device, you may opt-out by selecting Limit Ad Tracking. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third-party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads.
 
 Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, hardware identifiers, and information about your computer or device helps us personalize your operating system, set up your iCloud service, and provide you with better customer service.
 
-If you want to disable cookies and you're using the Safari web browser, go to Safari preferences and then to the privacy pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled.
+If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the privacy pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled.
 
 As is true of most internet services, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit websites and applications, operating system, date/time stamp, and clickstream data.
 
 We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, to improve our product and services, and to gather demographic information about our user base as a whole. Apple may use this information in our marketing and advertising services.
 
-In some of our email messages, we use a "click-through URL" linked to content on the Apple website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+In some of our email messages, we use a “click-through URL” linked to content on the Apple website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
 
 Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
 
 ##### Disclosure to Third Parties
 
-At times Apple may make certain personal information available to strategic partners that work with Apple to provide products and services, or that help Apple market to customers. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service. If you are approved for service, your account will be governed by Apple and your carrier's respective privacy policies. Personal information will only be shared by Apple to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
+At times Apple may make certain personal information available to strategic partners that work with Apple to provide products and services, or that help Apple market to customers. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service. If you are approved for service, your account will be governed by Apple and your carrier’s respective privacy policies. Personal information will only be shared by Apple to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
 
 ###### Service Providers
 
@@ -105,7 +78,7 @@ Apple takes the security of your personal information very seriously. Apple onli
 
 When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
 
-If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third-party device thereby disclosing any such shared information. [See [About Family Sharing][21] for more information.]
+If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third-party device thereby disclosing any such shared information. [See [About Family Sharing][7] for more information.]
 
 ##### Integrity and Retention of Personal Information
 
@@ -113,23 +86,23 @@ Apple makes it easy for you to keep your personal information accurate, complete
 
 ##### Access to Personal Information
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <https://appleid.apple.com/>. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional [Privacy Contact Form][15].
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <https://appleid.apple.com/>. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional [Privacy Contact Form][1].
 
 ##### Children & Education
 
-We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided verifiable consent or as part of the child account creation process in Family Sharing or they have obtained a Managed Apple ID account (where available) through their school. For example, a parent must review the [Apple ID and Family Sharing Disclosure][22] and agree to the [Consent to Apple's Collection, Use and Disclosure of Your Child's Information][23]; and the [iTunes Store Terms and Conditions][24], before they can begin the Apple ID account creation process for their child. In addition, schools that participate in Apple School Manager and have reviewed and consented to the Managed Apple IDs for Students Disclosure may create Managed Apple IDs for students. The [Managed Apple IDs for Students Disclosure][25] describes how Apple handles student information and supplements Apple's Privacy Policy. Learn more about [Family Sharing][26], the [Managed Apple IDs][27] and [Restrictions][28] for children's accounts.
+We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided verifiable consent or as part of the child account creation process in Family Sharing or they have obtained a Managed Apple ID account (where available) through their school. For example, a parent must review the [Apple ID and Family Sharing Disclosure][8] and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information][9]; and the [iTunes Store Terms and Conditions][10], before they can begin the Apple ID account creation process for their child. In addition, schools that participate in Apple School Manager and have reviewed and consented to the Managed Apple IDs for Students Disclosure may create Managed Apple IDs for students. The [Managed Apple IDs for Students Disclosure][11] describes how Apple handles student information and supplements Apple’s Privacy Policy. Learn more about [Family Sharing][12], the [Managed Apple IDs][13] and [Restrictions][14] for children’s accounts.
 
 If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, outside the above circumstances we will take steps to delete the information as soon as possible.
 
-If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child's Apple ID, they may contact us through our [Privacy Contact Form][15].
+If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form][1].
 
-Or by using the contact information [here][29].
+Or by using the contact information [here][15].
 
 ##### Location-Based Services
 
-To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your devices' approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, your device may share its geographic location with application providers when you opt in to their location services.
+To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your devices’ approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, your device may share its geographic location with application providers when you opt in to their location services.
 
-Some location-based services offered by Apple, such as the "Find My iPhone" feature, require your personal information for the feature to work.
+Some location-based services offered by Apple, such as the “Find My iPhone” feature, require your personal information for the feature to work.
 
 ##### Third‑Party Sites and Services
 
@@ -137,11 +110,11 @@ Apple websites, products, applications, and services may contain links to third-
 
 ##### International Users
 
-All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple abides by the "safe harbor" frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Safe Harbor Program][30].
+All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple abides by the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Safe Harbor Program][16].
 
 Please note that personal information, including the information provided when using iCloud, regarding individuals who reside in a member state of the European Economic Area (EEA) and Switzerland is controlled by Apple Distribution International in Cork, Ireland, and processed on its behalf by Apple Inc. Personal information collected in the EEA and Switzerland when using iTunes is controlled by iTunes SARL in Luxembourg and processed on its behalf by Apple Inc.
 
-Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System][31]. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies.
+Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System][17]. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies.
 
 ##### Our Companywide Commitment to Your Privacy
 
@@ -149,7 +122,7 @@ To make sure your personal information is secure, we communicate our privacy and
 
 ##### Privacy Questions
 
-If you have any questions or concerns about Apple's Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us][15]. You can always contact us by phone at the relevant [Apple Support][32] number for your country.
+If you have any questions or concerns about Apple’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us][1]. You can always contact us by phone at the relevant [Apple Support][18] number for your country.
 
 All such communications are examined and replies issued where appropriate as soon as possible. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
 
@@ -157,168 +130,24 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
-![Validate TRUSTe privacy certification][33]
+![Validate TRUSTe privacy certification][19]
 
-## Apple Footer
-
-* Last updated: 1 February, 2016
-[  Apple ][1]
-
-1. [Privacy][11]
-2. Privacy Policy
-
-### Shop and Learn
-
-Open Menu Close Menu
-
-* [Mac][3]
-* [iPad][4]
-* [iPhone][5]
-* [Watch][6]
-* [TV][7]
-* [Music][8]
-* [iTunes][34]
-* [iPod][35]
-* [Accessories][36]
-* [Gift Cards][37]
-
-### Apple Store
-
-Open Menu Close Menu
-
-* [Find a Store][38]
-* [Genius Bar][39]
-* [Workshops and Learning][40]
-* [Youth Programs][41]
-* [Apple Store App][42]
-* [Refurbished][43]
-* [Financing][44]
-* [Reuse and Recycling][45]
-* [Order Status][46]
-* [Shopping Help][47]
-
-### For Education
-
-Open Menu Close Menu
-
-* [Apple and Education][48]
-* [Shop for College][49]
-
-### For Business
-
-Open Menu Close Menu
-
-* [Apple and Business][50]
-* [Shop for Business][51]
-
-### Account
-
-Open Menu Close Menu
-
-* [Manage Your Apple ID][52]
-* [Apple Store Account][46]
-* [iCloud.com][53]
-
-### Apple Values
-
-Open Menu Close Menu
-
-* [Environment][54]
-* [Supplier Responsibility][55]
-* [Accessibility][56]
-* [Privacy][11]
-* [Inclusion and Diversity][57]
-* [Education][58]
-
-### About Apple
-
-Open Menu Close Menu
-
-* [Apple Info][59]
-* [Job Opportunities][60]
-* [Press Info][61]
-* [Investors][62]
-* [Events][63]
-* [Hot News][64]
-* [Contact Apple][65]
-
-More ways to shop: Visit an [Apple Store][38], call 1-800-MY-APPLE, or [find a reseller][66].
-
-[United States][67]
-
-Copyright © 2016 Apple Inc. All rights reserved.
-
-[Privacy Policy][68] [Terms of Use][69] [Sales and Refunds][70] [Legal][71] [Site Map][72]
-
-[1]: /
-[2]: /us/shop/goto/bag
-[3]: /mac/
-[4]: /ipad/
-[5]: /iphone/
-[6]: /watch/
-[7]: /tv/
-[8]: /music/
-[9]: https://support.apple.com/
-[10]: /us/search
-[11]: /privacy/
-[12]: /privacy/approach-to-privacy/
-[13]: /privacy/manage-your-privacy/
-[14]: /privacy/government-information-requests/
-[15]: /legal/privacy/en-ww/contact/
-[16]: /legal/privacy/california-dnt/
-[17]: /legal/privacy/en-ww/canada-notice/
-[18]: https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa/wa/chooseYourCountry
-[19]: /legal/privacy/en-ww/cookies/
-[20]: https://support.apple.com/en-us/HT202074
-[21]: /icloud/family-sharing/
-[22]: /legal/privacy/en-ww/parent-disclosure/
-[23]: /legal/privacy/en-ww/parent-disclosure/#consent
-[24]: /legal/internet-services/itunes
-[25]: /legal/education/apple-school-manager
-[26]: /icloud/family-sharing
-[27]: /education/it
-[28]: http://support.apple.com/kb/HT4213
-[29]: https://www.apple.com/legal/privacy/en-ww/?#questions
-[30]: http://www.export.gov/safeharbor/index.asp
-[31]: http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx
-[32]: http://support.apple.com/kb/HE57
-[33]: https://www.apple.com//privacy-policy.truste.com/privacy-seal/Apple-Inc-/seal?rid=475ebc68-8308-40d2-9bf2-bd2b3437dca1
-[34]: /itunes/
-[35]: /ipod/
-[36]: /us/shop/goto/buy_accessories
-[37]: /us/shop/goto/giftcards
-[38]: /retail/
-[39]: /retail/geniusbar/
-[40]: /retail/learn/
-[41]: /retail/learn/youth/
-[42]: https://itunes.apple.com/app/apple-store/id375380948?mt=8
-[43]: /us/shop/goto/special_deals
-[44]: /us/shop/goto/payment_plan
-[45]: /us/shop/goto/reuse_and_recycle
-[46]: /us/shop/goto/account
-[47]: /us/shop/goto/help
-[48]: /education/
-[49]: /us/shop/goto/educationrouting
-[50]: /business/
-[51]: /retail/business/
-[52]: https://appleid.apple.com/us/
-[53]: https://www.icloud.com
-[54]: /environment/
-[55]: /supplier-responsibility/
-[56]: /accessibility/
-[57]: /diversity/
-[58]: /education/connectED/
-[59]: /about/
-[60]: https://www.apple.com/jobs/us/
-[61]: /pr/
-[62]: http://investor.apple.com
-[63]: /apple-events/
-[64]: /hotnews/
-[65]: /contact/
-[66]: https://locate.apple.com/
-[67]: /choose-your-country/ "Choose your country or region"
-[68]: /privacy/privacy-policy/
-[69]: /legal/internet-services/terms/site.html
-[70]: /us/shop/goto/help/sales_refunds
-[71]: /legal/
-[72]: /sitemap/
+[1]: /legal/privacy/en-ww/contact/
+[2]: /legal/privacy/california-dnt/
+[3]: /legal/privacy/en-ww/canada-notice/
+[4]: https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa/wa/chooseYourCountry
+[5]: /legal/privacy/en-ww/cookies/
+[6]: https://support.apple.com/en-us/HT202074
+[7]: /icloud/family-sharing/
+[8]: /legal/privacy/en-ww/parent-disclosure/
+[9]: /legal/privacy/en-ww/parent-disclosure/#consent
+[10]: /legal/internet-services/itunes
+[11]: /legal/education/apple-school-manager
+[12]: /icloud/family-sharing
+[13]: /education/it
+[14]: http://support.apple.com/kb/HT4213
+[15]: https://www.apple.com/legal/privacy/en-ww/?#questions
+[16]: http://www.export.gov/safeharbor/index.asp
+[17]: http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx
+[18]: http://support.apple.com/kb/HE57
+[19]: //privacy-policy.truste.com/privacy-seal/Apple-Inc-/seal?rid=475ebc68-8308-40d2-9bf2-bd2b3437dca1
