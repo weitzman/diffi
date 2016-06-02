@@ -1,159 +1,14 @@
-[Source](https://www.whitehouse.gov/privacy "Permalink to White House Online Privacy Policy | The White House")
-
-# White House Online Privacy Policy | The White House
-
-Skip to Content Skip to Navigation
-
-the _White House _ President Barack Obama
-
-* [Contact Us][1]
-* [Get Email Updates][2]
-
-Main Menu
-
-[Home][3]
-
-* [Briefing Room][4]
-
-    * From the News Room
-        * [Latest News Read the latest blog posts from 1600 Pennsylvania Ave][5]
-        * [Share-Worthy Check out the most popular infographics and videos][6]
-        * [Photos View the photo of the day and other galleries][7]
-        * [Video Gallery Watch behind-the-scenes videos and more][8]
-        * [Live Events Tune in to White House events and statements as they happen][9]
-        * [Music & Arts Performances See the lineup of artists and performers at the White House][10]
-    * From the Press Office
-        * [Your Weekly Address][11]
-        * [Speeches & Remarks][12]
-        * [Press Briefings][13]
-        * [Statements & Releases][14]
-        * [White House Schedule][15]
-        * [Presidential Actions][16]
-        * [Legislation][17]
-        * [Nominations & Appointments][18]
-        * [Disclosures][19]
-* [Issues][20]
-
-    * Popular Topics
-        * [SCOTUS Nomination][21]
-        * [Criminal Justice Reform][22]
-        * [The Record][23]
-        * [Cuba][24]
-        * [21st Century Policing][25]
-        * [See All][20]
-    * Top Issues
-        * [Civil Rights][26]
-        * [Climate Change][27]
-        * [Economy][28]
-        * [Education][29]
-        * [Foreign Policy][30]
-        * [Health Care][31]
-        * [Immigration][32]
-        * [Iran Deal][33]
-    * More
-        * [Defense][34]
-        * [Disabilities][35]
-        * [Ethics][36]
-        * [Equal Pay][37]
-        * [Homeland Security][38]
-        * [Reducing Gun Violence][39]
-        * [Rural][40]
-        * [Service][41]
-    * More
-        * [Seniors & Social Security][42]
-        * [Taxes][43]
-        * [Technology][44]
-        * [Trade][45]
-        * [Urban and Economic Mobility][46]
-        * [Veterans][47]
-        * [Women][48]
-* [The Administration][49]
-
-    * People
-        * [President Barack Obama][50]
-        * [Vice President Joe Biden][51]
-        * [First Lady Michelle Obama][52]
-        * [Dr. Jill Biden][53]
-        * [The Cabinet][54]
-        * [Senior White House Leadership][55]
-        * [Executive Office of the President][56]
-        * [Other Advisory Boards][57]
-    * Executive Offices
-        * [Office of Management and Budget][58]
-        * [Office of Science and Technology Policy][59]
-        * [Council of Economic Advisers][60]
-        * [Council on Environmental Quality][61]
-        * [National Security Council][62]
-        * [See All][56]
-    * Initiatives
-        * [Let's Move][63]
-        * [Joining Forces][64]
-        * [Reach Higher][65]
-        * [My Brother's Keeper][66]
-        * [Precision Medicine][67]
-    * Special Events
-        * [State of the Union][68]
-        * [Medal of Freedom][69]
-* [Participate][70]
-
-    * Digital
-        * [Follow Us on Social Media][71]
-        * [We the Geeks Hangouts][72]
-        * [Mobile Apps][73]
-        * [Developer Tools][74]
-        * [Tools You Can Use][75]
-    * Join Us
-        * [Tours and Events][76]
-        * [Jobs with the Administration][77]
-        * [Internships][78]
-        * [White House Fellows][79]
-        * [Presidential Innovation Fellows][80]
-        * [United States Digital Service][81]
-        * [Leadership Development Program][82]
-    * Speak Out
-        * [We the People Petitions][83]
-        * [Contact the White House][1]
-        * [Citizens Medal][84]
-        * [Champions of Change][85]
-* [1600 Penn][86]
-
-    * Inside the White House
-        * [Interactive Tour][87]
-        * [West Wing Tour][88]
-        * [Video Series][89]
-        * [Décor and Art][90]
-        * [Holidays][91]
-        * [See All][92]
-    * History and Grounds
-        * [Presidents][93]
-        * [First Ladies][94]
-        * [The Vice President's Residence & Office][95]
-        * [Eisenhower Executive Office Building][96]
-        * [Camp David][97]
-        * [Air Force One][98]
-    * Our Government
-        * [The Executive Branch][99]
-        * [The Legislative Branch][100]
-        * [The Judicial Branch][101]
-        * [The Constitution][102]
-        * [Federal Agencies & Commissions][103]
-        * [Elections & Voting][104]
-        * [State & Local Government][105]
-        * [Resources][106]
-
-Search
-
 #  Our Online Privacy Policy
 
-![][107]
+![][1]
 
 ## Privacy Intro
 
-**Privacy Policy Pages:** Privacy Policy | [Our Cookie Policy][108] | [Current Third-Party Pages][109]
+**Privacy Policy Pages:** Privacy Policy | [Our Cookie Policy][2] | [Current Third-Party Pages][3]
 
 The White House is committed to protecting individual privacy and securing the personal information made available to us when you visit WhiteHouse.gov, use our mobile app, or visit White House pages hosted by other sites (such as our official profiles on social networking sites). This Privacy Policy describes what information is made available to the White House and how that information is used and retained, and provides information on:
 
-* **Information we receive** (when you provide it, visit [WhiteHouse.gov][110], use the WhiteHouse.gov mobile app, receive email updates, or interact with official White House presences on third-party sites)
+* **Information we receive** (when you provide it, visit [WhiteHouse.gov][4], use the WhiteHouse.gov mobile app, receive email updates, or interact with official White House presences on third-party sites)
 * **How this information is used**
 * **Sharing of this information**
 * **Data retention**
@@ -161,9 +16,9 @@ The White House is committed to protecting individual privacy and securing the p
 * **Children and privacy**
 * **Security**
 
-**If you have questions about this policy or suggestions for its improvement, please let us know at [WhiteHouse.gov/Privacy/Feedback][111].**
+**If you have questions about this policy or suggestions for its improvement, please let us know at [WhiteHouse.gov/Privacy/Feedback][5].**
 
-[**En español][112]**
+[**En español][6]**
 
 ## Information Received and Retained by White House Online Platforms
 
@@ -171,9 +26,9 @@ The White House is committed to protecting individual privacy and securing the p
 
 You do not have to provide the White House with any personal information or create a user account to access information on WhiteHouse.gov. However, for some services, we may need some personal information from you such as your name, address, telephone number, and email address. For example:
 
-* The “[Contact the White House” form][113] asks for basic contact information so we can respond to your request;
+* The “[Contact the White House” form][7] asks for basic contact information so we can respond to your request;
 * When we ask users to share their story or how a policy decision will impact them, we generally ask for their name, zip code, and email address;
-* Creating a user account for our online petitions platform “[We the People”][114] requires a valid email address and a first and last name; and
+* Creating a user account for our online petitions platform “[We the People”][8] requires a valid email address and a first and last name; and
 * We may ask for personal information from people applying to, registering for, or participating in a White House event or competition.
 
 ####  Visits to WhiteHouse.gov
@@ -187,11 +42,11 @@ When you visit WhiteHouse.gov, the following basic information is automatically 
 * The internet address, or URL, of the website that connected you to our site, if you accessed WhiteHouse.gov via a link on another page (i.e., “referral traffic”); and
 * The amount of data transmitted from WhiteHouse.gov to your computer.
 
-The White House also uses web measurement and customization technologies (such as “cookies"). You can choose not to accept cookies from any website, including WhiteHouse.gov, by changing your browser settings. [Click here to learn more about how we use cookies][115].
+The White House also uses web measurement and customization technologies (such as “cookies"). You can choose not to accept cookies from any website, including WhiteHouse.gov, by changing your browser settings. [Click here to learn more about how we use cookies][9].
 
 ####  Using the WhiteHouse.gov Mobile Application
 
-When you use the WhiteHouse.gov [Mobile Application][116] (“App”), the App pulls content from the White House website, generating the same basic information as when you visit WhiteHouse.gov (see Visits to WhiteHouse.gov). The WhiteHouse.gov Mobile App does not collect geolocation information or use location services.
+When you use the WhiteHouse.gov [Mobile Application][10] (“App”), the App pulls content from the White House website, generating the same basic information as when you visit WhiteHouse.gov (see Visits to WhiteHouse.gov). The WhiteHouse.gov Mobile App does not collect geolocation information or use location services.
 
 You may sign up to receive “push notification” messages via a third party provider (currently Urban Airship). To make sure messages reach the correct devices, our third party provider relies on a device token unique to your mobile device. While we may be able to access a list of the tokens, the App and tokens do not reveal your identity, unique device ID, or contact information to us. If, at any time, you wish to stop receiving push notifications, simply adjust your phone settings or remove the App.
 
@@ -212,13 +67,13 @@ If, at any time, you wish to stop receiving our messages, simply click on the �
 
 ####  Third-Party Websites
 
-The White House maintains official pages or accounts on third-party websites in order to better engage with the American public ([a current list is here][117]). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user community, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
+The White House maintains official pages or accounts on third-party websites in order to better engage with the American public ([a current list is here][11]). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user community, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
 
-For the sole purpose of complying with the [Presidential Records Act][118], the White House archives some information that users submit or publish when engaging with the White House through official White House pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. For example:
+For the sole purpose of complying with the [Presidential Records Act][12], the White House archives some information that users submit or publish when engaging with the White House through official White House pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. For example:
 
-* On Twitter, the White House automatically archives “tweets” from official White House accounts, “direct messages” sent to or from official White House accounts, and “mentions” (tweets from other users to official White House accounts; these tweets contain an @ and the username of an official White House account (e.g., [@WhiteHouse][119]). The White House also automatically archives any status that official accounts have “favorited.”
+* On Twitter, the White House automatically archives “tweets” from official White House accounts, “direct messages” sent to or from official White House accounts, and “mentions” (tweets from other users to official White House accounts; these tweets contain an @ and the username of an official White House account (e.g., [@WhiteHouse][13]). The White House also automatically archives any status that official accounts have “favorited.”
 * On Facebook, the White House automatically archives all content created by official White House pages, content that tags an official White House page, and any content posted on official White House pages (for example, the number of likes to the page and comments posted).
-* On Google+, the White House automatically archives all content posted by official White House accounts, as well as the number of likes/comments/shares on each of those posts (including the comments themselves). The White House also automatically archives the total number of Google+ users that have added our page to a “Circle,” and the list of users that White House accounts have added to “Circles.”
+* On Google , the White House automatically archives all content posted by official White House accounts, as well as the number of likes/comments/shares on each of those posts (including the comments themselves). The White House also automatically archives the total number of Google users that have added our page to a “Circle,” and the list of users that White House accounts have added to “Circles.”
 
 For aggregate statistical analysis and to improve the quality of our services, we may integrate web measurement tools with our social media pages. These tools enable basic analysis of social media traffic (such as the number of people visiting a certain page) and do not collect personally identifiable information.
 
@@ -230,9 +85,9 @@ We may use data you provide and automatically generated data for statistical ana
 
 ## Sharing of this Information
 
-Information you choose to share with the White House (directly and via third party sites) may be treated as public information. We may, for example, publish compilations of messages or comments collected through WhiteHouse.gov or official social media pages and provide them to national leaders, members of the press, or other individuals outside of the Federal Government. And the [We the People API][120] allows public access to some We the People signature data. However, we exercise discretion to limit such disclosures to protect your privacy (for example, we generally do not publish last names of commenters).
+Information you choose to share with the White House (directly and via third party sites) may be treated as public information. We may, for example, publish compilations of messages or comments collected through WhiteHouse.gov or official social media pages and provide them to national leaders, members of the press, or other individuals outside of the Federal Government. And the [We the People API][14] allows public access to some We the People signature data. However, we exercise discretion to limit such disclosures to protect your privacy (for example, we generally do not publish last names of commenters).
 
-The White House uses a third-party analytics provider (currently Google Analytics) to analyze data from cookies. The third-party analytics provider does not receive personally identifiable information through these cookies and is prohibited from combining, matching or cross-referencing WhiteHouse.gov information with any other information. We have also limited the provider’s ability to see your full IP address (a process known as “IP masking”). Please review Google Analytics’ [privacy policy][121] for additional information.
+The White House uses a third-party analytics provider (currently Google Analytics) to analyze data from cookies. The third-party analytics provider does not receive personally identifiable information through these cookies and is prohibited from combining, matching or cross-referencing WhiteHouse.gov information with any other information. We have also limited the provider’s ability to see your full IP address (a process known as “IP masking”). Please review Google Analytics’ [privacy policy][15] for additional information.
 
 Within the White House, we restrict access to personally identifiable information to employees, contractors, and vendors subject to non-disclosure requirements who require access to this information in order to perform their official duties and exercise controls to limit what data they can view based on the specific needs of their position.
 
@@ -242,7 +97,7 @@ We do not use or share your information for commercial purposes and, except as d
 
 ## Data Retention
 
-Under the [Presidential Records Act (PRA)][118], we are generally required to retain information until the end of the current Administration, at which time it will be transferred to the National Archives and Records Administration (NARA). NARA may eventually release this material to the public, but will withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released. Access to this information may be requested under the Freedom of Information Act (FOIA) five years after the end of the current Administration.
+Under the [Presidential Records Act (PRA)][12], we are generally required to retain information until the end of the current Administration, at which time it will be transferred to the National Archives and Records Administration (NARA). NARA may eventually release this material to the public, but will withhold any information that would constitute a clearly unwarranted invasion of personal privacy if released. Access to this information may be requested under the Freedom of Information Act (FOIA) five years after the end of the current Administration.
 
 NARA or the White House may choose to dispose of information lacking in historical value through procedures under the PRA. The White House currently disposes of certain information under those procedures:
 
@@ -260,15 +115,15 @@ WhiteHouse.gov and other White House platforms and pages may link to websites cr
 
 ####  White House Pages on Third-Party Websites
 
-Your activity on those sites ([a current list is here][117]) is governed by the third-party website’s security and privacy policies. The White House has conducted and published a [Privacy Impact Assessment of Third-Party Sites][122], which includes more information about these issues and can be accessed [here][122].
+Your activity on those sites ([a current list is here][11]) is governed by the third-party website’s security and privacy policies. The White House has conducted and published a [Privacy Impact Assessment of Third-Party Sites][16], which includes more information about these issues and can be accessed [here][16].
 
 ####  White House Content Embedded in Third-Party Sites
 
-In some instances, a third-party website may feature embedded White House content served by WhiteHouse.gov. For example, other websites might embed the WhiteHouse.gov’s “[Taxpayer Receipt][123]” calculator. The embedded WhiteHouse.gov content automatically generates White House server logs (see Visits to WhiteHouse.gov) and may set a White House cookie (see [Cookies][124]).
+In some instances, a third-party website may feature embedded White House content served by WhiteHouse.gov. For example, other websites might embed the WhiteHouse.gov’s “[Taxpayer Receipt][17]” calculator. The embedded WhiteHouse.gov content automatically generates White House server logs (see Visits to WhiteHouse.gov) and may set a White House cookie (see [Cookies][18]).
 
 ## Children and Privacy on WhiteHouse.gov
 
-We believe in the importance of protecting the privacy of children online. The [Children’s Online Privacy Protection Act (COPPA)][125] governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. Our site is not intended to solicit information of any kind from children under age 13. If you believe that we have received information from or about children under age 13, please contact us through the [Privacy Feedback form][111].
+We believe in the importance of protecting the privacy of children online. The [Children’s Online Privacy Protection Act (COPPA)][19] governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. Our site is not intended to solicit information of any kind from children under age 13. If you believe that we have received information from or about children under age 13, please contact us through the [Privacy Feedback form][5].
 
 ## Security
 
@@ -284,7 +139,7 @@ We will revise or update this policy from time to time. If we make significant c
 
 Updated: December 19, 2015
 
-Previous version(s) of this policy may be accessed on the [archive page][126].
+Previous version(s) of this policy may be accessed on the [archive page][20].
 
 ## Glossary
 
@@ -308,129 +163,23 @@ Go back up to the term in use.
 
 Go back up to the term in use.
 
-[1]: http://www.whitehouse.gov/contact
-[2]: /get-email-updates
-[3]: / "Home"
-[4]: /briefing-room
-[5]: https://www.whitehouse.gov/blog "Read the latest blog posts from 1600 Pennsylvania Ave"
-[6]: /share/all "Check out the most popular infographics and videos"
-[7]: /slideshows "View the photo of the day and other galleries"
-[8]: /video "Watch behind-the-scenes videos and more"
-[9]: http://www.whitehouse.gov/live "Tune in to White House events and statements as they happen"
-[10]: https://www.whitehouse.gov/performances "See the lineup of artists and performers at the White House"
-[11]: /briefing-room/weekly-address
-[12]: /briefing-room/speeches-and-remarks
-[13]: /briefing-room/press-briefings
-[14]: /briefing-room/statements-and-releases
-[15]: /schedule/complete
-[16]: /briefing-room/presidential-actions
-[17]: /briefing-room/legislation
-[18]: /briefing-room/nominations-and-appointments
-[19]: https://www.whitehouse.gov/briefing-room/disclosures
-[20]: /issues
-[21]: https://www.whitehouse.gov/scotus
-[22]: https://www.whitehouse.gov/issues/criminal-justice-reform
-[23]: https://www.whitehouse.gov/the-record
-[24]: https://www.whitehouse.gov/issues/foreign-policy/cuba
-[25]: https://www.whitehouse.gov/blog/2015/07/28/presidents-task-force-21st-century-policing-recommendations-print-action
-[26]: /issues/civil-rights
-[27]: /climate-change
-[28]: /economy
-[29]: /issues/education
-[30]: /issues/foreign-policy
-[31]: /healthreform
-[32]: /issues/immigration
-[33]: https://www.whitehouse.gov/issues/foreign-policy/iran-deal
-[34]: http://www.whitehouse.gov/issues/defense
-[35]: https://www.whitehouse.gov/issues/disabilities
-[36]: /21stcenturygov
-[37]: /issues/equal-pay
-[38]: https://www.whitehouse.gov/issues/homeland-security
-[39]: https://www.whitehouse.gov/blog/2016/01/04/live-updates-what-president-doing-keep-guns-out-wrong-hands
-[40]: /administration/eop/rural-council
-[41]: https://www.whitehouse.gov/issues/service
-[42]: https://www.whitehouse.gov/issues/seniors-and-social-security
-[43]: https://www.whitehouse.gov/issues/taxes
-[44]: https://www.whitehouse.gov/issues/technology
-[45]: https://www.whitehouse.gov/issues/economy/trade
-[46]: /issues/urban-and-economic-mobility
-[47]: /issues/veterans
-[48]: https://www.whitehouse.gov/administration/eop/cwg
-[49]: /administration
-[50]: /administration/president-obama
-[51]: /administration/vice-president-biden
-[52]: /administration/first-lady-michelle-obama
-[53]: /administration/jill-biden
-[54]: http://www.whitehouse.gov/administration/cabinet
-[55]: http://www.whitehouse.gov/administration/senior-leadership
-[56]: /administration/eop
-[57]: /administration/other-advisory-boards
-[58]: /omb
-[59]: /administration/eop/ostp
-[60]: /administration/eop/cea
-[61]: /administration/eop/ceq
-[62]: https://www.whitehouse.gov/administration/eop/nsc/
-[63]: http://www.letsmove.gov/
-[64]: /joiningforces
-[65]: https://www.whitehouse.gov/reach-higher
-[66]: https://www.whitehouse.gov/my-brothers-keeper
-[67]: https://www.whitehouse.gov/precision-medicine
-[68]: http://www.whitehouse.gov/sotu
-[69]: https://www.whitehouse.gov/medal-of-freedom
-[70]: /participate
-[71]: /engage/social-hub
-[72]: https://www.whitehouse.gov/we-the-geeks
-[73]: /mobile
-[74]: https://www.whitehouse.gov/developers
-[75]: /tools
-[76]: https://www.whitehouse.gov/participate/tours-and-events
-[77]: https://apply.whitehouse.gov/
-[78]: https://www.whitehouse.gov/participate/internships
-[79]: https://www.whitehouse.gov/participate/fellows
-[80]: https://www.whitehouse.gov/innovationfellows
-[81]: https://www.whitehouse.gov/participate/united-states-digital-service
-[82]: https://www.whitehouse.gov/participate/whldp
-[83]: /petitions
-[84]: /citizensmedal/criteria
-[85]: https://www.whitehouse.gov/champions
-[86]: /1600
-[87]: /about/inside-white-house/interactive-tour
-[88]: /about/inside-white-house/west-wing-tour
-[89]: /about/inside-white-house/video-series
-[90]: /about/inside-white-house/art
-[91]: http://www.whitehouse.gov/holidays
-[92]: /about/inside-white-house
-[93]: http://www.whitehouse.gov/1600/presidents
-[94]: http://www.whitehouse.gov/1600/first-ladies
-[95]: https://www.whitehouse.gov//1600/vp-residence
-[96]: https://www.whitehouse.gov/1600/eeob
-[97]: https://www.whitehouse.gov/1600/camp-david
-[98]: https://www.whitehouse.gov/1600/air-force-one
-[99]: https://www.whitehouse.gov/1600/executive-branch
-[100]: https://www.whitehouse.gov/1600/legislative-branch
-[101]: https://www.whitehouse.gov/1600/judicial-branch
-[102]: https://www.whitehouse.gov/1600/constitution
-[103]: https://www.whitehouse.gov/1600/federal-agencies-and-commissions
-[104]: https://www.whitehouse.gov/1600/elections-and-voting
-[105]: https://www.whitehouse.gov/1600/state-and-local-government
-[106]: https://www.whitehouse.gov/1600/resources
-[107]: https://www.whitehouse.gov/sites/default/files/longpage/privacy_policy_hero_example3_2.jpg
-[108]: http://www.whitehouse.gov/privacy/cookies
-[109]: http://www.whitehouse.gov/privacy/current-third-party-pages
-[110]: https://www.whitehouse.gov
-[111]: https://www.whitehouse.gov/privacy/feedback
-[112]: https://www.whitehouse.gov/privacidad
-[113]: http://www.whitehouse.gov/contact/submit-questions-and-comments
-[114]: http://petitions.whitehouse.gov
-[115]: /privacy/cookies
-[116]: http://www.whitehouse.gov/mobile
-[117]: https://www.whitehouse.gov/privacy/current-third-party-pages
-[118]: http://www.archives.gov/about/laws/presidential-records.html
-[119]: http://www.twitter.com/whitehouse
-[120]: https://petitions.whitehouse.gov/developers
-[121]: http://www.google.com/intl/en/analytics/privacyoverview.html
-[122]: https://www.whitehouse.gov/privacy/impact
-[123]: https://www.whitehouse.gov/2012-taxreceipt
-[124]: https://www.whitehouse.gov/privacy/cookies
-[125]: http://www.business.ftc.gov/privacy-and-security/childrens-privacy
-[126]: http://www.whitehouse.gov/privacy/archive
+[1]: https://www.whitehouse.gov/sites/default/files/longpage/privacy_policy_hero_example3_2.jpg
+[2]: http://www.whitehouse.gov/privacy/cookies
+[3]: http://www.whitehouse.gov/privacy/current-third-party-pages
+[4]: https://www.whitehouse.gov
+[5]: https://www.whitehouse.gov/privacy/feedback
+[6]: https://www.whitehouse.gov/privacidad
+[7]: http://www.whitehouse.gov/contact/submit-questions-and-comments
+[8]: http://petitions.whitehouse.gov
+[9]: /privacy/cookies
+[10]: http://www.whitehouse.gov/mobile
+[11]: https://www.whitehouse.gov/privacy/current-third-party-pages
+[12]: http://www.archives.gov/about/laws/presidential-records.html
+[13]: http://www.twitter.com/whitehouse
+[14]: https://petitions.whitehouse.gov/developers
+[15]: http://www.google.com/intl/en/analytics/privacyoverview.html
+[16]: https://www.whitehouse.gov/privacy/impact
+[17]: https://www.whitehouse.gov/2012-taxreceipt
+[18]: https://www.whitehouse.gov/privacy/cookies
+[19]: http://www.business.ftc.gov/privacy-and-security/childrens-privacy
+[20]: http://www.whitehouse.gov/privacy/archive
