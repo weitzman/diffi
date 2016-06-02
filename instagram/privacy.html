@@ -134,6 +134,7 @@
     
         <meta name="robots" content="noimageindex">
         
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
@@ -154,38 +155,697 @@
         
     
     
-        <link rel="Shortcut Icon" type="image/x-icon" href="//instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico"><link rel="mask-icon" href="//instagramstatic-a.akamaihd.net/h1/images/ico/favicon.svg/dfde15ef1533.svg" color="#125688">
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-76x76-precomposed.png/932e4d9af891.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-120x120-precomposed.png/004705c9353f.png">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-152x152-precomposed.png/82467bc9bcce.png">
+        <link rel="apple-touch-icon-precomposed" sizes="167x167" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-167x167-precomposed.png/515cb4eeeeee.png">
+        <link rel="apple-touch-icon-precomposed" sizes="180x180" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-180x180-precomposed.png/94fd767f257b.png">
+        <link rel="icon" sizes="192x192" href="//instagramstatic-a.akamaihd.net/h1/images/ico/favicon-192.png/b407fa101800.png">
+    
+    <link rel="mask-icon" href="//instagramstatic-a.akamaihd.net/h1/images/ico/favicon.svg/9d8680ab8a3c.svg" color="#262626"><link rel="shortcut icon" type="image/x-icon" href="//instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico">
     
     
-        <link rel="apple-touch-icon-precomposed" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-precomposed.png/29d68fc587d7.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-72x72-precomposed.png/3f5e04d85488.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-114x114-precomposed.png/29d68fc587d7.png">
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-144x144-precomposed.png/52fcc0fc09e4.png">
     
-    
-    
-        <link href="//instagramstatic-a.akamaihd.net/h1/styles/public/public-main.css/f56596da7119.css" type="text/css" rel="stylesheet"></link>
+        
+        <style type="text/css">/* @generated */
+/* DO NOT CHANGE THIS FILE. INSTEAD, MODIFY 'distillery/templates/main.css' */
+/* css shared between /about and /developer */
+/* run `build/scripts/css_transform_distillery.sh` if you change this file */
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background-color: #fafafa;
+  font-family: 'proxima-nova', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  margin-bottom: 60px;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/**
+ * TODO: The DOM has some extra intermediary wrapper elements. We can remove
+ * some of these once we eliminate the old styles, and simplify our css.
+ */
+.-cx-PRIVATE-Page__root {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: 100vh;
+}
+
+.-cx-PRIVATE-Page__body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+
+.-cx-PRIVATE-Page__main {
+  /**
+   * HACK: Really we just want our child's height to be 100%, but there seems to
+   * be a flexbox bug in Chrome (it seems to work fine in Firefox), so we have
+   * to instead use a nested `display: flex` to force it to the right height.
+   */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  margin-top: 137px;
+  position: relative;
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-Page__main {
+    display: block;  /* Not needed on mobile and causes strange Safari bug */
+    margin-top: 0;
+  }
+}
+
+/*
+ * Navbar styles
+ */
+
+.-cx-PRIVATE-NavBar__root {
+  background-color: white;
+  border-bottom: 1px solid #dbdbdb;
+  height: 77px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.-cx-PRIVATE-NavBar__profilePic {
+  display: none;
+}
+
+.-cx-PRIVATE-NavBar__username {
+  color: #003569;
+  display: inline !important;
+  float: right;
+  font-weight: 400;
+  margin-right: 2px;
+  margin-top: 12px;
+}
+
+.-cx-PRIVATE-NavBar__signIn {
+  display: inline-block;
+  float: right;
+  margin-right: 2px;
+  margin-top: 12px;
+}
+
+.-cx-PRIVATE-NavBar__signInText {
+  color: #003569;
+  font-weight: 400;
+}
+
+.-cx-PRIVATE-NavBar__logo {
+  background-image: url('//instagramstatic-a.akamaihd.net/h1/images/branding/logoWhiteoutLockup.png/06e4519d6d03.png');
+  background-size: 100%;
+  height: 35px;
+  left: 16px;
+  position: absolute;
+  text-indent: -9999em;
+  top: 6px;
+  width: 176px;
+}
+
+.-cx-PRIVATE-NavBar__logo a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 1.5dppx) {
+  .-cx-PRIVATE-NavBar__logo {
+    background-image: url('//instagramstatic-a.akamaihd.net/h1/images/branding/logoWhiteoutLockup@2x.png/2c2208b30c42.png');
+  }
+}
+
+/**
+ * bluebar_legacy has a logoGroup wrapper, bluebar_new doesn't. This code fixes
+ * things for _legacy.
+ */
+.-cx-PRIVATE-NavBar__logoGroup {
+  left: 16px;
+  position: absolute;
+  top: 6px;
+}
+
+.-cx-PRIVATE-NavBar__logoGroup .-cx-PRIVATE-NavBar__logo {
+  position: static;
+}
+
+.-cx-PRIVATE-NavBar__wrapper {
+  margin: 0 auto;
+  max-width: 1026px;
+  padding: 0px 16px;
+  position: relative;
+}
+
+.-cx-PRIVATE-NavBar__topBarActions {
+  list-style: none;
+}
+
+.-cx-PRIVATE-NavBar__topBarLeft {
+  display: none;
+}
+
+.-cx-PRIVATE-NavBar__dropdown {
+  display: none;
+}
+
+/*
+ * Sidebar styles
+ */
+
+.-cx-PRIVATE-SidebarLayout__content {
+  border-right: 1px solid #dbdbdb;
+  height: 100%;
+  width: 220px;
+}
+
+.-cx-PRIVATE-SidebarLayout__content ul {
+  margin: 0;
+  padding: 0;
+}
+
+.-cx-PRIVATE-SidebarLayout__content li {
+  list-style: none;
+}
+
+.-cx-PRIVATE-SidebarLayout__content .separator,
+.-cx-PRIVATE-SidebarLayout__content .subtitle {
+  display: none;
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__content {
+    margin: 0 px;
+    border: none;
+    width: 100%;
+  }
+
+  .-cx-PRIVATE-SidebarLayout__content ul {
+    /* once header is clicked, this is set to initial */
+    display: none;
+  }
+
+}
+
+.-cx-PRIVATE-SidebarLayout__root {
+  box-sizing: border-box;
+  height: 100%;
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__root {
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__root {
+    padding-bottom: 0px;
+    padding-top: 78px;
+    position: static;
+  }
+}
+
+.-cx-PRIVATE-SidebarLayout__navWrapper,
+.-cx-PRIVATE-SidebarLayout__contentWrapper {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  margin: 0 auto;
+  position: relative;
+  width: 992px;
+}
+
+@media screen and (min-width: 991px) {
+  .-cx-PRIVATE-SidebarLayout__navWrapper {
+    height: 100%;
+  }
+}
+
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__navWrapper {
+    box-sizing: border-box;
+    display: inline-block;
+    height: auto;
+    min-height: 0;
+    padding: 0;
+    width: 100%;
+  }
+}
+
+.-cx-PRIVATE-SidebarLayout__nav {
+  float: left;
+  height: 100%;
+  padding-right: 0;
+  pointer-events: initial;
+  width: 256px;
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__nav {
+    float: none;
+    display: block;
+    margin: 0 !important;
+    background: none;
+    border: none;
+    width: 100%;
+  }
+}
+
+.-cx-PRIVATE-SidebarLayout__contentWrapper {
+  background-color: white;
+  border: 1px solid #dbdbdb;
+  box-sizing: border-box;
+  padding: 0 16px 20px 16px;
+}
+
+@media screen and (min-width: 991px) {
+  .-cx-PRIVATE-SidebarLayout__contentWrapper {
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__contentWrapper {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__pageContent .-cx-PRIVATE-SidebarLayout__contentWrapper {
+    padding: 0 10px;
+  }
+}
+
+/*
+ * Page content styles
+ *
+ * These style the page content (markdown generated by `render_markdown`)
+ */
+
+.-cx-PRIVATE-SidebarLayout__pageContent {
+  color: #262626;
+  margin-left: 205px;
+  padding: 30px 50px;
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-SidebarLayout__pageContent {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 20px 0;
+  }
+}
+
+.-cx-PRIVATE-SidebarLayout__pageContent > *:first-child {
+  margin-top: 0px;
+}
+
+.-cx-PRIVATE-SidebarLayout__pageContent a {
+  color: #003569;
+}
+
+.-cx-PRIVATE-SidebarLayout__pageContent h1 {
+  font-size: 32px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  margin-top: 28px;
+}
+
+.-cx-PRIVATE-SidebarLayout__pageContent h2 {
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 12px;
+  margin-top: 28px;
+}
+
+.-cx-PRIVATE-SidebarLayout__pageContent h3 {
+  font-weight: 600;
+  margin-bottom: 12px;
+  margin-top: 28px;
+}
+
+.-cx-PRIVATE-SidebarLayout__pageContent li {
+  padding-left: 8px;
+}
+
+.-cx-PRIVATE-SidebarLayout__pageContent li:not(:first-child) {
+  margin-top: 8px;
+}
+
+/* in pageContent, pre is generated on the backend */
+.-cx-PRIVATE-SidebarLayout__pageContent pre {
+  white-space: pre-wrap;
+}
+
+/*
+ * Navigation styles
+ */
+
+.-cx-PRIVATE-Navigation__header {
+  color: #999999;
+  font-size: 16px;
+  font-weight: initial;
+  margin: 0;
+  padding: 16px;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-Navigation__header:first-child {
+    display: block;
+  }
+
+  .-cx-PRIVATE-Navigation__header:not(:first-child) {
+    display: none;
+  }
+
+  .-cx-PRIVATE-Navigation__header i {
+    float: left;
+    width: 22px;
+    height: 18px;
+    margin-right: 8px;
+    margin-left: 10px;
+    background: url("//instagramstatic-a.akamaihd.net/h1/images/glyphs/disclosure-down@2x.png/970bdcaa6ff1.png") no-repeat center;
+    background-size: 14px 14px;
+  }
+
+  .-cx-PRIVATE-SidebarLayout__content.active .-cx-PRIVATE-Navigation__header i {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+}
+
+.-cx-PRIVATE-Navigation__navLink,
+.-cx-PRIVATE-Navigation__navLink:active,
+.-cx-PRIVATE-Navigation__navLink:visited,
+.-cx-PRIVATE-Navigation__navLink:hover {
+  border-left: 2px solid transparent;
+  box-sizing: border-box;
+  color: #262626;
+  font-size: 16px;
+  display: block;
+  padding: 16px 16px 16px 30px; /* 32px - 2px for the border-left */
+  width: 100%;
+}
+
+.-cx-PRIVATE-Navigation__navLink:hover {
+  border-left-color: #dbdbdb;
+}
+
+.-cx-PRIVATE-Navigation__active .-cx-PRIVATE-Navigation__navLink {
+  border-left-color: #262626;
+  font-weight: 600;
+}
+
+/*
+ * Footer styles
+ */
+
+.-cx-PRIVATE-Footer__root {
+  font-size: 12px;
+  height: 77px;
+}
+
+.-cx-PRIVATE-Footer__copyright {
+  color: #262626;
+  display: inline-block;
+  float: right;
+  font-weight: 600;
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+
+.-cx-PRIVATE-Footer__nav {
+  display: inline-block;
+}
+
+@media screen and (max-width: 990px) {
+  .-cx-PRIVATE-Footer__copyright {
+    text-align: center;
+    width: 100%;
+  }
+}
+
+.-cx-PRIVATE-Footer__navItems {
+  margin: 20px 0;
+  padding: 0;
+  text-align: center;
+}
+
+.-cx-PRIVATE-Footer__navItems li {
+  display: inline-block;
+  list-style: none;
+}
+
+.-cx-PRIVATE-Footer__navItems li:not(:first-child) {
+  margin-left: 15px;
+}
+
+.-cx-PRIVATE-Footer__navItems a,
+.-cx-PRIVATE-Footer__navItems a:visited,
+.-cx-PRIVATE-Footer__navItems a:hover,
+.-cx-PRIVATE-Footer__navItems a:active,
+.-cx-PRIVATE-Footer__navItems a:focus {
+  color: #003569;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.-cx-PRIVATE-Footer__wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1026px;
+  padding: 0px 20px;
+}
+
+/*
+ * Error styles
+ */
+
+.-cx-PRIVATE-ErrorPage__errorContainer {
+  text-align: center;
+}
+
+@media(max-width: 990px) {
+  .-cx-PRIVATE-ErrorPage__errorContainer {
+    padding: 100px 40px 0 40px;
+  }
+}
+
+.-cx-PRIVATE-ErrorPage__errorContainer a,
+.-cx-PRIVATE-ErrorPage__errorContainer a:visited {
+  color: #003569;
+}
+
+/**
+ * Linkshim follow link button style
+ */
+.-cx-PRIVATE-Linkshim__followLink {
+  background-color: white;
+  color: #3897f0;
+  border: 2px solid #3897f0;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 90%;
+  text-align: center;
+  padding: 8px;
+  font: inherit;
+  font-weight: bold;
+}
+
+.-cx-PRIVATE-Linkshim__followLink:active {
+  opacity: 0.5;
+}
+
+.-cx-PRIVATE-Linkshim__followLink:focus {
+  color: #1372cc;
+  border: 2px solid #1372cc;
+}
+
+</style>
+        <style type="text/css">/* @generated */
+/* DO NOT CHANGE THIS FILE. INSTEAD, MODIFY 'distillery/public/templates/public/main.css' */
+/* run `build/scripts/css_transform_distillery.sh` if you change this file */
+
+/**
+ * Jobs cycler styles
+ *
+ * These are the photos at the top of /about/jobs/ that cycle.
+ */
+
+.-cx-PRIVATE-JobsCycler__root {
+  margin-bottom: 8px;
+  position: relative;
+}
+
+/* darken the images in imageContainer */
+.-cx-PRIVATE-JobsCycler__imageContainer::before {
+  background-color: rgba(0, 0, 0, 0.3);
+  bottom: 0;
+  content: '.';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 16;
+}
+
+.-cx-PRIVATE-JobsCycler__imageContainer img {
+  display: block;
+  -webkit-filter: saturate(125%) brightness(125%);
+          filter: saturate(125%) brightness(125%);
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.-cx-PRIVATE-JobsCycler__imageContainer img:first-child {
+  /**
+   * Absolutely positioned children have no size. We need to ensure the parent
+   * element has a non-zero height, so we make one of the children static.
+   */
+  position: static;
+}
+
+.-cx-PRIVATE-JobsCycler__imageContainer .active {
+  /* needed to avoid janky re-ordering when JS is first loaded */
+  z-index: 8;
+}
+
+.-cx-PRIVATE-JobsCycler__overlayText {
+  color: white;
+  font-size: 50px;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  width: 100%;
+  z-index: 16;
+}
+
+.-cx-PRIVATE-JobsCycler__overlayLogo {
+  position: relative;
+  top: 31px;
+}
+
+/**
+ * Series of images directly below the cycler
+ */
+
+.-cx-PRIVATE-JobsSubHeader__root {
+  width: 100%;
+}
+
+.-cx-PRIVATE-JobsSubHeader__root img {
+  float: left;
+  padding-right: 1.09%;
+  width: 24.17%;
+}
+
+.-cx-PRIVATE-JobsSubHeader__root img:last-child {
+  padding-right: 0;
+}
+
+.-cx-PRIVATE-JobsSubHeader__root::after {
+  clear: both;
+  content: '';
+  display: block;
+}
+
+/**
+ * The introductory call-to-action-ish section near the top of the page.
+ */
+
+.-cx-PRIVATE-JobsIntro__root {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.-cx-PRIVATE-JobsIntro__title {
+  font-size: 34px;
+  margin-bottom: 3%;
+}
+
+.-cx-PRIVATE-JobsIntro__details {
+  color: #999999;
+  font-size: 16px;
+}
+
+/**
+ * Legal footer text style
+ */
+
+.-cx-PRIVATE-JobsLegal__text {
+  color: #999999;
+  font-size: 12px;
+  margin-top: 50px;
+}
+
+</style>
     
 
     
     
     <script src="//instagramstatic-a.akamaihd.net/h1/scripts/jquery.js/213ba890e802.js" type="text/javascript"></script>
     <script src="//instagramstatic-a.akamaihd.net/h1/scripts/bluebar.js/57733d51aed5.js" type="text/javascript"></script>
-    <script src="//instagramstatic-a.akamaihd.net/h1/scripts/navigation.js/90e6f4ddbee3.js" type="text/javascript"></script>
+    <script src="//instagramstatic-a.akamaihd.net/h1/scripts/navigation.js/a98ac49433f4.js" type="text/javascript"></script>
 
 
     </head>
-    <body class="sidebar-page -cx-PRIVATE-Sidebar__page">
+    <body class="sidebar-page -cx-PRIVATE-SidebarLayout__page">
         
     
-        <div class="root">
+        <div class="root -cx-PRIVATE-Page__root">
         
-            <div class="page -cx-PRIVATE-Page__root">
+            <div class="page -cx-PRIVATE-Page__body">
                 
                     
                         <header class="top-bar -cx-PRIVATE-NavBar__root">
-            <div class="wrapper">
-                <hgroup>
+            <div class="wrapper -cx-PRIVATE-NavBar__wrapper">
+                <hgroup class="wrapper -cx-PRIVATE-NavBar__logoGroup">
                     <div class="logo -cx-PRIVATE-NavBar__logo"><a href="/">Instagram</a></div>
                     
                 </hgroup>
@@ -193,12 +853,12 @@
                 
 
                 <div class="top-bar-right account-state" id="top_bar_right">
-                    <ul class="top-bar-actions" id="top_bar_actions">
+                    <ul class="top-bar-actions -cx-PRIVATE-NavBar__topBarActions" id="top_bar_actions">
                         
-                        <li id="link_profile" class="link-signin">
+                        <li id="link_profile" class="link-signin -cx-PRIVATE-NavBar__signIn">
                                 <a href="/accounts/login/?next=/about/legal/privacy/%3Fu%3Dhttps%253A%252F%252Fwww.instagram.com%252Fabout%252Flegal%252Fprivacy%252F">
                                 <i></i>
-                                <strong>Log in</strong>
+                                <strong class="-cx-PRIVATE-NavBar__signInText">Log in</strong>
                             </a>
                         </li>
                         
@@ -210,11 +870,12 @@
                 
 
                 
-    <div class="sidebar -cx-PRIVATE-Sidebar__root">
-        <div class="wrapper -cx-PRIVATE-Sidebar__navWrapper">
-            <nav class="sidebar-nav -cx-PRIVATE-Sidebar__nav">
-                <div class="sidebar-content -cx-PRIVATE-Sidebar__content">
-                
+    <div class="main -cx-PRIVATE-Page__main">
+        <div class="sidebar -cx-PRIVATE-SidebarLayout__root">
+            <div class="wrapper -cx-PRIVATE-SidebarLayout__navWrapper">
+                <nav class="sidebar-nav -cx-PRIVATE-SidebarLayout__nav">
+                    <div class="sidebar-content -cx-PRIVATE-SidebarLayout__content">
+                    
     <h2 class="-cx-PRIVATE-Navigation__header">
     <i></i>About<span class="separator"> &bull; </span><span class="subtitle"></span>
 </h2>
@@ -296,13 +957,12 @@
     </li>
     </ul>
 
-                </div>
-            </nav>
+                    </div>
+                </nav>
+            </div>
         </div>
-    </div>
-    <div class="main -cx-PRIVATE-Sidebar__main">
-        <div class="wrapper -cx-PRIVATE-Sidebar__contentWrapper">
-            <section class="nav-page-content -cx-PRIVATE-Sidebar__pageContent" role="main">
+        <div class="wrapper -cx-PRIVATE-SidebarLayout__contentWrapper">
+            <section class="nav-page-content -cx-PRIVATE-SidebarLayout__pageContent" role="main">
                 <h1 id="privacy-policy">Privacy Policy</h1>
 <h2 id="important-update">Important Update</h2>
 <p>In September 2012, we announced that Instagram had been acquired by Facebook.  We knew that by teaming up with Facebook, we could build a better Instagram for you.  Since then, we've been collaborating with Facebook's team on ways to do just that.  As part of our new collaboration, we've learned that by being able to share insights and information with each other, we can build better experiences for our users.</p>
@@ -484,7 +1144,7 @@
         
     <script src=//instagramstatic-a.akamaihd.net/h1/scripts/polyfills/es5-shim.min.js/6514c5e08593.js></script>
 <script src=//instagramstatic-a.akamaihd.net/h1/scripts/polyfills/es5-sham.min.js/fc3c22cf2d67.js></script><script src=//instagramstatic-a.akamaihd.net/h1/scripts/polyfills/history.js/scripts/bundled/html5/native.history.js/5d8d6becc18c.js></script>
-<script type="text/javascript">window._sharedData = {"country_code":"US","language_code":"en","gatekeepers":{"sulgin":true},"qs":"{\"shift\":10,\"header\":\"kpRNPJ3pwBbS5BcVkMj7vEq264Zq6eib\",\"edges\":100,\"blob\":\"AQAhOzZugUyJnx-YhSjm74WCUXgTWxADHyK7mJqn4RdbpG0OACtJ9P-e2W5N8h8xBPv7Zuw77I0h0TTm6jr9xZM8G4uVJhJq4gcu0ZWWRtRVagwJJ4GDa9Bw2loUaiHNggnDXzETZSb2zjDxHMJmiGoDmMxzBXAx3T1rjaXTpSUXfldXQ5npHVvr9P0iezV5_gMnxZD6f0vINakRD0eb-Z47LizEIn2tM92WXwc8MMlUmA\",\"iterations\":7,\"size\":42}","show_app_install":true,"static_root":"\/\/instagramstatic-a.akamaihd.net\/h1","platform":"ios","hostname":"www.instagram.com","entry_data":{},"qe":{"su_universe":{"p":{},"g":""},"su":{"p":{"enabled":"true"},"g":"rollout_20160325"},"discovery":{"p":{},"g":""}},"display_properties_server_guess":{"viewport_width":360,"pixel_ratio":1.5},"config":{"viewer":null,"csrf_token":"d18b210741e92eac33721e23a3643ce2"},"environment_switcher_visible_server_guess":true};</script>
+<script type="text/javascript">window._sharedData = {"country_code": "US", "language_code": "en", "gatekeepers": {"vvc": true, "sulgin": true}, "qs": "{\"shift\":10,\"header\":\"UDtR3KgNnjNHszpOl9sKUJc5uvM3PKH4\",\"edges\":100,\"blob\":\"AQCUMUE4I6wFkdkv4QYWzAumkowAi2RqjaCdlHcDLBsMm7VLVWF7E1Rv2rfV4Ql6Q5ueB45sy34LFGNqojCkBxkvWvW6t3rFoOUHIJ5MJhyXP-GXcklKoKgffs7nooGYT7koHUVOqGMG6czHOxDST_1mmprQy68RlU4hpcX7Ke70FnWyq1IEOfTLgAraxl8DdnKbtl96VUGgAS-yxRzGvT7_PuNfJMxq68_NWIKdzPbCdg\",\"iterations\":7,\"size\":42}", "show_app_install": true, "static_root": "//instagramstatic-a.akamaihd.net/h1", "platform": "ios", "hostname": "www.instagram.com", "entry_data": {}, "qe": {"wo": {"p": {"design": "whiteout"}, "g": "rollout_20160511"}, "su_universe": {"p": {}, "g": ""}, "su": {"p": {"enabled": "true"}, "g": "test_20160322"}, "discovery": {"p": {}, "g": ""}}, "display_properties_server_guess": {"viewport_width": 360, "pixel_ratio": 1.5}, "config": {"viewer": null, "csrf_token": "00943b17097163f866429c2d33601f3b"}, "environment_switcher_visible_server_guess": true};</script>
 
         
 <script>

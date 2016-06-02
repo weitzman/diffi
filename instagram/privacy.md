@@ -1,32 +1,3 @@
-[Source](https://www.instagram.com/about/legal/privacy/ "Permalink to 
-      
-        Privacy Policy &bull; Instagram
-      
-    ")
-
-# 
-      
-        Privacy Policy &bull; Instagram
-      
-    
-
-[Instagram][1]
-
-* [ __ **Log in** ][2]
-
-##  __About •
-
-* [ Company __ ][3]
-* [ Jobs __ ][4]
-* [ FAQ __ ][5]
-
-##  __Legal •
-
-* [ Terms __ ][6]
-* [ Privacy __ ][7]
-* [ Platform __ ][8]
-* [ Libraries __ ][9]
-
 # Privacy Policy
 
 ## Important Update
@@ -35,7 +6,7 @@ In September 2012, we announced that Instagram had been acquired by Facebook. We
 
 We're updating our Privacy Policy to highlight this new collaboration, but we want to make sure you understand that you still have control over who sees your photos. You still get to choose who can see your Instagram photos, and you still get to choose whether you post your photos on Facebook. So while we're looking forward to working closely with Facebook to build better experiences, we aren't changing the core features of the app that you've come to know and love.
 
-Our new Privacy Policy is effective on January 19, 2013. To learn about how we treat information collected prior to January 19, 2013, please [click here][10].
+Our new Privacy Policy is effective on January 19, 2013. To learn about how we treat information collected prior to January 19, 2013, please [click here][1].
 
 * * *
 
@@ -88,7 +59,7 @@ We collect the following types of information.
 ** Cookies and similar technologies: **
 * When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use Instagram and provide features to you.
 * We may ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or the third party.
-* More information is available in our [About Cookies][11] section
+* More information is available in our [About Cookies][2] section
 
 **Log file information:**
 
@@ -132,7 +103,7 @@ We will not rent or sell your information to third parties outside Instagram (or
 **Parties with whom you may choose to share your User Content:**
 
 * Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings that you set. To change your privacy settings on the Service, please change your profile setting. Once you have shared User Content or made it public, that User Content may be re-shared by others.
-* Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users and subject to use under our Instagram API. The use of the Instagram API is subject to the [API Terms of Use][12] which incorporates the terms of this Privacy Policy.
+* Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users and subject to use under our Instagram API. The use of the Instagram API is subject to the [API Terms of Use][3] which incorporates the terms of this Privacy Policy.
 * If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users or third parties using the Instagram API have copied or saved that information.
 
 **What happens in the event of a change of control:**
@@ -159,16 +130,16 @@ We will not rent or sell your information to third parties outside Instagram (or
 
 * Update your account at any time by logging in and changing your profile settings.
 * Unsubscribe from email communications from us by clicking on the "unsubscribe link" provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
-* [Learn more][13] about reviewing or modifying your account information.
+* [Learn more][4] about reviewing or modifying your account information.
 
 **How long we keep your User Content:**
 
 * Following termination or deactivation of your account, Instagram, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
-* [Learn more][14] about deleting your account.
+* [Learn more][5] about deleting your account.
 
 **6\. CHILDREN'S PRIVACY**
 
-Instagram does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us][15].
+Instagram does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us][6].
 
 **7\. OTHER WEB SITES AND SERVICES**
 
@@ -176,46 +147,21 @@ We are not responsible for the practices employed by any websites or services li
 
 **8\. HOW TO CONTACT US ABOUT A DECEASED USER**
 
-In the event of the death of an Instagram User, please [contact us][16]. We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
+In the event of the death of an Instagram User, please [contact us][7]. We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
 
 **9\. HOW TO CONTACT US**
 
-If you have any questions about this Privacy Policy or the Service, please find the appropriate support channel in the [Instagram Help Center][17] at which to contact us.
+If you have any questions about this Privacy Policy or the Service, please find the appropriate support channel in the [Instagram Help Center][8] at which to contact us.
 
 **10\. CHANGES TO OUR PRIVACY POLICY**
 
 Instagram may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Instagram or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
 
-* [About us][3]
-* [Support][17]
-* [Blog][18]
-* [Press][19]
-* [API][20]
-* [Jobs][4]
-* [Privacy][21]
-* [Terms][22]
-
-© 2016 Instagram
-
-[1]: /
-[2]: /accounts/login/?next=/about/legal/privacy/
-[3]: /about/us/
-[4]: /about/jobs/
-[5]: /about/faq/
-[6]: /about/legal/terms/
-[7]: /about/legal/privacy/
-[8]: /about/legal/terms/api/
-[9]: /about/legal/libraries/
-[10]: /about/legal/privacy/before-january-19-2013/
-[11]: /legal/cookies/
-[12]: http://instagram.com/about/legal/terms/api/
-[13]: http://help.instagram.com/284802804971822/
-[14]: http://help.instagram.com/448136995230186/
-[15]: http://help.instagram.com/290666591035380/
-[16]: http://help.instagram.com/264154560391256/
-[17]: http://help.instagram.com/
-[18]: http://blog.instagram.com/
-[19]: http://instagram.com/press/
-[20]: /developer/
-[21]: /legal/privacy/
-[22]: /legal/terms/
+[1]: /about/legal/privacy/before-january-19-2013/
+[2]: /legal/cookies/
+[3]: http://instagram.com/about/legal/terms/api/
+[4]: http://help.instagram.com/284802804971822/
+[5]: http://help.instagram.com/448136995230186/
+[6]: http://help.instagram.com/290666591035380/
+[7]: http://help.instagram.com/264154560391256/
+[8]: http://help.instagram.com/
