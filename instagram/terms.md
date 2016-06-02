@@ -1,35 +1,6 @@
-[Source](https://www.instagram.com/about/legal/terms/ "Permalink to 
-      
-        Terms of Use &bull; Instagram
-      
-    ")
-
-# 
-      
-        Terms of Use &bull; Instagram
-      
-    
-
-[Instagram][1]
-
-* [ __ **Log in** ][2]
-
-##  __About •
-
-* [ Company __ ][3]
-* [ Jobs __ ][4]
-* [ FAQ __ ][5]
-
-##  __Legal •
-
-* [ Terms __ ][6]
-* [ Privacy __ ][7]
-* [ Platform __ ][8]
-* [ Libraries __ ][9]
-
 # Terms of Use
 
-**These Terms of Use are effective on January 19, 2013**. To access our previous Terms of Use, please [click here][10].
+**These Terms of Use are effective on January 19, 2013**. To access our previous Terms of Use, please [click here][1].
 
 * * *
 
@@ -149,30 +120,4 @@ Software related to or made available by the Service may be subject to United St
 
 The effective date of these Terms of Use is January 19, 2013. These Terms of Use were written in English (US). To the extent any translated version of these Terms of Use conflicts with the English version, the English version controls.
 
-* [About us][3]
-* [Support][11]
-* [Blog][12]
-* [Press][13]
-* [API][14]
-* [Jobs][4]
-* [Privacy][15]
-* [Terms][16]
-
-© 2016 Instagram
-
-[1]: /
-[2]: /accounts/login/?next=/about/legal/terms/
-[3]: /about/us/
-[4]: /about/jobs/
-[5]: /about/faq/
-[6]: /about/legal/terms/
-[7]: /about/legal/privacy/
-[8]: /about/legal/terms/api/
-[9]: /about/legal/libraries/
-[10]: /about/legal/terms/before-january-19-2013/
-[11]: http://help.instagram.com/
-[12]: http://blog.instagram.com/
-[13]: http://instagram.com/press/
-[14]: /developer/
-[15]: /legal/privacy/
-[16]: /legal/terms/
+[1]: /about/legal/terms/before-january-19-2013/
