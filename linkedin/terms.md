@@ -1,17 +1,3 @@
-[Source](https://www.linkedin.com/legal/user-agreement "Permalink to User Agreement | LinkedIn")
-
-# User Agreement | LinkedIn
-
-Skip to main content
-
-##  [ LinkedIn Home ][1]
-
-* [ What is LinkedIn? ][2]
-* [ Join Today ][3]
-* [ Sign In ][4]
-
-Main content starts below.
-
 LinkedIn LinkedIn Pulse SlideShare
 
 SlideShare, a content sharing platform, and LinkedIn Pulse, a news reading application, are part of the LinkedIn family.
@@ -36,11 +22,11 @@ Our mission is to connect the world's professionals to allow them to be more pro
 
 When you use our Services (including Slideshare and Pulse), **you are entering into a legal agreement and you agree to all of these terms.**
 
-**You also agree to our [Privacy Policy][5], which covers how we collect, use, share, and store your personal information.**
+**You also agree to our [Privacy Policy][1], which covers how we collect, use, share, and store your personal information.**
 
 You agree that by clicking “Join Now” “Join LinkedIn”, “Sign Up” or similar, registering, accessing or using our services (including LinkedIn, SlideShare, Pulse, our related mobile apps, developer platforms, premium services, or any content or information provided as part of these services, collectively, “Services”), you are entering into a legally binding agreement (even if you are using our Services on behalf of a company). If you reside in the United States, your agreement is with LinkedIn Corporation and if you reside outside of the United States, your agreement is with LinkedIn Ireland (each, “LinkedIn” or “we”).
 
-This “Agreement” includes this User Agreement and the [Privacy Policy][5], and other terms that will be displayed to you at the time you first use certain features (such as starting a “Group,” downloading one of our software applications or purchasing advertisements or InMails™), as may be amended by LinkedIn from time to time. If you do not agree to this Agreement, do NOT click “Join Now” (or similar) and do not access or otherwise use any of our Services.
+This “Agreement” includes this User Agreement and the [Privacy Policy][1], and other terms that will be displayed to you at the time you first use certain features (such as starting a “Group,” downloading one of our software applications or purchasing advertisements or InMails™), as may be amended by LinkedIn from time to time. If you do not agree to this Agreement, do NOT click “Join Now” (or similar) and do not access or otherwise use any of our Services.
 
 Registered users of our Services are “Members” and unregistered users are “Visitors”. This Agreement applies to both.
 
@@ -78,10 +64,10 @@ If you purchase any of our paid Services (“Premium Services”), you agree to 
 
 * Your purchase may be subject to foreign exchange fees or differences in prices based on location (e.g. exchange rates).
 * You authorize us to store and continue billing your payment method (e.g. credit card) even after it has expired, to avoid interruptions in your service (e.g. subscriptions) and to facilitate easy payment for new services.
-* You must pay us for applicable fees and taxes unless you cancel the Premium Service, in which case you agree to still pay these fees through the end of the applicable subscription period. Learn how to [cancel or change][6] your Premium Services and read about LinkedIn's [refund policy][7].
+* You must pay us for applicable fees and taxes unless you cancel the Premium Service, in which case you agree to still pay these fees through the end of the applicable subscription period. Learn how to [cancel or change][2] your Premium Services and read about LinkedIn's [refund policy][3].
 * Taxes are calculated based on the billing information that you provide us at the time of purchase.
 
-For LinkedIn, you can get a copy of your invoice through your account settings under “[Purchase History][8]” for SlideShare you can request your invoice through [Customer Support][9].
+For LinkedIn, you can get a copy of your invoice through your account settings under “[Purchase History][4]” for SlideShare you can request your invoice through [Customer Support][5].
 
 ### 2.4. Notices and Service Messages
 
@@ -89,9 +75,9 @@ You're okay with us using our websites, mobile apps, and email to provide you wi
 
 If the contact information you provide isn't up to date, you may miss out on these notices.
 
-You agree that we may provide notices to you in the following ways: (1) a banner notice on the Service, or (2) an email sent to an address you provided, or (3) through other means including mobile number, telephone, or mail. You agree to keep your [contact information][10] up to date.
+You agree that we may provide notices to you in the following ways: (1) a banner notice on the Service, or (2) an email sent to an address you provided, or (3) through other means including mobile number, telephone, or mail. You agree to keep your [contact information][6] up to date.
 
-Please review your [LinkedIn.com][11] and [Slideshare.net][12] settings to [control and limit][13] what kind of messages you receive from us.
+Please review your [LinkedIn.com][7] and [Slideshare.net][8] settings to [control and limit][9] what kind of messages you receive from us.
 
 ### 2.5. Messages and Sharing
 
@@ -119,9 +105,9 @@ As between you and LinkedIn, you own the content and information that you submit
 2. We will not include your content in advertisements for the products and services of others (including sponsored content) to others without your separate consent. However, we have the right, without compensation to you or others, to serve ads near your content and information, and your comments on sponsored content may be visible as noted in the Privacy Policy.
 3. We will get your consent if we want to give others the right to publish your posts beyond the Service. However, other Members and/or Visitors may access and share your content and information, consistent with your settings and degree of connection with them.
 4. While we may edit and make formatting changes to your content (such as translating it, modifying the size, layout or file type or removing metadata), we will not modify the meaning of your expression.
-5. Because you own your content and information and we only have non-exclusive rights to it, you may choose to make it available to others, including under the terms of a [Creative Commons][14] license.
+5. Because you own your content and information and we only have non-exclusive rights to it, you may choose to make it available to others, including under the terms of a [Creative Commons][10] license.
 
-You agree that we may access, store and use any information that you provide in accordance with the terms of the [Privacy Policy][5] and your privacy settings.
+You agree that we may access, store and use any information that you provide in accordance with the terms of the [Privacy Policy][1] and your privacy settings.
 
 By submitting suggestions or other feedback regarding our Services to LinkedIn, you agree that LinkedIn can use and share (but does not have to) such feedback for any purpose without compensation to you.
 
@@ -143,7 +129,7 @@ Third parties may offer their own products and services through LinkedIn, and we
 
 By using the Services, you may encounter content or information that might be inaccurate, incomplete, delayed, misleading, illegal, offensive or otherwise harmful. LinkedIn generally does not review content provided by our Members. You agree that we are not responsible for third parties' (including other Members') content or information or for any damages as result of your use of or reliance on it.
 
-You are responsible for deciding if you want to access or use third party apps or sites that link from our Services. If you allow a third party app or site to authenticate you or connect with your LinkedIn account, that app or site can access information on LinkedIn related to you and your connections. Third party apps and sites have their own legal terms and privacy policies, and you may be giving others permission to use your information in ways we would not. Except to the limited extent it may be required by applicable law, LinkedIn is not responsible for these other sites and apps -- use these at your own risk. Please see Sections 2.6 and 2.7 of the [Privacy Policy][5].
+You are responsible for deciding if you want to access or use third party apps or sites that link from our Services. If you allow a third party app or site to authenticate you or connect with your LinkedIn account, that app or site can access information on LinkedIn related to you and your connections. Third party apps and sites have their own legal terms and privacy policies, and you may be giving others permission to use your information in ways we would not. Except to the limited extent it may be required by applicable law, LinkedIn is not responsible for these other sites and apps -- use these at your own risk. Please see Sections 2.6 and 2.7 of the [Privacy Policy][1].
 
 ### 3.4. Limits
 
@@ -192,7 +178,7 @@ LinkedIn or You may terminate this Agreement at any time with notice to the othe
 * Sections 4, 6 and 7 of this Agreement;
 * Any amounts owed by either party prior to termination remain owed after termination.
 
-You can visit our Help Center to learn how to [close your LinkedIn account][15], [close your Pulse account][16], or [close your Slideshare account][17].
+You can visit our Help Center to learn how to [close your LinkedIn account][11], [close your Pulse account][12], or [close your Slideshare account][13].
 
 Back to Top
 
@@ -245,7 +231,7 @@ Back to Top
 * Act in an unlawful, libelous, abusive, obscene, discriminatory or otherwise objectionable manner;
 * Disclose information that you do not have the right to disclose (such as confidential information of others (including your employer));
 * Violate intellectual property rights of others, including patents, trademarks, trade secrets, copyrights or other proprietary rights;
-* Violate the intellectual property or other rights of LinkedIn, including, without limitation, using the word “LinkedIn” or our logos in any business name, email, or URL except as provided in the [Brand Guidelines][18];
+* Violate the intellectual property or other rights of LinkedIn, including, without limitation, using the word “LinkedIn” or our logos in any business name, email, or URL except as provided in the [Brand Guidelines][14];
 * Use LinkedIn invitations to send messages to people who don't know you or who are unlikely to recognize you as a known contact;
 * Post any unsolicited or unauthorized advertising, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation unauthorized by LinkedIn;
 * Send messages to distribution lists, newsgroup aliases, or group aliases;
@@ -260,7 +246,7 @@ Back to Top
 * Imply or state that you are affiliated with or endorsed by LinkedIn without our express consent (e.g., representing yourself as an accredited LinkedIn trainer);
 * Rent, lease, loan, trade, sell/re-sell access to the Services or related any information or data;
 * Sell, sponsor, or otherwise monetize a LinkedIn Group or any other feature of the Services, without LinkedIn's consent;
-* Deep-link to our Services for any purpose other than to promote your profile or a Group on LinkedIn (as set forth in the [Brand Guidelines][18]), without LinkedIn's consent;
+* Deep-link to our Services for any purpose other than to promote your profile or a Group on LinkedIn (as set forth in the [Brand Guidelines][14]), without LinkedIn's consent;
 * Remove any copyright, trademark or other proprietary rights notices contained in or on our Service;
 * Remove, cover or obscure any advertisement included on the Services;
 * Collect, use, copy, or transfer any information obtained from LinkedIn without the consent of LinkedIn;
@@ -272,13 +258,13 @@ Back to Top
 * Access the Services except through the interfaces expressly provided by LinkedIn, such as its mobile applications, linkedin.com and slideshare.net;
 * Override any security feature of the Services;
 * Interfere with the operation of, or place an unreasonable load on, the Services (e.g., spam, denial of service attack, viruses, gaming algorithms); and/or
-* Violate SlideShare's [Community Guidelines][19] or, if you're a commercial user of SlideShare, the [SlideShare Commercial Terms of Service][20].
+* Violate SlideShare's [Community Guidelines][15] or, if you're a commercial user of SlideShare, the [SlideShare Commercial Terms of Service][16].
 
 Back to Top
 
 ## 9\. Complaints Regarding Content
 
-We respect the intellectual property rights of others. We require that information posted by Members be accurate and not in violation of the intellectual property rights or other rights of third parties. We provide a [policy and process ][21]for complaints concerning content posted by our Members.
+We respect the intellectual property rights of others. We require that information posted by Members be accurate and not in violation of the intellectual property rights or other rights of third parties. We provide a [policy and process ][17]for complaints concerning content posted by our Members.
 
 Back to Top
 
@@ -286,7 +272,7 @@ Back to Top
 
 If you want to send us notices or service of process, please contact us:
 
-ONLINE at: [https://help.linkedin.com/app/home][22]
+ONLINE at: [https://help.linkedin.com/app/home][18]
 
 OR BY MAIL at:
 
@@ -318,122 +304,21 @@ Back to Top
 
 LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland, Dublin, Ireland, October 23, 2014
 
-* [Sign up][23]
-* [Help Center][24]
-* [About][25]
-    * [Press][26]
-    * [Blog][27]
-    * [Developers][28]
-* [Careers][29]
-* [Advertising][30]
-* [Talent Solutions][31]
-* [Sales Solutions][32]
-* [Small Business][33]
-* [Mobile][34]
-* [Language][35]
-    * [Bahasa Indonesia][35]
-    * [Bahasa Malaysia][35]
-    * [Čeština][35]
-    * [Dansk][35]
-    * [Deutsch][35]
-    * [**English**][35]
-    * [Español][35]
-    * [正體中文][35]
-    * [Français][35]
-    * [한국어][35]
-    * [Italiano][35]
-    * [简体中文][35]
-    * [Nederlands][35]
-    * [日本語][35]
-    * [Norsk][35]
-    * [Polski][35]
-    * [Português][35]
-    * [Română][35]
-    * [Русский][35]
-    * [Svenska][35]
-    * [Tagalog][35]
-    * [ภาษาไทย][35]
-    * [Türkçe][35]
-    * [العربية][35]
-* [SlideShare][36]
-* [ Online Learning ][37]
-* [LinkedIn Updates][38]
-* [LinkedIn Influencers][39]
-* [LinkedIn Jobs][40]
-* Directories
-* [Members][41]
-* [Jobs][42]
-* [Pulse][43]
-* [Topics][44]
-* [Companies][45]
-* [Groups][46]
-* [Universities][47]
-* [Titles][48]
-
-LinkedIn Corporation _© 2016_
-
-* [User Agreement][49]
-* [Privacy Policy][50]
-* [Community Guidelines][51]
-* [Cookie Policy][52]
-* [Copyright Policy][53]
-* [Guest Controls][54]
-
-![][55] ![][56]
-
-[1]: http://www.linkedin.com/
-[2]: http://www.linkedin.com/static?key=what_is_linkedin&trk=hb_what
-[3]: /start/join?trk=hb_join
-[4]: https://www.linkedin.com/uas/login?goback=&trk=hb_signin
-[5]: http://www.linkedin.com/legal/privacy-policy
-[6]: https://linkedin.com/help/linkedin/answer/50?lang=en
-[7]: http://www.linkedin.com/legal/pop/pop_refund_policy
-[8]: /mnyfe/secure/purchasehistoryv4?goback=
-[9]: https://linkedin.com/help/linkedin/answer/54681?lang=en
-[10]: https://linkedin.com/help/linkedin/answer/34987?lang=en
-[11]: /settings/?tab=email
-[12]: https://linkedin.com/help/linkedin/answer/53692?lang=en
-[13]: https://linkedin.com/help/linkedin/answer/67?lang=en
-[14]: http://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fcreativecommons%2Eorg%2Fchoose%2F&urlhash=Q6wI
-[15]: https://linkedin.com/help/linkedin/answer/63?lang=en
-[16]: https://linkedin.com/help/linkedin/answer/49959?lang=en
-[17]: https://linkedin.com/help/linkedin/answer/53671?lang=en
-[18]: http://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fbrand%2Elinkedin%2Ecom%2Fpolicies&urlhash=_jCu
-[19]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet%2Fcommunity_guidelines&urlhash=d2a0
-[20]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet%2Fbusiness%2Ftos&urlhash=HHyy
-[21]: http://www.linkedin.com/legal/copyright-policy
-[22]: https://linkedin.com/help/linkedin?lang=en
-[23]: /reg/join?trk=hb_ft_join
-[24]: https://linkedin.com/help/linkedin?trk=microsites-legal-user_agreement&lang=en
-[25]: http://www.linkedin.com/about-us?trk=hb_ft_about
-[26]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fpress%2Elinkedin%2Ecom%2F&urlhash=UMoC
-[27]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fblog%2Elinkedin%2Ecom%2F&urlhash=ULil
-[28]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fdeveloper%2Elinkedin%2Ecom&urlhash=EFv_
-[29]: http://www.linkedin.com/company/linkedin/careers?trk=hb_ft_work
-[30]: http://www.linkedin.com/advertising?src=en-all-el-li-hb_ft_ads&trk=hb_ft_ads
-[31]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Ftalent-solutions%3Fsrc%3Dli-footer%26veh%3D%26trk%3Dhb_ft_talent&urlhash=cn_U
-[32]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Fsales-solutions%3Fsrc%3Dli-footer%26trk%3Dlss_linkedin_footer_link2micro%26utm_source%3Dfooter%26utm_medium%3Dlinkedin%26utm_campaign%3Dlinkedin-footer&urlhash=_ibI
-[33]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fsmallbusiness%2Elinkedin%2Ecom%2F%3Ftrk%3Dlnkd_footer%26utm_source%3Dlinkedin%26utm_medium%3Dfooter%26utm_content%3D%26utm_campaign%3Dlifooter&urlhash=zrGO
-[34]: http://www.linkedin.com/mobile?trk=hb_ft_mobile
-[35]: /secure/settings?trk=hb_ft_lang
-[36]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet&urlhash=nLLC
-[37]: http://www.linkedin.com/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fpremium%2Flynda%2Flanding&urlhash=I896&trk=hb_ft_lynda
-[38]: http://www.linkedin.com/in/updates?trk=hb_ft_liup
-[39]: http://www.linkedin.com/today/post/whoToFollow?trk=hb_ft_influencers
-[40]: http://www.linkedin.com/job/?trk=hb_ft_jobs
-[41]: http://www.linkedin.com/directory/people-a/?trk=hb_ft_peopledir
-[42]: https://www.linkedin.com/jobs2/directory/?trk=hb_ft_jobs2_dir
-[43]: http://www.linkedin.com/directory/pulse/
-[44]: http://www.linkedin.com/directory/topics/
-[45]: http://www.linkedin.com/directory/companies/
-[46]: http://www.linkedin.com/directory/groups/
-[47]: http://www.linkedin.com/directory/universities/
-[48]: http://www.linkedin.com/directory/title/
-[49]: http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag
-[50]: http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv
-[51]: https://linkedin.com/help/linkedin/answer/34593?trk=microsites-legal-user_agreement&lang=en
-[52]: http://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
-[53]: http://www.linkedin.com/legal/copyright-policy?trk=hb_ft_copy
-[54]: /psettings/guest-controls
-[55]: https://sb.scorecardresearch.com/b?c1=2&c2=6402952&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1
-[56]: /csp/dtag?p=10
+[1]: http://www.linkedin.com/legal/privacy-policy
+[2]: https://linkedin.com/help/linkedin/answer/50?lang=en
+[3]: http://www.linkedin.com/legal/pop/pop_refund_policy
+[4]: /mnyfe/secure/purchasehistoryv4?goback=
+[5]: https://linkedin.com/help/linkedin/answer/54681?lang=en
+[6]: https://linkedin.com/help/linkedin/answer/34987?lang=en
+[7]: /settings/?tab=email
+[8]: https://linkedin.com/help/linkedin/answer/53692?lang=en
+[9]: https://linkedin.com/help/linkedin/answer/67?lang=en
+[10]: http://www.linkedin.com/redir/redirect?url=https://creativecommons.org/choose/&urlhash=Q6wI
+[11]: https://linkedin.com/help/linkedin/answer/63?lang=en
+[12]: https://linkedin.com/help/linkedin/answer/49959?lang=en
+[13]: https://linkedin.com/help/linkedin/answer/53671?lang=en
+[14]: http://www.linkedin.com/redir/redirect?url=https://brand.linkedin.com/policies&urlhash=_jCu
+[15]: http://www.linkedin.com/redir/redirect?url=http://www.slideshare.net/community_guidelines&urlhash=d2a0
+[16]: http://www.linkedin.com/redir/redirect?url=http://www.slideshare.net/business/tos&urlhash=HHyy
+[17]: http://www.linkedin.com/legal/copyright-policy
+[18]: https://linkedin.com/help/linkedin?lang=en
