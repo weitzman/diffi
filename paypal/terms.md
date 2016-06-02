@@ -1,26 +1,20 @@
-[Source](https://www.paypal.com/webapps/mpp/ua/useragreement-full "Permalink to PayPal")
-
-# PayPal
-
-[PayPal][1]
-
 # PayPal User Agreement
 
  
 
->> [View all legal agreements][2]
+>> [View all legal agreements][1]
 
 # PayPal User Agreement
 
 **YOU AGREE THAT THIS USER AGREEMENT WILL BE EFFECTIVE AS TO _ALL USERS_ ON OCTOBER 30, 2015**.
 
-![][3][Print][4] ![][5][Download PDF][6]
+![][2][Print][3] ![][4][Download PDF][5]
 
  
 
 Welcome to PayPal!
 
-This Agreement is a contract between you and PayPal and governs your use of all PayPal Services. Using the PayPal Services means that you must accept all of the terms and conditions contained in this Agreement and the agreements on the [Legal Agreements][7] page including the Privacy Policy, the Acceptable Use Policy and the Electronic Communications Delivery Policy. You should read all of these terms carefully.
+This Agreement is a contract between you and PayPal and governs your use of all PayPal Services. Using the PayPal Services means that you must accept all of the terms and conditions contained in this Agreement and the agreements on the [Legal Agreements][6] page including the Privacy Policy, the Acceptable Use Policy and the Electronic Communications Delivery Policy. You should read all of these terms carefully.
 
 This Agreement contains sixteen sections. You may jump directly to any section by selecting the appropriate link below. The headings and subheadings below are for reference only and do not limit the scope of each section. Some capitalized terms have specific definitions in Section 16 (Definitions). Underlined words in this Agreement and on our website hyperlink to relevant information.
 
@@ -48,7 +42,7 @@ This Agreement contains sixteen sections. You may jump directly to any section b
 
  
 
-We may amend this Agreement at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a Substantial Change, we will provide you with 30 Days' prior notice of any Substantial Change by posting notice on the [**Policy Updates**][8] page of our website.
+We may amend this Agreement at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a Substantial Change, we will provide you with 30 Days' prior notice of any Substantial Change by posting notice on the [**Policy Updates**][7] page of our website.
 
 **This is an important document which you must consider carefully when choosing whether to use the PayPal Services. Please be advised: This Agreement contains provisions that govern how legal claims you and we have against each other are resolved (see Section 14 “Disputes with PayPal” below). Those dispute-resolution provisions contain an Agreement to Arbitrate, which will, with limited exception, require you to submit claims you have against us to binding and final arbitration, unless you opt out of the Agreement to Arbitrate (see Section 14.3 "Agreement to Arbitrate") within 30 Days after the date you accept the User Agreement for the first time. Unless you opt out: (1) you will only be permitted to pursue claims against PayPal on an individual basis, not as a plaintiff or class member in any class or representative action or proceeding, and (2) you will only be permitted to seek relief (including monetary, injunctive, and declaratory relief) on an individual basis.**
 
@@ -56,9 +50,9 @@ We may amend this Agreement at any time by posting a revised version on our webs
 
 **Payments received in your Account may be reversed at a later time, for example, if such a payment is subject to a Chargeback, Reversal, Claim or is otherwise invalidated. This means that for some of our Sellers, payments received into their Account may be returned to the sender or otherwise removed from their Account after they have been paid and/or delivered any goods or services sold.**
 
-**If you are a Seller, you can help protect yourself from the risk of a payment being reversed from your Account by following the criteria set out in the Protection for Sellers section and by following the other guidance provided in the [****Security**][9]** page accessible via every page of the PayPal website.**
+**If you are a Seller, you can help protect yourself from the risk of a payment being reversed from your Account by following the criteria set out in the Protection for Sellers section and by following the other guidance provided in the [****Security**][8]** page accessible via every page of the PayPal website.**
 
-**We may close, suspend, or limit your access to your Account or the PayPal Services, and/or limit access to your Balance for up to 180 Days (or longer if pursuant to a court order or other legal process) if you violate this Agreement, the [****PayPal Acceptable Use Policy**][10]**, any other agreement you enter into with PayPal, or as otherwise specified in this Agreement or other agreement you have entered into with PayPal. We may also use proprietary fraud and risk modeling when assessing the risk associated with your Account.** **If you wish to open a Dispute through PayPal's Online Resolution Center, you must do so within 180 Days of making your payment or initiating your transaction in the case of Pay After Delivery.**
+**We may close, suspend, or limit your access to your Account or the PayPal Services, and/or limit access to your Balance for up to 180 Days (or longer if pursuant to a court order or other legal process) if you violate this Agreement, the [****PayPal Acceptable Use Policy**][9]**, any other agreement you enter into with PayPal, or as otherwise specified in this Agreement or other agreement you have entered into with PayPal. We may also use proprietary fraud and risk modeling when assessing the risk associated with your Account.** **If you wish to open a Dispute through PayPal's Online Resolution Center, you must do so within 180 Days of making your payment or initiating your transaction in the case of Pay After Delivery.**
 
 **CONSUMER FRAUD WARNING: We’re always looking for ways to help keep you even more secure. So stay on the lookout for some of these common scams:**
 
@@ -126,7 +120,7 @@ You can update your primary email address or street address at any time by loggi
 
 **1.1 PayPal is Only a Payment Service Provider.** PayPal helps you make payments to and accept payments from third parties. PayPal is an independent contractor for all purposes, and is not your agent or trustee. PayPal does not have control of, or liability for, the products or services that are paid for with the PayPal Services. We do not guarantee the identity of any User or ensure that a buyer or a Seller will complete a transaction.
 
-**1.2 Your Privacy.** Protecting your privacy is very important to PayPal. Please review our [**Privacy Policy**][11] in order to better understand our commitment to maintaining your privacy, as well as our use and disclosure of your Information.
+**1.2 Your Privacy.** Protecting your privacy is very important to PayPal. Please review our [**Privacy Policy**][10] in order to better understand our commitment to maintaining your privacy, as well as our use and disclosure of your Information.
 
 **1.3 Privacy of Others; Marketing.** If you receive Information about another User through the PayPal Services, you must keep the Information confidential and only use it in connection with the PayPal Services. You may not disclose or distribute a User's Information to a third party or use the Information for marketing purposes unless you receive the User's express consent to do so.
 
@@ -138,7 +132,7 @@ You may not send unsolicited email to a User or use the PayPal Services to colle
 
 **1.6 Password Security and Keeping Your Email and Address Current.** You are responsible for maintaining adequate security and control of any and all IDs, passwords, personal identification numbers (PINs), or any other codes that you use to access the PayPal Services. If you use a PayPal Payment Card, you should also carefully safeguard this card. You are responsible for keeping your mailing address and email address up to date in your Account Profile.
 
-**1.7 Notices to You.** You agree that PayPal may provide you Communications about your Account and the PayPal Services electronically as described in our [**Electronic Communications Delivery Policy**][12]. Any electronic Communications will be considered to be received by you within 24 hours after the time we post it to our website or email it to you. Any Communications sent to you by postal mail will be considered to be received by you 3 Business Days after we send it.
+**1.7 Notices to You.** You agree that PayPal may provide you Communications about your Account and the PayPal Services electronically as described in our [**Electronic Communications Delivery Policy**][11]. Any electronic Communications will be considered to be received by you within 24 hours after the time we post it to our website or email it to you. Any Communications sent to you by postal mail will be considered to be received by you 3 Business Days after we send it.
 
 **1.8 Notices to PayPal.** Except as otherwise stated above in the Electronic Communications Delivery Policy, and below in Section 12 (Resolution Procedures for Unauthorized Transactions and Other Errors) and Section 14 (Disputes with PayPal), notice to PayPal must be sent by postal mail to: PayPal, Inc., Attention: Legal Department, 2211 North First Street, San Jose, California 95131.
 
@@ -156,7 +150,7 @@ You may not send unsolicited email to a User or use the PayPal Services to colle
 
 ### 2\. Accounts.
 
-**2.1 Eligibility.** To be eligible to use the PayPal Services, you must be at least 18 years old and a resident of the United States or one of the countries listed on the [**PayPal WorldWide**][13] page. This Agreement applies only to Users who are residents of the United States. If you are a resident of another country, you may access the agreement that applies to you from our website in your country.
+**2.1 Eligibility.** To be eligible to use the PayPal Services, you must be at least 18 years old and a resident of the United States or one of the countries listed on the [**PayPal WorldWide**][12] page. This Agreement applies only to Users who are residents of the United States. If you are a resident of another country, you may access the agreement that applies to you from our website in your country.
 
 **2.2 Personal and Business Accounts; Types of Transactions.** We offer the following types of Accounts: Personal and Business Accounts. By opening a Business Account and accepting the terms as outlined in this Agreement, you attest that you are not establishing the Account primarily for personal, family, or household purposes.
 
@@ -232,9 +226,9 @@ PayPal has the right, at any time and in its sole discretion, to terminate, canc
 
 **3.16 In-Store Checkout**.
 
-1. **General**. In-Store Checkout allows you to make payments using your PayPal Account in a Merchant’s physical store if the Merchant accepts PayPal. In-Store Checkout payments are made using your mobile phone number, a PayPal payment card (the “**PayPal Payment Card**”), or Mobile In-Store Payments. You must confirm your mobile phone number with PayPal by registering it with PayPal, setting a PIN, and receiving a confirmation from us via SMS. You may request a PayPal Payment Card for In-Store Checkout at [**www.PayPal.com/anywhere**][14]. If you do not receive your PayPal Payment Card within 14 Days after requesting it, or if your card is lost or stolen, you must follow the procedures set forth in Section 12 to report the lost or stolen card.
+1. **General**. In-Store Checkout allows you to make payments using your PayPal Account in a Merchant’s physical store if the Merchant accepts PayPal. In-Store Checkout payments are made using your mobile phone number, a PayPal payment card (the “**PayPal Payment Card**”), or Mobile In-Store Payments. You must confirm your mobile phone number with PayPal by registering it with PayPal, setting a PIN, and receiving a confirmation from us via SMS. You may request a PayPal Payment Card for In-Store Checkout at [**www.PayPal.com/anywhere**][13]. If you do not receive your PayPal Payment Card within 14 Days after requesting it, or if your card is lost or stolen, you must follow the procedures set forth in Section 12 to report the lost or stolen card.
 2. **Wish Lists**. If you sign up for In-Store Checkout, you will be able to create wish lists of goods or services within your PayPal Account that you would like to store for future purchasing decisions (“**Wish Lists**”). You can create a Wish List by adding a product or service directly to your Wish List by logging into your PayPal Account, or through PayPal Shopping searches. The results of any search on PayPal Shopping will be generated by third party service providers of PayPal. These search results can be saved into your Wish List. PayPal has no liability for the search results generated by its third party service providers, the information contained in those results, or the failure of any Merchant to honor the price or terms included in the search results.
-3. **Social Sharing of Offers**. If you have an Offer in your PayPal Account, you can share it with your online community of friends and family via social sharing sites with whom we integrate. If you share any Offers, you may be required to first consent to certain information being shared by us with the social sharing site. Any data received by PayPal from these social sharing sites will be subject to our [**Privacy Policy**][11]. In addition to complying with the other requirements of Section 9.1 below, you agree that you will not post any content that is obscene or offensive from your PayPal Account or in connection with the Offer you are sharing.
+3. **Social Sharing of Offers**. If you have an Offer in your PayPal Account, you can share it with your online community of friends and family via social sharing sites with whom we integrate. If you share any Offers, you may be required to first consent to certain information being shared by us with the social sharing site. Any data received by PayPal from these social sharing sites will be subject to our [**Privacy Policy**][10]. In addition to complying with the other requirements of Section 9.1 below, you agree that you will not post any content that is obscene or offensive from your PayPal Account or in connection with the Offer you are sharing.
 4. **Loyalty Cards**. In-Store Checkout allows you to store your Merchant loyalty card numbers or bar codes, where applicable, in your PayPal Account for certain Merchants. When you store your loyalty card numbers or bar codes in your PayPal Account, you will earn any rewards, subject to the Merchant’s loyalty card terms and conditions, at the time you make your payment to the Merchant by presenting the stored loyalty card number or bar code to the Merchant at the point of sale. It is your responsibility to make sure that you have entered in your loyalty card information correctly and that you update it as necessary. It is also your responsibility to ensure that you are receiving the rewards to which you are entitled. PayPal is not responsible for managing your loyalty card account by offering this service and any questions about your loyalty card or associated rewards program should be directed to the Merchant that offers the card.
 
 **3.17 Special Offers.** You may receive promotional offers from PayPal, such as coupons, Merchant Specific Promotional Balances and other deals (together, "Offers") that can be applied to purchases you make at participating stores and websites using your PayPal Account.
@@ -523,7 +517,7 @@ If you participate in the PayPal Advertising Program, you must comply with the f
 
 If you present Advertising Banners that include PayPal Credit messaging, you must also comply with the following, additional requirements:
 
-1. You must use a PayPal payments solution that is pre-integrated with PayPal Credit, unless authorized by PayPal in writing. See [**eligible PayPal payments solutions**][15].
+1. You must use a PayPal payments solution that is pre-integrated with PayPal Credit, unless authorized by PayPal in writing. See [**eligible PayPal payments solutions**][14].
 2. If you receive customer inquiries relating to PayPal Credit, you must direct the customer to PayPal Credit Customer Support at (866) 528-3733. If a customer is unable to process a transaction using PayPal Credit, you are prohibited from communicating any reason for the customer’s decline. You are also prohibited from representing or holding yourself out to represent PayPal Credit in any way.
 
 Advertising Banners may be changed at any time for any reason. PayPal may also discontinue any Advertising Banners and/or the PayPal Advertising Program at any time, at its sole discretion.
@@ -635,7 +629,7 @@ Other, including a fully or partially funded payment by credit or debit card, or
 
  |
 
-**Standard rate: 2.9% + $0.30 USD**
+**Standard rate: 2.9% $0.30 USD**
 
  |   |
 |
@@ -680,7 +674,7 @@ Receiving (selling)
 
  |
 
-**2.9% + $0.30 USD**  
+**2.9% $0.30 USD**  
   
 **2.7%**
 
@@ -691,7 +685,7 @@ Receiving (selling)
 
  |
 
-**2.2% + $0.30**  
+**2.2% $0.30**  
  
 
  |   |
@@ -744,7 +738,7 @@ Australia
 
  |
 
-3.4% + Fixed Fee**
+3.4% Fixed Fee**
 
  |
 |
@@ -757,7 +751,7 @@ Brazil
 
  |
 
-5.99% + Fixed Fee**
+5.99% Fixed Fee**
 
  |   |
 |
@@ -770,7 +764,7 @@ Canada
 
  |
 
-2.9% + Fixed Fee**
+2.9% Fixed Fee**
 
  |
 |
@@ -783,7 +777,7 @@ Germany
 
  |
 
-3.9% + Fixed Fee**
+3.9% Fixed Fee**
 
  |
 |
@@ -796,7 +790,7 @@ Japan
 
  |
 
-3.9% + Fixed Fee**
+3.9% Fixed Fee**
 
  |
 |
@@ -809,7 +803,7 @@ Poland
 
  |
 
-3.9% + Fixed Fee**
+3.9% Fixed Fee**
 
  |
 |
@@ -822,7 +816,7 @@ All countries except as listed above
 
  |
 
-3.9% + Fixed Fee**
+3.9% Fixed Fee**
 
  |
 |
@@ -862,7 +856,7 @@ However, for senders that have been upgraded to the newly updated PayPal user ex
 
  |
 
-3.9% + Fixed Fee**
+3.9% Fixed Fee**
 
  |
 |
@@ -907,7 +901,7 @@ Receiving in the United States (selling)
 
  |
 
-**3.9% + Fixed Fee****  
+**3.9% Fixed Fee****  
   
 **3.7%**
 
@@ -927,8 +921,8 @@ Over $100,000.00
 
 **Fee:**  
   
-**3.2% + Fixed Fee****  
-**2.9% + Fixed Fee****
+**3.2% Fixed Fee****  
+**2.9% Fixed Fee****
 
  |
 |
@@ -1222,7 +1216,7 @@ Receiving (selling)
 
  |
 
-5% + $0.05 USD
+5% $0.05 USD
 
  |
 
@@ -1254,7 +1248,7 @@ Receiving (selling)
 
  |
 
-6% + Fixed Fee**
+6% Fixed Fee**
 
  |
 |
@@ -1583,7 +1577,7 @@ Canada
 
  |
 
-1% + $0.50 USD, up to a maximum of $15.00 USD
+1% $0.50 USD, up to a maximum of $15.00 USD
 
  |
 |
@@ -1633,7 +1627,7 @@ Canada
 
  |
 
-1% + $0.50 CAD, up to a maximum of $15.00 CAD
+1% $0.50 CAD, up to a maximum of $15.00 CAD
 
  |
 |
@@ -2682,7 +2676,7 @@ When your payment is funded by a debit or credit card and requires a currency co
 
 **9.1 Restricted Activities.** In connection with your use of our website, your Account, the PayPal Services, or in the course of your interactions with PayPal, other Users, or third parties, you will not:
 
-1. Breach this Agreement, the [**Commercial Entity Agreement**][16], the [**Acceptable Use Policy**][17] or any other agreement or policy that you have agreed to with PayPal;
+1. Breach this Agreement, the [**Commercial Entity Agreement**][15], the [**Acceptable Use Policy**][16] or any other agreement or policy that you have agreed to with PayPal;
 2. Violate any law, statute, ordinance, or regulation (for example, those governing financial services, consumer protections, unfair competition, anti-discrimination or false advertising);
 3. Infringe PayPal's or any third party's copyright, patent, trademark, trade secret or other intellectual property rights, or rights of publicity or privacy;
 4. Sell counterfeit goods;
@@ -2697,7 +2691,7 @@ When your payment is funded by a debit or credit card and requires a currency co
 13. Use your Account or the PayPal Services in a manner that PayPal, Visa, MasterCard, American Express, Discover or any other electronic funds transfer network reasonably believes to be an abuse of the card system or a violation of card association or network rules;
 14. Allow your Account to have a negative Balance;
 15. Provide yourself a cash advance from your credit card (or help others to do so);
-16. Access the PayPal Services from a country that is not included on PayPal's [**permitted countries list**][13];
+16. Access the PayPal Services from a country that is not included on PayPal's [**permitted countries list**][12];
 17. Take any action that imposes an unreasonable or disproportionately large load on our infrastructure; facilitate any viruses, Trojan horses, worms or other computer programming routines that may damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or Information; use an anonymizing proxy; use any robot, spider, other automatic device, or manual process to monitor or copy our website without our prior written permission; or use any device, software or routine to bypass our robot exclusion headers, or interfere or attempt to interfere with our website or the PayPal Services;
 18. Take any action that may cause us to lose any of the services from our Internet service providers, payment processors, or other suppliers;
 19. Use the PayPal Services to test credit card behaviors;
@@ -2726,14 +2720,14 @@ If you do not want to allow PayPal to reimburse eBay for your liability, you may
 
 **10.3 Actions by PayPal - Restricted Activities**. If PayPal, in its sole discretion, believes that you may have engaged in any Restricted Activities, we may take various actions to protect PayPal, other Users, other third parties, or you from Reversals, Chargebacks, Claims, fees, fines, penalties and any other liability. The actions we may take include but are not limited to the following:
 
-1. We may close, suspend, or limit your access to your Account or the PayPal Services (such as limiting access to any of your Payment Methods, and/or your ability to send money, make withdrawals, or remove financial Information). Use the Report Form link to request information in connection with an account limitation, hold or reserve – to access the Report Form, go to [**https://www.paypal.com/us/webapps/helpcenter/helphub/home/?dwf=neg_infolimit**][18]
+1. We may close, suspend, or limit your access to your Account or the PayPal Services (such as limiting access to any of your Payment Methods, and/or your ability to send money, make withdrawals, or remove financial Information). Use the Report Form link to request information in connection with an account limitation, hold or reserve – to access the Report Form, go to [**https://www.paypal.com/us/webapps/helpcenter/helphub/home/?dwf=neg_infolimit**][17]
 2. We may suspend your eligibility for PayPal Purchase Protection and/or PayPal Seller Protection
 3. We may contact Users who have purchased goods or services from you, contact your bank or credit card issuer, and/or warn other Users, law enforcement, or impacted third parties of your actions;
 4. We may update inaccurate Information you provided us;
 5. We may refuse to provide the PayPal Services to you in the future;
 6. We may hold your Balance for up to 180 Days if reasonably needed to protect against the risk of liability or if you have violated our Acceptable Use Policy;
 7. We may take legal action against you; and
-8. If you violate the [**PayPal Acceptable Use Policy**][17], then in addition to the above actions you will be liable to PayPal for the amount of PayPal's damages caused by your violation of the Acceptable Use Policy. You acknowledge and agree that $2,500.00 USD per violation of the Acceptable Use Policy is presently a reasonable minimum estimate of PayPal's actual damages considering all currently existing circumstances, including the relationship of the sum to the range of harm to PayPal that reasonably could be anticipated because, due to the nature of the violations of the Acceptable Use Policy, actual damages would be impractical or extremely difficult to calculate. PayPal may deduct such damages directly from any existing Balance in the offending Account or any other Account you control.
+8. If you violate the [**PayPal Acceptable Use Policy**][16], then in addition to the above actions you will be liable to PayPal for the amount of PayPal's damages caused by your violation of the Acceptable Use Policy. You acknowledge and agree that $2,500.00 USD per violation of the Acceptable Use Policy is presently a reasonable minimum estimate of PayPal's actual damages considering all currently existing circumstances, including the relationship of the sum to the range of harm to PayPal that reasonably could be anticipated because, due to the nature of the violations of the Acceptable Use Policy, actual damages would be impractical or extremely difficult to calculate. PayPal may deduct such damages directly from any existing Balance in the offending Account or any other Account you control.
 9. PayPal, in its sole discretion, reserves the right to terminate this Agreement, access to its website, or access to the PayPal Services for any reason and at any time upon notice to you and payment to you of any unrestricted funds held in your Balance.
 
 **10.4 Actions by PayPal - Court Orders or Other Legal Process.**
@@ -2961,7 +2955,7 @@ For Unauthorized Transactions or Other Errors involving your PayPal Debit Card, 
     1. Log into your Account, go to the "Account Overview" page or “Summary” or “Activity” tab, select the transaction details for the transaction you wish to dispute and then follow the directions. Please print and sign the completed form, then mail it to us (PayPal, Attn: PayPal Debit Card Department, P.O. Box 45950, Omaha, NE 68145-0950) or send it by fax to (303) 395-2855; or
     2. Telephone PayPal Customer Service at (402) 935-7733.
 For Unauthorized Transactions or Other Errors in your Account, notify us as follows:
-    1. [Use this form][19] to file an error report in the PayPal Resolution Center; or
+    1. [Use this form][18] to file an error report in the PayPal Resolution Center; or
     2. Write to PayPal, Attn: Error Resolution Department, P.O. Box 45950, Omaha, NE 68145-0950; or
     3. Telephone PayPal Customer Service at (402) 935-7733.
 When you notify us, provide us with all of the following information:
@@ -3055,7 +3049,7 @@ After you notify us about your preferred remedy or 10 Days after we have notifie
 * You did not receive the item you paid for with PayPal – “Item Not Received” (INR), or
 * You received an item you paid for with PayPal but it is “Significantly Not as Described” (SNAD) (as described below)
 
-If your problem is a transaction that you did not authorize, please [**use this form**][19] to report the unauthorized transaction.
+If your problem is a transaction that you did not authorize, please [**use this form**][18] to report the unauthorized transaction.
 
 An item is “Significantly Not as Described” if it is materially different from what the Seller described in the item listing. Here are some examples:
 
@@ -3088,7 +3082,7 @@ To be eligible for PayPal Purchase Protection you must meet all of the following
 * Businesses
 * Vehicles, including motor vehicles, motorcycles, caravans, aircraft and boats
 * Significantly Not As Described issues for Custom-made items
-* Items prohibited by the [**PayPal Acceptable Use Policy**][17]
+* Items prohibited by the [**PayPal Acceptable Use Policy**][16]
 * For INR claims, items which you collect in person or arrange to be collected on your behalf, including items bought through In-Store Checkout at the retail point of sale
 * Industrial machinery used in manufacturing
 * Items equivalent to cash, including prepaid or gift cards
@@ -3102,7 +3096,7 @@ Even if your payment is not eligible for PayPal Purchase Protection, you can fil
 
 PayPal will not reimburse you for the return shipping costs that you incur to return a Significantly Not As Described item to the Seller or other party specified by PayPal. If the Seller presents evidence that they delivered the goods to your address, PayPal may find in favor of the Seller for an Item Not Received claim even if you did not receive the goods.
 
-**13.5 Dispute Resolution.** If you are unable to resolve a problem directly with a Seller, you can go to the **[Resolution Center**][19] and follow this process:
+**13.5 Dispute Resolution.** If you are unable to resolve a problem directly with a Seller, you can go to the **[Resolution Center**][18] and follow this process:
 
 * **Open a Dispute.** Open a Dispute within **180 Days** of the date you made the payment (or the date of the transaction if using Pay After Delivery) for the item you would like to dispute to negotiate with the Seller for resolution of the Dispute. We will place a hold on all funds related to the transaction in the Seller's Account until the Dispute is resolved or closed.
 * **Escalate the Dispute to a Claim.** If you and the Seller are unable to come to an agreement, you can escalate the Dispute to a Claim **within 20 Days** after opening the Dispute.  
@@ -3338,7 +3332,7 @@ Before contacting your card issuer or filing a Dispute with PayPal, you should c
 
 **You and PayPal agree that any claim or dispute at law or equity that has arisen or may arise between us will be resolved in accordance with the provisions set forth in this Section (Section 14: Disputes with PayPal). Please read this Section carefully. It affects your rights and will impact how claims you and we have against each other are resolved.**
 
-**14.1 Contact PayPal First.** If a dispute arises between you and PayPal, our goal is to learn about and address your concerns and, if we are unable to do so to your satisfaction, to provide you with a neutral and cost effective means of resolving the dispute quickly. Disputes between you and PayPal regarding the PayPal Services may be reported to Customer Service online through the **[PayPal Help Center**][20] at any time, or by calling (402) 935-2050 from 7 AM to midnight, Central Time.
+**14.1 Contact PayPal First.** If a dispute arises between you and PayPal, our goal is to learn about and address your concerns and, if we are unable to do so to your satisfaction, to provide you with a neutral and cost effective means of resolving the dispute quickly. Disputes between you and PayPal regarding the PayPal Services may be reported to Customer Service online through the **[PayPal Help Center**][19] at any time, or by calling (402) 935-2050 from 7 AM to midnight, Central Time.
 
 **14.2 Applicable Law**. You agree that, except to the extent inconsistent with or preempted by federal law and except as otherwise stated in this User Agreement, the laws of the State of Delaware, without regard to principles of conflict of laws, will govern this User Agreement and any claim or dispute that has arisen or may arise between you and PayPal.
 
@@ -3351,7 +3345,7 @@ YOU AND PAYPAL AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON 
   
 Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator or arbitrators instead of a judge or jury, and court review of an arbitration award is very limited. However, the arbitrator(s) can award the same damages and relief on an individual basis that a court can award to an individual. The arbitrator(s) also must follow the terms of this User Agreement as a court would. All issues are for the arbitrator(s) to decide, except that issues relating to arbitrability, the scope or enforceability of this Agreement to Arbitrate, or the interpretation of subsection (a) of this Agreement to Arbitrate (“Prohibition of Class and Representative Actions and Non-Individualized Relief”), shall be for a court of competent jurisdiction to decide.  
   
-The arbitration will be conducted by the American Arbitration Association ("AAA") under its rules and procedures, including the AAA's Consumer Arbitration Rules (as applicable), as modified by this Agreement to Arbitrate. The AAA's rules are available at www.adr.org. A party who intends to seek arbitration must first send to the other, by certified mail, a completed form Notice of Dispute (“Notice”). You may download a form Notice [here][21]. The Notice to PayPal should be sent to PayPal, Inc., Attn: Litigation Department, Re: Notice of Dispute, 2211 North First Street, San Jose, CA 95131. PayPal will send any Notice to you to the physical address we have on file associated with your PayPal Account; it is your responsibility to keep your physical address up to date. All information called for in the Notice must be provided including a description of the nature and basis of the claims the party is asserting and the relief sought.  
+The arbitration will be conducted by the American Arbitration Association ("AAA") under its rules and procedures, including the AAA's Consumer Arbitration Rules (as applicable), as modified by this Agreement to Arbitrate. The AAA's rules are available at www.adr.org. A party who intends to seek arbitration must first send to the other, by certified mail, a completed form Notice of Dispute (“Notice”). You may download a form Notice [here][20]. The Notice to PayPal should be sent to PayPal, Inc., Attn: Litigation Department, Re: Notice of Dispute, 2211 North First Street, San Jose, CA 95131. PayPal will send any Notice to you to the physical address we have on file associated with your PayPal Account; it is your responsibility to keep your physical address up to date. All information called for in the Notice must be provided including a description of the nature and basis of the claims the party is asserting and the relief sought.  
   
 If you and PayPal are unable to resolve the claims described in the Notice within 30 days after the Notice is sent, you or PayPal may initiate arbitration proceedings. A form for initiating arbitration proceedings is available on the AAA's website at www.adr.org.  
   
@@ -3368,7 +3362,7 @@ With the exception of any of the provisions in subsection (a) of this Agreement 
   
 IF YOU ARE A NEW PAYPAL USER, YOU CAN CHOOSE TO REJECT THIS AGREEMENT TO ARBITRATE (“OPT OUT”) BY MAILING US A WRITTEN OPT-OUT NOTICE (“OPT-OUT NOTICE”). THE OPT-OUT NOTICE MUST BE POSTMARKED NO LATER THAN 30 DAYS AFTER THE DATE YOU ACCEPT THE USER AGREEMENT FOR THE FIRST TIME. YOU MUST MAIL THE OPT-OUT NOTICE TO PAYPAL, INC., ATTN: LITIGATION DEPARTMENT, 2211 NORTH FIRST STREET, SAN JOSE, CA 95131.  
   
-For your convenience, we are providing an [Opt-Out Notice][22] form you must complete and mail to opt out of the Agreement to Arbitrate. You must complete the Opt-Out Notice form by providing the information called for in the form, including your name, address, phone number, and the email address(es) used to log in to the PayPal account(s) to which the opt-out applies. You must sign the Opt-Out Notice for it to be effective. This procedure is the only way you can opt out of the Agreement to Arbitrate. If you opt out of the Agreement to Arbitrate, all other parts of the User Agreement, including all other provisions of Section 14 (Disputes with PayPal), will continue to apply. Opting out of this Agreement to Arbitrate has no effect on any previous, other, or future arbitration agreements that you may have with us.
+For your convenience, we are providing an [Opt-Out Notice][21] form you must complete and mail to opt out of the Agreement to Arbitrate. You must complete the Opt-Out Notice form by providing the information called for in the form, including your name, address, phone number, and the email address(es) used to log in to the PayPal account(s) to which the opt-out applies. You must sign the Opt-Out Notice for it to be effective. This procedure is the only way you can opt out of the Agreement to Arbitrate. If you opt out of the Agreement to Arbitrate, all other parts of the User Agreement, including all other provisions of Section 14 (Disputes with PayPal), will continue to apply. Opting out of this Agreement to Arbitrate has no effect on any previous, other, or future arbitration agreements that you may have with us.
 6. **Future Amendments to the Agreement to Arbitrate.**  
   
 Notwithstanding any provision in the User Agreement to the contrary, you and we agree that if we make any amendment to this Agreement to Arbitrate (other than an amendment to any notice address or website link provided herein) in the future, that amendment shall not apply to any claim that was filed in a legal proceeding against PayPal prior to the effective date of the amendment. The amendment shall apply to all other disputes or claims governed by the Agreement to Arbitrate that have arisen or may arise between you and PayPal. We will notify you of amendments to this Agreement to Arbitrate by posting the amended terms on www.paypal.com at least 30 days before the effective date of the amendments and by providing notice through email. If you do not agree to these amended terms, you may close your account within the 30 day period and you will not be bound by the amended terms.
@@ -3403,7 +3397,7 @@ Notwithstanding any provision in the User Agreement to the contrary, you and we 
 
 **15.6 License Grant from Merchants to PayPal.** Section 15.5 notwithstanding, if you are a Merchant using PayPal Merchant services, you hereby grant us a worldwide, non-exclusive, transferable, sublicensable (through multiple tiers), and royalty-free right to use and display publicly, during the term of this Agreement, your trademark(s) (including but not limited to registered and unregistered trademarks, trade names, service marks, logos, domain names and other designations owned, licensed to or used by you) for the purpose of (1) identifying you as a merchant that accepts a PayPal service as a payment form, and (2) any other use to which you specifically consent.
 
-**15.7 Complete Agreement. **This Agreement, along with any applicable policies and agreements on the **[Legal ****Agreements**][7] page on the PayPal website, sets forth the entire understanding between you and PayPal with respect to the PayPal Services. Sections 1 (Our Relationship with You), 7 (Closing Your Account), 8 (Fees), 10 (Your Liability - Actions We May Take), 14 (Disputes with PayPal), 15 (General Provisions), and 16 (Definitions), as well as any other terms which by their nature should survive, will survive the termination of this Agreement. Unless stated otherwise in this Agreement, if any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced.
+**15.7 Complete Agreement. **This Agreement, along with any applicable policies and agreements on the **[Legal ****Agreements**][6] page on the PayPal website, sets forth the entire understanding between you and PayPal with respect to the PayPal Services. Sections 1 (Our Relationship with You), 7 (Closing Your Account), 8 (Fees), 10 (Your Liability - Actions We May Take), 14 (Disputes with PayPal), 15 (General Provisions), and 16 (Definitions), as well as any other terms which by their nature should survive, will survive the termination of this Agreement. Unless stated otherwise in this Agreement, if any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced.
 
 **15.8 Translated Agreement.** Any translation of this Agreement is provided solely for your convenience and is not intended to modify the terms of this Agreement. In the event of a conflict between the English version of this Agreement and a version in a language other than English, the English version shall apply.
 
@@ -3439,13 +3433,13 @@ Notwithstanding any provision in the User Agreement to the contrary, you and we 
 
 **"Chargeback"** means a request that a buyer files directly with his or her debit or credit card company or debit or credit card issuing bank to invalidate a payment.
 
-**"Claim"** means a challenge to a payment that a User files directly with PayPal in the **[Online Resolution Center**][23] pursuant to Section 13 (Protection for Buyers) of this Agreement.
+**"Claim"** means a challenge to a payment that a User files directly with PayPal in the **[Online Resolution Center**][22] pursuant to Section 13 (Protection for Buyers) of this Agreement.
 
 **"Closed Loop"** gift card means branded stored value or branded prepaid physical or digital card, or other electronic or digital debit payment mechanism, electronic promise, number, or payment code providing prepaid access to funds or the value of funds that can be used only for goods or services in transactions involving a defined merchant or location (or set of locations), such as a specific retailer or retail chain, a college campus or a subway system.
 
 **"Confirmed Address"** means an address that has been reviewed by PayPal and found highly likely to be that of the User to which it is associated.
 
-**"Customer Service"** is PayPal's customer support which can be accessed online through the **[PayPal Help Center**][20] at any time, or by calling (402) 935-2050 from 7 AM to midnight Central Time.
+**"Customer Service"** is PayPal's customer support which can be accessed online through the **[PayPal Help Center**][19] at any time, or by calling (402) 935-2050 from 7 AM to midnight Central Time.
 
 **"Days"** means calendar days.
 
@@ -3453,7 +3447,7 @@ Notwithstanding any provision in the User Agreement to the contrary, you and we 
 
 **"Digital Goods"** means goods that are delivered and used in an electronic format.
 
-**"Dispute"** means a dispute filed by a User directly with PayPal in the **[Online Resolution Center**][24] pursuant to Section 13 of this Agreement.
+**"Dispute"** means a dispute filed by a User directly with PayPal in the **[Online Resolution Center**][23] pursuant to Section 13 of this Agreement.
 
 **"eBay"** means eBay Inc.
 
@@ -3463,7 +3457,7 @@ Notwithstanding any provision in the User Agreement to the contrary, you and we 
 
 **"Holidays"** means New Year's Day (January 1), Birthday of Martin Luther King, Jr. (the third Monday in January), Washington's Birthday (the third Monday in February), Memorial Day (the last Monday in May), Independence Day (July 4), Labor Day (the first Monday in September), Columbus Day (the second Monday in October), Veterans Day (November 11), Thanksgiving Day (the fourth Thursday in November) and Christmas Day (December 25).If a Holiday falls on a Saturday, PayPal shall observe the Holiday on the prior Friday. If the Holiday falls on a Sunday, PayPal shall observe the Holiday on the following Monday.
 
-**"In-Store Checkout"** means the use of PayPal for a transaction that occurs in a Seller's physical location, rather than online, using an access device authorized by us (such as the PayPal Payment Card, a supported mobile device loaded with the current version of the PayPal mobile application, or a confirmed mobile phone number). In-Store Checkout definition includes Mobile In-Store Payments.
+**"In-Store Checkout"** means the use of PayPal for a transaction that occurs in a Seller’s physical location, rather than online, using an access device authorized by us (such as the PayPal Payment Card, a supported mobile device loaded with the current version of the PayPal mobile application, or a confirmed mobile phone number). In-Store Checkout definition includes Mobile In-Store Payments.
 
 **"Information"** means any confidential and/or personally identifiable information or other information related to an Account or User, including but not limited to the following: name, email address, date of birth, tax identification number, billing/shipping address, phone number and financial information.
 
@@ -3481,7 +3475,7 @@ Notwithstanding any provision in the User Agreement to the contrary, you and we 
 
 **"Micropayments for Digital Goods"** means the PayPal Service offered to certain qualifying Merchants who sell Digital Goods which, among other things, offers micropayments pricing and integrated website tools. All Micropayments for Digital Goods are Purchase Payments.
 
-**“Mobile In-Store Payments”** means using the PayPal mobile application to pay with PayPal based on the sender's proximity to the recipient's location. Mobile In-Store Payments may include Payment Code payments and NFC payments.
+**“Mobile In-Store Payments”** means using the PayPal mobile application to pay with PayPal based on the sender’s proximity to the recipient’s location. Mobile In-Store Payments may include Payment Code payments and NFC payments.
 
 **"No Log-In Payment"** means a PayPal payment that is made to a User without the sender having to log into his/her Account.
 
@@ -3569,36 +3563,26 @@ A PayPal Business Payment is not a Purchase Payment even if it meets any of the 
 
  
 
-* © 1999–2016
-* [Privacy][11]
-* [Legal][7]
-* Feedback
-
-![][25] ![][26]
-
-[1]: https://www.paypal.com/us/webapps/mpp/home
-[2]: https://www.paypal.com/us/webapps/mpp/ua/legalhub-full "Legal Agreements"
-[3]: https://www.paypalobjects.com/webstatic/ua/printer_icon.jpg
-[4]:
-[5]: https://www.paypalobjects.com/webstatic/ua/document_icon.jpg
-[6]: https://www.paypalobjects.com/webstatic/ua/pdf/US/en_US/ua.pdf
-[7]: https://www.paypal.com/us/webapps/mpp/ua/legalhub-full
-[8]: https://www.paypal.com/us/webapps/mpp/ua/upcoming-policies-full "Policy Updates"
-[9]: https://www.paypal.com/webapps/mpp/paypal-safety-and-security "Security"
-[10]: https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full "Acceptable Use"
-[11]: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
-[12]: https://www.paypal.com/us/webapps/mpp/ua/esign-full
-[13]: https://www.paypal.com/us/cgi-bin/webscr?cmd=_display-approved-signup-countries-outside
-[14]: https://personal.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&content_ID=marketing_us/use_paypal_at_register
-[15]: https://financing.paypal.com/ppfinportal/content/eligibility
-[16]: https://www.paypal.com/us/webapps/mpp/ua/ceagreement-full
-[17]: https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full
-[18]: https://www.paypal.com/webapps/helpcenter/helphub/home/?dwf=neg_infolimit
-[19]: https://www.paypal.com/us/cgi-bin/webscr?cmd=_complaint-view&nav=0.4
-[20]: https://www.paypal.com/us/webapps/helpcenter/helphub/home/
-[21]: https://www.paypal.com/us/webapps/mpp/ua/pp-notice-dispute
-[22]: https://www.paypal.com/us/webapps/mpp/ua/pp-optout
-[23]: https://www.paypal.com/us/cgi-bin/?&cmd=xpt/Customer/customerservice/GXOLogin-outside&from=resolution_center&toResCtr=tr
-[24]: https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Customer/customerservice/GXOLogin-outside&from=resolution_center&toResCtr=tr
-[25]: //paypal.112.2O7.net/b/ss/paypalglobal/1/H.6--NS/0?pageName=NonJavaScript
-[26]: https://t.paypal.com/ts?nojs=1&pgrp=main%3Amktg%3A%3A%3Auseragreement-full&page=main%3Amktg%3A%3A%3Auseragreement-full%3A%3A%3A&qual=&tmpl=useragreement-full.dust&pgst=Unknown&lgin=out&vers=&calc=cfb1de3f2e30&rsta=en_US&pgtf=&s=ci&ccpg=us&csci=cd9a91ee375647da96370153bf4591ae&comp=mppnodeweb&tsrce=mppnodeweb&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=&pgld=Unknown&bzsr=main&bchn=mktg&pgsf=&shir=main_mktg__&pros=3&ptnr=&lgcook=0&pxpguid=0ea0e3da1550a115c5581a40fffe62c9
+[1]: https://www.paypal.com/us/webapps/mpp/ua/legalhub-full "Legal Agreements"
+[2]: https://www.paypalobjects.com/webstatic/ua/printer_icon.jpg
+[3]:
+[4]: https://www.paypalobjects.com/webstatic/ua/document_icon.jpg
+[5]: https://www.paypalobjects.com/webstatic/ua/pdf/US/en_US/ua.pdf
+[6]: https://www.paypal.com/us/webapps/mpp/ua/legalhub-full
+[7]: https://www.paypal.com/us/webapps/mpp/ua/upcoming-policies-full "Policy Updates"
+[8]: https://www.paypal.com/webapps/mpp/paypal-safety-and-security "Security"
+[9]: https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full "Acceptable Use"
+[10]: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+[11]: https://www.paypal.com/us/webapps/mpp/ua/esign-full
+[12]: https://www.paypal.com/us/cgi-bin/webscr?cmd=_display-approved-signup-countries-outside
+[13]: https://personal.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&content_ID=marketing_us/use_paypal_at_register
+[14]: https://financing.paypal.com/ppfinportal/content/eligibility
+[15]: https://www.paypal.com/us/webapps/mpp/ua/ceagreement-full
+[16]: https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full
+[17]: https://www.paypal.com/webapps/helpcenter/helphub/home/?dwf=neg_infolimit
+[18]: https://www.paypal.com/us/cgi-bin/webscr?cmd=_complaint-view&nav=0.4
+[19]: https://www.paypal.com/us/webapps/helpcenter/helphub/home/
+[20]: https://www.paypal.com/us/webapps/mpp/ua/pp-notice-dispute
+[21]: https://www.paypal.com/us/webapps/mpp/ua/pp-optout
+[22]: https://www.paypal.com/us/cgi-bin/?&cmd=xpt/Customer/customerservice/GXOLogin-outside&from=resolution_center&toResCtr=tr
+[23]: https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Customer/customerservice/GXOLogin-outside&from=resolution_center&toResCtr=tr
