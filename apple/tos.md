@@ -1,37 +1,10 @@
-[Source](https://www.apple.com/legal/internet-services/terms/site.html "Permalink to Apple - Legal - Internet Services - Terms - Legal Information & Notices")
-
-# Apple - Legal - Internet Services - Terms - Legal Information & Notices
-
-* Open Menu Close Menu
-* [ Apple ][1]
-* [ Shopping Bag ][2]
-* [ Apple ][1]
-* [ Mac ][3]
-* [ iPad ][4]
-* [ iPhone ][5]
-* [ Watch ][6]
-* [ TV ][7]
-* [ Music ][8]
-* [ Support ][9]
-* [ Search apple.com ][10]
-* [ Shopping Bag ][2]
-
-## ![Legal][11]
-
-* [Hardware][12]
-* [Software][13]
-* [Sales & Support ][14]
-* [Internet Services][15]
-* [Intellectual Property][16]
-* [More Resources][17]
-
-#  ![Apple Website Terms of Use][18]
+#  ![Apple Website Terms of Use][1]
 
 Legal Information & Notices
 
 ###  Ownership of Site; Agreement to Terms of Use
 
-These Terms and Conditions of Use (the “Terms of Use”) apply to the Apple web site located at [www.apple.com][1], and all associated sites linked to [www.apple.com][1] by Apple, its subsidiaries and affiliates, including Apple sites around the world (collectively, the “Site”). The Site is the property of Apple Inc. (“Apple”) and its licensors. BY USING THE SITE, YOU AGREE TO THESE TERMS OF USE; IF YOU DO NOT AGREE, DO NOT USE THE SITE.
+These Terms and Conditions of Use (the “Terms of Use”) apply to the Apple web site located at [www.apple.com][2], and all associated sites linked to [www.apple.com][2] by Apple, its subsidiaries and affiliates, including Apple sites around the world (collectively, the “Site”). The Site is the property of Apple Inc. (“Apple”) and its licensors. BY USING THE SITE, YOU AGREE TO THESE TERMS OF USE; IF YOU DO NOT AGREE, DO NOT USE THE SITE.
 
 Apple reserves the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time. It is your responsibility to check these Terms of Use periodically for changes. Your continued use of the Site following the posting of changes will mean that you accept and agree to the changes. As long as you comply with these Terms of Use, Apple grants you a personal, non-exclusive, non-transferable, limited privilege to enter and use the Site.
 
@@ -69,15 +42,15 @@ Apple may make changes to any products or services offered on the Site, or to th
 
 The following terms also govern and apply to your use of the Site, and they are incorporated herein by this reference:
 
-* [Guidelines for Using Apple Trademarks & Copyrights][19]
-* [Rights & Permissions][20]
-* [Trademarks][21]
-* [Claims of Copyright Infringement][22]
-* [Piracy][23]
-* [Counterfeit Products][24]
-* [Apple’s Unsolicited Idea Submission Policy][25]
-* [Software License Information][26]
-* [Legal Contacts][27]
+* [Guidelines for Using Apple Trademarks & Copyrights][3]
+* [Rights & Permissions][4]
+* [Trademarks][5]
+* [Claims of Copyright Infringement][6]
+* [Piracy][7]
+* [Counterfeit Products][8]
+* [Apple’s Unsolicited Idea Submission Policy][9]
+* [Software License Information][10]
+* [Legal Contacts][11]
 
 Each of these policies may be changed from time to time and are effective immediately upon posting such changes on the Site.
 
@@ -89,7 +62,7 @@ You may not use anyone else’s Apple ID, password or account at any time withou
 
 ###  Privacy
 
-Apple’s Privacy Policy applies to use of this Site, and its terms are made a part of these Terms of Use by this reference. To view Apple’s Privacy Policy, [click here][28]. Additionally, by using the Site, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the Site may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, credit card information) is encrypted.
+Apple’s Privacy Policy applies to use of this Site, and its terms are made a part of these Terms of Use by this reference. To view Apple’s Privacy Policy, [click here][12]. Additionally, by using the Site, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the Site may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, credit card information) is encrypted.
 
 ###  Links to Other Sites and to the Apple Site
 
@@ -131,7 +104,7 @@ You agree that all matters relating to your access to or use of the Site, includ
 
 ###  Void Where Prohibited
 
-Apple administers and operates the [www.apple.com][1] Site from its location in Cupertino, California USA; other Apple sites may be administered and operated from various locations outside the United States. Although the Site is accessible worldwide, not all features, products or services discussed, referenced, provided or offered through or on the Site are available to all persons or in all geographic locations, or appropriate or available for use outside the United States. Apple reserves the right to limit, in its sole discretion, the provision and quantity of any feature, product or service to any person or geographic area. Any offer for any feature, product or service made on the Site is void where prohibited. If you choose to access the Site from outside the United States, you do so on your own initiative and you are solely responsible for complying with applicable local laws.
+Apple administers and operates the [www.apple.com][2] Site from its location in Cupertino, California USA; other Apple sites may be administered and operated from various locations outside the United States. Although the Site is accessible worldwide, not all features, products or services discussed, referenced, provided or offered through or on the Site are available to all persons or in all geographic locations, or appropriate or available for use outside the United States. Apple reserves the right to limit, in its sole discretion, the provision and quantity of any feature, product or service to any person or geographic area. Any offer for any feature, product or service made on the Site is void where prohibited. If you choose to access the Site from outside the United States, you do so on your own initiative and you are solely responsible for complying with applicable local laws.
 
 ###  Miscellaneous
 
@@ -153,146 +126,15 @@ Updated by The Apple Legal Team on Nov. 20, 2009
 
   
 
-1. [Home][1]
-2. [Legal][29]
-3. [Internet Services][15]
-4. Legal Information & Notices
-
-###  Hardware and Software
-
-* [Hardware Warranties][12]
-* [Software License Agreements][13]
-* [RF Exposure][30]
-
-###  [More Resources][17]
-
-* [Phishing & Other Suspicious Emails][31]
-* [Government Information Requests][32]
-* [Global Trade Compliance][33]
-* [Supplier Provisions][34]
-* [Contact Apple Legal][27]
-* [FileMaker Legal Information][35]
-
-###  [Sales & Support][14]
-
-* [AppleCare][36]
-* [Support Communities Terms of Use][37]
-* [Express Replacement Service][38]
-* [Remote Support Terms and Conditions][39]
-* [One to One][40]
-* [Repair Terms and Conditions][41]
-* [Certification Agreements and Policies][42]
-* [Training Service Terms and Conditions][43]
-* [Sales Policies][44]
-
-###  [Internet Services][15]
-
-* [Website Terms of Use][45]
-* [iTunes Store, App Store, and iBooks Store Terms and Conditions][46]
-* [Game Center Terms and Conditions][47]
-* [iCloud Terms of Service][48]
-* [Apple Maps Terms of Use][49]
-* [Print Services Sales Policies][50]
-* [Print Services Terms of Use][51]
-* [Privacy Policy][52]
-
-###  [Intellectual Property][16]
-
-* [Unsolicited Idea Submission Policy][53]
-* [Trademarks][54]
-* [Rights and Permissions][55]
-* [Guidelines for Using Apple Trademarks and Copyrights][56]
-* [Piracy Prevention][57]
-
-###  [Education][58]
-
-* [Apple School Manager][59]
-
- 
-
-  
-
-Shop the [Apple Online Store][60] (1-800-MY-APPLE), visit an [Apple Retail Store][61], or find a [reseller][62].
-
-* [Apple Info][63]
-* [Site Map][64]
-* [Hot News][65]
-* [RSS Feeds][66]
-* [Contact Us][67]
-* [ ![Choose your country or region][68] ][69]
-
-Copyright © 2016 Apple Inc. All rights reserved.
-
-* [Terms of Use][45]
-* [Updated Privacy Policy][70]
-
-[1]: /
-[2]: /us/shop/goto/bag
-[3]: /mac/
-[4]: /ipad/
-[5]: /iphone/
-[6]: /watch/
-[7]: /tv/
-[8]: /music/
-[9]: https://support.apple.com/
-[10]: /us/search
-[11]: https://www.apple.com/legal/images/legal_title.png
-[12]: /legal/warranty/
-[13]: /legal/sla/
-[14]: /legal/sales-support/
-[15]: /legal/internet-services/
-[16]: /legal/intellectual-property/
-[17]: /legal/more-resources/
-[18]: https://www.apple.com/legal/internet-services/images/terms_site_title.png
-[19]: ../../intellectual-property/guidelinesfor3rdparties.html
-[20]: ../../intellectual-property/rightsandpermissions.html
-[21]: ../../intellectual-property/
-[22]: /legal/contact/#copyright-infringement
-[23]: ../../intellectual-property/piracy.html
-[24]: /legal/contact/#counterfeit
-[25]: ../../intellectual-property/policies/ideas.html
-[26]: ../../sla/
-[27]: /legal/contact/
-[28]: ../../privacy/
-[29]: /legal/
-[30]: /legal/rfexposure/
-[31]: /legal/more-resources/phishing/
-[32]: /privacy/government-information-requests/
-[33]: /legal/more-resources/gtc.html
-[34]: /legal/more-resources/supplier-provisions.html
-[35]: http://www.filemaker.com/company/legal/trademark_guidelines.html
-[36]: /legal/sales-support/applecare/
-[37]: https://discussions.apple.com/static/apple/tutorial/tou.html
-[38]: /legal/sales-support/terms/iphonears/index.html
-[39]: https://www.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf
-[40]: /retail/learn/one-to-one/terms.html
-[41]: /legal/sales-support/terms/repair/
-[42]: /legal/sales-support/certification/
-[43]: /legal/sales-support/terms/training/trainingservice.html
-[44]: /legal/sales-support/sales-policies/
-[45]: /legal/internet-services/terms/site.html
-[46]: /legal/internet-services/itunes/ww/
-[47]: /legal/internet-services/gamecenter/
-[48]: /legal/internet-services/icloud/ww/
-[49]: /legal/internet-services/maps/
-[50]: /internetservices/terms/sales_policies.html
-[51]: /internetservices/terms/membership_terms.html
-[52]: /legal/internet-services/privacy/
-[53]: /legal/intellectual-property/policies/ideas.html
-[54]: /legal/intellectual-property/trademark/
-[55]: /legal/intellectual-property/rightsandpermissions.html
-[56]: /legal/intellectual-property/guidelinesfor3rdparties.html
-[57]: /legal/intellectual-property/piracy.html
-[58]: /legal/education/
-[59]: /legal/education/apple-school-manager/
-[60]: http://store.apple.com/us
-[61]: /retail/
-[62]: /buy/
-[63]: /about/
-[64]: /sitemap/
-[65]: /hotnews/
-[66]: /rss/
-[67]: /contact/
-[68]: https://www.apple.com/global/elements/flags/22x22/usa.png
-[69]: /choose-your-country/
-[70]: /privacy/privacy-policy/
+[1]: https://www.apple.com/legal/internet-services/images/terms_site_title.png
+[2]: /
+[3]: ../../intellectual-property/guidelinesfor3rdparties.html
+[4]: ../../intellectual-property/rightsandpermissions.html
+[5]: ../../intellectual-property/
+[6]: /legal/contact/#copyright-infringement
+[7]: ../../intellectual-property/piracy.html
+[8]: /legal/contact/#counterfeit
+[9]: ../../intellectual-property/policies/ideas.html
+[10]: ../../sla/
+[11]: /legal/contact/
+[12]: ../../privacy/
