@@ -180,7 +180,7 @@ By bringing content and advertising to you that is relevant and tailored to your
 [4]: https://www.yahoo.com/news
 [5]: http://sports.yahoo.com/
 [6]: http://finance.yahoo.com/
-[7]: https://weather.yahoo.com/
+[7]: https://www.yahoo.com/news/weather
 [8]: https://games.yahoo.com/
 [9]: https://groups.yahoo.com/
 [10]: https://answers.yahoo.com/
