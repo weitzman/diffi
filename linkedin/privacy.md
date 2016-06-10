@@ -8,7 +8,7 @@ At LinkedIn, our fundamental philosophy is “members first.” That value power
 
 We’ve crafted the policy below to be as clear and straightforward as possible. Our aim is for you—our members—to always feel informed and empowered with respect to your privacy on LinkedIn. [Visit our Safety Center][1] for tips on using LinkedIn smartly and securely.
 
-[{0}][2]
+[View our California DNT notice][2]
 
 * Introduction
 * Information Collected
@@ -358,7 +358,7 @@ Ireland
 Back to Top
 
 [1]: https://linkedin.com/help/linkedin?lang=en
-[2]: http://www.linkedin.com/legal/do-not-track
+[2]: http://www.linkedin.com/redir/redirect?url=https://www.linkedin.com/help/linkedin/answer/68763&urlhash=RDkB
 [3]: /psettings/account-management/close-action-needed
 [4]: https://linkedin.com/help/linkedin/answer/53671?lang=en
 [5]: https://linkedin.com/help/linkedin/answer/49959?lang=en
