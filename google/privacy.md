@@ -479,7 +479,7 @@ You can see some of these at [Google Trends][88] and [YouTube Trends][89].
 
 [1]: https://myaccount.google.com/?hl=en
 [2]: ../../policies/privacy/archive/
-[3]: //www.google.com/intl/en/policies/privacy/google_privacy_policy_en.pdf
+[3]: /intl/en/policies/privacy/google_privacy_policy_en.pdf
 [4]: ../../policies/privacy/key-terms/#toc-terms-account
 [5]: ../../policies/privacy/example/more-relevant-search-results.html
 [6]: ../../policies/privacy/example/connect-with-people.html
