@@ -25,7 +25,7 @@ Stay connected anytime, anywhere.
 
 ][4]
 
-[1]: http://l.facebook.com/l.php?u=http://windows.microsoft.com/en-US/internet-explorer/downloads/ie&h=gAQEpG3Tw&s=1
-[2]: https://www.facebook.com/l.php?u=https://www.mozilla.org/firefox/new/?utm_source=facebook&utm_medium=referral&utm_campaign=unsupported-browser-notification&h=IAQFesfvi&s=1
-[3]: http://l.facebook.com/l.php?u=http://www.google.com/chrome/&h=9AQE6JVxr&s=1
+[1]: http://l.facebook.com/l.php?u=http://windows.microsoft.com/en-US/internet-explorer/downloads/ie&h=wAQHGN9qe&s=1
+[2]: https://www.facebook.com/l.php?u=https://www.mozilla.org/firefox/new/?utm_source=facebook&utm_medium=referral&utm_campaign=unsupported-browser-notification&h=GAQF3sR02&s=1
+[3]: http://l.facebook.com/l.php?u=http://www.google.com/chrome/&h=MAQHalPYo&s=1
 [4]: /mobile
