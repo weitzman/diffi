@@ -6,7 +6,7 @@
 
 # PayPal User Agreement
 
-**YOU AGREE THAT THIS USER AGREEMENT WILL BE EFFECTIVE AS TO _ALL USERS_ ON OCTOBER 30, 2015**.
+**YOU AGREE THAT THIS USER AGREEMENT WILL BE EFFECTIVE AS TO _ALL USERS_ ON June 25, 2016**.
 
 ![][2][Print][3] ![][4][Download PDF][5]
 
@@ -1528,7 +1528,7 @@ Sending or receiving*
 
  |   |
 
-2. **International Business Payments in U.S. Dollars.**The following Fees apply when either the sender or recipient is outside the United States, and the payment is in U.S. Dollars.  
+2. **International Business Payments in U.S. Dollars.** The following Fees apply when either the sender or recipient is outside the United States, and the payment is in U.S. Dollars.  
  
 
 | ----- |
@@ -1640,7 +1640,7 @@ Canada
 
 **8.7 Mass Payment Fees.** The following fees apply when you use Mass Payments to send multiple payments at the same time.
 
-1. **Domestic Mass Payments.** If you send Mass Payments within the U.S., your fee is **2%** of each recipient’s payment amount, up to a maximum amount of **$1.00 USD**per recipient, or its foreign currency equivalent as set out below.  
+1. **Domestic Mass Payments.** If you send Mass Payments within the U.S., your fee is **2%** of each recipient’s payment amount, up to a maximum amount of **$1.00 USD **per recipient, or its foreign currency equivalent as set out below.  
  
 
 | ----- |
@@ -2118,7 +2118,7 @@ U.S. Dollar:
  |
 
 4. *Subject to commencement of PayPal’s Russian Ruble service.
-5. **International Mass Payments.** If you send Mass Payments internationally, your fee is **2%** of each recipient’s payment amount, up to a maximum amount of **$20.00 USD**per recipient, or its foreign currency equivalent as set out below.  
+5. **International Mass Payments.** If you send Mass Payments internationally, your fee is **2%** of each recipient’s payment amount, up to a maximum amount of **$20.00 USD** per recipient, or its foreign currency equivalent as set out below.  
  
 
 | ----- |
@@ -2716,7 +2716,7 @@ If a buyer files a Significantly Not as Described (SNAD) Claim for an item they 
   
 If you do not want to allow PayPal to reimburse eBay for your liability, you may opt-out by calling eBay at 1-866-643-0898. Your opt-out will be effective within 3 Business Days. If you opt-out then eBay will not use your Account to recover amounts that you owe due to an eBay claim that you lost. This opt-out will not affect other amounts that you pay to eBay using your Account (such as your eBay fees).
 
-**10.2 Reimbursement for Your Liability**. In the event that you are liable for any amounts owed to PayPal, PayPal may immediately remove such amounts from your Balance. If you do not have a Balance that is sufficient to cover your liability, your remaining Balance (if any) will be removed, your Account will have negative Balance up to the amount of your liability, and you will be required to immediately add funds to your Balance to eliminate the negative Balance. If you do not do so, PayPal may engage in collection efforts to recover such amounts from you.
+**10.2 Reimbursement for Your Liability**. In the event that you are liable for any amounts owed to PayPal, PayPal may immediately remove such amounts from your Balance. If you do not have a Balance that is sufficient to cover your liability, your remaining Balance (if any) will be removed; your Account will have a negative Balance up to the amount of your liability; and you will be required to immediately add funds to your Balance to eliminate the negative Balance. If you do not do so, PayPal may engage in collection efforts to recover such amounts from you.
 
 **10.3 Actions by PayPal - Restricted Activities**. If PayPal, in its sole discretion, believes that you may have engaged in any Restricted Activities, we may take various actions to protect PayPal, other Users, other third parties, or you from Reversals, Chargebacks, Claims, fees, fines, penalties and any other liability. The actions we may take include but are not limited to the following:
 
@@ -2905,7 +2905,7 @@ _NOTE: Although Purchase Protection extends coverage to buyers for intangible it
 
 "Signature Confirmation" is online documentation that can be viewed at the shipping company’s website and indicates that the item was signed for on delivery.
 
-**11.5 Items/transactions not eligible for PayPal Seller protection.** The following are examples of items/transactions not eligible for PayPal Seller protection.
+**11.5 Items/transactions not eligible for PayPal Seller protection.** The following are items/transactions not eligible for PayPal Seller protection.
 
 * Intangible items, including Digital Goods, and services.
 * Claims or Chargebacks for Significantly Not as Described.
@@ -2913,6 +2913,7 @@ _NOTE: Although Purchase Protection extends coverage to buyers for intangible it
 * PayPal Direct Payments.
 * Virtual Terminal Payments.
 * PayPal Business Payments.
+* Items equivalent to cash including gift cards.
 
 Items that are not shipped to the recipient's shipping address on the Transaction Details Page. If you originally ship the item to the recipient's shipping address on the Transaction Details Page but the item is later redirected to a different address, you will not be eligible for PayPal Seller protection. We therefore recommend not using a shipping service that is arranged by the buyer, so that you will be able to provide valid proof of shipping and delivery.
 
@@ -3073,7 +3074,7 @@ To be eligible for PayPal Purchase Protection you must meet all of the following
 
 * Have an Account in good standing.
 * Pay for the eligible item from your Account.
-* Pay for the full amount of the item with one payment. Items purchased with multiple payments – like a deposit followed by a final payment – are not eligible.
+* You must respond to PayPal's request for documentation and other information in a timely manner.
 * Open a Dispute within 180 Days of the date you sent the payment, then follow the online dispute resolution process described below under Dispute Resolution. For Pay After Delivery transactions you must open your Dispute within 180 Days of the date of your transaction.
 * You have not received a recovery related to such purchase from another source. 
 
@@ -3081,11 +3082,14 @@ To be eligible for PayPal Purchase Protection you must meet all of the following
 * Real estate, including residential property
 * Businesses
 * Vehicles, including motor vehicles, motorcycles, caravans, aircraft and boats
-* Significantly Not As Described issues for Custom-made items
+* Significantly Not As Described Claims for Custom-made items
+* Payments on crowdfunding platforms
 * Items prohibited by the [**PayPal Acceptable Use Policy**][16]
 * For INR claims, items which you collect in person or arrange to be collected on your behalf, including items bought through In-Store Checkout at the retail point of sale
 * Industrial machinery used in manufacturing
-* Items equivalent to cash, including prepaid or gift cards
+* Anything purchased from, or an amount paid to, a government agency
+* Stored value items such as gift cards and pre-paid cards.
+* Gambling, gaming and/or any other activity with an entry fee and a prize.
 * PayPal Direct Payments
 * Virtual Terminal Payments
 * Personal Payments
@@ -3101,8 +3105,8 @@ PayPal will not reimburse you for the return shipping costs that you incur to re
 * **Open a Dispute.** Open a Dispute within **180 Days** of the date you made the payment (or the date of the transaction if using Pay After Delivery) for the item you would like to dispute to negotiate with the Seller for resolution of the Dispute. We will place a hold on all funds related to the transaction in the Seller's Account until the Dispute is resolved or closed.
 * **Escalate the Dispute to a Claim.** If you and the Seller are unable to come to an agreement, you can escalate the Dispute to a Claim **within 20 Days** after opening the Dispute.  
   
-You must wait at least 7 Days from the date of payment to escalate a Dispute for an Item Not Received (INR), unless the Dispute is for the equivalent of $2,500 U.S. Dollars or more (or currency equivalent). If you do not escalate the Dispute to a Claim within 20 Days, PayPal will close the Dispute.
-* **Respond to PayPal’s requests for information in a timely manner**. During the Claim process, PayPal may require you to provide documentation to support your position. You may be asked to provide receipts, third party evaluations, police reports, or anything else that PayPal specifies.
+You must wait at least 7 Days from the date of payment to escalate a Dispute for an Item Not Received (INR) to a Claim.  If you do not escalate the Dispute to a Claim within 20 Days, PayPal will close the Dispute.
+* **Respond to PayPal’s requests for information in a timely manner**. During the Claim process, PayPal may require you to provide documentation or other information. You may be asked to provide receipts, third party evaluations, police reports, or anything else that PayPal specifies.
 * **Comply with PayPal’s shipping requests in a timely manner**. For Significantly Not as Described (SNAD) Claims, PayPal may require you, at your expense, to ship the item back to the Seller, PayPal, or a third party and to provide proof of delivery.  
   
 For transactions that total less than $750, proof of delivery is confirmation that can be viewed online and includes the delivery address showing at least city/state or zip, delivery date, and the URL to the shipping company’s website if you've selected “Other” in the shipping drop down menu. For transactions that total $750 or more, you must get signature confirmation of delivery.
