@@ -10,7 +10,7 @@ Show examples
 
 Hide examples
 
-Last modified: March 25, 2016 ([view archived versions][2]) (The hyperlinked examples are available at the end of this document.)
+Last modified: June 28, 2016 ([view archived versions][2]) (The hyperlinked examples are available at the end of this document.)
 
 [Download PDF version][3]
 
@@ -76,7 +76,7 @@ We use information collected from cookies and other technologies, like [pixel ta
 
 Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection.
 
-We may [combine personal information from one service with information, including personal information, from other Google services][42] – for example [to make it easier to share things with people you know][43]. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent.
+We may [combine personal information from one service with information, including personal information, from other Google services][42] – for example [to make it easier to share things with people you know][43]. Depending on [your account settings][1], [your activity on other sites and apps][44] may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
 
 We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
 
@@ -88,27 +88,27 @@ Back to top
 
 People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
-* [Review and update your Google activity controls][44] to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls][45] to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account.
-* [Review and control][46] certain types of information tied to your Google Account by using Google Dashboard.
-* [View and edit][47] your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here.
-* [Adjust][48] how the Profile associated with your Google Account appears to others.
-* [Control][49] who you share information with through your Google Account.
-* [Take information][50] associated with your Google Account out of many of our services.
-* [Choose][51] whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+* [Review and update your Google activity controls][45] to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls][46] to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account.
+* [Review and control][47] certain types of information tied to your Google Account by using Google Dashboard.
+* [View and edit][48] your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here.
+* [Adjust][49] how the Profile associated with your Google Account appears to others.
+* [Control][50] who you share information with through your Google Account.
+* [Take information][51] associated with your Google Account out of many of our services.
+* [Choose][52] whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
 
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly][52] if your cookies are disabled. For example, we may not remember your language preferences.
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly][53] if your cookies are disabled. For example, we may not remember your language preferences.
 
 Back to top
 
 ## Information you share
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing][53] and [removing your content][54].
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing][54] and [removing your content][55].
 
 Back to top
 
 ## Accessing and updating your personal information
 
-Whenever you use our services, we aim to provide you with [access to your personal information][55]. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+Whenever you use our services, we aim to provide you with [access to your personal information][56]. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
 We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
 
@@ -122,30 +122,30 @@ We do not share personal information with companies, organizations and individua
 
 * **With your consent**
 
-We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information][56].
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information][57].
 * **With domain administrators**
 
-If your Google Account is managed for you by a [domain administrator][57] (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to:
+If your Google Account is managed for you by a [domain administrator][58] (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to:
     * view statistics regarding your account, like statistics regarding applications you install.
     * change your account password.
     * suspend or terminate your account access.
     * access or retain information stored as part of your account.
-    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request][58].
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request][59].
     * restrict your ability to delete or edit information or privacy settings.
 
 Please refer to your domain administrator’s privacy policy for more information.
 * **For external processing**
 
-We provide personal information to our [affiliates][59] or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+We provide personal information to our [affiliates][60] or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 * **For legal reasons**
 
 We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
-    * meet any applicable law, regulation, legal process or enforceable governmental request.
+    * meet any applicable law, regulation, [legal process or enforceable governmental request][59].
     * enforce applicable Terms of Service, including investigation of potential violations.
     * detect, prevent, or otherwise address fraud, security or technical issues.
     * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
 
-[We may share][60] [non-personally identifiable information][61] publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends][62] about the general use of our services.
+[We may share][61] [non-personally identifiable information][62] publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends][63] about the general use of our services.
 
 If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
@@ -155,8 +155,8 @@ Back to top
 
 We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
-* We encrypt many of our services [using SSL][63].
-* We offer you [two step verification][64] when you access your Google Account, and a [Safe Browsing feature][65] in Google Chrome.
+* We encrypt many of our services [using SSL][64].
+* We offer you [two step verification][65] when you access your Google Account, and a [Safe Browsing feature][66] in Google Chrome.
 * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
 * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
@@ -172,7 +172,7 @@ Back to top
 
 ## Compliance and cooperation with regulatory authorities
 
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks][66]. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks][67]. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
 Back to top
 
@@ -186,28 +186,28 @@ Back to top
 
 The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
 
-* [Chrome and Chrome OS][67]
-* [Play Books][68]
-* [Payments][69]
-* [Fiber][70]
-* [Project Fi][71]
-* [Google Apps for Education][72]
+* [Chrome and Chrome OS][68]
+* [Play Books][69]
+* [Payments][70]
+* [Fiber][71]
+* [Project Fi][72]
+* [Google Apps for Education][73]
 
-For more information about some of our most popular services, you can visit the [Google Product Privacy Guide][73].
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide][74].
 
 Back to top
 
 ## Other useful privacy and security related materials
 
-Further useful privacy and security related materials can be found through Google’s [policies and principles pages][74], including:
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages][75], including:
 
-* Information about our [technologies and principles][75], which includes, among other things, more information on
-    * [how Google uses cookies][76].
-    * technologies we use for [advertising][77].
-    * how we [recognize patterns like faces][78].
-* A [page][79] that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
-* The [Privacy Checkup][80] tool, which makes it easy to review your key privacy settings.
-* Google’s [safety center][81], which provides information on how to stay safe and secure online.
+* Information about our [technologies and principles][76], which includes, among other things, more information on
+    * [how Google uses cookies][77].
+    * technologies we use for [advertising][78].
+    * how we [recognize patterns like faces][79].
+* A [page][80] that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
+* The [Privacy Checkup][81] tool, which makes it easy to review your key privacy settings.
+* Google’s [safety center][82], which provides information on how to stay safe and secure online.
 
 #### Example
 
@@ -215,7 +215,7 @@ Further useful privacy and security related materials can be found through Googl
 
 For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account.
 
-[Learn more.][55]
+[Learn more.][56]
 
 #### Example
 
@@ -309,9 +309,9 @@ For example, cookies allow us to analyse how users interact with our services.
 
 ## "legal process or enforceable governmental request"
 
-Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data.
+Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Our legal team reviews each and every request, regardless of type, and we frequently push back when the requests appear to be overly broad or don’t follow the correct process.
 
-[Learn more.][58]
+[Learn more.][59]
 
 #### Example
 
@@ -351,7 +351,7 @@ For example, Google Maps can center the maps view on your current location.
 
 For example, we use a cookie called ‘lbcs’ which makes it possible for you to open many Google Docs in one browser.
 
-[Learn more.][52]
+[Learn more.][53]
 
 #### Example
 
@@ -399,7 +399,7 @@ For example, the IP address assigned to your device is used to send the data you
 
 For example, with Google , you have many different sharing options.
 
-[Learn more.][53]
+[Learn more.][54]
 
 #### Example
 
@@ -439,7 +439,7 @@ For example, we regularly report to advertisers on whether we served their ad to
 
 When lots of people start searching for something, it can provide very useful information about particular trends at that time.
 
-[Learn more.][60]
+[Learn more.][61]
 
 #### Example
 
@@ -461,21 +461,29 @@ For example, we can make search more relevant and interesting for you by includi
 
 ## "removing your content"
 
-For example, you can delete your [Web & App Actvity][82], [your blog][83], [a Google Site you own][84], [your YouTube Channel][85], [your Google profile][86] or [your entire Google account][87].
+For example, you can delete your [Web & App Actvity][83], [your blog][84], [a Google Site you own][85], [your YouTube Channel][86], [your Google profile][87] or [your entire Google account][88].
 
-[Learn more.][54]
+[Learn more.][55]
 
 #### Example
 
 ## "to show trends"
 
-You can see some of these at [Google Trends][88] and [YouTube Trends][89].
+You can see some of these at [Google Trends][89] and [YouTube Trends][90].
 
-[Learn more.][62]
+[Learn more.][63]
+
+#### Example
+
+## "your activity on other sites and apps"
+
+This activity might come from your use of Google products like Chrome Sync or from your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics). These products share information about your activity with Google and, depending on [your account settings][91] and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.
+
+[Learn more.][44]
 
 ## We keep your personal information private and safe — and put you in control.
 
-[Get answers to common questions about privacy and security.][90]
+[Learn more about our commitments to your privacy and security.][92]
 
 [1]: https://myaccount.google.com/?hl=en
 [2]: ../../policies/privacy/archive/
@@ -520,50 +528,52 @@ You can see some of these at [Google Trends][88] and [YouTube Trends][89].
 [41]: ../../policies/privacy/key-terms/#toc-terms-sensitive-categories
 [42]: ../../policies/privacy/example/combine-personal-information.html
 [43]: ../../policies/privacy/example/to-make-it-easier-to-share.html
-[44]: https://myaccount.google.com/privacy?hl=en#accounthistory
-[45]: https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow
-[46]: https://www.google.com/dashboard/?hl=en
-[47]: https://www.google.com/settings/ads/preferences?hl=en
-[48]: https://support.google.com/plus/answer/1355890?hl=en
-[49]: http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
-[50]: http://www.dataliberation.org/
-[51]: https://plus.google.com/settings/endorsements
-[52]: ../../policies/privacy/example/may-not-function-properly.html
-[53]: ../../policies/privacy/example/sharing.html
-[54]: ../../policies/privacy/example/removing-your-content.html
-[55]: ../../policies/privacy/example/access-to-your-personal-information.html
-[56]: ../../policies/privacy/key-terms/#toc-terms-sensitive-info
-[57]: https://support.google.com/a/answer/178897?hl=en
-[58]: ../../policies/privacy/example/legal-process.html
-[59]: ../../policies/privacy/key-terms/#toc-terms-affiliates
-[60]: ../../policies/privacy/example/we-may-share.html
-[61]: ../../policies/privacy/key-terms/#toc-terms-info
-[62]: ../../policies/privacy/example/to-show-trends.html
-[63]: https://support.google.com/websearch/answer/173733?hl=en
-[64]: //www.google.com/intl/en/landing/2step/
-[65]: http://www.google.com/chrome/intl/en/more/security.html
-[66]: ../../policies/privacy/frameworks/
-[67]: http://www.google.com/chrome/intl/en/privacy.html
-[68]: https://play.google.com/books/intl/en/privacy.html
-[69]: http://wallet.google.com/files/privacy.html?hl=en
-[70]: https://fiber.google.com/legal/privacy.html
-[71]: https://fi.google.com/about/tos/#project-fi-privacy-notice
-[72]: https://www.google.com/work/apps/terms/education_privacy.html
-[73]: ../../policies/technologies/product-privacy/
-[74]: ../../policies/
-[75]: ../../policies/technologies/
-[76]: ../../policies/technologies/cookies/
-[77]: ../../policies/technologies/ads/
-[78]: ../../policies/technologies/pattern-recognition/
-[79]: ../../policies/privacy/partners/
-[80]: https://myaccount.google.com/privacycheckup/1?hl=en
-[81]: //www.google.com/intl/en/safetycenter/
-[82]: //support.google.com/websearch/answer/465?hl=en
-[83]: //support.google.com/blogger/answer/41387?hl=en
-[84]: //support.google.com/sites/answer/90598?hl=en
-[85]: //support.google.com/youtube/answer/55759?hl=en
-[86]: //support.google.com/plus/answer/1044503?hl=en
-[87]: //support.google.com/accounts/answer/32046?hl=en
-[88]: //www.google.com/trends/
-[89]: //www.youtube.com/trendsmap
-[90]: https://privacy.google.com/?hl=en
+[44]: ../../policies/privacy/example/your-activity-on-other-sites-and-apps.html
+[45]: https://myaccount.google.com/privacy?hl=en#accounthistory
+[46]: https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow
+[47]: https://www.google.com/dashboard/?hl=en
+[48]: https://www.google.com/settings/ads/preferences?hl=en
+[49]: https://support.google.com/plus/answer/1355890?hl=en
+[50]: https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
+[51]: http://www.dataliberation.org/
+[52]: https://plus.google.com/settings/endorsements?hl=en
+[53]: ../../policies/privacy/example/may-not-function-properly.html
+[54]: ../../policies/privacy/example/sharing.html
+[55]: ../../policies/privacy/example/removing-your-content.html
+[56]: ../../policies/privacy/example/access-to-your-personal-information.html
+[57]: ../../policies/privacy/key-terms/#toc-terms-sensitive-info
+[58]: https://support.google.com/a/answer/178897?hl=en
+[59]: ../../policies/privacy/example/legal-process.html
+[60]: ../../policies/privacy/key-terms/#toc-terms-affiliates
+[61]: ../../policies/privacy/example/we-may-share.html
+[62]: ../../policies/privacy/key-terms/#toc-terms-info
+[63]: ../../policies/privacy/example/to-show-trends.html
+[64]: https://support.google.com/websearch/answer/173733?hl=en
+[65]: //www.google.com/intl/en/landing/2step/
+[66]: https://www.google.com/chrome/intl/en/more/security.html
+[67]: ../../policies/privacy/frameworks/
+[68]: https://www.google.com/chrome/intl/en/privacy.html
+[69]: https://play.google.com/books/intl/en/privacy.html
+[70]: https://wallet.google.com/files/privacy.html?hl=en
+[71]: https://fiber.google.com/legal/privacy.html
+[72]: https://fi.google.com/about/tos/#project-fi-privacy-notice
+[73]: https://www.google.com/work/apps/terms/education_privacy.html
+[74]: ../../policies/technologies/product-privacy/
+[75]: ../../policies/
+[76]: ../../policies/technologies/
+[77]: ../../policies/technologies/cookies/
+[78]: ../../policies/technologies/ads/
+[79]: ../../policies/technologies/pattern-recognition/
+[80]: ../../policies/privacy/partners/
+[81]: https://myaccount.google.com/privacycheckup/1?hl=en
+[82]: //www.google.com/intl/en/safetycenter/
+[83]: //support.google.com/websearch/answer/465?hl=en
+[84]: //support.google.com/blogger/answer/41387?hl=en
+[85]: //support.google.com/sites/answer/90598?hl=en
+[86]: //support.google.com/youtube/answer/55759?hl=en
+[87]: //support.google.com/plus/answer/1044503?hl=en
+[88]: //support.google.com/accounts/answer/32046?hl=en
+[89]: //www.google.com/trends/
+[90]: //www.youtube.com/trendsmap
+[91]: //myaccount.google.com/?hl=en
+[92]: https://privacy.google.com/?hl=en
