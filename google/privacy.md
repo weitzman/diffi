@@ -34,12 +34,15 @@ We collect information in the following ways:
 
 * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information][12], like your name, email address, telephone number or [credit card][13] to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile][14], which may include your name and photo.
 * **Information we get from your use of our services.** We [collect information][15] about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads][16] and content. This information includes:
+
     * [**Device information][17]**
 
 We collect [device-specific information][18] (such as your hardware model, operating system version, [unique device identifiers][19], and mobile network information including phone number). Google may associate your [device identifiers][20] or [phone number][21] with your Google Account.
+
     * **Log information**
 
 When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs][22]. This includes:
+
         * details of how you used our service, such as your search queries.
         * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
         * [Internet protocol address][23].
@@ -48,12 +51,15 @@ When you use our services or view content provided by Google, we automatically c
     * **Location information**
 
 When you use Google services, we [may collect and process information about your actual location][24]. We use various technologies to determine location, including IP address, GPS, [and other sensors][25] that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers][26].
+
     * **Unique application numbers**
 
 Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
+
     * **Local storage**
 
 We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage][27] (including HTML 5) and [application data caches][28].
+
     * **Cookies and similar technologies**
 
 We [and our partners][29] use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies][30] to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services][31] or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites][32].
@@ -123,9 +129,11 @@ We do not share personal information with companies, organizations and individua
 * **With your consent**
 
 We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information][57].
+
 * **With domain administrators**
 
 If your Google Account is managed for you by a [domain administrator][58] (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to:
+
     * view statistics regarding your account, like statistics regarding applications you install.
     * change your account password.
     * suspend or terminate your account access.
@@ -134,12 +142,15 @@ If your Google Account is managed for you by a [domain administrator][58] (for e
     * restrict your ability to delete or edit information or privacy settings.
 
 Please refer to your domain administrator’s privacy policy for more information.
+
 * **For external processing**
 
 We provide personal information to our [affiliates][60] or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
 * **For legal reasons**
 
 We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+
     * meet any applicable law, regulation, [legal process or enforceable governmental request][59].
     * enforce applicable Terms of Service, including investigation of potential violations.
     * detect, prevent, or otherwise address fraud, security or technical issues.
