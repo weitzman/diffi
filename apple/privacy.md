@@ -146,7 +146,7 @@ Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 [12]: /icloud/family-sharing
 [13]: /education/it
 [14]: http://support.apple.com/kb/HT4213
-[15]: http://www.apple.com/legal/privacy/en-ww/?#questions
+[15]: https://www.apple.com/legal/privacy/en-ww/?#questions
 [16]: http://www.export.gov/safeharbor/index.asp
 [17]: http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx
 [18]: http://support.apple.com/kb/HE57
