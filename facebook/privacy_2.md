@@ -211,7 +211,7 @@ Date of Last Revision: January 30, 2015
 
 [1]: /about/basics
 [2]: /help/1561485474074139
-[3]: https://fbstatic-a.akamaihd.net/rsrc.php/v2/y4/r/hXpcMLh6kdK.png
+[3]: https://static.xx.fbcdn.net/rsrc.php/v2/y4/r/hXpcMLh6kdK.png
 [4]: /help/111814505650678
 [5]: https://research.facebook.com/
 [6]: /about/privacy/update#what-kinds-of-information-do-we-collect
@@ -228,6 +228,6 @@ Date of Last Revision: January 30, 2015
 [17]: /help/437430672945092
 [18]: /help/302796099745838
 [19]: /help/125338004213029
-[20]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=kAQEMdlbz&s=1
-[21]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=gAQEYIk7R&s=1
+[20]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=DAQELH6Qh&s=1
+[21]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=JAQEyXVOh&s=1
 [22]: /help/contact/173545232710000
