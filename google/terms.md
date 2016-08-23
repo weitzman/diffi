@@ -106,7 +106,7 @@ The laws of California, U.S.A., excluding California’s conflict of laws rules,
 For information about how to contact Google, please visit our [contact page][5].
 
 [1]: ../../policies/terms/archive/
-[2]: http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
+[2]: https://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
 [3]: ../../policies/privacy/
-[4]: http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
+[4]: https://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
 [5]: ../../contact/
