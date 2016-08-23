@@ -546,7 +546,7 @@ This activity might come from your use of Google products like Chrome Sync or fr
 [48]: https://www.google.com/settings/ads/preferences?hl=en
 [49]: https://support.google.com/plus/answer/1355890?hl=en
 [50]: https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
-[51]: http://www.dataliberation.org/
+[51]: https://www.dataliberation.org/
 [52]: https://plus.google.com/settings/endorsements?hl=en
 [53]: ../../policies/privacy/example/may-not-function-properly.html
 [54]: ../../policies/privacy/example/sharing.html
