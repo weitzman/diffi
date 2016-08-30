@@ -10,7 +10,7 @@ Show examples
 
 Hide examples
 
-Last modified: June 28, 2016 ([view archived versions][2]) (The hyperlinked examples are available at the end of this document.)
+Last modified: August 29, 2016 ([view archived versions][2]) (The hyperlinked examples are available at the end of this document.)
 
 [Download PDF version][3]
 
@@ -96,7 +96,7 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 * [Review and update your Google activity controls][45] to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls][46] to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account.
 * [Review and control][47] certain types of information tied to your Google Account by using Google Dashboard.
-* [View and edit][48] your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here.
+* [View and edit][48] your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services.
 * [Adjust][49] how the Profile associated with your Google Account appears to others.
 * [Control][50] who you share information with through your Google Account.
 * [Take information][51] associated with your Google Account out of many of our services.
@@ -183,7 +183,7 @@ Back to top
 
 ## Compliance and cooperation with regulatory authorities
 
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks][67]. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks][67], including the EU-US Privacy Shield Framework. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
 Back to top
 
@@ -480,7 +480,7 @@ For example, you can delete your [Web & App Actvity][83], [your blog][84], [a Go
 
 ## "to show trends"
 
-You can see some of these at [Google Trends][89] and [YouTube Trends][90].
+You can see some of these at [Google Trends][89] and [YouTube Trending Videos][90].
 
 [Learn more.][63]
 
@@ -565,7 +565,7 @@ This activity might come from your use of Google products like Chrome Sync or fr
 [67]: ../../policies/privacy/frameworks/
 [68]: https://www.google.com/chrome/intl/en/privacy.html
 [69]: https://play.google.com/books/intl/en/privacy.html
-[70]: https://wallet.google.com/files/privacy.html?hl=en
+[70]: https://payments.google.com/legaldocument?family=0.privacynotice&hl=en
 [71]: https://fiber.google.com/legal/privacy.html
 [72]: https://fi.google.com/about/tos/#project-fi-privacy-notice
 [73]: https://www.google.com/work/apps/terms/education_privacy.html
@@ -584,7 +584,7 @@ This activity might come from your use of Google products like Chrome Sync or fr
 [86]: //support.google.com/youtube/answer/55759?hl=en
 [87]: //support.google.com/plus/answer/1044503?hl=en
 [88]: //support.google.com/accounts/answer/32046?hl=en
-[89]: //www.google.com/trends/
+[89]: //www.google.com/trends/?hl=en
 [90]: //www.youtube.com/trendsmap
 [91]: //myaccount.google.com/?hl=en
 [92]: https://privacy.google.com/?hl=en
