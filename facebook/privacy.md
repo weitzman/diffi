@@ -140,6 +140,6 @@ Dublin 2, Ireland
 [16]: /me/allactivity
 [17]: /help/405183566203254/
 [18]: /help/125338004213029
-[19]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=BAQEkckkJ&s=1
-[20]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=qAQHSsOGz&s=1
+[19]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=1AQE2D9Fa&s=1
+[20]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=tAQGK4hqh&s=1
 [21]: /help/contact/173545232710000
