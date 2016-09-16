@@ -585,6 +585,6 @@ This activity might come from your use of Google products like Chrome Sync or fr
 [87]: //support.google.com/plus/answer/1044503?hl=en
 [88]: //support.google.com/accounts/answer/32046?hl=en
 [89]: //www.google.com/trends/?hl=en
-[90]: //www.youtube.com/trendsmap
+[90]: //www.youtube.com/trending
 [91]: //myaccount.google.com/?hl=en
 [92]: https://privacy.google.com/?hl=en
