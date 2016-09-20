@@ -114,9 +114,9 @@ If you purchase a subscription in a third party app or within News, we create a 
 
 ##### International Users
 
-All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple uses approved Model Contractual Clauses for the international transfer of personal information collected in the European Economic Area and Switzerland. Apple, as a global company, has a number of [legal entities][15] in different jurisdictions which are responsible for the personal information which they collect and which is processed on their behalf by Apple Inc. For example, point of sale information in our Retail entities outside the U.S. is controlled by our individual Retail entities in each country. Apple, Online Store and iTunes related personal information may also be controlled by legal entities outside the U.S. as reflected in the terms of each service.
+All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple uses approved Model Contractual Clauses for the international transfer of personal information collected in the European Economic Area and Switzerland. Apple, as a global company, has a number of legal entities in different jurisdictions which are responsible for the personal information which they collect and which is processed on their behalf by Apple Inc. For example, point of sale information in our Retail entities outside the U.S. is controlled by our individual Retail entities in each country. Apple, Online Store and iTunes related personal information may also be controlled by legal entities outside the U.S. as reflected in the terms of each service.
 
-Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System][16]. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. To learn more about the APEC Certification and Dispute Resolution, please click on the TRUSTe seal.
+Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System][15]. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. To learn more about the APEC Certification and Dispute Resolution, please click on the TRUSTe seal.
 
 ##### Our Companywide Commitment to Your Privacy
 
@@ -124,7 +124,7 @@ To make sure your personal information is secure, we communicate our privacy and
 
 ##### Privacy Questions
 
-If you have any questions or concerns about Apple’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us][1]. You can always contact us by phone at the relevant [Apple Support][17] number for your country.
+If you have any questions or concerns about Apple’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us][1]. You can always contact us by phone at the relevant [Apple Support][16] number for your country.
 
 All such communications are examined and replies issued where appropriate as soon as possible. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
 
@@ -132,7 +132,7 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
-![Validate TRUSTe privacy certification][18]
+![Validate TRUSTe privacy certification][17]
 
 [1]: /legal/privacy/en-ww/contact/
 [2]: /legal/privacy/california-dnt/
@@ -148,7 +148,6 @@ Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 [12]: /education/it
 [13]: http://support.apple.com/kb/HT4213
 [14]: http://www.apple.com/legal/privacy/en-ww/?#questions
-[15]: http://www.export.gov/safeharbor/index.asp
-[16]: http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx
-[17]: http://support.apple.com/kb/HE57
-[18]: //privacy-policy.truste.com/privacy-seal/Apple-Inc-/seal?rid=475ebc68-8308-40d2-9bf2-bd2b3437dca1
+[15]: http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx
+[16]: http://support.apple.com/kb/HE57
+[17]: //privacy-policy.truste.com/privacy-seal/Apple-Inc-/seal?rid=475ebc68-8308-40d2-9bf2-bd2b3437dca1
