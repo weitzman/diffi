@@ -228,6 +228,6 @@ Date of Last Revision: January 30, 2015
 [17]: /help/437430672945092
 [18]: /help/302796099745838
 [19]: /help/125338004213029
-[20]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=vAQGCvVjT&s=1
-[21]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=dAQHL3fYU&s=1
+[20]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=UAQGH-Ghy&s=1
+[21]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=FAQHywSKP&s=1
 [22]: /help/contact/173545232710000
