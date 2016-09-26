@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Modified: September 23, 2016
+Last Modified: September 24, 2016
 
 Snapchat is a fast and fun way to share experiences with your friends and the world around you. You can send a photo or video Snap to friends, chronicle your day through Story, touch base using Chat, immerse yourself in global events through Live, and enjoy handcrafted stories from the world’s top publishers on Discover.
 
