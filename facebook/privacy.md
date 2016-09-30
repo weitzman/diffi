@@ -1,6 +1,6 @@
 Data Policy
 
-Date of Last Revision: January 30, 2015
+Date of Last Revision: September 29, 2016
 
 We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [ Privacy Basics][1].
 
@@ -90,11 +90,9 @@ We may access, preserve and share your information in response to a legal reques
 
 **VI. How our global services operate**
 
-Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website][19].
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. We utilize standard contract clauses approved by the European Commission, adopt other means under European Union law, and obtain your consent to legitimize data transfers from the EEA to the United States and other countries.
 
-As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website][20].
-
-Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy.
+You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website][19].
 
 **VII. How will we notify you of changes to this policy?**
 
@@ -108,7 +106,7 @@ If you have questions about this policy, here’s how you can reach us:
 
 **If you live in the US or Canada…**
 
-Please [contact Facebook, Inc. online ][21]or by mail at:  
+Please [contact Facebook, Inc. online ][20]or by mail at:  
   
 Facebook, Inc.  
 1601 Willow Road  
@@ -116,7 +114,7 @@ Menlo Park, CA 94025
 
 **If you live anywhere else…**
 
-The data controller responsible for your information is Facebook Ireland Ltd., which you can [contact online ][21]or by mail at:  
+The data controller responsible for your information is Facebook Ireland Ltd., which you can [contact online ][20]or by mail at:  
   
 Facebook Ireland Ltd.  
 4 Grand Canal Square, Grand Canal Harbour  
@@ -140,6 +138,5 @@ Dublin 2, Ireland
 [16]: /me/allactivity
 [17]: /help/405183566203254/
 [18]: /help/125338004213029
-[19]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=_AQFAbGox&s=1
-[20]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=vAQF9Is5F&s=1
-[21]: /help/contact/173545232710000
+[19]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=OAQFQrbZK&s=1
+[20]: /help/contact/173545232710000
