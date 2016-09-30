@@ -166,11 +166,9 @@ Return to top
 
 ###  How our global services operate
 
-Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website][20].   
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. We utilize standard contract clauses approved by the European Commission, adopt other means under European Union law, and obtain your consent to legitimize data transfers from the EEA to the United States and other countries.   
   
-As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website][21].   
-  
-Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy.
+You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website][20].
 
 ____
 
@@ -190,7 +188,7 @@ To learn more about how privacy works on Facebook, please check out [Privacy Bas
 
 If you live in the US or Canada…
 
-Please contact Facebook, Inc. [online][22] or by mail at:
+Please contact Facebook, Inc. [online][21] or by mail at:
 
 Facebook, Inc.  
 1601 Willow Road  
@@ -198,7 +196,7 @@ Menlo Park, CA 94025
 
 If you live anywhere else…
 
-The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online][22] or by mail at:
+The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online][21] or by mail at:
 
 Facebook Ireland Ltd.  
 4 Grand Canal Square  
@@ -207,7 +205,7 @@ Dublin 2 Ireland
 
   
   
-Date of Last Revision: January 30, 2015
+Date of Last Revision: September 29, 2016
 
 [1]: /about/basics
 [2]: /help/1561485474074139
@@ -228,6 +226,5 @@ Date of Last Revision: January 30, 2015
 [17]: /help/437430672945092
 [18]: /help/302796099745838
 [19]: /help/125338004213029
-[20]: https://www.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=qAQFJvZdm&s=1
-[21]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=FAQE8F_42&s=1
-[22]: /help/contact/173545232710000
+[20]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=aAQHNIa4i&s=1
+[21]: /help/contact/173545232710000
