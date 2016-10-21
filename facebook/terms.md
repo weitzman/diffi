@@ -14,9 +14,9 @@ Your privacy is very important to us. We designed our [Data Policy][3] to make i
 2. **Sharing Your Content and Information**  
   
 You own all of the content and information you post on Facebook, and you can control how it is shared through your [privacy][4] and [application settings][5]. In addition:
-    1. For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give us the following permission, subject to your [privacy][6] and [application settings][5]: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+    1. For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give us the following permission, subject to your [privacy][4] and [application settings][5]: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
     2. When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
-    3. When you use an application, the application may ask for your permission to access your content and information as well as content and information that others have shared with you.  We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.  (To learn more about Platform, including how you can control what information other people may share with applications, read our [Data Policy][3] and [Platform Page][7].)
+    3. When you use an application, the application may ask for your permission to access your content and information as well as content and information that others have shared with you.  We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.  (To learn more about Platform, including how you can control what information other people may share with applications, read our [Data Policy][3] and [Platform Page][6].)
     4. When you publish content or information using the Public setting, it means that you are allowing everyone, including people off of Facebook, to access and use that information, and to associate it with you (i.e., your name and profile picture).
     5. We always appreciate your feedback or other suggestions about Facebook, but you understand that we may use your feedback or suggestions without any obligation to compensate you for them (just as you have no obligation to offer them).  
  
@@ -54,7 +54,7 @@ Facebook users provide their real names and information, and we need your help t
 We respect other people's rights, and expect you to do the same.
     1. You will not post content or take any action on Facebook that infringes or violates someone else's rights or otherwise violates the law.
     2. We can remove any content or information you post on Facebook if we believe that it violates this Statement or our policies.
-    3. We provide you with tools to help you protect your intellectual property rights. To learn more, visit our [How to Report Claims of Intellectual Property Infringement][8] page.
+    3. We provide you with tools to help you protect your intellectual property rights. To learn more, visit our [How to Report Claims of Intellectual Property Infringement][7] page.
     4. If we remove your content for infringing someone else's copyright, and you believe we removed it by mistake, we will provide you with an opportunity to appeal.
     5. If you repeatedly infringe other people's intellectual property rights, we will disable your account when appropriate.
     6. You will not use our copyrights or Trademarks or any confusingly similar marks, except as expressly permitted by our Brand Usage Guidelines or with our prior written permission.
@@ -71,11 +71,11 @@ We respect other people's rights, and expect you to do the same.
  
 7. **Payments**  
   
-If you make a payment on Facebook, you agree to our [Payments Terms][9] unless it is stated that other terms apply.  
+If you make a payment on Facebook, you agree to our [Payments Terms][8] unless it is stated that other terms apply.  
  
 8. **Special Provisions Applicable to Developers/Operators of Applications and Websites **  
   
-If you are a developer or operator of a Platform application or website or if you use Social Plugins, you must comply with the [ Facebook Platform Policy][10].
+If you are a developer or operator of a Platform application or website or if you use Social Plugins, you must comply with the [ Facebook Platform Policy][9].
 9. **About Advertisements and Other Commercial Content Served or Enhanced by Facebook**  
   
 Our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. In order to help us do that, you agree to the following:
@@ -86,10 +86,10 @@ Our goal is to deliver advertising and other commercial or sponsored content tha
 
 10. **Special Provisions Applicable to Advertisers **  
   
-If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our [ Self-Serve Ad Terms][11]. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our [Advertising Policies][12].
+If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our [ Self-Serve Ad Terms][10]. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our [Advertising Policies][11].
 11. **Special Provisions Applicable to Pages**  
   
-If you create or administer a Page on Facebook, or run a promotion or an offer from your Page, you agree to our [Pages Terms][13].  
+If you create or administer a Page on Facebook, or run a promotion or an offer from your Page, you agree to our [Pages Terms][12].  
  
 12. **Special Provisions Applicable to Software**  
   
@@ -121,7 +121,7 @@ If you violate the letter or spirit of this Statement, or otherwise create risk 
 We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users and non-users who interact with Facebook outside the United States:
     1. You consent to having your personal data transferred to and processed in the United States.
     2. If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on Facebook (such as advertising or payments) or operate a Platform application or website. You will not use Facebook if you are prohibited from receiving products, services, or software originating from the United States.
-    3. Certain specific terms that apply only for German users are available [here][14].
+    3. Certain specific terms that apply only for German users are available [here][13].
 17. **Definitions**  
   
 
@@ -133,7 +133,7 @@ We strive to create a global community with consistent standards for everyone, b
     6. By "post" we mean post on Facebook or otherwise make available by using Facebook.
     7. By "use" we mean use, run, copy, publicly perform or display, distribute, modify, translate, and create derivative works of.
     8. By "application" we mean any application or website that uses or accesses Platform, as well as anything else that receives or has received data from us.  If you no longer access Platform but have not deleted all data from us, the term application will apply until you delete the data.
-    9. By “Trademarks” we mean the list of trademarks provided [ here][15].   
+    9. By “Trademarks” we mean the list of trademarks provided [ here][14].   
  
 18. **Other**  
   
@@ -153,16 +153,16 @@ We strive to create a global community with consistent standards for everyone, b
 **  
 By using or accessing Facebook Services, you agree that we can collect and use such content and information in accordance with the [Data Policy][3] as amended from time to time. You may also want to review the following documents, which provide additional information about your use of Facebook:**
 
-* [Payment Terms][9]: These additional terms apply to all payments made on or through Facebook, unless it is stated that other terms apply.
-* [Platform Page][16]: This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
-* [Facebook Platform Policies][17]: These guidelines outline the policies that apply to applications, including Connect sites.
-* [Advertising Policies][12]: These guidelines outline the policies that apply to advertisements placed on Facebook.
-* [Self-Serve Ad Terms][11]: These terms apply when you use the Self-Serve Ad Interfaces to create, submit, or deliver any advertising or other commercial or sponsored activity or content.
-* [Promotions Guidelines][18]: These guidelines outline the policies that apply if you offer contests, sweepstakes, and other types of promotions on Facebook.
-* [Facebook Brand Resources][19]: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
-* [How to Report Claims of Intellectual Property Infringement][8]
-* [Pages Terms][13]: These guidelines apply to your use of Facebook Pages.
-* [Community Standards][20]: These guidelines outline our expectations regarding the content you post to Facebook and your activity on Facebook.  
+* [Payment Terms][8]: These additional terms apply to all payments made on or through Facebook, unless it is stated that other terms apply.
+* [Platform Page][15]: This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
+* [Facebook Platform Policies][16]: These guidelines outline the policies that apply to applications, including Connect sites.
+* [Advertising Policies][11]: These guidelines outline the policies that apply to advertisements placed on Facebook.
+* [Self-Serve Ad Terms][10]: These terms apply when you use the Self-Serve Ad Interfaces to create, submit, or deliver any advertising or other commercial or sponsored activity or content.
+* [Promotions Guidelines][17]: These guidelines outline the policies that apply if you offer contests, sweepstakes, and other types of promotions on Facebook.
+* [Facebook Brand Resources][18]: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
+* [How to Report Claims of Intellectual Property Infringement][7]
+* [Pages Terms][12]: These guidelines apply to your use of Facebook Pages.
+* [Community Standards][19]: These guidelines outline our expectations regarding the content you post to Facebook and your activity on Facebook.  
   
 
 To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version.
@@ -172,18 +172,17 @@ To access the Statement of Rights and Responsibilities in several different lang
 [3]: /about/privacy/
 [4]: /settings/?tab=privacy
 [5]: /settings/?tab=applications
-[6]: /privacy/
-[7]: http://developers.facebook.com/docs/
-[8]: /help/399224883474207
-[9]: https://www.facebook.com/payments_terms
-[10]: https://developers.facebook.com/policy
-[11]: /legal/self_service_ads_terms
-[12]: /ad_guidelines.php
-[13]: https://www.facebook.com/page_guidelines.php
-[14]: https://www.facebook.com/terms/provisions/german/index.php
-[15]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=aAQFMDrwu&s=1
-[16]: /platform
-[17]: http://developers.facebook.com/policy/
-[18]: /page_guidelines.php#promotionsguidelines
-[19]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ZAQFb92rE&s=1
-[20]: /communitystandards
+[6]: http://developers.facebook.com/docs/
+[7]: /help/399224883474207
+[8]: https://www.facebook.com/payments_terms
+[9]: https://developers.facebook.com/policy
+[10]: /legal/self_service_ads_terms
+[11]: /ad_guidelines.php
+[12]: https://www.facebook.com/page_guidelines.php
+[13]: https://www.facebook.com/terms/provisions/german/index.php
+[14]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=CAQE6711K&s=1
+[15]: /platform
+[16]: http://developers.facebook.com/policy/
+[17]: /page_guidelines.php#promotionsguidelines
+[18]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/&h=jAQGvFgxC&s=1
+[19]: /communitystandards
