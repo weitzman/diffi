@@ -472,7 +472,7 @@ For example, we can make search more relevant and interesting for you by includi
 
 ## "removing your content"
 
-For example, you can delete your [Web & App Actvity][83], [your blog][84], [a Google Site you own][85], [your YouTube Channel][86], [your Google profile][87] or [your entire Google account][88].
+For example, you can delete your [Web & App Activity][83], [your blog][84], [a Google Site you own][85], [your YouTube Channel][86], [your Google profile][87] or [your entire Google account][88].
 
 [Learn more.][55]
 
