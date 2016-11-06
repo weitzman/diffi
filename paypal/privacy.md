@@ -138,7 +138,7 @@ Regardless, we will not disclose your credit card number or bank account number 
 
 **Back to top**
 
-###
+### 
 
 ### How We Share Personal Information with Other Third Parties
 
@@ -149,7 +149,7 @@ We may share your personal information we collect from you, including your name,
 * Banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you meet their criteria which includes having PayPal close your PayPal Account due to your breach of the PayPal User Agreement).
 * Companies that we plan to merge with or are acquired by. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice.)
 * Law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other legal process or requirement applicable to PayPal or one of its affiliates; when we need to do so to comply with law or credit card rules; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreement.
-* Other unaffiliated third parties, for the following purposes:
+* Other unaffiliated third parties, for the following purposes: 
     * _Fraud Prevention and Risk Management_: to help prevent fraud or assess and manage risk.  For example, if you use the PayPal Services to buy or sell goods using eBay Inc. or its affiliates (“eBay”), we may share account information in order to help protect your accounts from fraudulent activity, alert you if we detect such fraudulent activity on your accounts, or evaluate credit risk.  
   
 As part of our fraud prevention and risk management efforts, we also may share necessary account information with eBay in cases where PayPal has placed a hold or other restriction on your account based on disputes, claims, chargebacks or other scenarios regarding the sale or purchase of goods. Also, as part of our fraud prevention and risk management efforts, we may share account information with eBay to enable them to operate their programs for evaluating buyers or sellers.
@@ -177,7 +177,7 @@ You can review and edit your personal information at any time by logging in to y
 
 **Back to top**
 
-###
+### 
 
 ### How You Can Contact Us about Privacy Questions
 
@@ -189,8 +189,9 @@ If you have questions or concerns regarding this Privacy Policy, you should cont
 
 [1]: https://www.paypal.com/us/webapps/mpp/ua/legalhub-full "Legal Agreements"
 [2]: https://www.paypalobjects.com/webstatic/ua/printer_icon.jpg
-[3]:
+[3]: 
 [4]: https://feedback-form.truste.com/watchdog/request
 [5]: https://privacy-policy.truste.com/privacy-seal/PayPal/seal?rid=29e80c36-8b02-499f-b02a-5a2f638e0a36
 [6]: https://www.paypal.com/us/webapps/mpp/ua/cookie-full
 [7]: http://www.paypal.com/ewf/f=ci_prv
+
