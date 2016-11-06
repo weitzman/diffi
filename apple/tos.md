@@ -1,6 +1,6 @@
 #  ![Apple Website Terms of Use][1]
 
-Legal Information & Notices
+Legal Information & Notices 
 
 ###  Ownership of Site; Agreement to Terms of Use
 
@@ -138,3 +138,4 @@ Updated by The Apple Legal Team on Nov. 20, 2009
 [10]: ../../sla/
 [11]: /legal/contact/
 [12]: ../../privacy/
+
