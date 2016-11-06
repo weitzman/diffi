@@ -427,229 +427,229 @@ Proof of delivery means:
 * For transactions that total less than $750 U.S. dollars (or the foreign currency threshold in the table below), confirmation that can be viewed online and includes the delivery address showing at least city/state or zip code, delivery date, and the identity of the shipping company you used.
 * For transactions that total $750 U.S. dollar (or the foreign currency threshold in the table below) or more, you must provide signature confirmation of delivery.
 
-|  Signature confirmation foreign currency thresholds |
+|  Signature confirmation foreign currency thresholds |  
 | ----  |
-|
+| 
 
 **Currency**
 
- |
+ | 
 
 **Transaction value**
 
- |
+ | 
 
 **Currency**
 
- |
+ | 
 
 **Transaction value**
 
- |
-|
+ |  
+| 
 
 Australian Dollar:
 
- |
+ | 
 
 850 AUD
 
- |
+ | 
 
 New Zealand Dollar:
 
- |
+ | 
 
 950 NZD
 
- |
-|
+ |  
+| 
 
 Brazilian Real:
 
- |
+ | 
 
 1,750 BRL
 
- |
+ | 
 
 Norwegian Krone:
 
- |
+ | 
 
 4,600 NOK
 
- |
-|
+ |  
+| 
 
 Canadian Dollar:
 
- |
+ | 
 
 850 CAD
 
- |
+ | 
 
 Philippine Peso:
 
- |
+ | 
 
 34,000 PHP
 
- |
-|
+ |  
+| 
 
 Czech Koruna:
 
- |
+ | 
 
 15,000 CZK
 
- |
+ | 
 
 Polish Zlotych:
 
- |
+ | 
 
 2,300 PLN
 
- |
-|
+ |  
+| 
 
 Danish Krone:
 
- |
+ | 
 
 4,100 DKK
 
- |
+ | 
 
 Russian Ruble:
 
- |
+ | 
 
 48,000 RUB
 
- |
-|
+ |  
+| 
 
 Euro:
 
- |
+ | 
 
 550 EUR
 
- |
+ | 
 
 Singapore Dollar:
 
- |
+ | 
 
 950 SGD
 
- |
-|
+ |  
+| 
 
 Hong Kong Dollar:
 
- |
+ | 
 
 6,000 HKD
 
- |
+ | 
 
 Swedish Krona:
 
- |
+ | 
 
 4,950 SEK
 
- |
-|
+ |  
+| 
 
 Hungarian Forint:
 
- |
+ | 
 
 170,000 HUF
 
- |
+ | 
 
 Swiss Franc:
 
- |
+ | 
 
 700 CHF
 
- |
-|
+ |  
+| 
 
 Israeli Shekel:
 
- |
+ | 
 
 2,700 ILS
 
- |
+ | 
 
 Taiwan New Dollar:
 
- |
+ | 
 
 23,000 TWD
 
- |
-|
+ |  
+| 
 
 Japanese Yen:
 
- |
+ | 
 
 77,000 JPY
 
- |
+ | 
 
 Thai Baht:
 
- |
+ | 
 
 24,500 THB
 
- |
-|
+ |  
+| 
 
 Malaysian Ringgit:
 
- |
+ | 
 
 3,100 MYR
 
- |
+ | 
 
 U.K. Pounds Sterling:
 
- |
+ | 
 
 450 GBP
 
- |
-|
+ |  
+| 
 
 Mexican Peso:
 
- |
+ | 
 
 10,000 MXN
 
- |
+ | 
 
 U.S. Dollar:
 
- |
+ | 
 
 750 USD
 
- |
+ | 
 
 Step 5:  **PayPal will make a final decision on your claim**, in its sole discretion, based on the coverage and eligibility requirements set forth above, any additional information provided during the online dispute resolution process or any other information PayPal deems relevant and appropriate under the circumstances.
 
@@ -734,21 +734,21 @@ Whenever a buyer uses a debit or credit card as the payment method for a transac
 As a seller, you can accept payments from a buyer’s PayPal account through preauthorized transfers either on a one-time, regular or sporadic basis.  This type of transaction is sometimes called a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "pre-approved payment " or "automatic payment."
 
 | ----- |
-|  If you receive preauthorized payments from buyers: |
-|
+|  If you receive preauthorized payments from buyers: |  
+| 
 
 You must:
 
- |
+ | 
 
 You must not:
 
- |
-|
+ |  
+| 
 
 Get each buyer’s prior authorization for the amount, frequency, and duration of any such payment.
 
- |
+ | 
 
 Restart future payments without the buyer’s written authorization, if a buyer has stopped or canceled a preauthorized payment.
 
@@ -758,22 +758,22 @@ Restart future payments without the buyer’s written authorization, if a buyer 
 
  
 
- |
-|
+ |  
+| 
 
 Provide a simple and easily accessible online cancellation procedure, if buyers sign up for preauthorized payments online.
 
- |   |
-|
+ |   | 
+| 
 
 Provide buyers the ability to stop any such payment up to 3 Business Days before the date scheduled for payment.
 
- |
-|
+ |  
+| 
 
 Notify the buyer at least 10 days in advance of the amount and date of each preauthorized payment if the preauthorized payment will vary from the preauthorized amount or (at the buyer’s option) any payment that is in an amount that falls outside of the pre-determined range.
 
- |
+ | 
 
 ### Transaction Fees for Online and In-Store Payments
 
@@ -790,64 +790,64 @@ The tables below describe the fees you pay when you sell goods or services onlin
 * If you accept payments using a PayPal product (like [PayPal Here][20] or [PayPal Payments Pro][21]), the fees applicable to those products, and not the fees below, will apply to your transactions.
 
 | ----- |
-|  If you’re selling goods or services: |
-|
+|  If you’re selling goods or services: |  
+| 
 
 And the sale occurs:
 
- |
+ | 
 
 And the funds you are receiving are coming from a PayPal account:
 
- |
+ | 
 
 then you pay:
 
- |
-|
+ |  
+| 
 
 Through an online transaction
 
  
 
- |
+ | 
 
 In the U.S.
 
- |
+ | 
 
 a fee of 2.9% of the transaction amount plus a fixed fee based on the currency.
 
- |
-|
+ |  
+| 
 
 Outside the U.S.
 
- |
+ | 
 
 a fee of 3.9% of the transaction amount plus a fixed fee based on the currency.
 
- |   |
-|
+ |   | 
+| 
 
 In your store location
 
  
 
- |
+ | 
 
 In the U.S.
 
- |
+ | 
 
 a fee of 2.7% of the transaction amount.
 
- |
-|
+ |  
+| 
 
 Outside the U.S.
 
- |
+ | 
 
 a fee of 3.7% of the transaction amount.
 
@@ -858,264 +858,264 @@ a fee of 3.7% of the transaction amount.
  
 
 | ----- |
-|  If you’re a verified charitable organization: |
-|
+|  If you’re a verified charitable organization: |  
+| 
 
 And the funds you are receiving are coming from a PayPal account:
 
- |
+ | 
 
 then you pay:
 
- |
-|
+ |  
+| 
 
 In the U.S.
 
- |
+ | 
 
 a fee of 2.2% of the transaction amount plus a fixed fee based on the currency.
 
- |
-|
+ |  
+| 
 
 Outside the U.S.
 
- |
+ | 
 
 if your monthly donation volume is up to $100,000, a fee of 3.2% of the transaction amount plus a fixed fee based on the currency.
 
 if your monthly donation volume exceeds $100,000, a fee of 2.9% of the transaction amount plus a fixed fee based on the currency.
 
- |
+ | 
 
  
 
  
 
 | ----- |
-|  Fixed fees applicable to online and in-store payments |
-|
+|  Fixed fees applicable to online and in-store payments |  
+| 
 
 Currency
 
- |
+ | 
 
 Fee
 
- |
+ | 
 
 Currency
 
- |
+ | 
 
 Fee
 
- |
-|
+ |  
+| 
 
 Australian Dollar:
 
- |
+ | 
 
 0.30 AUD
 
- |
+ | 
 
 New Zealand Dollar:
 
- |
+ | 
 
 0.45 NZD
 
- |
-|
+ |  
+| 
 
 Brazilian Real:
 
- |
+ | 
 
 0.60 BRL
 
- |
+ | 
 
 Norwegian Krone:
 
- |
+ | 
 
 2.80 NOK
 
- |
-|
+ |  
+| 
 
 Canadian Dollar:
 
- |
+ | 
 
 0.30 CAD
 
- |
+ | 
 
 Philippine Peso:
 
- |
+ | 
 
 15.00 PHP
 
- |
-|
+ |  
+| 
 
 Czech Koruna:
 
- |
+ | 
 
 10.00 CZK
 
- |
+ | 
 
 Polish Zlotych:
 
- |
+ | 
 
 1.35 PLN
 
- |
-|
+ |  
+| 
 
 Danish Krone:
 
- |
+ | 
 
 2.60 DKK
 
- |
+ | 
 
 Russian Ruble:
 
- |
+ | 
 
 10 RUB
 
- |
-|
+ |  
+| 
 
 Euro:
 
- |
+ | 
 
 0.35 EUR
 
- |
+ | 
 
 Singapore Dollar:
 
- |
+ | 
 
 0.50 SGD
 
- |
-|
+ |  
+| 
 
 Hong Kong Dollar:
 
- |
+ | 
 
 2.35 HKD
 
- |
+ | 
 
 Swedish Krona:
 
- |
+ | 
 
 3.25 SEK
 
- |
-|
+ |  
+| 
 
 Hungarian Forint:
 
- |
+ | 
 
 90 HUF
 
- |
+ | 
 
 Swiss Franc:
 
- |
+ | 
 
 0.55 CHF
 
- |
-|
+ |  
+| 
 
 Israeli Shekel:
 
- |
+ | 
 
 1.20 ILS
 
- |
+ | 
 
 Taiwan New Dollar:
 
- |
+ | 
 
 10.00 TWD
 
- |
-|
+ |  
+| 
 
 Japanese Yen:
 
- |
+ | 
 
 40 JPY
 
- |
+ | 
 
 Thai Baht:
 
- |
+ | 
 
 11.00 THB
 
- |
-|
+ |  
+| 
 
 Malaysian Ringgit:
 
- |
+ | 
 
 2.00 MYR
 
- |
+ | 
 
 U.K. Pounds Sterling:
 
- |
+ | 
 
 0.20 GBP
 
- |
-|
+ |  
+| 
 
 Mexican Peso:
 
- |
+ | 
 
 4.00 MXN
 
- |
+ | 
 
 U.S. Dollar:
 
- |
+ | 
 
 0.30 USD
 
- |
+ | 
 
  
 
@@ -1126,260 +1126,260 @@ You may qualify to receive micropayments pricing for the sale of goods and servi
 If your PayPal account is approved to accept micropayments, then micropayments pricing (described in the tables below) will apply to all transactions for the sale of goods and services processed through your PayPal account, not the pricing described above under standard transaction fees.  If you have multiple PayPal accounts, you must correctly route your transactions to the appropriate account because, once a transaction is processed, PayPal will not re-route the transaction through a different account.
 
 | ----- |
-|  If your PayPal account is approved for micropayments pricing: |
-|
+|  If your PayPal account is approved for micropayments pricing: |  
+| 
 
 And the funds you are receiving are coming from a PayPal account in:
 
- |
+ | 
 
 then you pay:
 
- |
-|
+ |  
+| 
 
 The U.S.
 
- |
+ | 
 
 a fee of 5.0% of the transaction amount plus a fixed fee based on the currency.
 
- |
-|
+ |  
+| 
 
 Outside the U.S.
 
- |
+ | 
 
 a fee of 6.0% of the transaction amount plus a fixed fee based on the currency.
 
- |
+ | 
 
  
 
 | ----- |
-|  Fixed fees applicable to micropayments |
-|
+|  Fixed fees applicable to micropayments |  
+| 
 
 Currency
 
- |
+ | 
 
 Fee
 
- |
+ | 
 
 Currency
 
- |
+ | 
 
 Fee
 
- |
-|
+ |  
+| 
 
 Australian Dollar:
 
- |
+ | 
 
 0.05 AUD
 
- |
+ | 
 
 New Zealand Dollar:
 
- |
+ | 
 
 0.08 NZD
 
- |
-|
+ |  
+| 
 
 Brazilian Real:
 
- |
+ | 
 
 0.10 BRL
 
- |
+ | 
 
 Norwegian Krone:
 
- |
+ | 
 
 0.47 NOK
 
- |
-|
+ |  
+| 
 
 Canadian Dollar:
 
- |
+ | 
 
 0.05 CAD
 
- |
+ | 
 
 Philippine Peso:
 
- |
+ | 
 
 2.5 PHP
 
- |
-|
+ |  
+| 
 
 Czech Koruna:
 
- |
+ | 
 
 1.67 CZK
 
- |
+ | 
 
 Polish Zlotych:
 
- |
+ | 
 
 0.23 PLN
 
- |
-|
+ |  
+| 
 
 Danish Krone:
 
- |
+ | 
 
 0.43 DKK
 
- |
+ | 
 
 Russian Ruble:
 
- |
+ | 
 
 2 RUB
 
- |
-|
+ |  
+| 
 
 Euro:
 
- |
+ | 
 
 0.05 EUR
 
- |
+ | 
 
 Singapore Dollar:
 
- |
+ | 
 
 0.08 SGD
 
- |
-|
+ |  
+| 
 
 Hong Kong Dollar:
 
- |
+ | 
 
 0.39 HKD
 
- |
+ | 
 
 Swedish Krona:
 
- |
+ | 
 
 0.54 SEK
 
- |
-|
+ |  
+| 
 
 Hungarian Forint:
 
- |
+ | 
 
 15 HUF
 
- |
+ | 
 
 Swiss Franc:
 
- |
+ | 
 
 0.09 CHF
 
- |
-|
+ |  
+| 
 
 Israeli Shekel:
 
- |
+ | 
 
 0.20 ILS
 
- |
+ | 
 
 Taiwan New Dollar:
 
- |
+ | 
 
 2.00 TWD
 
- |
-|
+ |  
+| 
 
 Japanese Yen:
 
- |
+ | 
 
 7 JPY
 
- |
+ | 
 
 Thai Baht:
 
- |
+ | 
 
 1.80 THB
 
- |
-|
+ |  
+| 
 
 Malaysian Ringgit:
 
- |
+ | 
 
 0.20 MYR
 
- |
+ | 
 
 U.K. Pounds Sterling:
 
- |
+ | 
 
 0.05 GBP
 
- |
-|
+ |  
+| 
 
 Mexican Peso:
 
- |
+ | 
 
 0.55 MXN
 
- |
+ | 
 
 U.S. Dollar:
 
- |
+ | 
 
 0.05 USD
 
- |
+ | 
 
  
 
@@ -1390,429 +1390,429 @@ U.S. Dollar:
 PayPal’s Payouts and Mass Pay services let you send multiple payments in one batch to send commissions, rebates, rewards, and general payments.  In order to use these services, you must have a PayPal account that is a business account and you must apply for and receive permission from PayPal to use these services.  These services are only available to U.S. business accounts in good standing with no withdrawal limits.  PayPal may eliminate a business account’s ability to use Payouts or Mass Pay at any time.  The amount you will pay for using the Payouts or Mass Pay services depends on which service you use (traditional Mass Pay or the newer Payouts API), how you send the payments, and the currency of the payment.
 
 | ----- |
-|  If you are using Payouts or Mass Pay to send money to someone with a PayPal account |
-|
+|  If you are using Payouts or Mass Pay to send money to someone with a PayPal account |  
+| 
 
  
 
- |  in the U.S. |
+ |  in the U.S. | 
 
 outside of the U.S.
 
- |
-|
+ |  
+| 
 
  
 
- |  using PayPal’s newer Payouts API |
+ |  using PayPal’s newer Payouts API | 
 
 using traditional Mass Pay services
 
- |
-|
+ |  
+| 
 
 **Currency of the payment:**
 
- |
+ | 
 
 **then you pay a flat fee of:**
 
- |
+ | 
 
 **then you pay 2% of each recipient’s payment amount as a fee up to a maximum amount per recipient of:**
 
- |
-|
+ |  
+| 
 
 Australian Dollar:
 
- |
+ | 
 
 0.32 AUD
 
- |
+ | 
 
 1.25 AUD
 
- |
+ | 
 
 24.00 AUD
 
- |
-|
+ |  
+| 
 
 Brazilian Real:
 
- |
+ | 
 
 0.50 BRL
 
- |
+ | 
 
 2.00 BRL
 
- |
+ | 
 
 40.00 BRL
 
- |
-|
+ |  
+| 
 
 Canadian Dollar:
 
- |
+ | 
 
 0.32 CAD
 
- |
+ | 
 
 1.25 CAD
 
- |
+ | 
 
 24.00 CAD
 
- |
-|
+ |  
+| 
 
 Czech Koruna:
 
- |
+ | 
 
 6.00 CZK
 
- |
+ | 
 
 24.00 CZK
 
- |
+ | 
 
 400.00 CZK
 
- |
-|
+ |  
+| 
 
 Danish Krone:
 
- |
+ | 
 
 1.50 DKK
 
- |
+ | 
 
 6.00 DKK
 
- |
+ | 
 
 120.00 DKK
 
- |
-|
+ |  
+| 
 
 Euro:
 
- |
+ | 
 
 0.22 EUR
 
- |
+ | 
 
 0.85 EUR
 
- |
+ | 
 
 16.00 EUR
 
- |
-|
+ |  
+| 
 
 Hong Kong Dollar:
 
- |
+ | 
 
 1.75 HKD
 
- |
+ | 
 
 7.00 HKD
 
- |
+ | 
 
 160.00 HKD
 
- |
-|
+ |  
+| 
 
 Hungarian Forint:
 
- |
+ | 
 
 52.5 HUF
 
- |
+ | 
 
 210 HUF
 
- |
+ | 
 
 6,000 HUF
 
- |
-|
+ |  
+| 
 
 Israeli Shekel:
 
- |
+ | 
 
 1.00 ILS
 
- |
+ | 
 
 4.00 ILS
 
- |
+ | 
 
 80.00 ILS
 
- |
-|
+ |  
+| 
 
 Japanese Yen:
 
- |
+ | 
 
 30 JPY
 
- |
+ | 
 
 120 JPY
 
- |
+ | 
 
 2,000 JPY
 
- |
-|
+ |  
+| 
 
 Mexican Peso:
 
- |
+ | 
 
 2.75 MXN
 
- |
+ | 
 
 11.00 MXN
 
- |
+ | 
 
 300.00 MXN
 
- |
-|
+ |  
+| 
 
 New Zealand Dollar
 
- |
+ | 
 
 0.38 NZD
 
- |
+ | 
 
 1.50 NZD
 
- |
+ | 
 
 30.00 NZD
 
- |
-|
+ |  
+| 
 
 Norwegian Krone:
 
- |
+ | 
 
 1.70 NOK
 
- |
+ | 
 
 6.75 NOK
 
- |
+ | 
 
 120.00 NOK
 
- |
-|
+ |  
+| 
 
 Philippine Peso:
 
- |
+ | 
 
 12.50 PHP
 
- |
+ | 
 
 50.00 PHP
 
- |
+ | 
 
 1,000.00 PHP
 
- |
-|
+ |  
+| 
 
 Polish Zlotych:
 
- |
+ | 
 
 0.75 PLN
 
- |
+ | 
 
 3.00 PLN
 
- |
+ | 
 
 60.00 PLN
 
- |
-|
+ |  
+| 
 
 Russian Ruble:
 
- |
+ | 
 
 60 RUB
 
- |
+ | 
 
 240 RUB
 
- |
+ | 
 
 1,400 RUB
 
- |
-|
+ |  
+| 
 
 Singapore Dollar:
 
- |
+ | 
 
 0.40 SGD
 
- |
+ | 
 
 1.60 SGD
 
- |
+ | 
 
 32.00 SGD
 
- |
-|
+ |  
+| 
 
 Swedish Krona:
 
- |
+ | 
 
 2.25 SEK
 
- |
+ | 
 
 9.00 SEK
 
- |
+ | 
 
 160.00 SEK
 
- |
-|
+ |  
+| 
 
 Swiss Franc:
 
- |
+ | 
 
 0.33 CHF
 
- |
+ | 
 
 1.30 CHF
 
- |
+ | 
 
 20.00 CHF
 
- |
-|
+ |  
+| 
 
 Taiwan New Dollar:
 
- |
+ | 
 
 8.25 TWD
 
- |
+ | 
 
 33.00 TWD
 
- |
+ | 
 
 800.00 TWD
 
- |
-|
+ |  
+| 
 
 Thai Baht:
 
- |
+ | 
 
 9.00 THB
 
- |
+ | 
 
 36.00 THB
 
- |
+ | 
 
 800.00 THB
 
- |
-|
+ |  
+| 
 
 U.K. Pounds Sterling:
 
- |
+ | 
 
 0.17 GBP
 
- |
+ | 
 
 0.65 GBP
 
- |
+ | 
 
 14.00 GBP
 
- |
-|
+ |  
+| 
 
 U.S. Dollar:
 
- |
+ | 
 
 0.25 USD
 
- |
+ | 
 
 1.00 USD
 
- |
+ | 
 
 20.00 USD
 
- |
+ | 
 
  
 
@@ -1848,228 +1848,228 @@ When you receive a payment, you are liable to PayPal for the full amount of the 
 If you receive a debit or credit card-funded payment and the buyer pursues a chargeback for the transaction with his/her card issuer , then PayPal will assess a chargeback fee unless the transaction is eligible for PayPal Seller Protection.  The applicable chargeback fee (see the table below) will be deducted from your PayPal account.  The chargeback fee depends on the currency of the original transaction.
 
 | ----- |
-|  **Chargeback fees** |
-|
+|  **Chargeback fees** |  
+| 
 
 **Currency**
 
- |
+ | 
 
 **Chargeback Fee**
 
- |
+ | 
 
 **Currency**
 
- |
+ | 
 
 **Chargeback Fee**
 
- |
-|
+ |  
+| 
 
 Australian Dollar:
 
- |
+ | 
 
 22.00 AUD
 
- |
+ | 
 
 New Zealand Dollar:
 
- |
+ | 
 
 28.00 NZD
 
- |
-|
+ |  
+| 
 
 Brazilian Real:
 
- |
+ | 
 
 35.00 BRL
 
- |
+ | 
 
 Norwegian Krone:
 
- |
+ | 
 
 125.00 NOK
 
- |
-|
+ |  
+| 
 
 Canadian Dollar:
 
- |
+ | 
 
 20.00 CAD
 
- |
+ | 
 
 Philippine Peso:
 
- |
+ | 
 
 900.00 PHP
 
- |
-|
+ |  
+| 
 
 Czech Koruna:
 
- |
+ | 
 
 400.00 CZK
 
- |
+ | 
 
 Polish Zlotych:
 
- |
+ | 
 
 65.00 PLN
 
- |
-|
+ |  
+| 
 
 Danish Krone:
 
- |
+ | 
 
 120.00 DKK
 
- |
+ | 
 
 Russian Ruble:
 
- |
+ | 
 
 640 RUB
 
- |
-|
+ |  
+| 
 
 Euro:
 
- |
+ | 
 
 16 EUR
 
- |
+ | 
 
 Singapore Dollar:
 
- |
+ | 
 
 28.00 SGD
 
- |
-|
+ |  
+| 
 
 Hong Kong Dollar:
 
- |
+ | 
 
 155.00 HKD
 
- |
+ | 
 
 Swedish Krona:
 
- |
+ | 
 
 150.00 SEK
 
- |
-|
+ |  
+| 
 
 Hungarian Forint:
 
- |
+ | 
 
 4,325 HUF
 
- |
+ | 
 
 Swiss Franc:
 
- |
+ | 
 
 22.00 CHF
 
- |
-|
+ |  
+| 
 
 Israeli Shekel:
 
- |
+ | 
 
 75.00 ILS
 
- |
+ | 
 
 Taiwan New Dollar:
 
- |
+ | 
 
 625.00 TWD
 
- |
-|
+ |  
+| 
 
 Japanese Yen:
 
- |
+ | 
 
 1,875 JPY
 
- |
+ | 
 
 Thai Baht:
 
- |
+ | 
 
 650.00 THB
 
- |
-|
+ |  
+| 
 
 Malaysian Ringgit:
 
- |
+ | 
 
 65 MYR
 
- |
+ | 
 
 U.K. Pounds Sterling:
 
- |
+ | 
 
 14.00 GBP
 
- |
-|
+ |  
+| 
 
 Mexican Peso:
 
- |
+ | 
 
 250.00 MXN
 
- |
+ | 
 
 U.S. Dollar:
 
- |
+ | 
 
 20.00 USD
 
- |
+ | 
 
  
 
@@ -2139,24 +2139,24 @@ To be covered by PayPal’s Seller Protection program for a buyer’s Unauthoriz
 #### Establishing proof of delivery or proof of shipment
 
 | ----- |
-|  The following is required as: |
-|
+|  The following is required as: |  
+| 
 
 Proof of shipment
 
- |
+ | 
 
 Proof of delivery
 
- |
-|
+ |  
+| 
 
 Online or physical documentation from a shipping company that includes:
 
 * Date of shipment
 * An address for the recipient that matches the shipping address on the Transaction Details page
 * An address for the recipient showing at least the city/state, city/country, or zip/postal code (or international equivalent).
- |
+ | 
 
 Online or physical documentation from a shipping company that includes:
 
@@ -2167,235 +2167,235 @@ Online or physical documentation from a shipping company that includes:
 
 IMPORTANT:  Your choice of carrier and shipment options with that carrier can have a big impact on your ability to meet the proof of delivery requirements.  Please ensure, especially when shipping goods internationally, that your carrier can provide ‘delivered’ status at the correct address, or your Seller Protection claim may be denied.
 
- |
+ | 
 
  
 
  
 
 | ----- |
-|  Signature confirmation foreign currency thresholds |
-|
+|  Signature confirmation foreign currency thresholds |  
+| 
 
 **Currency**
 
- |
+ | 
 
 **Transaction value**
 
- |
+ | 
 
 **Currency**
 
- |
+ | 
 
 **Transaction value**
 
- |
-|
+ |  
+| 
 
 Australian Dollar:
 
- |
+ | 
 
 850 AUD
 
- |
+ | 
 
 New Zealand Dollar:
 
- |
+ | 
 
 950 NZD
 
- |
-|
+ |  
+| 
 
 Brazilian Real:
 
- |
+ | 
 
 1,750 BRL
 
- |
+ | 
 
 Norwegian Krone:
 
- |
+ | 
 
 4,600 NOK
 
- |
-|
+ |  
+| 
 
 Canadian Dollar:
 
- |
+ | 
 
 850 CAD
 
- |
+ | 
 
 Philippine Peso:
 
- |
+ | 
 
 34,000 PHP
 
- |
-|
+ |  
+| 
 
 Czech Koruna:
 
- |
+ | 
 
 15,000 CZK
 
- |
+ | 
 
 Polish Zlotych:
 
- |
+ | 
 
 2,300 PLN
 
- |
-|
+ |  
+| 
 
 Danish Krone:
 
- |
+ | 
 
 4,100 DKK
 
- |
+ | 
 
 Russian Ruble:
 
- |
+ | 
 
 48,000 RUB
 
- |
-|
+ |  
+| 
 
 Euro:
 
- |
+ | 
 
 550 EUR
 
- |
+ | 
 
 Singapore Dollar:
 
- |
+ | 
 
 950 SGD
 
- |
-|
+ |  
+| 
 
 Hong Kong Dollar:
 
- |
+ | 
 
 6,000 HKD
 
- |
+ | 
 
 Swedish Krona:
 
- |
+ | 
 
 4,950 SEK
 
- |
-|
+ |  
+| 
 
 Hungarian Forint:
 
- |
+ | 
 
 170,000 HUF
 
- |
+ | 
 
 Swiss Franc:
 
- |
+ | 
 
 700 CHF
 
- |
-|
+ |  
+| 
 
 Israeli Shekel:
 
- |
+ | 
 
 2,700 ILS
 
- |
+ | 
 
 Taiwan New Dollar:
 
- |
+ | 
 
 23,000 TWD
 
- |
-|
+ |  
+| 
 
 Japanese Yen:
 
- |
+ | 
 
 77,000 JPY
 
- |
+ | 
 
 Thai Baht:
 
- |
+ | 
 
 24,500 THB
 
- |
-|
+ |  
+| 
 
 Malaysian Ringgit:
 
- |
+ | 
 
 3,100 MYR
 
- |
+ | 
 
 U.K. Pounds Sterling:
 
- |
+ | 
 
 450 GBP
 
- |
-|
+ |  
+| 
 
 Mexican Peso:
 
- |
+ | 
 
 10,000 MXN
 
- |
+ | 
 
 U.S. Dollar:
 
- |
+ | 
 
 750 USD
 
- |
+ | 
 
  
 
@@ -2416,14 +2416,14 @@ Your sale **_is not_** eligible for coverage under PayPal’s Seller Protection 
 The PayPal Advertising Program enables you to promote PayPal services, including PayPal Credit, through PayPal-hosted banners and buttons on your websites or in your customer emails.  PayPal may change the content provided through this program at any time for any reason, and PayPal may choose to discontinue the PayPal Advertising Program at any time.
 
 | ----- |
-|  If you participate in this program: |
-|  You must: |  You must not: |
-|  Comply with all integration requirements provided by PayPal or each authorized third party, including those with respect to accurate presentation of all PayPal related information. |  Modify any PayPal content or its presentation in any way. |
-|  Only use the HTML code for PayPal content as provided by PayPal. |  Copy PayPal content from other websites. |
-|  Use the PayPal content in its entirety with all the links and language provided by PayPal and without modification by you. |  Create, display or host your own PayPal content, unless authorized by PayPal in writing. |
-|  Immediately remove all PayPal content from your sites and customer communications and/or cooperate with PayPal or your third party provider to do so, if you stop using a qualifying PayPal payments solution. |  Post PayPal content on social media networks or platforms or anywhere else, unless authorized by PayPal in writing. |
-|  Keep all PayPal content current and up to date, including by cooperating with PayPal to manually update the PayPal content as its appears on your sites or in your communications and repair or reinstall the HTML code to facilitate future updates. |  Display any non-current PayPal content. |
-|  Comply with applicable advertising laws, regulations and standards issued by governmental authorities or advertising self-regulatory bodies including but not limited to the digital advertising standards issued by the Network Advertising Initiative. |    |
+|  If you participate in this program: |  
+|  You must: |  You must not: |  
+|  Comply with all integration requirements provided by PayPal or each authorized third party, including those with respect to accurate presentation of all PayPal related information. |  Modify any PayPal content or its presentation in any way. |  
+|  Only use the HTML code for PayPal content as provided by PayPal. |  Copy PayPal content from other websites. |  
+|  Use the PayPal content in its entirety with all the links and language provided by PayPal and without modification by you. |  Create, display or host your own PayPal content, unless authorized by PayPal in writing. |  
+|  Immediately remove all PayPal content from your sites and customer communications and/or cooperate with PayPal or your third party provider to do so, if you stop using a qualifying PayPal payments solution. |  Post PayPal content on social media networks or platforms or anywhere else, unless authorized by PayPal in writing. |  
+|  Keep all PayPal content current and up to date, including by cooperating with PayPal to manually update the PayPal content as its appears on your sites or in your communications and repair or reinstall the HTML code to facilitate future updates. |  Display any non-current PayPal content. |  
+|  Comply with applicable advertising laws, regulations and standards issued by governmental authorities or advertising self-regulatory bodies including but not limited to the digital advertising standards issued by the Network Advertising Initiative. |    | 
 
  
 
@@ -2449,7 +2449,7 @@ In connection with your use of our websites, your PayPal account, the PayPal ser
 * Refuse to cooperate in an investigation or provide confirmation of your identity or any information you provide to us.
 * Attempt to double dip during the course of a dispute by receiving or attempting to receive funds from both PayPal and the seller, bank or card issuer for the same transaction.
 * Control an account that is linked to another account that has engaged in any of these restricted activities.
-* Conduct your business or use the PayPal services in a manner that results in or may result in
+* Conduct your business or use the PayPal services in a manner that results in or may result in 
     * complaints;
     * requests by buyers (either filed with us or card issuers) to invalidate payments made to you;
     * fees, fines, penalties or other liability or losses to PayPal, other PayPal customers, third parties or you.
@@ -2639,7 +2639,7 @@ We will rectify any processing error that we discover.  If the error results in
 
 * You receiving less than the correct amount to which you were entitled, then we will credit your PayPal account for the difference between what you should have received and what you actually received.
 * You receiving more than the correct amount to which you were entitled, then we will debit your PayPal account for the difference between what you actually received and what you should have received.
-* Our not completing a transaction on time or in the correct amount, then we will be responsible to you for your losses or damages directly caused by this failure, unless:
+* Our not completing a transaction on time or in the correct amount, then we will be responsible to you for your losses or damages directly caused by this failure, unless: 
     * through no fault of ours, you did not have enough available funds to complete the transaction;
     * our system was not working properly and you knew about the breakdown when you started the transaction; or
     * the error was due to extraordinary circumstances outside our control (such as fire, flood or loss of Internet connection), despite our reasonable precautions.
@@ -2677,10 +2677,10 @@ A **“Remittance Transfer Error”** occurs if:
 
 * You paid an incorrect amount to send the Remittance Transfer.  For example, you were charged more than the total shown on the remittance transfer receipt you received (unless the total shown on the receipt was an estimate, and the difference results from application of the actual exchange rate, fees, and taxes).
 * PayPal made a computational or bookkeeping error, such as a miscalculation of the amount the recipient received.
-* The amount stated in the remittance transfer receipt was not made available to the recipient, unless:
+* The amount stated in the remittance transfer receipt was not made available to the recipient, unless: 
     * we stated in the remittance transfer receipt that we used estimates and the difference in the amount received and the amount stated in the remittance transfer receipt results from application of the actual exchange rate, fees, and taxes, or
     * the problem was caused by extraordinary circumstances outside our control.
-* Funds were available to the recipient later than the date of availability that was disclosed to you on the remittance transfer receipt or were not delivered, unless:
+* Funds were available to the recipient later than the date of availability that was disclosed to you on the remittance transfer receipt or were not delivered, unless: 
     * extraordinary circumstances outside our control caused the delay, and we could not reasonably anticipate those circumstances,
     * delays resulted from fraud screenings, or were caused by requirements of the Office of Foreign Assets Controls or similar requirements, or
     * you (or someone assisting you) made the transfer with fraudulent intent.
@@ -2814,30 +2814,30 @@ You and PayPal agree that any claim or dispute at law or equity that has arisen 
 If a dispute arises between you and PayPal, our goal is to learn about and address your concerns and, if we are unable to do so to your satisfaction, to provide you with a neutral and cost effective means of resolving the dispute quickly.  Disputes between you and PayPal regarding the PayPal services may be reported to customer service online through the [PayPal Help Center][26] at any time, or by calling (888) 221-1161 from Mon-Fri 5:00 AM to 10:00 PM PT and Sat-Sun 6:00 AM to 8:00 PM PT.
 
 | ----- |
-|  Agreement to Arbitrate |
-|
+|  Agreement to Arbitrate |  
+| 
 
 **_Our Agreement_**
 
- |
+ | 
 
 You and PayPal each agree that any and all disputes or claims that have arisen or may arise between you and PayPal, including without limitation federal and state statutory claims, common law claims, and those based in contract, tort, fraud, misrepresentation or any other legal theory, shall be resolved exclusively through final and binding arbitration, rather than in court, except that you may assert claims in small claims court, if your claims qualify and so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis.  This Agreement to Arbitrate is intended to be broadly interpreted.  The Federal Arbitration Act governs the interpretation and enforcement of this Agreement to Arbitrate.
 
- |
-|
+ |  
+| 
 
 **_ Prohibition of Class and Representative Actions and Non-Individualized Relief_**
 
- |
+ | 
 
 You and PayPal agree that each of us may bring claims against the other only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding.  Unless both you and PayPal agree otherwise, the arbitrator(s) may not consolidate or join more than one person’s or party’s claims and may not otherwise preside over any form of a consolidated, representative or class proceeding.  Also, the arbitrator(s) may award relief (including monetary, injunctive and declaratory relief) only in favor of the individual party seeking relief and only to the extent necessary to provide relief necessitated by that party’s individual claim(s).  Any relief awarded cannot affect other PayPal customers.
 
- |
-|
+ |  
+| 
 
 **_Arbitration Procedures_**
 
- |
+ | 
 
 Arbitration is more informal than a lawsuit in court.  Arbitration uses a neutral arbitrator or arbitrators instead of a judge or jury, and court review of an arbitration award is very limited.  However, the arbitrator(s) can award the same damages and relief on an individual basis that a court can award to an individual.  The arbitrator(s) also must follow the terms of this user agreement as a court would.  All issues are for the arbitrator(s) to decide, except that issues relating to arbitrability, the scope or enforceability of this Agreement to Arbitrate, or the interpretation of the Prohibition of Class and Representative Actions and Non-Individualized Relief section above, shall be for a court of competent jurisdiction to decide.
 
@@ -2849,45 +2849,45 @@ The arbitration shall be held in the county in which you reside or at another mu
 
 The arbitrator(s) will decide the substance of all claims in accordance with applicable law, including recognized principles of equity, and will honor all claims of privilege recognized by law.  The arbitrator(s) shall not be bound by rulings in prior arbitrations involving different PayPal customers, but is/are bound by rulings in prior arbitrations involving the same PayPal customer to the extent required by applicable law.  The award of the arbitrator(s) shall be final and binding, and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
 
- |
-|
+ |  
+| 
 
 **_Costs of Arbitration_**
 
- |
+ | 
 
 Payment of all filing, administration, and arbitrator fees will be governed by the AAA's rules, unless otherwise stated in this Agreement to Arbitrate.  If the value of the relief sought is $10,000 or less, at your request, PayPal will pay all filing, administration, and arbitrator fees associated with the arbitration.  Any request for payment of fees by PayPal should be submitted by mail to the AAA along with your Demand for Arbitration and PayPal will make arrangements to pay all necessary fees directly to the AAA.  If the value of the relief sought is more than $10,000 and you are able to demonstrate that the costs of accessing arbitration will be prohibitive as compared to the costs of accessing a court for purposes of pursuing litigation on an individual basis, PayPal will pay as much of the filing, administration, and arbitrator fees as the arbitrator(s) deem necessary to prevent the cost of accessing the arbitration from being prohibitive.  In the event the arbitrator(s) determine the claim(s) you assert in the arbitration to be frivolous, you agree to reimburse PayPal for all fees associated with the arbitration paid by PayPal on your behalf that you otherwise would be obligated to pay under the AAA's rules.
 
- |
-|
+ |  
+| 
 
 **_Severability_**
 
- |
+ | 
 
 With the exception of any of the provisions in the Prohibition of Class and Representative Actions and Non-Individualized Relief section above, if a court decides that any part of this Agreement to Arbitrate is invalid or unenforceable, the other parts of this Agreement to Arbitrate shall still apply. If a court decides that any of the provisions in the Prohibition of Class and Representative Actions and Non-Individualized Relief section above is invalid or unenforceable, then the entirety of this Agreement to Arbitrate shall be null and void, but the remainder of this user agreement will continue to apply.
 
- |
-|
+ |  
+| 
 
 **_Opt-Out Procedure_**
 
- |
+ | 
 
 If you are a new PayPal customer, you can choose to reject this Agreement to Arbitrate by mailing us a written opt-out notice.  The opt-out notice must be postmarked no later than 30 days after the date you accept this user agreement for the first time.  You must mail the opt-out notice to PayPal, Inc., Attn:  Litigation Department, 2211 North First Street, San Jose, CA  95131.
 
 For your convenience, we are providing an [opt-out notice][28] form you must complete and mail to opt out of this Agreement to Arbitrate.  You must complete this form by providing all the information it calls for, including your name, address, phone number, and the email address(es) used to log in to the PayPal account(s) to which the opt-out applies.  You must sign the opt-out notice for it to be effective. This procedure is the only way you can opt out of the agreement to arbitrate.  If you opt out of this Agreement to Arbitrate, all other parts of the user agreement will continue to apply.  Opting out of this Agreement to Arbitrate has no effect on any previous, other, or future arbitration agreements that you may have with us.
 
- |
-|
+ |  
+| 
 
 **_Future Amendments to this Agreement to Arbitrate_**
 
- |
+ | 
 
 Notwithstanding any provision in the user agreement to the contrary, you and we agree that if we make any amendment to this Agreement to Arbitrate (other than an amendment to any notice address or website link provided herein) in the future, that amendment shall not apply to any claim that was filed in a legal proceeding against PayPal prior to the effective date of the amendment.  The amendment shall apply to all other disputes or claims governed by this Agreement to Arbitrate that have arisen or may arise between you and PayPal.  We will notify you of amendments to this Agreement to Arbitrate by posting the amended terms on www.paypal.com at least 30 days before the effective date of the amendments and by providing notice through email.  If you do not agree to these amended terms, you may close your PayPal account within the 30-day period and you will not be bound by the amended terms.
 
- |
+ | 
 
  
 
@@ -3027,3 +3027,4 @@ If you receive information about another PayPal customer, you must keep the info
 [26]: https://www.paypal.com/selfhelp/home
 [27]: https://www.paypal.com/us/webapps/mpp/ua/pp-notice-dispute
 [28]: https://www.paypal.com/us/webapps/mpp/ua/pp-optout
+
