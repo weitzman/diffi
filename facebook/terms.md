@@ -1,11 +1,11 @@
 This agreement was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.  Please note that Section 16 contains certain changes to the general terms for users outside the United States.
 
-Date of Last Revision: January 30, 2015
+Date of Last Revision: January 30, 2015 
 
 **Statement of Rights and Responsibilities**  
-This Statement of Rights and Responsibilities ("Statement," "Terms," or "SRR") derives from the[ Facebook Principles][1], and is our terms of service that governs our relationship with users and others who interact with Facebook, as well as Facebook brands, products and services, which we call the “[Facebook Services” or “Services”][2]. By using or accessing the Facebook Services, you agree to this Statement, as updated from time to time in accordance with Section 13 below. Additionally, you will find resources at the end of this document that help you understand how Facebook works.
+This Statement of Rights and Responsibilities ("Statement," "Terms," or "SRR") derives from the[ Facebook Principles][1], and is our terms of service that governs our relationship with users and others who interact with Facebook, as well as Facebook brands, products and services, which we call the “[Facebook Services” or “Services”][2]. By using or accessing the Facebook Services, you agree to this Statement, as updated from time to time in accordance with Section 13 below. Additionally, you will find resources at the end of this document that help you understand how Facebook works. 
 
-Because Facebook provides a wide range of [Services][2], we may ask you to review and accept supplemental terms that apply to your interaction with a specific app, product, or service. To the extent those supplemental terms conflict with this SRR, the supplemental terms associated with the app, product, or service govern with respect to your use of such app, product or service to the extent of the conflict.
+Because Facebook provides a wide range of [Services][2], we may ask you to review and accept supplemental terms that apply to your interaction with a specific app, product, or service. To the extent those supplemental terms conflict with this SRR, the supplemental terms associated with the app, product, or service govern with respect to your use of such app, product or service to the extent of the conflict. 
 
 1. **Privacy**  
   
@@ -13,8 +13,8 @@ Your privacy is very important to us. We designed our [Data Policy][3] to make i
  
 2. **Sharing Your Content and Information**  
   
-You own all of the content and information you post on Facebook, and you can control how it is shared through your [privacy][4] and [application settings][5]. In addition:
-    1. For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give us the following permission, subject to your [privacy][4] and [application settings][5]: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+You own all of the content and information you post on Facebook, and you can control how it is shared through your [privacy][4] and [application settings][5]. In addition: 
+    1. For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give us the following permission, subject to your [privacy][4] and [application settings][5]: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. 
     2. When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
     3. When you use an application, the application may ask for your permission to access your content and information as well as content and information that others have shared with you.  We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.  (To learn more about Platform, including how you can control what information other people may share with applications, read our [Data Policy][3] and [Platform Page][6].)
     4. When you publish content or information using the Public setting, it means that you are allowing everyone, including people off of Facebook, to access and use that information, and to associate it with you (i.e., your name and profile picture).
@@ -22,7 +22,7 @@ You own all of the content and information you post on Facebook, and you can con
  
 3. **Safety**  
   
-We do our best to keep Facebook safe, but we cannot guarantee it. We need your help to keep Facebook safe, which includes the following commitments by you:
+We do our best to keep Facebook safe, but we cannot guarantee it. We need your help to keep Facebook safe, which includes the following commitments by you: 
     1. You will not post unauthorized commercial communications (such as spam) on Facebook.
     2. You will not collect users' content or information, or otherwise access Facebook, using automated means (such as harvesting bots, robots, spiders, or scrapers) without our prior permission.
     3. You will not engage in unlawful multi-level marketing, such as a pyramid scheme, on Facebook.
@@ -37,7 +37,7 @@ We do our best to keep Facebook safe, but we cannot guarantee it. We need your h
  
 4. **Registration and Account Security**  
   
-Facebook users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account:
+Facebook users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account: 
     1. You will not provide any false personal information on Facebook, or create an account for anyone other than yourself without permission.
     2. You will not create more than one personal account.
     3. If we disable your account, you will not create another one without our permission.
@@ -51,7 +51,7 @@ Facebook users provide their real names and information, and we need your help t
  
 5. **Protecting Other People's Rights**  
   
-We respect other people's rights, and expect you to do the same.
+We respect other people's rights, and expect you to do the same. 
     1. You will not post content or take any action on Facebook that infringes or violates someone else's rights or otherwise violates the law.
     2. We can remove any content or information you post on Facebook if we believe that it violates this Statement or our policies.
     3. We provide you with tools to help you protect your intellectual property rights. To learn more, visit our [How to Report Claims of Intellectual Property Infringement][7] page.
@@ -75,18 +75,18 @@ If you make a payment on Facebook, you agree to our [Payments Terms][8] unless i
  
 8. **Special Provisions Applicable to Developers/Operators of Applications and Websites **  
   
-If you are a developer or operator of a Platform application or website or if you use Social Plugins, you must comply with the [ Facebook Platform Policy][9].
+If you are a developer or operator of a Platform application or website or if you use Social Plugins, you must comply with the [ Facebook Platform Policy][9]. 
 9. **About Advertisements and Other Commercial Content Served or Enhanced by Facebook**  
   
-Our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. In order to help us do that, you agree to the following:
-    1. You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it.
+Our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. In order to help us do that, you agree to the following: 
+    1. You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it. 
     2. We do not give your content or information to advertisers without your consent.
     3. You understand that we may not always identify paid services and communications as such.  
  
 
 10. **Special Provisions Applicable to Advertisers **  
   
-If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our [ Self-Serve Ad Terms][10]. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our [Advertising Policies][11].
+If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our [ Self-Serve Ad Terms][10]. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our [Advertising Policies][11]. 
 11. **Special Provisions Applicable to Pages**  
   
 If you create or administer a Page on Facebook, or run a promotion or an offer from your Page, you agree to our [Pages Terms][12].  
@@ -112,16 +112,16 @@ If you violate the letter or spirit of this Statement, or otherwise create risk 
 15. **Disputes**  
   
 
-    1. You will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or Facebook exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such claims. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.
-    2. If anyone brings a claim against us related to your actions, content or information on Facebook, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users' actions on Facebook and are not responsible for the content or information users transmit or share on Facebook. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information you may encounter on Facebook. We are not responsible for the conduct, whether online or offline, of any user of Facebook.
+    1. You will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or Facebook exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such claims. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions. 
+    2. If anyone brings a claim against us related to your actions, content or information on Facebook, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users' actions on Facebook and are not responsible for the content or information users transmit or share on Facebook. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information you may encounter on Facebook. We are not responsible for the conduct, whether online or offline, of any user of Facebook. 
     3. WE TRY TO KEEP FACEBOOK UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING FACEBOOK AS IS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT FACEBOOK WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT FACEBOOK WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS. FACEBOOK IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR. WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR FACEBOOK, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR FACEBOOK WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, FACEBOOK'S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.  
  
 16. **Special Provisions Applicable to Users Outside the United States**  
   
-We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users and non-users who interact with Facebook outside the United States:
+We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users and non-users who interact with Facebook outside the United States: 
     1. You consent to having your personal data transferred to and processed in the United States.
     2. If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on Facebook (such as advertising or payments) or operate a Platform application or website. You will not use Facebook if you are prohibited from receiving products, services, or software originating from the United States.
-    3. Certain specific terms that apply only for German users are available [here][13].
+    3. Certain specific terms that apply only for German users are available [here][13]. 
 17. **Definitions**  
   
 
@@ -157,7 +157,7 @@ By using or accessing Facebook Services, you agree that we can collect and use s
 * [Platform Page][15]: This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
 * [Facebook Platform Policies][16]: These guidelines outline the policies that apply to applications, including Connect sites.
 * [Advertising Policies][11]: These guidelines outline the policies that apply to advertisements placed on Facebook.
-* [Self-Serve Ad Terms][10]: These terms apply when you use the Self-Serve Ad Interfaces to create, submit, or deliver any advertising or other commercial or sponsored activity or content.
+* [Self-Serve Ad Terms][10]: These terms apply when you use the Self-Serve Ad Interfaces to create, submit, or deliver any advertising or other commercial or sponsored activity or content. 
 * [Promotions Guidelines][17]: These guidelines outline the policies that apply if you offer contests, sweepstakes, and other types of promotions on Facebook.
 * [Facebook Brand Resources][18]: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
 * [How to Report Claims of Intellectual Property Infringement][7]
@@ -165,7 +165,7 @@ By using or accessing Facebook Services, you agree that we can collect and use s
 * [Community Standards][19]: These guidelines outline our expectations regarding the content you post to Facebook and your activity on Facebook.  
   
 
-To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version.
+To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version. 
 
 [1]: https://www.facebook.com/principles.php
 [2]: /help/1561485474074139
@@ -180,9 +180,10 @@ To access the Statement of Rights and Responsibilities in several different lang
 [11]: /ad_guidelines.php
 [12]: https://www.facebook.com/page_guidelines.php
 [13]: https://www.facebook.com/terms/provisions/german/index.php
-[14]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=PAQEBWmX8&s=1
+[14]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=LAQHQdnAN&s=1
 [15]: /platform
 [16]: http://developers.facebook.com/policy/
 [17]: /page_guidelines.php#promotionsguidelines
-[18]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ZAQHmz0v1&s=1
+[18]: https://www.facebook.com/l.php?u=https://www.facebookbrand.com/&h=xAQGes0iS&s=1
 [19]: /communitystandards
+
