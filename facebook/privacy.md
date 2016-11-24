@@ -138,6 +138,6 @@ Dublin 2, Ireland
 [16]: /me/allactivity
 [17]: /help/405183566203254/
 [18]: /help/125338004213029
-[19]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATNQHESf4ijUDLnsOKQfGWY_eU3gykNZjvCryINJVxdoZ1zDKfqxt67Eb9oLK71XnS--Y1s9CYJlxVO-lVLWJ4DBRRGO2DuqxCsiRPkpSbaS9t3yYuFlgPeWeNKD&s=1
+[19]: https://www.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=TAQFxNEli&s=1
 [20]: /help/contact/173545232710000
 
