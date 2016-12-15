@@ -126,7 +126,7 @@ Although we help Riders and Drivers communicate with one another to arrange a pi
 
 **Data Security**. We are committed to protecting the data of the Lyft community. Even though we take reasonable precautions to protect your data, no security measures can be 100% secure, and we cannot guarantee the security of your data. 
 
-**Children’s Privacy**. Lyft is not directed to children, and we don’t knowingly collect personal information from children under 13. If we find out that a child under 13 has given us personal information, we will take steps to delete that information. If you believe that a child under the age of 13 has given us personal information, please contact us at our [Help Center][3]]. 
+**Children’s Privacy**. Lyft is not directed to children, and we don’t knowingly collect personal information from children under 13. If we find out that a child under 13 has given us personal information, we will take steps to delete that information. If you believe that a child under the age of 13 has given us personal information, please contact us at our [Help Center][3]. 
 
 **Changes to Our Privacy Policy**. We may make changes to this Privacy Policy from time to time. If we make any material changes, we will let you know through the Lyft Platform, by email, or other communication. We encourage you to read this Privacy Policy periodically to stay up-to-date about our privacy practices. As long as you use the Lyft Platform, you are agreeing to this Privacy Policy and any updates we make to it. 
 
