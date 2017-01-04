@@ -226,6 +226,6 @@ Date of Last Revision: September 29, 2016
 [17]: /help/437430672945092
 [18]: /help/302796099745838
 [19]: /help/125338004213029
-[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATPXJwaN1mf7yq-EI1h7wfyus5eXGzggeaXqtRFE7mALBBZXNRL-yQgD_XLhJBM7QwV9Omlw9MfDCy-8lqcV08CKLeT1QAihuMANwA8PZt5jvvHS-9-d&s=1
+[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATOlDUjW5F84ZLCReQSRF3hUHOMH5QPtEoVgXz07E4M5RU4y7Kv0rTQjdygwv8pj6Qxcs2yNB4E-t3pzqcU4NM-Ck5shdZj-Zwlk4LcipEzJuGyNenwc&s=1
 [21]: /help/contact/173545232710000
 
