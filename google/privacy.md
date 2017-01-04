@@ -272,7 +272,7 @@ For example, when you’re signed in to your Google Account and search on Google
 
 ## "connect with people"
 
-For example, you could get suggestions of people you might know or want to connect with on Google , based on the connections you have with people on other Google products, like Gmail and people who have a connection with you may see your profile as a suggestion. 
+For example, you could get suggestions of people you might know or want to connect with on Google , based on the connections you have with people on other Google products, like Gmail; and people who have a connection with you may see your profile as a suggestion. 
 
 [Learn more.][6]
 
