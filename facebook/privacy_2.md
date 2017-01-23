@@ -213,7 +213,7 @@ Date of Last Revision: September 29, 2016
 [4]: /help/111814505650678
 [5]: https://research.facebook.com/
 [6]: /about/privacy/update#what-kinds-of-information-do-we-collect
-[7]: https://l.facebook.com/l.php?u=AQEZbh0D20lLy8ry4aGcXqURZ312EgUMuh9WACCVsKNB36Ytpy0unTAnjCYQormvGZ03tlG1VNHDB7jK&h=ATOUlZPGLq2Fy2VmHstSQwiG-ytU2Ho3ifk4ymjx2pHoCTgnhYVod5Mcu5TdeGLtMVh9sd1beHOCMuyOEN7NG1dTvVnFExr-rIUb6b4cH2Gke-u8e_oZ&enc=AZNe0_u50c1kKi96jzB20g9mWtyM_xodLsggHzXWmhIz_5UjoZYlNsaC5pbLupFeA-I&s=1
+[7]: https://l.facebook.com/l.php?u=AQFzqeKX92HZSb7nOTu31BASmDnQlz9CogF0nsAUwFwSHlJkpVSVVtsTvbZnUi05I_YB_T2TG_qcjuvm&h=ATMaqNmqoXILzYBxLn7sXrlY_fkWtlv2qOkGj-ra02anoPYdnGHTmi27p11E4mibUQiZ46IPC18edFLqfNH3BdnxhUWV4-uY8-yMVKUJklShXJfee4XI&enc=AZN-W79zDmI2pdrxnnKEfwyvC66wbWxvKCwdeGMotC6tzCwul0Dm8rR0VSpu2U3J18k&s=1
 [8]: /ads/settings
 [9]: /help/379220725465972
 [10]: /policies/cookies/
@@ -226,6 +226,6 @@ Date of Last Revision: September 29, 2016
 [17]: /help/437430672945092
 [18]: /help/302796099745838
 [19]: /help/125338004213029
-[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATNb2357ZUPMpHGoPgAGxK6ocK-TK_xbe8nI_wF1Hccf89GmncuX0iO7NjOQXMJ1DyYce-vNAE32O7IvmzXQjLQudk58TPytieXtb3_o4KTIijYnyvhF&s=1
+[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATO118CFc7xaA-y3V7258gkiRRwH-xLcNpMcm9bHV8TUeKsSIwB850EdB3bOs1MscZsfsZX6u0NjtXmwJCzp3E2IYVho4VsWrNPKpW3bxvnJqgwRxkof&s=1
 [21]: /help/contact/173545232710000
 
