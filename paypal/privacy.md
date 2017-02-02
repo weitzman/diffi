@@ -16,11 +16,7 @@ Effective Date: October 1, 2015
 
 This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the PayPal website and all related sites, applications, services and tools regardless of how you access or use them.
 
-The PayPal website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If this policy or our customer support team cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process][4].
-
-The TRUSTe certification applies to only information that is collected through this website.
-
-![TRUSTe online privacy certification][5]
+![TRUSTe online privacy certification][4]
 
 **Jump to section:**
 
@@ -48,7 +44,7 @@ You accept this Privacy Policy when you sign up for, access, or use our products
 
 We collect the following types of personal information in order to provide you with the use of PayPal Services, and to help us personalize and improve your experience.
 
-**Information we collect automatically:** When you use PayPal Services, we collect information sent to us by your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, computer IP address, device ID or unique identifier, device type, geo-location information, computer and connection information, mobile network information, statistics on page views, traffic to and from the sites, referral URL, ad data, and standard web log data and other information. We also collect anonymous information through our use of cookies and web beacons (visit [**How we use Cookies and Similar Technologies**][6] for more information).
+**Information we collect automatically:** When you use PayPal Services, we collect information sent to us by your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, computer IP address, device ID or unique identifier, device type, geo-location information, computer and connection information, mobile network information, statistics on page views, traffic to and from the sites, referral URL, ad data, and standard web log data and other information. We also collect anonymous information through our use of cookies and web beacons (visit [**How we use Cookies and Similar Technologies**][5] for more information).
 
 **Information you provide to us:** We may collect and store any information you provide us when you use PayPal Services, including when you add information on a web form, add or update your account information, participate in community discussions, chats, or dispute resolutions, or when you otherwise correspond with us regarding PayPal Services.
 
@@ -110,7 +106,7 @@ You are free to decline our Cookies if your browser or browser add-on permits, u
 
 **Do Not Track:** Do Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third-parties. We do not currently respond to DNT signals. We do, however, provide you notice of the tracking by advertisers and other third parties in our Privacy and Cookies policies.
 
-For more detailed information on our use of these technologies, please see our policy on [**Cookies, Web Beacons, and Similar Technologies**][6].
+For more detailed information on our use of these technologies, please see our policy on [**Cookies, Web Beacons, and Similar Technologies**][5].
 
 **Back to top**
 
@@ -181,7 +177,7 @@ You can review and edit your personal information at any time by logging in to y
 
 ### How You Can Contact Us about Privacy Questions
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us by using [**this form**][7].
+If you have questions or concerns regarding this Privacy Policy, you should contact us by using [**this form**][6].
 
 **Back to top**
 
@@ -190,8 +186,7 @@ If you have questions or concerns regarding this Privacy Policy, you should cont
 [1]: https://www.paypal.com/us/webapps/mpp/ua/legalhub-full "Legal Agreements"
 [2]: https://www.paypalobjects.com/webstatic/ua/printer_icon.jpg
 [3]: 
-[4]: https://feedback-form.truste.com/watchdog/request
-[5]: https://privacy-policy.truste.com/privacy-seal/PayPal/seal?rid=29e80c36-8b02-499f-b02a-5a2f638e0a36
-[6]: https://www.paypal.com/us/webapps/mpp/ua/cookie-full
-[7]: http://www.paypal.com/ewf/f=ci_prv
+[4]: https://privacy-policy.truste.com/privacy-seal/PayPal/seal?rid=29e80c36-8b02-499f-b02a-5a2f638e0a36
+[5]: https://www.paypal.com/us/webapps/mpp/ua/cookie-full
+[6]: https://www.paypal.com/us/selfhelp/contact/email/privacy
 
