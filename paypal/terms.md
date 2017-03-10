@@ -19,7 +19,7 @@
     * Transaction Fees
     * Refunds, Reversals & Chargebacks
     * Seller Protection
-    * PayPal Adverstising Program
+    * PayPal Advertising Program
 * Restricted Activities & Holds
     * Restricted Activities
     * Actions We May Take
