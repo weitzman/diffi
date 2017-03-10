@@ -498,7 +498,7 @@ This activity might come from your use of Google products like Chrome Sync or fr
 
 [1]: https://myaccount.google.com/?hl=en
 [2]: ../../policies/privacy/archive/
-[3]: /intl/ALL_us/policies/privacy/google_privacy_policy_ALL_us.pdf
+[3]: /intl/en/policies/privacy/google_privacy_policy_en.pdf
 [4]: ../../policies/privacy/key-terms/#toc-terms-account
 [5]: ../../policies/privacy/example/more-relevant-search-results.html
 [6]: ../../policies/privacy/example/connect-with-people.html
