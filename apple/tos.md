@@ -1,10 +1,10 @@
-#  ![Apple Website Terms of Use][1]
+#  Apple Website Terms of Use
 
 Legal Information & Notices 
 
 ###  Ownership of Site; Agreement to Terms of Use
 
-These Terms and Conditions of Use (the “Terms of Use”) apply to the Apple web site located at [www.apple.com][2], and all associated sites linked to [www.apple.com][2] by Apple, its subsidiaries and affiliates, including Apple sites around the world (collectively, the “Site”). The Site is the property of Apple Inc. (“Apple”) and its licensors. BY USING THE SITE, YOU AGREE TO THESE TERMS OF USE; IF YOU DO NOT AGREE, DO NOT USE THE SITE.
+These Terms and Conditions of Use (the “Terms of Use”) apply to the Apple web site located at [www.apple.com][1], and all associated sites linked to [www.apple.com][1] by Apple, its subsidiaries and affiliates, including Apple sites around the world (collectively, the “Site”). The Site is the property of Apple Inc. (“Apple”) and its licensors. BY USING THE SITE, YOU AGREE TO THESE TERMS OF USE; IF YOU DO NOT AGREE, DO NOT USE THE SITE.
 
 Apple reserves the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time. It is your responsibility to check these Terms of Use periodically for changes. Your continued use of the Site following the posting of changes will mean that you accept and agree to the changes. As long as you comply with these Terms of Use, Apple grants you a personal, non-exclusive, non-transferable, limited privilege to enter and use the Site.
 
@@ -42,15 +42,15 @@ Apple may make changes to any products or services offered on the Site, or to th
 
 The following terms also govern and apply to your use of the Site, and they are incorporated herein by this reference:
 
-* [Guidelines for Using Apple Trademarks & Copyrights][3]
-* [Rights & Permissions][4]
-* [Trademarks][5]
-* [Claims of Copyright Infringement][6]
-* [Piracy][7]
-* [Counterfeit Products][8]
-* [Apple’s Unsolicited Idea Submission Policy][9]
-* [Software License Information][10]
-* [Legal Contacts][11]
+* [Guidelines for Using Apple Trademarks & Copyrights][2]
+* [Rights & Permissions][3]
+* [Trademarks][4]
+* [Claims of Copyright Infringement][5]
+* [Piracy][6]
+* [Counterfeit Products][7]
+* [Apple’s Unsolicited Idea Submission Policy][8]
+* [Software License Information][9]
+* [Legal Contacts][10]
 
 Each of these policies may be changed from time to time and are effective immediately upon posting such changes on the Site.
 
@@ -62,7 +62,7 @@ You may not use anyone else’s Apple ID, password or account at any time withou
 
 ###  Privacy
 
-Apple’s Privacy Policy applies to use of this Site, and its terms are made a part of these Terms of Use by this reference. To view Apple’s Privacy Policy, [click here][12]. Additionally, by using the Site, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the Site may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, credit card information) is encrypted.
+Apple’s Privacy Policy applies to use of this Site, and its terms are made a part of these Terms of Use by this reference. To view Apple’s Privacy Policy, [click here][11]. Additionally, by using the Site, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the Site may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, credit card information) is encrypted.
 
 ###  Links to Other Sites and to the Apple Site
 
@@ -104,7 +104,7 @@ You agree that all matters relating to your access to or use of the Site, includ
 
 ###  Void Where Prohibited
 
-Apple administers and operates the [www.apple.com][2] Site from its location in Cupertino, California USA; other Apple sites may be administered and operated from various locations outside the United States. Although the Site is accessible worldwide, not all features, products or services discussed, referenced, provided or offered through or on the Site are available to all persons or in all geographic locations, or appropriate or available for use outside the United States. Apple reserves the right to limit, in its sole discretion, the provision and quantity of any feature, product or service to any person or geographic area. Any offer for any feature, product or service made on the Site is void where prohibited. If you choose to access the Site from outside the United States, you do so on your own initiative and you are solely responsible for complying with applicable local laws.
+Apple administers and operates the [www.apple.com][1] Site from its location in Cupertino, California USA; other Apple sites may be administered and operated from various locations outside the United States. Although the Site is accessible worldwide, not all features, products or services discussed, referenced, provided or offered through or on the Site are available to all persons or in all geographic locations, or appropriate or available for use outside the United States. Apple reserves the right to limit, in its sole discretion, the provision and quantity of any feature, product or service to any person or geographic area. Any offer for any feature, product or service made on the Site is void where prohibited. If you choose to access the Site from outside the United States, you do so on your own initiative and you are solely responsible for complying with applicable local laws.
 
 ###  Miscellaneous
 
@@ -126,16 +126,15 @@ Updated by The Apple Legal Team on Nov. 20, 2009
 
   
 
-[1]: https://www.apple.com/legal/internet-services/images/terms_site_title.png
-[2]: /
-[3]: ../../intellectual-property/guidelinesfor3rdparties.html
-[4]: ../../intellectual-property/rightsandpermissions.html
-[5]: ../../intellectual-property/
-[6]: /legal/contact/#copyright-infringement
-[7]: ../../intellectual-property/piracy.html
-[8]: /legal/contact/#counterfeit
-[9]: ../../intellectual-property/policies/ideas.html
-[10]: ../../sla/
-[11]: /legal/contact/
-[12]: ../../privacy/
+[1]: /
+[2]: ../../intellectual-property/guidelinesfor3rdparties.html
+[3]: ../../intellectual-property/rightsandpermissions.html
+[4]: ../../intellectual-property/
+[5]: /legal/contact/#copyright-infringement
+[6]: ../../intellectual-property/piracy.html
+[7]: /legal/contact/#counterfeit
+[8]: ../../intellectual-property/policies/ideas.html
+[9]: ../../sla/
+[10]: /legal/contact/
+[11]: ../../privacy/
 
