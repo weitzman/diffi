@@ -1191,7 +1191,7 @@ Your sale **_is not_** eligible for coverage under PayPal’s Seller Protection 
 * The buyer claims (either with us or their card issuer) that the item you sent isn’t what was ordered (referred to as a “Significantly Not as Described” claim).
 * It involves an item that PayPal determines, in its sole discretion, is a counterfeit item.
 * It involves an item that you deliver in person, including in connection with a payment made in your store location.
-* It involves sales that are not processed either through a buyer’s PayPal account or a guest checkout transaction. For example, if the sale was made using the [PayPal Payments Pro/VT][28] product, [PayPal business payments][16] or using [PayPal Here][22], then it is not eligible for coverage. 
+* It involves sales that are not processed either through a buyer’s PayPal account or a guest checkout transaction. For example, if the sale was made using the [PayPal Payments Pro/VT][23] product, [PayPal business payments][16] or using [PayPal Here][22], then it is not eligible for coverage. 
 * It involves items equivalent to cash including gift cards.
 * It involves a donation.
 * It relates to the purchase of a financial product or investment of any kind.
@@ -1214,7 +1214,7 @@ The PayPal Advertising Program enables you to promote PayPal services, includin
 
  
 
-If you promote the use of PayPal Credit on your sites and customer communications through the PayPal Advertising Program, there are additional requirements that [apply][29].  If you receive customer inquiries relating to PayPal Credit, you must direct the customer to PayPal Credit Customer Support at (866) 528-3733.  If a customer is unable to process a transaction using PayPal Credit, you are prohibited from communicating any reason for the decline to the customer on PayPal Credit’s behalf. You are also prohibited from representing or holding yourself out to represent PayPal Credit in any way.
+If you promote the use of PayPal Credit on your sites and customer communications through the PayPal Advertising Program, there are additional requirements that [apply][28].  If you receive customer inquiries relating to PayPal Credit, you must direct the customer to PayPal Credit Customer Support at (866) 528-3733.  If a customer is unable to process a transaction using PayPal Credit, you are prohibited from communicating any reason for the decline to the customer on PayPal Credit’s behalf. You are also prohibited from representing or holding yourself out to represent PayPal Credit in any way.
 
 You are responsible for any damages suffered by PayPal or any third parties resulting from your failure to follow the rules of the PayPal Advertising Program, and if you violate these rules, PayPal may modify or remove the PayPal content you are presenting or require you to remove or modify it immediately.  If you fail to follow these rules, we may limit or close your PayPal account.
 
@@ -1243,7 +1243,7 @@ In connection with your use of our websites, your PayPal account, the PayPal ser
 * Use your PayPal account or the PayPal services in a manner that PayPal, Visa, MasterCard, American Express, Discover or any other electronic funds transfer network reasonably believes to be an abuse of the card system or a violation of card association or network rules.
 * Allow your PayPal account to have a negative PayPal balance.
 * Provide yourself a cash advance from your credit card (or help others to do so).
-* Access the PayPal services from a country that is not included on PayPal's [permitted countries list][30].
+* Access the PayPal services from a country that is not included on PayPal's [permitted countries list][29].
 * Take any action that imposes an unreasonable or disproportionately large load on our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf or the PayPal services; facilitate any viruses, trojan horses, malware, worms or other computer programming routines that attempts to or may damage, disrupt, corrupt, misuse, detrimentally interfere with, surreptitiously intercept or expropriate, or gain unauthorized access to any system, data, information or PayPal services; use an anonymizing proxy; use any robot, spider, other automatic device, or manual process to monitor or copy our websites without our prior written permission; or use any device, software or routine to bypass our robot exclusion headers; or interfere or disrupt or attempt to interfere with or disrupt our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf, any of the PayPal services or other users’ use of any of the PayPal services.
 * Take any action that may cause us to lose any of the services from our Internet service providers, payment processors, or other suppliers or service providers.
 * Use the PayPal services to test credit card behaviors.
@@ -1510,7 +1510,7 @@ We will determine whether an error occurred within 90 days after you contact us 
 
 ### Communications Between You and Us
 
-If you provide us your mobile phone number, you agree that PayPal and its affiliates may contact you at that number using autodialed or prerecorded calls or text messages to: (i) service your PayPal-branded accounts, (ii) investigate or prevent fraud, or (iii) collect a debt.  We will not use autodialed or prerecorded calls or texts to contact you for marketing purposes unless we receive your prior express written consent.  We may share your mobile phone number with service providers with whom we contract to assist us with the activities listed above, but we will not share your mobile phone number with third parties for their own purposes without your consent.  You do not have to agree to receive autodialed or prerecorded calls or texts to your mobile phone number in order to use and enjoy the products and services offered by PayPal.**  **You can decline to receive autodialed or prerecorded calls or texts to your mobile phone number in several ways, including in your PayPal account settings at [www.paypal.com][31], by contacting [customer support][32] or by calling us at 1-844-629-9108.  Standard telephone minute and text charges may apply.
+If you provide us your mobile phone number, you agree that PayPal and its affiliates may contact you at that number using autodialed or prerecorded calls or text messages to: (i) service your PayPal-branded accounts, (ii) investigate or prevent fraud, or (iii) collect a debt.  We will not use autodialed or prerecorded calls or texts to contact you for marketing purposes unless we receive your prior express written consent.  We may share your mobile phone number with service providers with whom we contract to assist us with the activities listed above, but we will not share your mobile phone number with third parties for their own purposes without your consent.  You do not have to agree to receive autodialed or prerecorded calls or texts to your mobile phone number in order to use and enjoy the products and services offered by PayPal.**  **You can decline to receive autodialed or prerecorded calls or texts to your mobile phone number in several ways, including in your PayPal account settings at [www.paypal.com][30], by contacting [customer support][31] or by calling us at 1-844-629-9108.  Standard telephone minute and text charges may apply.
 
 PayPal may communicate with you about your PayPal account and the PayPal services electronically as described in our [Electronic Communications Delivery Policy][8].  You will be considered to have received a communication from us, if it’s delivered electronically, 24 hours after the time we post it to our website or email it to you.  You will be considered to have received a communication from us, if it’s delivered by mail, 3 Business Days after we send it. 
 
@@ -1598,7 +1598,7 @@ You and PayPal agree that any claim or dispute at law or equity that has arisen 
 * Includes a Prohibition of Class and Representative Actions and Non-Individualized Relief pursuant to which you agree to waive your right to participate in a class action lawsuit against us.
 * Requires you to follow the Opt-Out Procedure to opt-out of the Agreement to Arbitrate by mailing us a written notice and the opt-out notice must be postmarked no later than 30 days after the date you accept this user agreement for the first time.
 
-If a dispute arises between you and PayPal, our goal is to learn about and address your concerns and, if we are unable to do so to your satisfaction, to provide you with a neutral and cost effective means of resolving the dispute quickly.  Disputes between you and PayPal regarding the PayPal services may be reported to customer service online through the [PayPal Help Center][32] at any time, or by calling (888) 221-1161 from Mon-Fri 5:00 AM to 10:00 PM PT and Sat-Sun 6:00 AM to 8:00 PM PT.
+If a dispute arises between you and PayPal, our goal is to learn about and address your concerns and, if we are unable to do so to your satisfaction, to provide you with a neutral and cost effective means of resolving the dispute quickly.  Disputes between you and PayPal regarding the PayPal services may be reported to customer service online through the [PayPal Help Center][31] at any time, or by calling (888) 221-1161 from Mon-Fri 5:00 AM to 10:00 PM PT and Sat-Sun 6:00 AM to 8:00 PM PT.
 
 | ----- |
 |  Agreement to Arbitrate |  
@@ -1628,7 +1628,7 @@ You and PayPal agree that each of us may bring claims against the other only on 
 
 Arbitration is more informal than a lawsuit in court.  Arbitration uses a neutral arbitrator or arbitrators instead of a judge or jury, and court review of an arbitration award is very limited.  However, the arbitrator(s) can award the same damages and relief on an individual basis that a court can award to an individual.  The arbitrator(s) also must follow the terms of this user agreement as a court would.  All issues are for the arbitrator(s) to decide, except that issues relating to arbitrability, the scope or enforceability of this Agreement to Arbitrate, or the interpretation of the Prohibition of Class and Representative Actions and Non-Individualized Relief section above, shall be for a court of competent jurisdiction to decide.
 
-The arbitration will be conducted by the American Arbitration Association (referred to as the "AAA") under its rules and procedures, including the AAA's Consumer Arbitration Rules (as applicable), as modified by this Agreement to Arbitrate.  The AAA's rules are available at www.adr.org.  A party who intends to seek arbitration must first send the other party, by certified mail, a completed [Notice of Dispute][33].  You should send this notice to PayPal at:  PayPal, Inc., Attn: Litigation Department, Re: Notice of Dispute, 2211 North First Street, San Jose, CA 95131.  PayPal will send any notice to you to the address we have on file associated with your PayPal account; it is your responsibility to keep your address up to date. All information called for in the notice must be provided including a description of the nature and basis of the claims the party is asserting and the relief sought.
+The arbitration will be conducted by the American Arbitration Association (referred to as the "AAA") under its rules and procedures, including the AAA's Consumer Arbitration Rules (as applicable), as modified by this Agreement to Arbitrate.  The AAA's rules are available at www.adr.org.  A party who intends to seek arbitration must first send the other party, by certified mail, a completed [Notice of Dispute][32].  You should send this notice to PayPal at:  PayPal, Inc., Attn: Litigation Department, Re: Notice of Dispute, 2211 North First Street, San Jose, CA 95131.  PayPal will send any notice to you to the address we have on file associated with your PayPal account; it is your responsibility to keep your address up to date. All information called for in the notice must be provided including a description of the nature and basis of the claims the party is asserting and the relief sought.
 
 If you and PayPal are unable to resolve the claims described in the notice within 30 days after the notice is sent, you or PayPal may initiate arbitration proceedings.  A form for initiating arbitration proceedings is available on the AAA's website at www.adr.org.
 
@@ -1663,7 +1663,7 @@ With the exception of any of the provisions in the Prohibition of Class and Repr
 
 If you are a new PayPal customer, you can choose to reject this Agreement to Arbitrate by mailing us a written opt-out notice.  The opt-out notice must be postmarked no later than 30 days after the date you accept this user agreement for the first time.  You must mail the opt-out notice to PayPal, Inc., Attn:  Litigation Department, 2211 North First Street, San Jose, CA  95131.
 
-For your convenience, we are providing an [opt-out notice][34] form you must complete and mail to opt out of this Agreement to Arbitrate.  You must complete this form by providing all the information it calls for, including your name, address, phone number, and the email address(es) used to log in to the PayPal account(s) to which the opt-out applies.  You must sign the opt-out notice for it to be effective. This procedure is the only way you can opt out of the agreement to arbitrate.  If you opt out of this Agreement to Arbitrate, all other parts of the user agreement will continue to apply.  Opting out of this Agreement to Arbitrate has no effect on any previous, other, or future arbitration agreements that you may have with us.
+For your convenience, we are providing an [opt-out notice][33] form you must complete and mail to opt out of this Agreement to Arbitrate.  You must complete this form by providing all the information it calls for, including your name, address, phone number, and the email address(es) used to log in to the PayPal account(s) to which the opt-out applies.  You must sign the opt-out notice for it to be effective. This procedure is the only way you can opt out of the agreement to arbitrate.  If you opt out of this Agreement to Arbitrate, all other parts of the user agreement will continue to apply.  Opting out of this Agreement to Arbitrate has no effect on any previous, other, or future arbitration agreements that you may have with us.
 
  |  
 | 
@@ -1808,16 +1808,15 @@ If you receive information about another PayPal customer, you must keep the info
 [20]: https://www.paypal.com/us/webapps/mpp/ua/digital-goods-micropayments-agreement
 [21]: https://www.paypal.com/us/webapps/mpp/merchant-fees#standard-transaction-fees
 [22]: https://www.paypal.com/us/webapps/mpp/ua/paypalhereterms-full
-[23]: https://www.paypal.com/us/webapps/mpp/ua/provt-full
+[23]: https://www.paypal.com/us/webapps/mpp/ua/provt-preview2
 [24]: https://www.paypal.com/us/webapps/mpp/merchant-fees#micropayment-fees
 [25]: https://www.paypal.com/us/webapps/mpp/merchant-fees#paypal-payouts
 [26]: https://www.paypal.com/us/webapps/mpp/merchant-fees#chargeback-fees
 [27]: https://www.paypal.com/us/cgi-bin/webscr?cmd=_complaint-view&amp;nav=0.4
-[28]: https://www.paypal.com/us/webapps/mpp/ua/provt-preview2
-[29]: https://financing.paypal.com/ppfinportal#
-[30]: https://www.paypal.com/us/webapps/mpp/country-worldwide
-[31]: http://www.paypal.com/
-[32]: https://www.paypal.com/selfhelp/home
-[33]: https://www.paypal.com/us/webapps/mpp/ua/pp-notice-dispute
-[34]: https://www.paypal.com/us/webapps/mpp/ua/pp-optout
+[28]: https://financing.paypal.com/ppfinportal#
+[29]: https://www.paypal.com/us/webapps/mpp/country-worldwide
+[30]: http://www.paypal.com/
+[31]: https://www.paypal.com/selfhelp/home
+[32]: https://www.paypal.com/us/webapps/mpp/ua/pp-notice-dispute
+[33]: https://www.paypal.com/us/webapps/mpp/ua/pp-optout
 
