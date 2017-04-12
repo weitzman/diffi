@@ -124,7 +124,7 @@ Dublin 2, Ireland
 [2]: /help/1561485474074139
 [3]: https://research.facebook.com/
 [4]: /about/privacy/update#what-kinds-of-information-do-we-collect
-[5]: https://l.facebook.com/l.php?u=ATNXnIVVaGPzZSqS4dEeiHGslPK36jRYF4JdmtZFYmxSqWCUdLCQ4Lampw59wOvP8-6TF5TrIuODoGqIuJfeuA&h=ATNZ52sy-e4_V6NpHvxk4QWm40h1B1pTSzRguFMErDNQEG_W0kFh9TFjgcm76sVo-oFaFjibcH_IH-7HZWLHWJP40QgpT1MKy6gfA3xNINvDnyaGKHfdrw&s=1
+[5]: https://l.facebook.com/l.php?u=ATPj1uWh0RI-lqql5R5deSMv3hjFIfdihB5V38NP5Or7h9KUInj38UcjI2eoBrPkvywoZqjWe8eMj8xzFaAQhg&h=ATOM77E4DX-FjsmT82XtKYE6DDvuVFM2DC9_dwg18cU_pd5WsdamU2zjVcBC3icZ5w2ER0vpcqTQy7vMgqK0tMbPdyGgWGCKpU43RbIzriYN5DFbaGmIOQ&s=1
 [6]: /about/ads/#568137493302217
 [7]: /help/379220725465972
 [8]: /policies/cookies/
@@ -138,6 +138,6 @@ Dublin 2, Ireland
 [16]: /me/allactivity
 [17]: /help/405183566203254/
 [18]: /help/125338004213029
-[19]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATORWHz68U8Ph_qV4Oui9UQTYco5RwkEaFlOWXr_t2Rk9hOTCYKef-AdBJ3DSyaGCsah7QGI39XraKqMvVPS9sIpSb89zFjptw_tK8jqd3gvPzIuQyq-&s=1
+[19]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATPYAZJl0H_r0--4sE7fazKCe-ojmOeR8fX2MsfcaYRhBgi5Uu8XeT0HDXyPwwW2hhhL3XNux3BQiio7VzY98SpE7v3T1krMBfQaLK3dJUotBAry9HCE&s=1
 [20]: /help/contact/173545232710000
 
