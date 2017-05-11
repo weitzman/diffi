@@ -107,7 +107,7 @@ By providing Services as a Driver on the Lyft Platform, you represent, warrant, 
 5. You will not make any misrepresentation regarding Lyft, the Lyft Platform, the Services or your status as a Driver. 
 6. You will not, while providing the Services, operate as a public carrier or taxi service, accept street hails, charge for rides (except as expressly provided in this Agreement), demand that a rider pay in cash, or use a credit card reader, such as a Square Reader, to accept payment or engage in any other activity in a manner that is inconsistent with your obligations under this Agreement. 
 7. You will not attempt to defraud Lyft or Riders on the Lyft Platform or in connection with your provision of Services. If we suspect that you have engaged in fraudulent activity we may withhold applicable Fares or other payments for the ride(s) in question. 
-8. You will make reasonable accommodation for Riders and/or for service animals, as required by law 
+8. You will make [ reasonable accommodation for Riders and/or for service animals][8], as required by law 
 9. You agree that we may obtain information about you, including your criminal and driving records, and you agree to provide any further necessary authorizations to facilitate our access to such records during the term of the Agreement. 
 10. You have a valid policy of liability insurance (in coverage amounts consistent with all applicable legal requirements) that names or schedules you for the operation of the vehicle you use to provide Services. 
 11. You will pay all applicable federal, state and local taxes based on your provision of Services and any payments received by you. 
@@ -124,7 +124,7 @@ You agree that you will not: (1) create any materials that incorporate the Lyft 
 
 Violation of any provision of this License may result in immediate termination of the License, in Lyft’s sole discretion. If you create any materials bearing the Lyft Marks (in violation of this Agreement or otherwise), you agree that upon their creation Lyft exclusively owns all right, title and interest in and to such materials, including without limitation any modifications to the Lyft Marks or derivative works based on the Lyft Marks. You further agree to assign any interest or right you may have in such materials to Lyft, and to provide information and execute any documents as reasonably requested by Lyft to enable Lyft to formalize such assignment. 
 
-Lyft respects the intellectual property of others, and expects Users to do the same. If you believe, in good faith, that any materials on the Lyft Platform or Services infringe upon your copyrights, please visit [Copyright Policy page][8] for information on how to make a copyright complaint. 
+Lyft respects the intellectual property of others, and expects Users to do the same. If you believe, in good faith, that any materials on the Lyft Platform or Services infringe upon your copyrights, please visit [Copyright Policy page][9] for information on how to make a copyright complaint. 
 
 ## Disclaimers
 
@@ -150,11 +150,11 @@ Location data provided by the Lyft Platform is for basic location purposes only 
 
 Lyft advises you to use the Lyft Platform with a data plan with unlimited or very high data usage limits, and Lyft shall not responsible or liable for any fees, costs, or overage charges associated with any data plan you use to access the Lyft Platform. 
 
-This paragraph applies to any version of the Lyft Platform that you acquire from the Apple App Store. This Agreement is entered into between you and Lyft. Apple, Inc. (“Apple”) is not a party to this Agreement and shall have no obligations with respect to the Lyft Platform. Lyft, not Apple, is solely responsible for the Lyft Platform and the content thereof as set forth hereunder. However, Apple and Apple’s subsidiaries are third party beneficiaries of this Agreement. Upon your acceptance of this Agreement, Apple shall have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary thereof. This Agreement incorporates by reference [ Apple’s Licensed Application End User License Agreement][9], for purposes of which, you are “the end-user.” In the event of a conflict in the terms of the Licensed Application End User License Agreement and this Agreement, the terms of this Agreement shall control. 
+This paragraph applies to any version of the Lyft Platform that you acquire from the Apple App Store. This Agreement is entered into between you and Lyft. Apple, Inc. (“Apple”) is not a party to this Agreement and shall have no obligations with respect to the Lyft Platform. Lyft, not Apple, is solely responsible for the Lyft Platform and the content thereof as set forth hereunder. However, Apple and Apple’s subsidiaries are third party beneficiaries of this Agreement. Upon your acceptance of this Agreement, Apple shall have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary thereof. This Agreement incorporates by reference [ Apple’s Licensed Application End User License Agreement][10], for purposes of which, you are “the end-user.” In the event of a conflict in the terms of the Licensed Application End User License Agreement and this Agreement, the terms of this Agreement shall control. 
 
 ## State and Local Disclosures
 
-Certain jurisdictions require additional disclosures to you. You can view any disclosures required by your local jurisdiction at [www.lyft.com/terms/disclosures][10]. We will update the disclosures page as jurisdictions add, remove or amend these required disclosures, so please check in regularly for updates. 
+Certain jurisdictions require additional disclosures to you. You can view any disclosures required by your local jurisdiction at [www.lyft.com/terms/disclosures][11]. We will update the disclosures page as jurisdictions add, remove or amend these required disclosures, so please check in regularly for updates. 
 
 ## Indemnity
 
@@ -192,7 +192,7 @@ Notwithstanding any other provision of this Agreement or the Arbitration Agreeme
 
 #####  (d) Rules Governing the Arbitration. 
 
-Any arbitration conducted pursuant to this Arbitration Agreement shall be administered by the American Arbitration Association (“AAA”) pursuant to its [ Consumer Arbitration Rules][11] that are in effect at the time the arbitration is initiated, as modified by the terms set forth in this Agreement. Copies of these rules can be obtained at the AAA’s website (www.adr.org) (the “AAA Rules”) or by calling the AAA at 1-800-778-7879. Notwithstanding the foregoing, if requested by you and if proper based on the facts and circumstances of the Claims presented, the arbitrator shall have the discretion to select a different set of AAA Rules, but in no event shall the arbitrator consolidate more than one person’s Claims, or otherwise preside over any form of representative, collective, or class proceeding. 
+Any arbitration conducted pursuant to this Arbitration Agreement shall be administered by the American Arbitration Association (“AAA”) pursuant to its [ Consumer Arbitration Rules][12] that are in effect at the time the arbitration is initiated, as modified by the terms set forth in this Agreement. Copies of these rules can be obtained at the AAA’s website (www.adr.org) (the “AAA Rules”) or by calling the AAA at 1-800-778-7879. Notwithstanding the foregoing, if requested by you and if proper based on the facts and circumstances of the Claims presented, the arbitrator shall have the discretion to select a different set of AAA Rules, but in no event shall the arbitrator consolidate more than one person’s Claims, or otherwise preside over any form of representative, collective, or class proceeding. 
 
 As part of the arbitration, both you and Lyft will have the opportunity for reasonable discovery of non-privileged information that is relevant to the Claim. The arbitrator may award any individualized remedies that would be available in court. The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party's individual claims. The arbitrator will provide a reasoned written statement of the arbitrator’s decision which shall explain the award given and the findings and conclusions on which the decision is based. 
 
@@ -263,7 +263,7 @@ In addition to connecting Riders with Drivers, the Lyft Platform may enable User
 
 Except as provided in Section 17, this Agreement shall be governed by the laws of the State of California without regard to choice of law principles. This choice of law provision is only intended to specify the use of California law to interpret this Agreement and is not intended to create any other substantive right to non-Californians to assert claims under California law whether by statute, common law, or otherwise. If any provision of this Agreement is or becomes invalid or non-binding, the parties shall remain bound by all other provisions hereof. In that event, the parties shall replace the invalid or non- binding provision with provisions that are valid and binding and that have, to the greatest extent possible, a similar effect as the invalid or non-binding provision, given the contents and purpose of this Agreement. You agree that this Agreement and all incorporated agreements may be automatically assigned by Lyft, in our sole discretion by providing notice to you. Except as explicitly stated otherwise, any notices to Lyft shall be given by certified mail, postage prepaid and return receipt requested to Lyft, Inc., 185 Berry St., Suite 5000, San Francisco, CA 94107. Any notices to you shall be provided to you through the Lyft Platform or given to you via the email address or physical you provide to Lyft during the registration process. Headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section. A party’s failure to act with respect to a breach by the other party does not constitute a waiver of the party’s right to act with respect to subsequent or similar breaches. This Agreement sets forth the entire understanding and agreement between you and Lyft with respect to the subject matter hereof and supersedes all previous understandings and agreements between the parties, whether oral or written. 
 
-If you have any questions regarding the Lyft Platform or Services, please contact our Customer Support Team through our [Help Center][12]. 
+If you have any questions regarding the Lyft Platform or Services, please contact our Customer Support Team through our [Help Center][13]. 
 
 #  Lyft Privacy Policy 
 
@@ -273,7 +273,7 @@ At Lyft, we want to connect people through transportation and bring communities 
 
 ## Scope of this Privacy Policy
 
-Lyft (“Lyft,” “we,” “our,” and/or “us”) values the privacy of individuals who use our application, websites, and related services (collectively, the “Lyft Platform ”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from Lyft users (“Users”), comprised of both Lyft riders (“Riders”) and Lyft drivers (including Driver applicants) (“Drivers”). Beyond the Privacy Policy, your use of Lyft is also subject to our Terms of Service ( [www.lyft.com/terms][13]). 
+Lyft (“Lyft,” “we,” “our,” and/or “us”) values the privacy of individuals who use our application, websites, and related services (collectively, the “Lyft Platform ”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from Lyft users (“Users”), comprised of both Lyft riders (“Riders”) and Lyft drivers (including Driver applicants) (“Drivers”). Beyond the Privacy Policy, your use of Lyft is also subject to our Terms of Service ( [www.lyft.com/terms][14]). 
 
 ## Information We Collect
 
@@ -367,7 +367,7 @@ Although we help Riders and Drivers communicate with one another to arrange a pi
 
 * While negotiating or in relation to a change of corporate control such as a restructuring, merger or sale of our assets; 
 * If a government authority requests information and we think disclosure is required or appropriate in order to comply with laws, regulations, or a legal process; 
-* With law enforcement officials, government authorities, or third parties if we think doing so is necessary to protect the rights, property, or safety of the Lyft community, Lyft, or the public (you can read more about this in our [ Law Enforcement Request][14] policy); 
+* With law enforcement officials, government authorities, or third parties if we think doing so is necessary to protect the rights, property, or safety of the Lyft community, Lyft, or the public (you can read more about this in our [ Law Enforcement Request][15] policy); 
 * To comply with a legal requirement or process, including but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures. 
 * If you signed up for a promotion with another User’s referral or promotion code, with your referrer to let them know about your redemption of or qualification for the promotion; 
 * With our insurance partners to help determine and provide relevant coverage in the event of an incident; 
@@ -388,17 +388,17 @@ Although we help Riders and Drivers communicate with one another to arrange a pi
 
 **Facebook Friends**. You can control whether to enable or disable the Facebook mutual friends feature through your profile settings. 
 
-**Editing and Accessing Your Information**. You can review and edit certain account information by logging in to your account settings and profile (Drivers may edit additional information through the Driver portal). If would like to terminate your Lyft account, please contact us through our [Help Center][15] with your request. If you choose to terminate your account, we will deactivate it for you but may retain information from your account for a certain period of time and disclose it in a manner consistent with our practices under this Privacy Policy for accounts that are not closed. We also may retain information from your account to collect any fees owed, resolve disputes, troubleshoot problems, analyze usage of the Lyft Platform, assist with any investigations, prevent fraud, enforce our Terms of Service, or take other actions as required or permitted by law. 
+**Editing and Accessing Your Information**. You can review and edit certain account information by logging in to your account settings and profile (Drivers may edit additional information through the Driver portal). If would like to terminate your Lyft account, please contact us through our [Help Center][16] with your request. If you choose to terminate your account, we will deactivate it for you but may retain information from your account for a certain period of time and disclose it in a manner consistent with our practices under this Privacy Policy for accounts that are not closed. We also may retain information from your account to collect any fees owed, resolve disputes, troubleshoot problems, analyze usage of the Lyft Platform, assist with any investigations, prevent fraud, enforce our Terms of Service, or take other actions as required or permitted by law. 
 
 ## Other
 
 **Data Security**. We are committed to protecting the data of the Lyft community. Even though we take reasonable precautions to protect your data, no security measures can be 100% secure, and we cannot guarantee the security of your data. 
 
-**Children’s Privacy**. Lyft is not directed to children, and we don’t knowingly collect personal information from children under 13\. If we find out that a child under 13 has given us personal information, we will take steps to delete that information. If you believe that a child under the age of 13 has given us personal information, please contact us at our [Help Center][15]. 
+**Children’s Privacy**. Lyft is not directed to children, and we don’t knowingly collect personal information from children under 13\. If we find out that a child under 13 has given us personal information, we will take steps to delete that information. If you believe that a child under the age of 13 has given us personal information, please contact us at our [Help Center][16]. 
 
 **Changes to Our Privacy Policy**. We may make changes to this Privacy Policy from time to time. If we make any material changes, we will let you know through the Lyft Platform, by email, or other communication. We encourage you to read this Privacy Policy periodically to stay up-to-date about our privacy practices. As long as you use the Lyft Platform, you are agreeing to this Privacy Policy and any updates we make to it. 
 
-**Contact Information**. Feel free to contact us at any time with any questions or comments about this Privacy Policy, your personal information, our use and sharing practices, or your consent choices by contacting our [Help Center][15]. 
+**Contact Information**. Feel free to contact us at any time with any questions or comments about this Privacy Policy, your personal information, our use and sharing practices, or your consent choices by contacting our [Help Center][16]. 
 
 [1]: https://www.lyft.com/cities
 [2]: https://help.lyft.com/hc/en-us/articles/214217177-Cancellation-Policy-for-Passengers
@@ -407,12 +407,13 @@ Although we help Riders and Drivers communicate with one another to arrange a pi
 [5]: https://help.lyft.com/hc/en-us/articles/214216577-I-m-Seeing-a-Charge-from-Lyft-on-my-Bank-Account
 [6]: https://www.lyft.com/privacy
 [7]: https://www.lyft.com/invite-terms
-[8]: https://www.lyft.com/copyright
-[9]: http://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/
-[10]: https://www.lyft.com/terms/disclosures
-[11]: https://www.adr.org/aaa/faces/rules/searchrules/rulesdetail?_afrWindowId=57rsw71ei_1&_afrLoop=1335893675945842&doc=ADRSTAGE2021424&_afrWindowMode=0&_adf.ctrl-state=hf27f5iaa_4#@?_afrWindowId=57rsw71ei_1&_afrLoop=1335893675945842&doc=ADRSTAGE2021424&_afrWindowMode=0&_adf.ctrl-state=57rsw71ei_79
-[12]: https://help.lyft.com/
-[13]: https://www.lyft.com/terms
-[14]: https://help.lyft.com/hc/en-us/articles/214218437-Law-Enforcement-Requests
-[15]: https://help.lyft.com/hc/en-us
+[8]: https://help.lyft.com/hc/en-us/articles/214589657-Service-Animal-Policy
+[9]: https://www.lyft.com/copyright
+[10]: http://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/
+[11]: https://www.lyft.com/terms/disclosures
+[12]: https://www.adr.org/aaa/faces/rules/searchrules/rulesdetail?_afrWindowId=57rsw71ei_1&_afrLoop=1335893675945842&doc=ADRSTAGE2021424&_afrWindowMode=0&_adf.ctrl-state=hf27f5iaa_4#@?_afrWindowId=57rsw71ei_1&_afrLoop=1335893675945842&doc=ADRSTAGE2021424&_afrWindowMode=0&_adf.ctrl-state=57rsw71ei_79
+[13]: https://help.lyft.com/
+[14]: https://www.lyft.com/terms
+[15]: https://help.lyft.com/hc/en-us/articles/214218437-Law-Enforcement-Requests
+[16]: https://help.lyft.com/hc/en-us
 
