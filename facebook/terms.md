@@ -79,17 +79,17 @@ If you are a developer or operator of a Platform application or website or if yo
 9. **About Advertisements and Other Commercial Content Served or Enhanced by Facebook**  
   
 Our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. In order to help us do that, you agree to the following: 
-    1. You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it. 
+    1. You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it. If you are under the age of eighteen (18), you represent that a parent or legal guardians also agrees to this section on your behalf. (This language is included pursuant to a [court-approved legal settlement][10].)
     2. We do not give your content or information to advertisers without your consent.
     3. You understand that we may not always identify paid services and communications as such.  
  
 
 10. **Special Provisions Applicable to Advertisers **  
   
-If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our [ Self-Serve Ad Terms][10]. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our [Advertising Policies][11]. 
+If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our [ Self-Serve Ad Terms][11]. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our [Advertising Policies][12]. 
 11. **Special Provisions Applicable to Pages**  
   
-If you create or administer a Page on Facebook, or run a promotion or an offer from your Page, you agree to our [Pages Terms][12].  
+If you create or administer a Page on Facebook, or run a promotion or an offer from your Page, you agree to our [Pages Terms][13].  
  
 12. **Special Provisions Applicable to Software**  
   
@@ -121,7 +121,7 @@ If you violate the letter or spirit of this Statement, or otherwise create risk 
 We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users and non-users who interact with Facebook outside the United States: 
     1. You consent to having your personal data transferred to and processed in the United States.
     2. If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on Facebook (such as advertising or payments) or operate a Platform application or website. You will not use Facebook if you are prohibited from receiving products, services, or software originating from the United States.
-    3. Certain specific terms that apply only for German users are available [here][13]. 
+    3. Certain specific terms that apply only for German users are available [here][14]. 
 17. **Definitions**  
   
 
@@ -133,7 +133,7 @@ We strive to create a global community with consistent standards for everyone, b
     6. By "post" we mean post on Facebook or otherwise make available by using Facebook.
     7. By "use" we mean use, run, copy, publicly perform or display, distribute, modify, translate, and create derivative works of.
     8. By "application" we mean any application or website that uses or accesses Platform, as well as anything else that receives or has received data from us.  If you no longer access Platform but have not deleted all data from us, the term application will apply until you delete the data.
-    9. By “Trademarks” we mean the list of trademarks provided [ here][14].   
+    9. By “Trademarks” we mean the list of trademarks provided [ here][15].   
  
 18. **Other**  
   
@@ -154,15 +154,15 @@ We strive to create a global community with consistent standards for everyone, b
 By using or accessing Facebook Services, you agree that we can collect and use such content and information in accordance with the [Data Policy][3] as amended from time to time. You may also want to review the following documents, which provide additional information about your use of Facebook:**
 
 * [Payment Terms][8]: These additional terms apply to all payments made on or through Facebook, unless it is stated that other terms apply.
-* [Platform Page][15]: This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
-* [Facebook Platform Policies][16]: These guidelines outline the policies that apply to applications, including Connect sites.
-* [Advertising Policies][11]: These guidelines outline the policies that apply to advertisements placed on Facebook.
-* [Self-Serve Ad Terms][10]: These terms apply when you use the Self-Serve Ad Interfaces to create, submit, or deliver any advertising or other commercial or sponsored activity or content. 
-* [Promotions Guidelines][17]: These guidelines outline the policies that apply if you offer contests, sweepstakes, and other types of promotions on Facebook.
-* [Facebook Brand Resources][18]: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
+* [Platform Page][16]: This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
+* [Facebook Platform Policies][17]: These guidelines outline the policies that apply to applications, including Connect sites.
+* [Advertising Policies][12]: These guidelines outline the policies that apply to advertisements placed on Facebook.
+* [Self-Serve Ad Terms][11]: These terms apply when you use the Self-Serve Ad Interfaces to create, submit, or deliver any advertising or other commercial or sponsored activity or content. 
+* [Promotions Guidelines][18]: These guidelines outline the policies that apply if you offer contests, sweepstakes, and other types of promotions on Facebook.
+* [Facebook Brand Resources][19]: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
 * [How to Report Claims of Intellectual Property Infringement][7]
-* [Pages Terms][12]: These guidelines apply to your use of Facebook Pages.
-* [Community Standards][19]: These guidelines outline our expectations regarding the content you post to Facebook and your activity on Facebook.  
+* [Pages Terms][13]: These guidelines apply to your use of Facebook Pages.
+* [Community Standards][20]: These guidelines outline our expectations regarding the content you post to Facebook and your activity on Facebook.  
   
 
 To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version. 
@@ -176,14 +176,15 @@ To access the Statement of Rights and Responsibilities in several different lang
 [7]: /help/399224883474207
 [8]: https://www.facebook.com/payments_terms
 [9]: https://developers.facebook.com/policy
-[10]: /legal/self_service_ads_terms
-[11]: /ad_guidelines.php
-[12]: https://www.facebook.com/page_guidelines.php
-[13]: https://www.facebook.com/terms/provisions/german/index.php
-[14]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATOMtaqR9HAXoh5837fwyKIWviWu9DJKF7yjWTrl2P2kzbReQ8Z6vLRpwk8qxS8tak0DWbfsrJ3Jyq9Yu_EhgUn7juVQuWAzjxLhTI6N-5YC2dg3qwcVCIIy&s=1
-[15]: /platform
-[16]: http://developers.facebook.com/policy/
-[17]: /page_guidelines.php#promotionsguidelines
-[18]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATMWROSFl5CbRnOTb6oAYUO4oXfJK7SStJVMZAtkuGCd_9_9q1_-T-6zxmvRevWegR5zUDaakhvE68LNRqbhpG7GHjvaw7d3gJV3P0lV3quaqhJVPsvLFFCN&s=1
-[19]: /communitystandards
+[10]: /legal/fraleyfacebooksettlement
+[11]: /legal/self_service_ads_terms
+[12]: /ad_guidelines.php
+[13]: https://www.facebook.com/page_guidelines.php
+[14]: https://www.facebook.com/terms/provisions/german/index.php
+[15]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATO57VWExSwxLPxqqPA-HeXgrCpZEXM8N4Pjy0mNFx4N4GQv7YcTx1Og_Gf-eSJzk3YJG3FM7fIlQAkcZ7hogjXvKQAzICWh3Gz3B4-F3of0aheaJPCU6ZQh&s=1
+[16]: /platform
+[17]: http://developers.facebook.com/policy/
+[18]: /page_guidelines.php#promotionsguidelines
+[19]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATM4uxNMQp1mBNBp5ZiEkmnXnwShwhzcVsUW_K2fzmwjNMnM5pbqP0hsaCoOo0RaW2pVqIIsqpEe2SGTWhthaF1DVl913BOJqJWQnA1L6wlyADOIx5EcBnBZ&s=1
+[20]: /communitystandards
 
