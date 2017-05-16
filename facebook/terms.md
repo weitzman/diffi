@@ -79,7 +79,7 @@ If you are a developer or operator of a Platform application or website or if yo
 9. **About Advertisements and Other Commercial Content Served or Enhanced by Facebook**  
   
 Our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. In order to help us do that, you agree to the following: 
-    1. You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it. If you are under the age of eighteen (18), you represent that a parent or legal guardians also agrees to this section on your behalf. (This language is included pursuant to a [court-approved legal settlement][10].)
+    1. You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it. If you are under the age of eighteen (18), you represent that a parent or legal guardian also agrees to this section on your behalf. (This language is included pursuant to a [court-approved legal settlement][10].)
     2. We do not give your content or information to advertisers without your consent.
     3. You understand that we may not always identify paid services and communications as such.  
  
@@ -181,10 +181,10 @@ To access the Statement of Rights and Responsibilities in several different lang
 [12]: /ad_guidelines.php
 [13]: https://www.facebook.com/page_guidelines.php
 [14]: https://www.facebook.com/terms/provisions/german/index.php
-[15]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATOydRo5rpoPPOoZ5Tg-m7ogbgpRXAxBwsGO_bsC0fH5rgpBLwKpK7tmEJatIwtBECVTTTo-8xMNdJFq7Twb3bT3DhQC--eWiCfhi8PdKXMjH66diPJ_esYS&s=1
+[15]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATOKydlXzdvQya0BMIk336zt6ZnMRZslMLbDiTevRPl_E-inLUBt5ta6T5faxJxereat2vpNQ6T6h48UsH1kyw0-_eY_LG-E8d33gEDws2y5tBD4QqLaRNGf&s=1
 [16]: /platform
 [17]: http://developers.facebook.com/policy/
 [18]: /page_guidelines.php#promotionsguidelines
-[19]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATPCNN0SaRFxXc5QZWY2IbQJ5EfLT8P07qCx1dbbD0rcvoliahAqP0kdMd-FSk4XLGEqdgKse77tDP8Q_YYig2buP7jN6qR0IPtwBC5r8fVXxypPQA8UkQzN&s=1
+[19]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATMalx4Op0B7gDGiDHfXmLHJ4RqyDvaZP2XiJdNsA9EL3w6rgRUThaXIZ_kPuLQ4xm_wuudnUvkvbMMpprRSDWM9s1gWVRJs8bUOVXDbzZVJFANJxblxLjbP&s=1
 [20]: /communitystandards
 
