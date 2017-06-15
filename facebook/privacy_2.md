@@ -213,7 +213,7 @@ Date of Last Revision: September 29, 2016
 [4]: /help/111814505650678
 [5]: https://research.facebook.com/
 [6]: /about/privacy/update#what-kinds-of-information-do-we-collect
-[7]: https://l.facebook.com/l.php?u=ATNg0BsFD43j7ldvP8Kl2nn89mJR3B_t6Dih_Tva1YFH_3rZA8sQX1ZE70E1GY9qPCdOERDdOJUdX3EoykPhLQ&h=ATPJT2jfB6v1rccGkBTRXalo8w7L0inEgyOSpWJlUmHbo3sp_O6oeOFyCe-fw8XH1Vw1GjWvcIncXPUa6-pQbuOQHOYWz7_oAZFXkeLChtdcq_wCnxc0wRSlm6g&s=1
+[7]: https://l.facebook.com/l.php?u=ATNgUjW8D7aKxnidhr2PB0A5-iUK34srf-3BR1NuFdrwZsC2QC1RPv1ESD0gaiP_h05ZKK4UzZ86YFUKGDFjrw&h=ATMIiYFJ28FvZJ4Enuifa9_YMdS3V0sKtOKcUgZAdpr3hUAMTyaLCFhAPeCJJRXB20lCIoVJ-nr0_5y4PeehKQyJhwrZEF0uX0NPzvM_YicxQPDjk6GZAnB9eHY&s=1
 [8]: /ads/settings
 [9]: /help/379220725465972
 [10]: /policies/cookies/
@@ -226,6 +226,6 @@ Date of Last Revision: September 29, 2016
 [17]: /help/437430672945092
 [18]: /help/302796099745838
 [19]: /help/125338004213029
-[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATN4l0BJhV4lYIpMdqM9pSgzdb0vvMgYd70EXr3l9UCYyHD1uHbmZBQ8Y0QvQVuGlZs5G3MAGCeaL-0kEBLHj2OpTA4lgmA-skmUSX6WERZ4-mcLGKkp-rhDcQ&s=1
+[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATOPB5wtAyXUQTO2JAxuI1sZZx-9gUnwl4W0YJUZVxFAc065VVvtDpp4JRKnOpxDKuOeUUXkBYa13-Goo-PXxs8TNbN4GvQ_xSUPQmvRSwWfdOmGaHrUx3ezXA&s=1
 [21]: /help/contact/173545232710000
 
