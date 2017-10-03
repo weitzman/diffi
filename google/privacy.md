@@ -10,7 +10,7 @@ Show examples
 
 Hide examples
 
-Last modified: April 17, 2017 ([view archived versions][2]) (The hyperlinked examples are available at the end of this document.)
+Last modified: October 2, 2017 ([view archived versions][2]) (The hyperlinked examples are available at the end of this document.)
 
 [Download PDF version][3]
 
@@ -175,7 +175,7 @@ Back to top
 
 ## When this Privacy Policy applies
 
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+Our Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
 
@@ -203,22 +203,24 @@ The following notices explain specific privacy practices with respect to certain
 * [Fiber][71]
 * [Project Fi][72]
 * [G Suite for Education][73]
+* [YouTube Kids][74]
+* [Google Accounts Managed with Family Link][75]
 
-For more information about some of our most popular services, you can visit the [Google Product Privacy Guide][74]. 
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide][76]. 
 
 Back to top
 
 ## Other useful privacy and security related materials
 
-Further useful privacy and security related materials can be found through Google’s [policies and principles pages][75], including: 
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages][77], including: 
 
-* Information about our [technologies and principles][76], which includes, among other things, more information on 
-    * [how Google uses cookies][77]. 
-    * technologies we use for [advertising][78]. 
-    * how we [recognize patterns like faces][79].
-* A [page][80] that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
-* The [Privacy Checkup][81] tool, which makes it easy to review your key privacy settings. 
-* Google’s [safety center][82], which provides information on how to stay safe and secure online.
+* Information about our [technologies and principles][78], which includes, among other things, more information on 
+    * [how Google uses cookies][79]. 
+    * technologies we use for [advertising][80]. 
+    * how we [recognize patterns like faces][81].
+* A [page][82] that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+* The [Privacy Checkup][83] tool, which makes it easy to review your key privacy settings. 
+* Google’s [safety center][84], which provides information on how to stay safe and secure online.
 
 #### Example
 
@@ -472,7 +474,7 @@ For example, we can make search more relevant and interesting for you by includi
 
 ## "removing your content"
 
-For example, you can delete your [Web & App Activity][83], [your blog][84], [a Google Site you own][85], [your YouTube Channel][86], [your Google profile][87] or [your entire Google account][88]. 
+For example, you can delete your [Web & App Activity][85], [your blog][86], [a Google Site you own][87], [your YouTube Channel][88], [your Google profile][89] or [your entire Google account][90]. 
 
 [Learn more.][55]
 
@@ -480,7 +482,7 @@ For example, you can delete your [Web & App Activity][83], [your blog][84], [a G
 
 ## "to show trends"
 
-You can see some of these at [Google Trends][89] and [YouTube Trending Videos][90]. 
+You can see some of these at [Google Trends][91] and [YouTube Trending Videos][92]. 
 
 [Learn more.][63]
 
@@ -488,13 +490,13 @@ You can see some of these at [Google Trends][89] and [YouTube Trending Videos][9
 
 ## "your activity on other sites and apps"
 
-This activity might come from your use of Google products like Chrome Sync or from your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics). These products share information about your activity with Google and, depending on [your account settings][91] and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information. 
+This activity might come from your use of Google products like Chrome Sync or from your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics). These products share information about your activity with Google and, depending on [your account settings][93] and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information. 
 
 [Learn more.][44]
 
 ## We keep your personal information private and safe — and put you in control.
 
-[Learn more about our commitments to your privacy and security.][92]
+[Learn more about our commitments to your privacy and security.][94]
 
 [1]: https://myaccount.google.com/?hl=en
 [2]: ../../policies/privacy/archive/
@@ -569,23 +571,25 @@ This activity might come from your use of Google products like Chrome Sync or fr
 [71]: https://fiber.google.com/legal/privacy.html
 [72]: https://fi.google.com/about/tos/#project-fi-privacy-notice
 [73]: https://www.google.com/work/apps/terms/education_privacy.html
-[74]: ../../policies/technologies/product-privacy/
-[75]: ../../policies/
-[76]: ../../policies/technologies/
-[77]: ../../policies/technologies/cookies/
-[78]: ../../policies/technologies/ads/
-[79]: ../../policies/technologies/pattern-recognition/
-[80]: ../../policies/privacy/partners/
-[81]: https://myaccount.google.com/privacycheckup/1?hl=en
-[82]: //www.google.com/intl/en/safetycenter/
-[83]: //support.google.com/websearch/answer/465?hl=en
-[84]: //support.google.com/blogger/answer/41387?hl=en
-[85]: //support.google.com/sites/answer/90598?hl=en
-[86]: //support.google.com/youtube/answer/55759?hl=en
-[87]: //support.google.com/plus/answer/1044503?hl=en
-[88]: //support.google.com/accounts/answer/32046?hl=en
-[89]: //www.google.com/trends/?hl=en
-[90]: //www.youtube.com/trending
-[91]: //myaccount.google.com/?hl=en
-[92]: https://privacy.google.com/?hl=en
+[74]: https://kids.youtube.com/privacynotice
+[75]: https://families.google.com/familylink/privacy/child-policy/
+[76]: ../../policies/technologies/product-privacy/
+[77]: ../../policies/
+[78]: ../../policies/technologies/
+[79]: ../../policies/technologies/cookies/
+[80]: ../../policies/technologies/ads/
+[81]: ../../policies/technologies/pattern-recognition/
+[82]: ../../policies/privacy/partners/
+[83]: https://myaccount.google.com/privacycheckup/1?hl=en
+[84]: //www.google.com/intl/en/safetycenter/
+[85]: //support.google.com/websearch/answer/465?hl=en
+[86]: //support.google.com/blogger/answer/41387?hl=en
+[87]: //support.google.com/sites/answer/90598?hl=en
+[88]: //support.google.com/youtube/answer/55759?hl=en
+[89]: //support.google.com/plus/answer/1044503?hl=en
+[90]: //support.google.com/accounts/answer/32046?hl=en
+[91]: //www.google.com/trends/?hl=en
+[92]: //www.youtube.com/trending
+[93]: //myaccount.google.com/?hl=en
+[94]: https://privacy.google.com/?hl=en
 
