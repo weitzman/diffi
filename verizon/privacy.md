@@ -107,20 +107,20 @@ We do not share information that identifies you personally outside of Verizon as
 
  | 
 
-The Relevant Online Advertising program helps make online ads you see more interesting and useful using  your postal address; certain information about your Verizon products and services – such as service packages, Fios TV purchases and viewership categories; and demographic and interest information we obtain from other companies – such as gender, age-range, sports fan, frequent diner or pet owner. This information is used to predict whether you fit within an audience an advertiser is trying to reach. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. [You have a choice about participating in this program.][22]
+The Relevant Online Advertising program helps make online ads you see more interesting and useful using  your postal address; certain information about your Verizon products and services – such as service packages, Fios TV purchases and viewership categories; and demographic and interest information we obtain from other companies – such as gender, age-range, sports fan, frequent diner or pet owner. This information is used to predict whether you fit within an audience an advertiser is trying to reach. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. [You have a choice about participating in this program.][24]
 
  |  
 | 
 
 ##### Relevant TV Advertising
 
- |  Verizon’s Relevant TV Advertising program helps make Fios TV ads you see more interesting and useful using your postal address; certain information about your Verizon products and services (such as service packages purchased, video on-demand purchases and program viewing data; and demographic and interest information you provide or that we obtain from other companies - such as gender, family size, and luxury car owner. The ads may appear on a variety of platforms where Fios television customers can access video content. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. [You have a choice about receiving this type of advertising and you can opt out online][24]. | 
+ |  Verizon’s Relevant TV Advertising program helps make Fios TV ads you see more interesting and useful using your postal address; certain information about your Verizon products and services (such as service packages purchased, video on-demand purchases and program viewing data; and demographic and interest information you provide or that we obtain from other companies - such as gender, family size, and luxury car owner. The ads may appear on a variety of platforms where Fios television customers can access video content. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. [You have a choice about receiving this type of advertising and you can opt out online][25]. | 
 
 #####  
 
 ##### Additional information for Oath services
 
-Oath consists of over 50 digital and mobile [brands][25] globally, including  HuffPost, Yahoo News, Yahoo Sports, Tumblr and AOL,  as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.  Many free services provided by Oath brands are supported by advertising displayed on those services. Oath  advertising platforms also provide a variety of online advertising services that place other companies’ ads across the sites, services and devices you use.
+Oath consists of over 50 digital and mobile [brands][26] globally, including  HuffPost, Yahoo News, Yahoo Sports, Tumblr and AOL,  as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.  Many free services provided by Oath brands are supported by advertising displayed on those services. Oath  advertising platforms also provide a variety of online advertising services that place other companies’ ads across the sites, services and devices you use.
 
 Additional information about the collection and use of information from devices you use to access or connect to Oath sites, products and services is described in the [Oath Privacy Policy][7] for websites, services and software that link to that policy.  Similarly, the [Yahoo Privacy Policy][8] provides detail about the collection and use of information from devices you use to access or connect to Yahoo websites, services and technologies that link to the Yahoo policy.   These policies also describe the collection and use of information by Oath advertising platforms and your related choices.
 
@@ -140,7 +140,7 @@ Except as explained in this Privacy Policy, in privacy policies for specific ser
 
 Verizon uses vendors and partners for a variety of business purposes such as to help us offer, provide, repair, restore and bill for services we provide. We share information with those vendors and partners when it is necessary for them to perform work on our behalf. For example, we may provide your credit card information and billing address to our payment processing company solely for the purpose of processing payment for a transaction you have requested. We require that these vendors and partners protect the customer information we provide to them and limit their use of Verizon customer data to the purposes for which it was provided. We do not permit these types of vendors and partners to use this information for their own marketing purposes.
 
-As described in more detail in other sections of this policy, Verizon also may share certain information with outside companies, for example, to assist with the delivery of [advertising campaigns][26], or preparing and sharing aggregate reports. This information does not identify Verizon customers individually.
+As described in more detail in other sections of this policy, Verizon also may share certain information with outside companies, for example, to assist with the delivery of [advertising campaigns][27], or preparing and sharing aggregate reports. This information does not identify Verizon customers individually.
 
 Verizon provides the names, addresses and telephone numbers of wireline telephone customers to directory publishers and directory assistance services unless a non-published or non-listed phone number has been requested.
 
@@ -167,7 +167,7 @@ If you choose to interact with specific advertisers who advertise on our apps si
 
 Advertising that is customized based on predictions generated from your visits over time and across different websites is sometimes called "online behavioral" or "interest-based" advertising. In accordance with [industry self-regulatory principles][15], we require that companies disclose when they are using online behavioral advertising programs to deliver third-party ads on our sites or collecting information about your visit to our sites for these purposes and give consumers the ability to opt out of this use of their information.  You will see an icon ![][16] in or around third-party advertisements that are delivered on our sites using behavioral advertising programs. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad as well as information on how you may opt out of these advertising programs. Additional information about your options regarding the use of your information for advertising purposes can be found below[. View additional information about online behavioral advertising][15]. Please note that Verizon does not have control over or access to information contained in the cookies that are set on your computer by ad servers, ad networks or third-party advertisers.
 
-Similarly, advertising may be customized based on predictions developed from your use of applications and industry self-regulatory principles also apply.  This type of advertising involves the use of device advertising identifiers. [View information about opting out of this use of your device advertising identifier.][27]
+Similarly, advertising may be customized based on predictions developed from your use of applications and industry self-regulatory principles also apply.  This type of advertising involves the use of device advertising identifiers. [View information about opting out of this use of your device advertising identifier.][28]
 
 [View information about "cookies" and related technologies][18].
 
@@ -185,13 +185,13 @@ Customers of Verizon telecommunications and VoIP services may choose to limit th
 
 Verizon Wireline consumers and certain business customers may opt out by calling 1-866-483-9700. Verizon Wireless consumer and certain business customers may call 1-800-333-9956. Other customers may decline to provide or withdraw CPNI consent by following the instructions in the Verizon notice seeking consent.
 
-[View CPNI notices for Verizon Wireline and Verizon Wireless][28].
+[View CPNI notices for Verizon Wireline and Verizon Wireless][29].
 
  
 
 ##### Telemarketing
 
-Federal "Do Not Call" laws allow you to place your phone numbers on the National Do Not Call Registry to prohibit many telemarketing calls to those numbers. To add your numbers to this list, please call 1-888-382-1222 or visit the [National Do Not Call Registry][29].
+Federal "Do Not Call" laws allow you to place your phone numbers on the National Do Not Call Registry to prohibit many telemarketing calls to those numbers. To add your numbers to this list, please call 1-888-382-1222 or visit the [National Do Not Call Registry][30].
 
 Most telemarketing laws allow companies to contact their own customers without consulting the federal or state Do Not Call list. If you would like to be removed from Verizon's residential telemarketing list, please contact us at 1-800-VERIZON. If you would like to be removed from the Verizon Wireless telemarketing list, please contact us at 1-800-922-0204. Please allow 30 days for your telephone number to be removed from any sales programs that are currently underway.
 
@@ -211,27 +211,27 @@ You also can limit the collection of certain website information by deleting or 
 
 ##### Advertising programs:
 
-* Verizon Wireless customers may opt out of the Relevant Mobile Advertising program by following the instructions [here][30] or by calling us at 1-866-211-0874.
-* Verizon broadband Internet access customers may opt out of the Relevant Online Advertising program described above by [following these instructions.][22]
-* Customers may opt out of Verizon's Relevant TV Advertising program by [following these instructions][31].
+* Verizon Wireless customers may opt out of the Relevant Mobile Advertising program by following the instructions [here][31] or by calling us at 1-866-211-0874.
+* Verizon broadband Internet access customers may opt out of the Relevant Online Advertising program described above by [following these instructions.][24]
+* Customers may opt out of Verizon's Relevant TV Advertising program by [following these instructions][32].
 
 If you opt out online, you will need your account user ID and password. Also, please note that you will receive ads whether you participate in these programs or not, but under these programs, ads may be more personalized and useful to you.
 
 ##### Business and Marketing Insights
 
-Verizon Wireless customers may choose not to have their information included in the creation of aggregated business and marketing insights that do not specifically identify any individual customers. You may opt out by calling 1-866-211-0874 or by visiting[ your privacy choices page in My Verizon][32]. Please note that if you have multi-line account, you should indicate your opt out choice for each line. If you add a line or change a telephone number, you will need to update your privacy choices.
+Verizon Wireless customers may choose not to have their information included in the creation of aggregated business and marketing insights that do not specifically identify any individual customers. You may opt out by calling 1-866-211-0874 or by visiting[ your privacy choices page in My Verizon][33]. Please note that if you have multi-line account, you should indicate your opt out choice for each line. If you add a line or change a telephone number, you will need to update your privacy choices.
 
 ##### Oath choices
 
-You can visit the [Oath][8] and [Yahoo][33] privacy policies to learn more about choices you have about how Oath brands use information across the devices you use.
+You can visit the [Oath][8] and [Yahoo][34] privacy policies to learn more about choices you have about how Oath brands use information across the devices you use.
 
 Working together to keep children safe.
 
 Verizon recognizes that online service providers must be vigilant in protecting the safety and privacy of children online. We do not knowingly market to or solicit personal information from children under the age of 13 without obtaining verifiable parental consent.
 
-To learn more about AOL's information practices with respect to children under 13, please review  [AOL's Important Note to Parents][34]. To learn more about Yahoo’s practices for children under age 13 please visit Yahoo’s [Children's Privacy & Family Accounts][35] policy.
+To learn more about AOL's information practices with respect to children under 13, please review  [AOL's Important Note to Parents][35]. To learn more about Yahoo’s practices for children under age 13 please visit Yahoo’s [Children's Privacy & Family Accounts][36] policy.
 
-If you have a complaint about child pornography, the soliciting of children for sexual activity, or any other illegal or inappropriate activity involving children on a Verizon service, report it to us by [sending an e-mail][36]. Please include the words "child porn" in the subject line of your email. You can also make a report directly to the National Center for Missing and Exploited Children through [CyberTipline][37].
+If you have a complaint about child pornography, the soliciting of children for sexual activity, or any other illegal or inappropriate activity involving children on a Verizon service, report it to us by [sending an e-mail][37]. Please include the words "child porn" in the subject line of your email. You can also make a report directly to the National Center for Missing and Exploited Children through [CyberTipline][38].
 
 Additional Internet safety resources and information are available at:
 
@@ -244,7 +244,7 @@ Additional Internet safety resources and information are available at:
 * <http://www.connectsafely.org/>
 * <http://www.accreditedschoolsonline.org/bullying-awareness-guidebook/>
 
-[Learn more about online safety tips and resources][38]
+[Learn more about online safety tips and resources][39]
 
 ### Information security and data retention
 
@@ -252,15 +252,15 @@ Verizon has technical, administrative and physical safeguards in place to help p
 
 Although we work hard to protect personal information that we collect and store, no program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information. Verizon maintains security and incident response plans to handle incidents involving unauthorized access to private information we collect or store.
 
-If you become aware of a security issue, please contact [Verizon's Security Control Center][39]. We will work with you to address any problems.
+If you become aware of a security issue, please contact [Verizon's Security Control Center][40]. We will work with you to address any problems.
 
-Verizon often publishes helpful information about a wide range of scams that you may encounter. [Learn more about Internet and phone scams and tips on how to protect yourself][40].
+Verizon often publishes helpful information about a wide range of scams that you may encounter. [Learn more about Internet and phone scams and tips on how to protect yourself][41].
 
  
 
 ### Accessing and updating your information
 
-We strive to keep our customer records as accurate as possible. You may correct or update your Verizon customer information by calling a Verizon customer service representative at 1-800-VERIZON or by accessing your account online and providing the updated information there. Similarly, updates can be made to your Verizon Wireless account by calling a Verizon Wireless customer service representative at 1-800-922-0204 or [contact us online][41]. Verizon Enterprise Services customers may update their information by contacting their account manager. Verizon Vehicle customers may change or update their contact information by calling 1-800-711-5800. Registered AOL users may access and update their registration information and any billing or shipping information by visiting [My Account][42]. You can edit your [Yahoo Account Information][43], including your [marketing preferences][44], at any time. You can also modify information you have provided to Yahoo through the Yahoo [products or services][45] you may use.
+We strive to keep our customer records as accurate as possible. You may correct or update your Verizon customer information by calling a Verizon customer service representative at 1-800-VERIZON or by accessing your account online and providing the updated information there. Similarly, updates can be made to your Verizon Wireless account by calling a Verizon Wireless customer service representative at 1-800-922-0204 or [contact us online][42]. Verizon Enterprise Services customers may update their information by contacting their account manager. Verizon Vehicle customers may change or update their contact information by calling 1-800-711-5800. Registered AOL users may access and update their registration information and any billing or shipping information by visiting [My Account][43]. You can edit your [Yahoo Account Information][44], including your [marketing preferences][45], at any time. You can also modify information you have provided to Yahoo through the Yahoo [products or services][46] you may use.
 
 Fios and other customers served over our fiber-to-the-premises network who would like to see their personally identifiable information, may [e-mail us][21] to arrange a time and convenient location to do so during business hours. You will need to provide proper identification and you may examine records that contain personally identifiable information about you and no one else. If you believe any of your personally identifiable information is inaccurate, we will work with you to ensure that corrections are made. Verizon reserves the right to charge you for the cost of photocopying any documents you request.
 
@@ -272,7 +272,7 @@ Some Verizon websites, apps and services may allow you to participate in blog di
 
 We reserve the right to make changes to this privacy policy, so please check back periodically for changes. You will be able to see that changes have been made by checking to see the effective date posted at the end of the policy. If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt out mechanism.
 
-[View recent changes to privacy policy][46]
+[View recent changes to privacy policy][47]
 
 Updated June, 2017
 
@@ -282,28 +282,28 @@ Updated June, 2017
 
 ### Contact us
 
-If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, [e-mail us][47] or contact us at:Verizon Privacy Office1300 I Street, NWSuite 400 WestWashington, DC 20005Fax: 202-789-1432
+If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, [e-mail us][48] or contact us at:Verizon Privacy Office1300 I Street, NWSuite 400 WestWashington, DC 20005Fax: 202-789-1432
 
 ## Privacy Policy
 
-* [Privacy Policy Summary][48]
-* [Full Privacy Policy][49]
-    * [Recent changes][46]
-* [Privacy Officer Message][50]
-* [Fios Privacy Policy][51]
-* [Oath Privacy Policy][52]
-* [Verizon App Privacy Policies][53]
-    * [AppFlash][54]
-    * [VZ Navigator App][55]
-    * [Verizon Messages App][56]
-* [Go90 Privacy Policy][57]
-* [Hum privacy policy][58]
-* [Verizon Home Privacy Policy][59]
-* [MapQuest Privacy Policy][60]
-* [Mobile Location Analytics Privacy Notice][61]
-* [Device Installment Privacy][62]
-* [California Privacy Rights][63]
-* [Better Business Bureau Accredited][64]
+* [Privacy Policy Summary][49]
+* [Full Privacy Policy][50]
+    * [Recent changes][47]
+* [Privacy Officer Message][51]
+* [Fios Privacy Policy][52]
+* [Oath Privacy Policy][53]
+* [Verizon App Privacy Policies][54]
+    * [AppFlash][55]
+    * [VZ Navigator App][56]
+    * [Verizon Messages App][57]
+* [Go90 Privacy Policy][58]
+* [Hum privacy policy][59]
+* [Verizon Home Privacy Policy][60]
+* [MapQuest Privacy Policy][61]
+* [Mobile Location Analytics Privacy Notice][62]
+* [Device Installment Privacy][63]
+* [California Privacy Rights][64]
+* [Better Business Bureau Accredited][65]
 
 [1]: http://www.verizon.com/about/privacy/politica-de-privacidad-completa
 [2]: http://www.verizon.com/about/our-company/history-timeline/
@@ -326,47 +326,48 @@ If you have questions, concerns or suggestions related to our Privacy Policy or 
 [19]: http://www.verizonwireless.com/support/unique-identifier-header-faqs/
 [20]: http://www.verizonwireless.com/support/mobile-ads-faqs/
 [21]: mailto:privacyoffice@verizon.com
-[22]: https://www.verizon.com/foryourhome/MyAccount/ngen/upr/signin.aspx?goto=https://www.verizon.com:443/foryourhome/myaccount/ngen/pr/svcs/internet.aspx?myvzmd=fios_internet&ddm=y
+[22]: https://wbillpay.verizonwireless.com/vzw/secure/setPrivacy.action
 [23]: https://login.verizonwireless.com/amserver/UI/Login?realm=vzw&goto=https://wbillpay.verizonwireless.com:443/vzw/secure/setPrivacy.action
-[24]: http://www.verizon.com/tvads
-[25]: http://oath.com/brands
-[26]: http://www.verizon.com/about/privacy/full-privacy-policy#advertising_campaigns
-[27]: http://privacy.aol.com/mobile-choices/
-[28]: /about/privacy/customer-proprietary-network-information
-[29]: http://www.donotcall.gov/
-[30]: http://www.vzw.com/myprivacy
-[31]: https://www.verizon.com/foryourhome/myaccount/ngen/upr/signin.aspx?goto=https://www.verizon.com/fiostv/myservices/members/fiostv.aspx
-[32]: http://verizonwireless.com/myprivacy
-[33]: https://aim.yahoo.com/aim/us/en/optout/
-[34]: http://privacy.aol.com/notetoparents
-[35]: https://policies.yahoo.com/us/en/yahoo/privacy/products/family/index.htm
-[36]: mailto:abuse@verizon.net?subject=I am reporting an incident of Child Pornography
-[37]: http://www.cybertipline.org/
-[38]: /about/responsibility/online-safety
-[39]: http://www.verizon.com/Support/Residential/phone/homephone/general support/support tools/general/122858.htm
-[40]: http://www.verizon.com/about/responsibility/cybersecurity
-[41]: http://www.verizonwireless.com/b2c/contact/index.jsp
-[42]: http://myaccount.aol.com/
-[43]: https://login.yahoo.com/account/personalinfo
-[44]: https://subs.communications.yahoo.com/unsubscribe_all.html?c=1111?
-[45]: https://policies.yahoo.com/us/en/yahoo/privacy/products/index.htm
-[46]: /about/privacy/changes-privacy-policy
-[47]: mailto:privacyoffice@verizon.com?subject=Verizon Privacy Policy question, concern or suggestion
-[48]: /about/privacy/privacy-policy-summary
-[49]: /about/privacy/full-privacy-policy
-[50]: /about/privacy/privacy-officer-message
-[51]: /about/privacy/fios-privacy-policy
-[52]: /about/privacy/aol-privacy-policy
-[53]: /about/privacy/verizon-app-privacy-policies
-[54]: /about/privacy/appflash-privacy-policy
-[55]: /about/privacy/vz-navigator-app-privacy-policy
-[56]: /about/privacy/verizon-messages-app-privacy-policy
-[57]: /about/privacy/go90-app-privacy-policy
-[58]: /about/privacy/hum-privacy-policy
-[59]: /about/privacy/verizon-home-app-privacy-policy
-[60]: /about/privacy/mapquest
-[61]: /about/privacy/mobile-location-analytics-privacy-notice
-[62]: /about/privacy/device-installment-privacy
-[63]: /about/privacy/california-privacy-rights
-[64]: /about/privacy/better-business-bureau-accredited
+[24]: https://www.verizon.com/foryourhome/MyAccount/ngen/upr/signin.aspx?goto=https://www.verizon.com:443/foryourhome/myaccount/ngen/pr/svcs/internet.aspx?myvzmd=fios_internet&ddm=y
+[25]: http://www.verizon.com/tvads
+[26]: http://oath.com/brands
+[27]: http://www.verizon.com/about/privacy/full-privacy-policy#advertising_campaigns
+[28]: http://privacy.aol.com/mobile-choices/
+[29]: /about/privacy/customer-proprietary-network-information
+[30]: http://www.donotcall.gov/
+[31]: http://www.vzw.com/myprivacy
+[32]: https://www.verizon.com/foryourhome/myaccount/ngen/upr/signin.aspx?goto=https://www.verizon.com/fiostv/myservices/members/fiostv.aspx
+[33]: http://verizonwireless.com/myprivacy
+[34]: https://aim.yahoo.com/aim/us/en/optout/
+[35]: http://privacy.aol.com/notetoparents
+[36]: https://policies.yahoo.com/us/en/yahoo/privacy/products/family/index.htm
+[37]: mailto:abuse@verizon.net?subject=I am reporting an incident of Child Pornography
+[38]: http://www.cybertipline.org/
+[39]: /about/responsibility/online-safety
+[40]: http://www.verizon.com/Support/Residential/phone/homephone/general support/support tools/general/122858.htm
+[41]: http://www.verizon.com/about/responsibility/cybersecurity
+[42]: http://www.verizonwireless.com/b2c/contact/index.jsp
+[43]: http://myaccount.aol.com/
+[44]: https://login.yahoo.com/account/personalinfo
+[45]: https://subs.communications.yahoo.com/unsubscribe_all.html?c=1111?
+[46]: https://policies.yahoo.com/us/en/yahoo/privacy/products/index.htm
+[47]: /about/privacy/changes-privacy-policy
+[48]: mailto:privacyoffice@verizon.com?subject=Verizon Privacy Policy question, concern or suggestion
+[49]: /about/privacy/privacy-policy-summary
+[50]: /about/privacy/full-privacy-policy
+[51]: /about/privacy/privacy-officer-message
+[52]: /about/privacy/fios-privacy-policy
+[53]: /about/privacy/aol-privacy-policy
+[54]: /about/privacy/verizon-app-privacy-policies
+[55]: /about/privacy/appflash-privacy-policy
+[56]: /about/privacy/vz-navigator-app-privacy-policy
+[57]: /about/privacy/verizon-messages-app-privacy-policy
+[58]: /about/privacy/go90-app-privacy-policy
+[59]: /about/privacy/hum-privacy-policy
+[60]: /about/privacy/verizon-home-app-privacy-policy
+[61]: /about/privacy/mapquest
+[62]: /about/privacy/mobile-location-analytics-privacy-notice
+[63]: /about/privacy/device-installment-privacy
+[64]: /about/privacy/california-privacy-rights
+[65]: /about/privacy/better-business-bureau-accredited
 
