@@ -124,7 +124,7 @@ Dublin 2, Ireland
 [2]: /help/1561485474074139
 [3]: https://research.facebook.com/
 [4]: /about/privacy/update#what-kinds-of-information-do-we-collect
-[5]: /about/ads
+[5]: /ads/about
 [6]: /about/ads/#568137493302217
 [7]: /help/379220725465972
 [8]: /policies/cookies/
@@ -138,6 +138,6 @@ Dublin 2, Ireland
 [16]: /me/allactivity
 [17]: /help/405183566203254/
 [18]: /help/125338004213029
-[19]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATM4yNxltcK0czGCK6yhP_CH1TROm85Ftsd-t12dPOrLgtELIr_UF8y5LLL_Pi0HdxSQCPHbdV_ogS5aUYi8i0WuEW_mrwhkYSvelWqZgjTTHGUKDVJ-ajEqfy0
+[19]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATN8YbyGBZFU3CHE4yQEgWOAqIrNUuO063owy1cYTGpWkSbjK8oSaKdZ3lJk_1j9J_tUcYQha8GXUyUSeZqignJwUY7-nY8rPI-DitkK9IvqSehWDXFXsWzedjAns-DS_LY0iMUq
 [20]: /help/contact/173545232710000
 
