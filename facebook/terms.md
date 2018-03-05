@@ -172,7 +172,7 @@ To access the Statement of Rights and Responsibilities in several different lang
 [3]: /about/privacy/
 [4]: /settings/?tab=privacy
 [5]: /settings/?tab=applications
-[6]: http://developers.facebook.com/docs/
+[6]: https://developers.facebook.com/docs/
 [7]: /help/399224883474207
 [8]: https://www.facebook.com/payments_terms
 [9]: https://developers.facebook.com/policy
@@ -181,10 +181,10 @@ To access the Statement of Rights and Responsibilities in several different lang
 [12]: /ad_guidelines.php
 [13]: https://www.facebook.com/page_guidelines.php
 [14]: https://www.facebook.com/terms/provisions/german/index.php
-[15]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATMDvYf1ULnJsqOGpdjfkEHnc-sEl4AxSP2Po9CCz3yizF6jZxoBsDg3H_WAhwit1XWHFB30SwOGCm743BS5xrZmG4WcRukf6qcabJqjip3zoZcMDwRIZThPnhM9Pg
+[15]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATMhDjxgDDJG-KCtXi-aSo2G9VWkof7Y0OczHTnupfheq-3TrG0Ngwt4Ep-__R2OEK0Z6tZk1ZIY_kpeO60Z6Ks4hPNqyX8zp7vbEGaaZ5aBqUqjW0UmYaiP0HVHTA
 [16]: /platform
-[17]: http://developers.facebook.com/policy/
+[17]: https://developers.facebook.com/policy/
 [18]: /page_guidelines.php#promotionsguidelines
-[19]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATNedj7AQTrkoRrgyh3Cst013eFip3zCmy4uJFuq9JsuiVIRVIzLI3ggyE0X-QhdVOgTpK_pCruHcmk92NjbLt6DPi5XMhAeYZveWaODS-EeFbLGQ71y1y9u3PNbsg
+[19]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATN25sJL45kXmy8I_aknEojkqHJudfKOsmhwznqhrBtzvZYN71HWVf12KL7neCNiFuuomBV5-qip_jqcB-WSe60B-ix7h3WRTVZyR5A1ks_BeaCgDYC8jO5p7t9Odw
 [20]: /communitystandards
 
