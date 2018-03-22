@@ -59,7 +59,7 @@ It also includes the information you choose to share when you communicate with u
 **Information others share about you**  
 We receive information about you from your friends and others, such as when they upload your contact information, post a photo of you, tag you in a photo or status update, or at a location, or add you to a group.  
 
-![][2] When people use Facebook, they may store and share information about you and others that they have, such as when they upload and manage their invites and contacts. 
+![][1] When people use Facebook, they may store and share information about you and others that they have, such as when they upload and manage their invites and contacts. 
 
 **Other information we receive about you**  
 We also receive other types of information about you: 
@@ -73,7 +73,7 @@ We also receive other types of information about you:
 As described in "How we use the information we receive" we also put together data from the information we already have about you, your friends, and others, so we can offer and suggest a variety of services and features. For example, we may make friend suggestions, pick stories for your News Feed, or suggest people to tag in photos. We may put together your current city with GPS and other location information we have about you to, for example, tell you and your friends about people or events nearby, or offer deals to you in which you might be interested. We may also put together data about you to serve you ads or other content that might be more relevant to you.
 
 ![][1] When we get your GPS location, we put it together with other location information we have about you (like your current city). But we only keep it until it is no longer useful to provide you services, like keeping your last GPS coordinates to send you relevant notifications.  
-![][1] We only provide data to our advertising partners or customers after we have removed your name and any other personally identifying information from it, or have combined it with other people's data in a way that it no longer personally identifies you.  
+![][2] We only provide data to our advertising partners or customers after we have removed your name and any other personally identifying information from it, or have combined it with other people's data in a way that it no longer personally identifies you.  
 
 **_Public information_**
 
@@ -89,8 +89,8 @@ Choosing to make your information public also means that this information:
 * will be accessible to the Facebook-integrated games, applications, and websites you and your friends use; and
 * will be accessible to anyone who uses our APIs such as our [Graph API][4]. 
 
-![][1] Sometimes you will not be able to select an audience when you post something (like when you write on a Page's wall or comment on a news article that uses our comments plugin). This is because some types of stories are always public stories. As a general rule, you should assume that if you do not see a sharing icon, the information will be publicly available.  
-![][2] When others share information about you, they can also choose to make it public.   
+![][2] Sometimes you will not be able to select an audience when you post something (like when you write on a Page's wall or comment on a news article that uses our comments plugin). This is because some types of stories are always public stories. As a general rule, you should assume that if you do not see a sharing icon, the information will be publicly available.  
+![][1] When others share information about you, they can also choose to make it public.   
 
 **Information that is always publicly available**  
 The types of information listed below are always publicly available, and they are treated just like information you decided to make public: 
@@ -110,7 +110,7 @@ If someone has your Username or User ID, they can use it to access information a
 If you do not want your information to be accessible to Platform applications, you can turn off all Platform applications from your [Privacy Settings][7]. If you turn off Platform you will no longer be able to use any games or other applications until you turn Platform back on. For more information about the information that apps receive when you visit them, see Other websites and applications.
 
 ![][1] If you want to see information available about you through our Graph API, just type **https://graph.facebook.com/[User ID or Username]?metadata=1** into your browser.  
-![][2] Your Facebook email address includes your public username like so: username@facebook.com. People can use your Facebook email address to send you messages and anyone in a message conversation can reply to it.  
+![][1] Your Facebook email address includes your public username like so: username@facebook.com. People can use your Facebook email address to send you messages and anyone in a message conversation can reply to it.  
 
 **_How we use the information we receive_**
 
@@ -135,9 +135,9 @@ Of course, for information others share about you, they control how it is shared
 
 We store data for as long as it is necessary to provide products and services to you and others, including those described above. Typically, information associated with your account will be kept until your account is deleted. For certain categories of data, we may also tell you about specific data retention practices.
 
-![][1]We may enable access to public information that has been shared through our services.
+![][2]We may enable access to public information that has been shared through our services.
 
-![][2]We may allow  service providers to access information so they can help us provide services. 
+![][1]We may allow  service providers to access information so they can help us provide services. 
 
 ![][2] We are able to suggest that your friend tag you in a picture by scanning and comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” [settings][8]. Learn more at: <https://www.facebook.com/help/tag-suggestions>
 
@@ -147,7 +147,7 @@ If you want to stop using your account, you can either **deactivate** or **delet
 
 **Deactivate**  
 Deactivating your account puts your account on hold. Other users will no longer see your timeline, but we do not delete any of your information. Deactivating an account is the same as you telling us not to delete any information because you might want to reactivate your account at some point in the future. You can deactivate your account at: <https://www.facebook.com/settings?tab=security>  
-![][1] Your friends will still see you listed in their list of friends while your account is deactivated. 
+![][2] Your friends will still see you listed in their list of friends while your account is deactivated. 
 
 **Deletion**  
 When you delete your account, it is permanently deleted from Facebook. It typically takes about one month to delete an account, but some information may remain in backup copies and logs for up to 90 days. You should only delete your account if you are sure you never want to reactivate it. You can delete your account at: <https://www.facebook.com/help/contact.php?show_form=delete_account>  
@@ -169,8 +169,8 @@ If you tag someone, that person and their friends can see your story no matter w
 
 Always think before you post. Just like anything else you post on the web or send in an email, information you share on Facebook can be copied or re-shared by anyone who can see it. 
 
-![][1] Although you choose with whom you share, there may be ways for others to determine information about you. For example, if you hide your birthday so no one can see it on your timeline, but friends post “happy birthday!” on your timeline, people may determine your birthday.   
-![][2] When you comment on or "like" someone else's story, or write on their timeline, that person gets to select the audience. For example, if a friend posts a Public story and you comment on it, your comment will be Public. Often, you can see the audience someone selected for their story before you post a comment; however, the person who posted the story may later change their audience. So, if you comment on a story, and the story’s audience changes, the new audience can see your comment.   
+![][2] Although you choose with whom you share, there may be ways for others to determine information about you. For example, if you hide your birthday so no one can see it on your timeline, but friends post “happy birthday!” on your timeline, people may determine your birthday.   
+![][1] When you comment on or "like" someone else's story, or write on their timeline, that person gets to select the audience. For example, if a friend posts a Public story and you comment on it, your comment will be Public. Often, you can see the audience someone selected for their story before you post a comment; however, the person who posted the story may later change their audience. So, if you comment on a story, and the story’s audience changes, the new audience can see your comment.   
 ![][1] You can control who can see the Facebook Pages you've "liked" by visiting your timeline, clicking on the Likes box on your timeline, and then clicking "Edit."  
 ![][1] Sometimes you will not see a sharing icon when you post something (like when you write on a Page's wall or comment on a news article that uses our comments plugin). This is because some types of stories are always public stories. As a general rule, you should assume that if you do not see a sharing icon, the information will be publicly available.  
 
@@ -180,7 +180,7 @@ Whenever you add things to your timeline you can select a specific audience, or 
 
 ![][12] Choose this icon if you want to make something **Public**. Choosing to make something public is exactly what it sounds like. It means that anyone, including people off Facebook, will be able to see or access it.  
 ![][13] Choose this icon if you want to share with your Facebook **Friends**.  
-![][14] Choose this icon if you want to **Customize** your audience. You can also use this to hide the item on your timeline from specific people.  
+![][11] Choose this icon if you want to **Customize** your audience. You can also use this to hide the item on your timeline from specific people.  
 
 When you select an audience for your friend list, you are only controlling who can see the entire list of your friends on your timeline. We call this a timeline visibility control. This is because your friend list is always available to the games, applications and websites you use, and your friendships may be visible elsewhere (such as on your friends' timelines or in searches). For example, if you select "Only Me" as the audience for your friend list, but your friend sets her friend list to "Public," anyone will be able to see your connection on your friend's timeline.
 
@@ -189,8 +189,8 @@ Similarly, if you choose to hide your gender, it only hides it on your timeline.
 When someone tags you in a story (such as a photo, status update or check-in), you can choose whether you want that story to appear on your timeline. You can either approve each story individually or approve all stories by your friends. If you approve a story and later change your mind, you can remove it from your timeline. 
 
 ![][1] When you hide things on your timeline, like posts or connections, it means those things will not appear on your timeline. But, remember, anyone in the audience of those posts or who can see a connection may still see it elsewhere, like on someone else's timeline or in search results. You can also delete your posts or change the audience of content you post, which means you can remove people from or add people to the audience of the content.  
-![][2] People on Facebook may be able to see mutual friends, even if they cannot see your entire list of friends.   
-![][2] Some things (like your name, profile pictures and cover photos) do not have sharing icons because they are always publicly available. As a general rule, you should assume that if you do not see a sharing icon, the information will be publicly available.  
+![][1] People on Facebook may be able to see mutual friends, even if they cannot see your entire list of friends.   
+![][1] Some things (like your name, profile pictures and cover photos) do not have sharing icons because they are always publicly available. As a general rule, you should assume that if you do not see a sharing icon, the information will be publicly available.  
 
 **_Finding you on Facebook_**
 
@@ -198,7 +198,7 @@ To make it easier for your friends to find you, we allow anyone with your contac
 
 You can choose who can look up your timeline using the email address or telephone number you added to your timeline through your [Privacy Settings][7]. But remember that people can still find you or a link to your timeline on Facebook through other people and the things they share about you or through other posts, like if you are tagged in a friend's photo or post something to a public page. 
 
-![][2] Your settings do not control whether people can find you or a link to your timeline when they search for content they have permission to see, like a photo or other story in which you’ve been tagged.   
+![][1] Your settings do not control whether people can find you or a link to your timeline when they search for content they have permission to see, like a photo or other story in which you’ve been tagged.   
 
 **_Access on phones and other devices_**
 
@@ -223,12 +223,12 @@ You can choose whether a story you've been tagged in appears on your timeline. Y
 
 If you do not want someone to tag you, we encourage you to reach out to them and give them that feedback. If that does not work, you can block them. This will prevent them from tagging you going forward.
 
-![][2] Social reporting is a way for people to quickly and easily ask for help from someone they trust. Learn more at: [https://www.facebook.com/note.php?note_id=196124227075034&__adt=3&__att=iframe][15]
+![][1] Social reporting is a way for people to quickly and easily ask for help from someone they trust. Learn more at: [https://www.facebook.com/note.php?note_id=196124227075034&__adt=3&__att=iframe][14]
 
-![][2] If you are linked to in a private space (such as a message or a group) only the people who can see the private space can see the link. Similarly, if you are linked to a comment, only the people who can see the comment can see the link.
+![][1] If you are linked to in a private space (such as a message or a group) only the people who can see the private space can see the link. Similarly, if you are linked to a comment, only the people who can see the comment can see the link.
 
 **Other information**  
-As described in the "what your friends and others share about you" section of this policy, your friends and others may share information about you. They may share photos or other information about you and tag you in their posts. If you do not like a particular post, tell them or [report the post][16].  
+As described in the "what your friends and others share about you" section of this policy, your friends and others may share information about you. They may share photos or other information about you and tag you in their posts. If you do not like a particular post, tell them or [report the post][15].  
 
 **_Groups_**
 
@@ -246,7 +246,7 @@ Some Pages contain content that comes directly from the Page owner. Page owners 
 
 ![][1] Page administrators may have access to insights data, which will tell them generally about the people that visit their Page (as opposed to information about specific people). They may also know when you’ve made a connection to their Page because you’ve liked their Page or posted a comment. 
 
-![][2] To control who can see the Facebook Pages you've liked, visit our [Help Center][17]. 
+![][1] To control who can see the Facebook Pages you've liked, visit our [Help Center][16]. 
 
 **_III. Other websites and applications_**
 
@@ -262,11 +262,11 @@ When you connect with a game, application or website - such as by going to a gam
 
 Your friend list helps the application make your experience more social because it lets you find your friends on that application. Your User ID helps the application personalize your experience because it can connect your account on that application with your Facebook account, and it can access your basic info, which includes your public information and friend list. This includes the information you choose to make public, as well as information that is always publicly available. If the application needs additional information, such as your stories, photos or likes, it will have to ask you for specific permission.
 
-The “[Apps][18]” setting lets you control the applications you use. You can see the permissions you have given these applications, the last time an application accessed your information, and the audience on Facebook for timeline stories and activity the application posts on your behalf. You can also remove applications you no longer want, or turn off all Platform applications. When you turn all Platform applications off, your User ID is no longer given to applications, even when your friends use those applications. But you will no longer be able to use any games, applications or websites through Facebook.
+The “[Apps][17]” setting lets you control the applications you use. You can see the permissions you have given these applications, the last time an application accessed your information, and the audience on Facebook for timeline stories and activity the application posts on your behalf. You can also remove applications you no longer want, or turn off all Platform applications. When you turn all Platform applications off, your User ID is no longer given to applications, even when your friends use those applications. But you will no longer be able to use any games, applications or websites through Facebook.
 
-![][1] When you first visit an app, Facebook lets the app know your language, your country, and whether you are in an age group, for instance, under 18, between 18-20, or 21 and over. Age range lets apps provide you with age-appropriate content. If you install the app, it can access, store and update the information you’ve shared. Apps you’ve installed can update their records of your basic info, age range, language and country. If you haven’t used an app in a while, you should consider removing it. Once you remove an app, it won’t be able to continue to update the additional information you’ve given them permission to access, but it may still hold the information you have already shared. You always can contact the app directly and request that they delete your data. Learn more at: <https://www.facebook.com/help/how-apps-work>  
+![][2] When you first visit an app, Facebook lets the app know your language, your country, and whether you are in an age group, for instance, under 18, between 18-20, or 21 and over. Age range lets apps provide you with age-appropriate content. If you install the app, it can access, store and update the information you’ve shared. Apps you’ve installed can update their records of your basic info, age range, language and country. If you haven’t used an app in a while, you should consider removing it. Once you remove an app, it won’t be able to continue to update the additional information you’ve given them permission to access, but it may still hold the information you have already shared. You always can contact the app directly and request that they delete your data. Learn more at: <https://www.facebook.com/help/how-apps-work>  
 ![][2] Sometimes a game console, mobile phone, or other device might ask for permission to share specific information with the games and applications you use on that device. If you say okay, those applications will not be able to access any other information about you without asking specific permission from you or your friends.  
-![][1] Sites and apps that use Instant Personalization receive your User ID and friend list when you visit them.   
+![][2] Sites and apps that use Instant Personalization receive your User ID and friend list when you visit them.   
 ![][2] You always can remove apps you’ve installed by using your app settings at: <https://www.facebook.com/settings/?tab=applications>. But remember, apps may still be able to access your information when the people you share with use them. And, if you’ve removed an application and want it to delete the information you’ve already shared with it, you should contact the application. Visit the application’s page on Facebook or its own website to learn more about the app. For example, Apps may have reasons (e.g. legal obligations) to retain some data that you share with them.  
 
 **_Controlling what is shared when the people you share with use applications_**
@@ -275,7 +275,7 @@ Just like when you share information by email or elsewhere on the web, informati
 
 Your friends and the other people you share information with often want to share your information with applications to make their experiences on those applications more personalized and social. For example, one of your friends might want to use a music application that allows them to see what their friends are listening to. To get the full benefit of that application, your friend would want to give the application her friend list – which includes your User ID – so the application knows which of her friends is also using it. Your friend might also want to share the music you “like” on Facebook. If you have made that information public, then the application can access it just like anyone else. But if you’ve shared your likes with just your friends, the application could ask your friend for permission to share them.
 
-You can control most of the information other people can share with applications they use from the “[App][18]” settings page. But these controls do not let you limit access to your public information and friend list.
+You can control most of the information other people can share with applications they use from the “[App][17]” settings page. But these controls do not let you limit access to your public information and friend list.
 
 If you want to completely block applications from getting your information when your friends and others use them, you will need to turn off all Platform applications. This means that you will no longer be able to use any third-party Facebook-integrated games, applications or websites.
 
@@ -300,7 +300,7 @@ Sometimes plugins act just like applications. You can spot one of these plugins 
 
 If you make something public using a plugin, such as posting a public comment on a newspaper's website, then that website can access your comment (along with your User ID) just like everyone else.
 
-![][2] If you post something using a social plugin and you do not see a sharing icon, you should assume that story is Public. For example, if you post a comment through a Facebook comment plugin on a site, your story is Public and everyone, including the website, can see your story.  
+![][1] If you post something using a social plugin and you do not see a sharing icon, you should assume that story is Public. For example, if you post a comment through a Facebook comment plugin on a site, your story is Public and everyone, including the website, can see your story.  
 ![][1] Websites that use social plugins can sometimes tell that you have engaged with the social plugin. For example, they may know that you clicked on a Like button in a social plugin.   
 ![][1] We receive data when you visit a site with a social plugin. We keep this data for a maximum of 90 days. After that, we remove your name and any other personally identifying information from the data, or combine it with other people's data in a way that it is no longer associated with you. Learn more at: <https://www.facebook.com/help/social-plugins>  
 
@@ -312,7 +312,7 @@ The first time you visit a site or app using instant personalization, you will s
 
 The notification will give you the ability to disable or turn off instant personalization for that site or app. If you do that, that site or app is required to delete all of the information about you it received from Facebook as part of the instant personalization program. In addition, we will prevent that site from accessing your information in the future, even when your friends use that site.
 
-If you decide that you do not want to experience instant personalization for all partner sites and apps, you can disable instant personalization from the “[Apps][18]” settings page. 
+If you decide that you do not want to experience instant personalization for all partner sites and apps, you can disable instant personalization from the “[Apps][17]” settings page. 
 
 If you turn off instant personalization, these partner third party sites and apps will not be able to access your public information, even when your friends visit those sites.
 
@@ -330,13 +330,13 @@ When you visit a site or app using instant personalization, we provide the site 
 Your public search setting controls whether people who enter your name on a public search engine may see your public timeline (including in sponsored results). You can find your public search setting on the “[Privacy Settings and Tools][7]” settings page. 
 
 ![][2] This setting does not apply to search engines that access your information as an application using Facebook Platform.  
-![][1] If you turn your public search setting off and then search for yourself on a public search engine, you may still see a preview of your timeline. This is because some search engines cache information for a period of time. You can learn more about how to request a search engine to remove you from cached information at: [ https://www.facebook.com/help/?faq=13323][19]  
+![][1] If you turn your public search setting off and then search for yourself on a public search engine, you may still see a preview of your timeline. This is because some search engines cache information for a period of time. You can learn more about how to request a search engine to remove you from cached information at: [ https://www.facebook.com/help/?faq=13323][18]  
 
 **_IV. Advertising and Facebook content_**
 
 **_Advertising_**
 
-Facebook offers a [range of products][20] that allow advertisers to reach people on and off Facebook. In addition to the information we provide in this section, you can also learn more about advertising products, how they work, our partnerships, and the [controls][21] you have, by visiting our “[Advertising on Facebook][20]” page. 
+Facebook offers a [range of products][19] that allow advertisers to reach people on and off Facebook. In addition to the information we provide in this section, you can also learn more about advertising products, how they work, our partnerships, and the [controls][20] you have, by visiting our “[Advertising on Facebook][19]” page. 
 
 When we deliver ads, we do not share your information (information that personally identifies you, such as your name or contact information) with advertisers unless you give us permission. We may provide advertisers with information when we have removed your name and other personally identifying information from it, or combined it with other information so that it no longer personally identifies you. For example, we may tell an advertiser how its ads perform or how many people viewed or clicked on their ads or install an app after seeing an ad.
 
@@ -354,15 +354,15 @@ For many ads we serve, advertisers may choose their audience by location, demogr
 * Page likes (including topics such as products, brands, religion, health status, or political views): for example, if you like a Page about gluten-free food, you may receive ads about relevant food products; or
 * categories (including things like "moviegoer" or a "sci-fi fan"): for example, if a person "likes" the "Star Trek" Page and mentions "Star Wars" when they check into a movie theater, we may infer that this person is likely to be a sci-fi fan and advertisers of sci-fi movies could ask us to target that category.
 
-In addition to delivering relevant ads, Facebook sometimes pairs ads with [social context][22], meaning stories about social actions that you or your friends have taken. For example, an ad for a sushi restaurant’s Facebook Page may be paired with a News Feed story that one of your friends likes that Page.
+In addition to delivering relevant ads, Facebook sometimes pairs ads with [social context][21], meaning stories about social actions that you or your friends have taken. For example, an ad for a sushi restaurant’s Facebook Page may be paired with a News Feed story that one of your friends likes that Page.
 
-We also sometimes serve these same types of ads on other sites or may serve just the social context (such as with ads served by others), so that the ads are more relevant to you. Just like any other content you share on Facebook, only people who you’re already sharing with on Facebook would see it when it is paired with an ad. We also allow advertisers to reach people on Facebook using the information they already have about you (such as email addresses or whether you have visited their websites previously). You can learn more about ads, social context, and our partnerships, including the relevant settings and controls available to you, by visiting the [Advertising on Facebook][20] page. 
+We also sometimes serve these same types of ads on other sites or may serve just the social context (such as with ads served by others), so that the ads are more relevant to you. Just like any other content you share on Facebook, only people who you’re already sharing with on Facebook would see it when it is paired with an ad. We also allow advertisers to reach people on Facebook using the information they already have about you (such as email addresses or whether you have visited their websites previously). You can learn more about ads, social context, and our partnerships, including the relevant settings and controls available to you, by visiting the [Advertising on Facebook][19] page. 
 
-![][2] If an advertiser chooses to run ads, we serve the ads to people who meet criteria the advertiser selects. So, if someone views or otherwise interacts with the ad, the advertiser might assume that the person meets the criteria they selected (for example, that the person is an 18-to-35-year-old woman who lives in the U.S. and likes basketball). We require advertisers to comply with our [ Advertising Guidelines][23], including provisions relating to the use of sensitive data. 
+![][2] If an advertiser chooses to run ads, we serve the ads to people who meet criteria the advertiser selects. So, if someone views or otherwise interacts with the ad, the advertiser might assume that the person meets the criteria they selected (for example, that the person is an 18-to-35-year-old woman who lives in the U.S. and likes basketball). We require advertisers to comply with our [ Advertising Guidelines][22], including provisions relating to the use of sensitive data. 
 
-![][1]Advertisers and their partners sometimes use cookies or other similar technologies in order to serve and measure ads and to make their ads more effective. Learn more about cookies, pixels and similar technologies. 
+![][2]Advertisers and their partners sometimes use cookies or other similar technologies in order to serve and measure ads and to make their ads more effective. Learn more about cookies, pixels and similar technologies. 
 
-![][1]When you post a story on Facebook and an advertiser [sponsors it][22], nothing changes about the audience of the post. Only the people who could originally see the post (the people you shared it with) are eligible to see it. 
+![][2]When you post a story on Facebook and an advertiser [sponsors it][21], nothing changes about the audience of the post. Only the people who could originally see the post (the people you shared it with) are eligible to see it. 
 
 **_Facebook content_**
 
@@ -388,17 +388,17 @@ We may ask advertisers or other partners to serve ads or services to computers, 
 
 Most companies on the web use cookies (or other similar technological tools), including our advertising and Platform partners. For example, our Platform partners, advertisers or Page administrators may use cookies or similar technologies when you access their apps, ads, Pages or other content. 
 
-![][1] Cookies and things like local storage help make Facebook work, like allowing pages to load faster because certain content is stored on your browser or by helping us authenticate you to deliver personalized content.   
-![][2] To learn more about how advertisers generally use cookies and the choices advertisers provide, visit the Network Advertising Initiative at [http://www.networkadvertising.org/managing/opt_out.asp][24], the Digital Advertising Alliance at [http://www.aboutads.info/][25], the Internet Advertising Bureau (US) at [http://www.iab.net][26] or the Internet Advertising Bureau (EU) at [http://youronlinechoices.eu/][27].   
+![][2] Cookies and things like local storage help make Facebook work, like allowing pages to load faster because certain content is stored on your browser or by helping us authenticate you to deliver personalized content.   
+![][1] To learn more about how advertisers generally use cookies and the choices advertisers provide, visit the Network Advertising Initiative at [http://www.networkadvertising.org/managing/opt_out.asp][23], the Digital Advertising Alliance at [http://www.aboutads.info/][24], the Internet Advertising Bureau (US) at [http://www.iab.net][25] or the Internet Advertising Bureau (EU) at [http://youronlinechoices.eu/][26].   
 ![][1] Refer to your browser or device's help material to learn what controls you can often use to remove or block cookies or other similar technologies or block or remove other data stored on your computer or device (such as by using the various settings in your browser). If you do this, it may affect your ability to use Facebook or other websites and apps.   
 
 **_VI. Some other things you need to know_**
 
 **Safe harbor**  
-Facebook complies with the U.S.-EU and U.S.-Swiss Safe Harbor frameworks as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor website at: [https://safeharbor.export.gov/list.aspx][28]. As part of our participation in the Safe Harbor program, we agree to resolve disputes you have with us in connection with our policies and practices through TRUSTe. If you would like to contact TRUSTe, visit:[https://feedback-form.truste.com/watchdog/request][29]  
+Facebook complies with the U.S.-EU and U.S.-Swiss Safe Harbor frameworks as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor website at: [https://safeharbor.export.gov/list.aspx][27]. As part of our participation in the Safe Harbor program, we agree to resolve disputes you have with us in connection with our policies and practices through TRUSTe. If you would like to contact TRUSTe, visit:[https://feedback-form.truste.com/watchdog/request][28]  
 
 **Contact us with questions or disputes**  
-If you have questions or complaints regarding our Data Use Policy or practices, please contact us by mail at 1601 Willow Road, Menlo Park, CA 94025 if you reside in the U.S. or Canada, or at Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Ireland if you live outside the U.S. or Canada. Anyone may also contact us through this help page: [https://www.facebook.com/help/contact_us.php?id=173545232710000][30]  
+If you have questions or complaints regarding our Data Use Policy or practices, please contact us by mail at 1601 Willow Road, Menlo Park, CA 94025 if you reside in the U.S. or Canada, or at Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Ireland if you live outside the U.S. or Canada. Anyone may also contact us through this help page: [https://www.facebook.com/help/contact_us.php?id=173545232710000][29]  
 
 **Responding to legal requests and preventing harm**  
 We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm.   
@@ -406,10 +406,10 @@ We may access, preserve and share your information in response to a legal reques
 Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms.  
 
 **Access requests**  
-You can access and correct most of your personal data stored by Facebook by logging into your account and viewing your timeline and activity log. You can also download a copy of your personal data by visiting your “[Settings][31]” (General Account Settings page), clicking on “Download a copy of your Facebook data” and then clicking on the link for your expanded archive. Learn more at: <https://www.facebook.com/help/?faq=226281544049399>  
+You can access and correct most of your personal data stored by Facebook by logging into your account and viewing your timeline and activity log. You can also download a copy of your personal data by visiting your “[Settings][30]” (General Account Settings page), clicking on “Download a copy of your Facebook data” and then clicking on the link for your expanded archive. Learn more at: <https://www.facebook.com/help/?faq=226281544049399>  
 
 **Notifications and Other Messages**  
-We may send you notifications and other messages using the contact information we have for you, like your email address. You can control most of the notifications you receive, including ones from Pages you like and applications you use, using controls we provide, such as a control included in the email you receive or in your “[Notifications][32]” settings.   
+We may send you notifications and other messages using the contact information we have for you, like your email address. You can control most of the notifications you receive, including ones from Pages you like and applications you use, using controls we provide, such as a control included in the email you receive or in your “[Notifications][31]” settings.   
 
 **Friend Finder**  
 We offer tools to help you upload your friends' contact information so that you and others can find friends on Facebook, and invite friends who do not use Facebook to join, and so we can offer you and others better experiences on Facebook through suggestions and other customized experiences. If you do not want us to store this information, visit this help page at: <https://www.facebook.com/contact_importer/remove_uploads.php>. 
@@ -431,56 +431,55 @@ We may share information we receive with businesses that are legally part of the
 We give your information to the people and companies that help us provide, understand and improve the services we offer. For example, we may use outside vendors to help host our website, serve photos and videos, process payments, analyze data, conduct and publish research, measure the effectiveness of ads, or provide search results. In some cases we provide the service jointly with another company, such as the Facebook Marketplace. In all of these cases our partners must agree to only use your information consistent with the agreement we enter into with them, as well as this Data Use Policy.   
 
 **Security and bugs**  
-We do our best to keep your information secure, but we need your help. For more detailed information about staying safe on Facebook, visit the [Facebook Security Page][33]. We try to keep Facebook up, bug-free and safe, but can’t make guarantees about any part of our services or products.  
+We do our best to keep your information secure, but we need your help. For more detailed information about staying safe on Facebook, visit the [Facebook Security Page][32]. We try to keep Facebook up, bug-free and safe, but can’t make guarantees about any part of our services or products.  
 
 **Change of Control**  
 If the ownership of our business changes, we may transfer your information to the new owner so they can continue to operate the service. But they will still have to honor the commitments we have made in this Data Use Policy.  
 
 **Notice of Changes**  
-If we make changes to this Data Use Policy we will notify you (for example, by publication here and on the [Facebook Site Governance Page][34]). If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances. You can make sure that you receive notice directly by liking the [Facebook Site Governance Page][34].  
+If we make changes to this Data Use Policy we will notify you (for example, by publication here and on the [Facebook Site Governance Page][33]). If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances. You can make sure that you receive notice directly by liking the [Facebook Site Governance Page][33].  
 
 **Opportunity to comment**  
-Unless we make a change for legal or administrative reasons, or to correct an inaccurate statement, we will give you seven (7) days to provide us with comments on the change. After the comment period, if we adopt any changes, we will provide notice (for example, on the [Facebook Site Governance Page][34] or in this policy) of the effective date.  
+Unless we make a change for legal or administrative reasons, or to correct an inaccurate statement, we will give you seven (7) days to provide us with comments on the change. After the comment period, if we adopt any changes, we will provide notice (for example, on the [Facebook Site Governance Page][33] or in this policy) of the effective date.  
 
 **Information for users outside of the United States and Canada**  
 Company Information: The website under www.facebook.com and the services on these pages are being offered to users outside of the U.S. and Canada by Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Ireland. The company Facebook Ireland Ltd. has been established and registered in Ireland as a private limited company, Company Number: 462932, and is the data controller responsible for your personal information.  
 Directors: Sonia Flynn (Irish), Shane Crehan (Irish).  
 
 **Your California privacy rights**  
-California law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties' direct marketing purposes. Facebook does not share your information with third parties for the third parties’ own and independent direct marketing purposes unless we receive your permission. Learn more about the information we receive and how it is used and  other websites and applications. If you have questions about our sharing practices or your rights under California law, please write us at 1601 Willow Road, Menlo Park, CA 94025 or contact us through this help page: [https://www.facebook.com/help/contact_us.php?id=173545232710000][30]  
+California law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties' direct marketing purposes. Facebook does not share your information with third parties for the third parties’ own and independent direct marketing purposes unless we receive your permission. Learn more about the information we receive and how it is used and  other websites and applications. If you have questions about our sharing practices or your rights under California law, please write us at 1601 Willow Road, Menlo Park, CA 94025 or contact us through this help page: [https://www.facebook.com/help/contact_us.php?id=173545232710000][29]  
 
-[1]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851584_158507801001662_921045470_n.png?oh=a998a005e5b4efb7b6eef1ef3f4a85a3&oe=5B364C9C
-[2]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851584_158507801001662_921045470_n.png?_nc_cat=0&oh=a998a005e5b4efb7b6eef1ef3f4a85a3&oe=5B364C9C
+[1]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851584_158507801001662_921045470_n.png?_nc_cat=0&oh=a998a005e5b4efb7b6eef1ef3f4a85a3&oe=5B364C9C
+[2]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851584_158507801001662_921045470_n.png?oh=a998a005e5b4efb7b6eef1ef3f4a85a3&oe=5B364C9C
 [3]: /help/203805466323736
 [4]: https://developers.facebook.com/docs/api
 [5]: https://www.facebook.com/help/contact.php?show_form=delete_account
 [6]: https://www.dev.facebook.com/editaccount.php?networks
 [7]: /settings?tab=privacy
 [8]: /settings
-[9]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851564_485081814906267_736176151_n.png?_nc_cat=0&oh=268ddbae6b5562bea60dd4106bd98d4b&oe=5B27858D
+[9]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851564_485081814906267_736176151_n.png?oh=268ddbae6b5562bea60dd4106bd98d4b&oe=5B27858D
 [10]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851559_549098508479709_1336360800_n.png?_nc_cat=0&oh=ea24ccbdc040e28aaaeded5a6ccc358c&oe=5B475A85
 [11]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851583_449207088510646_1594381402_n.png?_nc_cat=0&oh=908735b8acdebe305f942613078f8754&oe=5B4051C5
-[12]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851564_485081814906267_736176151_n.png?oh=268ddbae6b5562bea60dd4106bd98d4b&oe=5B27858D
+[12]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851564_485081814906267_736176151_n.png?_nc_cat=0&oh=268ddbae6b5562bea60dd4106bd98d4b&oe=5B27858D
 [13]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851559_549098508479709_1336360800_n.png?oh=ea24ccbdc040e28aaaeded5a6ccc358c&oe=5B475A85
-[14]: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/851583_449207088510646_1594381402_n.png?oh=908735b8acdebe305f942613078f8754&oe=5B4051C5
-[15]: https://www.facebook.com/note.php?note_id=196124227075034&__adt=3&__att=iframe
-[16]: https://www.facebook.com/help/181495968648557/
-[17]: /help/100522066706974
-[18]: /settings?tab=applications
-[19]: https://www.facebook.com/help/?faq=13323
-[20]: /about/ads
-[21]: /about/ads/#568137493302217
-[22]: /about/ads/#types
-[23]: https://www.facebook.com/ad_guidelines.php
-[24]: http://l.facebook.com/l.php?u=http://www.networkadvertising.org/managing/opt_out.asp&h=ATOy6VR4FqWaAgisPAm1uLApUumb21HCMrvMai5-RbDjyvyvZJoo1tTSzE-NWrgjzNudSWV9UcCMOVKJLDXtsl5UK95b32cVVH3LsmlR82s7P3zXj1jQAU2Onvx0Aw
-[25]: http://l.facebook.com/l.php?u=http://www.aboutads.info/&h=ATOnmddvHo2HMF3k_oYPPFi1bIJnJaqXt34m4QI6VSQGM3dWpzYbbQUT_0-Qd2nvrnvcFsiGYk8Jalfjf9WRxXy_chvxWTi0d6jLd2WT3x2n2O7hcDyzbQMHHE-6VQ
-[26]: http://l.facebook.com/l.php?u=http://www.iab.net/&h=ATMKKFEJbGrrQIDIUwwCm4qvZO47rT3iaq9FvBcRUg-1BFGuTueEDxC2yddq5sZGSUZpOvyeOImI_QLAIgfVEa-kRQYIocys59iuyOoX5GJSU1K5Arw8HDbPeQlnmQ
-[27]: http://l.facebook.com/l.php?u=http://youronlinechoices.eu/&h=ATNRocP79NDfSxGxj5BXDqwZNlnUmFqFxpFodK6BV5M_dzgY5-zVXHw362tbUrxfNzFgysSy-4x0sb8eZY62YTtcTsHLLCNSAncKxF5MtV48JZgxGYRMOGAe6e-IZw
-[28]: https://l.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=ATMDI6BHvugAqa2qd6Zi7xiD5DNpsrsb-TcvLO2rHthB5HMNxPgvE9RgidcOK3Hiw62EANtLKMlmZBfMPdBnKMhWcJDYUkx6dF-uHwQDiBi_6xqlp66StkBdOh7S2g
-[29]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATMZXaHqIU7qZ6E2fPFvhSn0Or_A0m3LEvZn07RkUgbM8DfvYsNP-1s00YKvKLP6V0E9MrwpoKIbfevYrBcTDfO0qNoKiHpmlhv8iBTz50kvp6U3CaMbOdYhZTsaRQ
-[30]: /help/contact/173545232710000
-[31]: https://www.facebook.com/settings
-[32]: /settings?tab=notifications
-[33]: https://www.facebook.com/security
-[34]: https://www.facebook.com/fbsitegovernance
+[14]: https://www.facebook.com/note.php?note_id=196124227075034&__adt=3&__att=iframe
+[15]: https://www.facebook.com/help/181495968648557/
+[16]: /help/100522066706974
+[17]: /settings?tab=applications
+[18]: https://www.facebook.com/help/?faq=13323
+[19]: /about/ads
+[20]: /about/ads/#568137493302217
+[21]: /about/ads/#types
+[22]: https://www.facebook.com/ad_guidelines.php
+[23]: http://l.facebook.com/l.php?u=http://www.networkadvertising.org/managing/opt_out.asp&h=ATMTqZbEsHOqKdQDvAjJLh4KPN496C8afaCWNQX6CzvXNwgl8kjFK87wAY7ydTIkOGnNPg_mSq8U7KYcyN0Ko_armCgSVk-wuwUU4lkHt9cHiPEWDJfdaaiR2qGs0g
+[24]: http://l.facebook.com/l.php?u=http://www.aboutads.info/&h=ATPpxF50dqHbiEVfszlLyJuxao9JYgtli-BNVdWjkPd8T2k_zAQ_NkQlTn9rMDS0C_-ktOo-NEAPqM7KiQvGiUXjwgoy9uI9qZv3QPZo2UPW_XwIHPe97EtH5LWo9A
+[25]: http://l.facebook.com/l.php?u=http://www.iab.net/&h=ATMGaBueysTAkWhKmVKoI7WEFqkyMB1MeL2RPEWUbo3RbEvq50GGlbKSlvwGskrEgFFnUxh2qmXW1T4j4p38tORVL5wQzI7JcMyVTVK6hUef0R7Q7dbFnxviPKvwmw
+[26]: http://l.facebook.com/l.php?u=http://youronlinechoices.eu/&h=ATNZXfE9ReRfXJrgczWzlnnSXhjV7R1qJhYfDXM5PMxkf1wUjc3qNnZKd0XCH56EBM1zaZ-SxTkW_f4IJGrgtw2w8bs9u0xIMuvuDUcFX2nuM34cyXmJFyetQ2z2mA
+[27]: https://l.facebook.com/l.php?u=https://safeharbor.export.gov/list.aspx&h=ATOgadE6T2y_1gI-0OUawORxzA17vuOj8xiLXrkUKVpyxUinuzkak9H2cuqzn9xYllKK2hbaTD2vbWSVRZQ4rSVjwbunjpLCyZf0-oOtGZC-higftBSI_yuIbuCnlw
+[28]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATPjF4EBE3jkkEZ0pYMLF8N_f1AL_okC6QVV3nVgxa1olniGFEu5ziNxcIpF_VkeW8WvILejY7J2rk5_7R92b9e0DYIXOUbqjslZVM9GGcTAnksOGE_aBGWZEhsUeA
+[29]: /help/contact/173545232710000
+[30]: https://www.facebook.com/settings
+[31]: /settings?tab=notifications
+[32]: https://www.facebook.com/security
+[33]: https://www.facebook.com/fbsitegovernance
 
