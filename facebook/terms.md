@@ -169,7 +169,7 @@ By using or accessing Facebook Services, you agree that we can collect and use s
 
 To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version. 
 
-[1]: https://www.facebook.com/legal/terms/update
+[1]: https://www.facebook.com/legal/terms/update?ref=old_policy
 [2]: https://www.facebook.com/principles.php
 [3]: /help/1561485474074139
 [4]: /about/privacy/
@@ -184,10 +184,10 @@ To access the Statement of Rights and Responsibilities in several different lang
 [13]: /ad_guidelines.php
 [14]: https://www.facebook.com/page_guidelines.php
 [15]: https://www.facebook.com/terms/provisions/german/index.php
-[16]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATOJCcH_p7pbeUKzk5TcOApV_8FCtBh7RH-L_xM_-7WfDRlfE1a9pM22t9TOEv8E1iu31K9es2y_XJkP9_kc3F54hcEnVCyCLoafiwJj87h4DJ-6tHcnC5Qm0pLbtw
+[16]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATMuRIYH8mQn8gOjixHSd39V9EK-mZN-y85G8FG43DpriFlkkXq1tLx-UKDrUr6MOQhm5ELepo53I2qmDHcKbdSmH-2v4zjuWMUIzCB5316dzjuC391iSpR43dwSbw
 [17]: /platform
 [18]: https://developers.facebook.com/policy/
 [19]: /page_guidelines.php#promotionsguidelines
-[20]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATPKHF7rYM2x8MM6xSR9huWHzYJcQaibOjHq0qHjUUmr5Z3DYNNyAGnWunsKxa1shANo3vPjizrhkk_0BjdBtmDzd08V5e-I-BM4O4O17pEchVjbteS4Ga-d3yyQ5g
+[20]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATMqvQ9_TeoXqgjS8THeOnqFqnzQAn80yvn4CAB_cr0fO4wEQLyD0rOvzRakNetXBrb7iS7OBhE1qIPlSot2fCZqgiXP-ZYKtyRnGw55MVtU8F28rbx4Eo-bfvK8aQ
 [21]: /communitystandards
 
