@@ -122,7 +122,7 @@ Facebook Ireland Ltd.
 4 Grand Canal Square, Grand Canal Harbour  
 Dublin 2, Ireland
 
-[1]: https://www.facebook.com/about/privacy/update
+[1]: https://www.facebook.com/about/privacy/update?ref=old_policy
 [2]: /about/basics
 [3]: /help/1561485474074139
 [4]: https://research.facebook.com/
@@ -141,6 +141,6 @@ Dublin 2, Ireland
 [17]: /me/allactivity
 [18]: /help/405183566203254/
 [19]: /help/125338004213029
-[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATPd_WIwVRrYTVM4l3f0TeU8JUyEYG_DH9vEYZDUy4tJJTbXT7YqAJC2MON1C0bXuZ2pIiV_xYh_DMToPLfjKfVoItZFHi99FNKybG8-gFZRqnv1Tn5BTIwkca_Eig
+[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATN-_eDKSsLV5rNqRXi6eujstiTp_NNdbPbRPSXGCPv5pGktgXB__2VgtT3d4Mdgz7IprXnf8aCaqP1g42NH0xc3_H2yLLfwIxL0h48d2-e31bJCQ_R0izkVPf972g
 [21]: /help/contact/173545232710000
 
