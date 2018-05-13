@@ -53,7 +53,7 @@ Menu
 
 ## About Your Account
 
-This user agreement will be effective as to all users on July 27, 2017.
+This user agreement will be effective as to all users on April 19, 2018.
 
  
 
@@ -61,7 +61,7 @@ Welcome to PayPal!
 
 This user agreement is a contract between you and PayPal, Inc. that governs your use of your PayPal account and the PayPal services. It applies to U.S. PayPal accounts only.  For an individual to open a U.S. PayPal account and use the PayPal services, you must be a resident of the United States or one of its territories and at least 18 years old, or the age of majority in your state of residence.  For a business to open a U.S. PayPal account and use the PayPal services, the business must be organized in, operating in, or resident of, the United States or one of its territories.
 
-By opening and using a PayPal account, you agree to comply with all of the terms and conditions in this user agreement, so please read all of the terms and conditions carefully.  You also agree to comply with the following additional policies and each of the other agreements on the [Legal Agreements][1] page that apply to you:
+By opening and using a PayPal account, you agree to comply with all of the terms and conditions in this user agreement, so please read all of the terms and conditions carefully. The terms include an agreement to resolve disputes by arbitration on an individual basis. You also agree to comply with the following additional policies and each of the other agreements on the [Legal Agreements][1] page that apply to you:
 
 * [Privacy Policy][6]
 * [Acceptable Use Policy][7]
@@ -79,8 +79,8 @@ All PayPal accounts let you do things like:
 
 * Send and receive money.
 * Buy things online, using mobile devices or in stores.
-* Pay using your debit card, credit card, bank account, PayPal balance or other payment methods.
-* Accept debit card, credit card, bank account, PayPal balance or other payment methods.
+* Pay using your debit card, credit card, bank account, PayPal balance (if we have verified the required identifying information you provided to us) or other payment methods.
+* Accept debit card, credit card, bank account, PayPal balance or other payment methods from others.
 
 You are responsible for maintaining adequate security and control of any and all IDs, passwords, personal identification numbers (PINs), or any other codes that you use to access your PayPal account and the PayPal services. You are responsible for keeping your mailing address, email address and other contact information up-to-date in your PayPal account profile.
 
@@ -93,7 +93,7 @@ If you primarily need to make purchases and send money to family and friends, a 
 * Send and request money from friends and family.
 * Buy goods and services.
 
-You can also use a personal account to receive money for the sale of goods and services, but if you plan to use your PayPal account primarily to sell things, you should consider a business account.  You can upgrade a personal account to a business account should circumstances change.
+You can also use a personal account to receive money for the sale of goods and services, but if you plan to use your PayPal account primarily to sell things, you should consider a business account.  You can convert your PayPal account from a personal account to a business account should circumstances change.
 
  
 
@@ -105,21 +105,21 @@ We recommend business accounts for people and organizations that primarily use P
 * Allow up to 200 employees access to some of the features of your PayPal account.
 * Sign up for [PayPal products][10] that meet your business needs.
 
-**By opening up a business account or upgrading a personal account to a business account, you certify to us that you are using it primarily for a business or commercial purpose**.  **You also consent to ****PayPal obtaining your personal and/or business credit report from a credit reporting agency at account opening and whenever we reasonably believe there may be an increased level of risk associated with your business account.**
+Business accounts may be subject to fees that differ from the fees applicable to personal accounts.
+
+**By opening up a business account or converting a personal account to a business account, you certify to us that you are using it primarily for a business or commercial purpose**.  **You also consent to ****PayPal obtaining your personal and/or business credit report from a credit reporting agency at account opening and whenever we reasonably believe there may be an increased level of risk associated with your business account.**
 
 In addition, when the activity through your business account reaches certain thresholds or involves certain business segments or activities, you are required by the card networks to agree to a Commercial Entity Agreement to allow you to continue accepting Visa and MasterCard payments.  In this case, these [Commercial Entity Agreements][11] will apply to any payment processed by PayPal on your behalf and will form part of this user agreement.
 
 ### Closing Your PayPal Account
 
-When you close your PayPal account, we will cancel any scheduled or incomplete transactions. You must withdraw any PayPal balance from your PayPal account prior to closing it.  You cannot withdraw PayPal balances associated with digital gift certificates/cards that are purchased through [PayPal Digital Gifts][12] and linked to your account as payment methods. However, even without your PayPal account, you can still use the codes you received by email when you purchased the gift certificates/cards to make purchases. 
+When you close your PayPal account, we will cancel any scheduled or incomplete transactions. You must withdraw or transfer any PayPal balance from your PayPal account before closing it. If you have not provided the required identifying information to us, or if we are unable to verify the required identifying information you provide, you must transfer any PayPal balance to a linked bank account or debit card. You cannot withdraw or transfer digital gift certificates/cards that are purchased through [PayPal Digital Gifts][12] and linked to your PayPal account as payment methods. However, even without your PayPal account, you can still use the codes you received by email when you purchased the gift certificates/cards to make purchases. 
 
 You will remain liable for all obligations related to your PayPal account even after the PayPal account is closed.
 
 In certain cases, you may not close your PayPal account, including:
 
 * To evade an investigation.
-* If you have an open [PayPal Credit][13] account linked to your PayPal account; however, your PayPal account can be restricted at your request so it is only open to enable you to service your PayPal Credit account.
-* If you have a pending PayPal [Pay After Delivery][14] transaction, we will not close your PayPal account until that transaction has been completed, but we may limit your ability to make additional transactions using your PayPal account.
 * If you have a pending transaction or an open dispute or claim.
 * If your PayPal account has a negative balance.
 * If your PayPal account is subject to a hold, limitation or reserve.
@@ -130,17 +130,30 @@ In certain cases, you may not close your PayPal account, including:
 
 ### Link or Unlink a Payment Method
 
-You can link or unlink a debit card, credit card, a U.S. bank account or PayPal Credit to your PayPal account as a payment method. Please keep your payment method information current (i.e. credit card number and expiration date).  If this information changes, we may update it as directed by your bank or card issuer without any action on your part.  You may choose to confirm your card, so that we can verify that the card is valid and that you are the card owner.  To do this, we will charge $1.95 to the card.  After the card is confirmed, we will immediately refund this amount to the card.
+You can link or unlink a debit card, credit card, a U.S. bank account or PayPal Credit to your PayPal account as a payment method. Please keep your payment method information current (e.g. credit card number and expiration date).  If this information changes, we may update it as directed by your bank or card issuer without any action on your part.  You may choose to confirm your card, so that we can verify that the card is valid and that you are the card owner.  To do this, we will charge $1.95 to the card.  After the card is confirmed, we will immediately refund this amount to the card.
 
 ### Holding a PayPal Balance
 
-Money that you receive from other PayPal account holders is held as a balance in your PayPal account.  Any PayPal balance you hold represents an unsecured claim against PayPal and is not insured by the Federal Deposit Insurance Corporation (FDIC).  PayPal combines your PayPal balance with the PayPal balances of other PayPal customers and invests those funds in liquid investments in accordance with state money transmitter laws.  PayPal owns the interest or other earnings on these investments.  These pooled amounts are held separate from PayPal’s corporate funds, and PayPal will neither use these funds for its operating expenses or any other corporate purposes nor will it voluntarily make these funds available to its creditors in the event of bankruptcy.
+Money that you receive from other PayPal account holders is held as a balance in your PayPal account. The balance functionality in your PayPal account will differ depending on whether we have been able to verify the required identifying information that you provide to us.The required identifying information is: name, physical address, date of birth and taxpayer identification number.
+
+* If we have not verified the required identifying information, a balance in your PayPal account can generally only be held in your PayPal account and transferred to a linked bank account or debit card. In certain instances, even if we haven’t verified the required identifying information that you provide to us, your balance may also be used to fund payments or money owed to PayPal, such as payments on your PayPal Credit account or your PayPal Working Capital account, or monies owed for refunds or chargebacks.
+* If we have verified the required identifying information, a balance can be held in your PayPal account, transferred to a linked bank account or debit card, used to make purchases or send money to others.  This functionality requires that you provide the required identifying information to us and that we are able to verify the accuracy of that information.
+
+Any PayPal balance you hold represents an unsecured claim against PayPal and, except as provided below, is not insured by the Federal Deposit Insurance Corporation (FDIC). PayPal combines your PayPal balance with the PayPal balances of other PayPal customers and invests those funds in liquid investments in accordance with state money transmitter laws. PayPal owns the interest or other earnings on these investments. However, the claim against PayPal represented by your PayPal balance is not secured by these investments and you do not have any ownership interest (either legal or beneficial) in these investments. These combined balances are held apart from PayPal’s corporate funds, and PayPal does not use these balances for its operating expenses or any other corporate purposes. Additionally, PayPal will not voluntarily make these balances available to its creditors in the event of bankruptcy.
+
+ 
+
+#### Direct Deposit and Goals; Effect on Balance
+
+When you add money to your PayPal balance using direct deposit or when you activate our goals feature to manage your finances, the funds in your balance (including funds allocated to your goals) will be eligible for FDIC pass-through insurance.  PayPal will hold these funds as your agent and custodian, and you will be the ultimate beneficial owner of the funds.  PayPal will deposit your funds into one or more custodial accounts we maintain for the benefit of PayPal accountholders at one or more FDIC-insured banks.  FDIC pass-through insurance protects you against the risk of loss of your U.S. dollar deposits (up to the applicable FDIC insurance limits) should the FDIC-insured bank where we deposit your funds fail.  FDIC pass-through insurance does not apply to funds held in any non-U.S. dollar currencies.
+
+There might be a short delay between the time that funds are credited to your PayPal account and when we transfer those funds into one of the custodial accounts.  During this period and before the funds are transferred, they might not be eligible for pass-through FDIC insurance, although we will still be holding the funds as your agent and custodian.
 
 ### Adding or Withdrawing Money
 
 #### Adding money
 
-You may transfer money to your PayPal balance from any bank account linked to your PayPal account by requesting an electronic transfer from your bank account.  You don't need a PayPal balance to send money or buy something using your PayPal account.  You may use the payment methods linked to your PayPal account to fund transactions you make using your PayPal account.
+You don't need a PayPal balance to send money or buy something using your PayPal account.  You may use the payment methods linked to your PayPal account to fund transactions you make using your PayPal account. If we have verified the required identifying information that you provide to us, you may transfer money to your PayPal balance from any bank account linked to your PayPal account by requesting an electronic transfer from your bank account. If we have not verified the required identifying information that you have provided to us, you cannot add funds to your PayPal balance from linked payment methods.
 
 ####  
 
@@ -149,9 +162,9 @@ You may transfer money to your PayPal balance from any bank account linked to yo
 If you have a PayPal balance, you may withdraw it by:
 
 * Transferring it to a bank account linked to your PayPal account,
-* Transferring it to an eligible debit card linked to your PayPal account (subject to a $0.25 fee, which will be deducted from the amount of the withdrawal),
-* Withdrawing it from an ATM (automated teller machine) using your PayPal-branded debit card (fees may apply), or
-* Requesting a check from us (subject to a non-refundable fee of $1.50, which will be deducted from the amount of the withdrawal).
+* Transferring it to an eligible debit card linked to your PayPal account, subject to the fees applicable to such transfers that can be found on the [Fees for Transferring Balance (for personal accounts) page][13] and the [Fees for Transferring Balance (for business accounts) page][14] and that will be disclosed to you in advance each time you initiate such a withdrawal,
+* If we have verified the required identifying information you provided to us, withdrawing it from an ATM (automated teller machine) using your PayPal-branded debit card (fees may apply), or
+* If we have verified the required identifying information you provided to us, requesting a check from us (subject to a non-refundable fee of $1.50, which will be deducted from the amount of the withdrawal).
 
 We may delay a withdrawal, in certain situations, including if we need to confirm that the withdrawal has been authorized by you or if other payments to your PayPal account have been reversed (for example, as a result of a chargeback, bank reversal or dispute by a buyer).  Additionally, if we place a limitation on your PayPal account while a withdrawal from your PayPal account is pending, you will have to reinitiate the withdrawal once the limitation has been lifted.
 
@@ -161,11 +174,13 @@ We may set limits on your withdrawals, and you can view your withdrawal limit, i
 * Linking and confirming your credit or debit card information.
 * Providing your social security number.
 
-We don’t charge a fee to make a transfer to your bank. If your debit card is eligible to receive withdrawals from your PayPal account, you will be provided the option to use it when you transfer money out of your PayPal balance (subject to a $0.25, which will be deducted from each withdrawal).
+We don’t charge a fee to make a transfer to your bank. If your debit card is eligible to receive withdrawals from your PayPal account, you will be provided the option to use it when you transfer money out of your PayPal balance, subject to the fees applicable to such transfers that can be found on the [Fees for Transferring Balance (for personal accounts) page][13] and the [Fees for Transferring Balance (for business accounts) page][14] and that will be disclosed to you in advance each time you initiate such a withdrawal.
 
 When you withdraw funds from an ATM using a PayPal-branded debit card, you may be charged a fee by the owner of the ATM and an additional fee by us per the terms of your Cardholder Agreement that can be found on the [Legal Agreements][1] page.  Other withdrawal limits also apply to the use of your PayPal-branded debit card.  Please refer to the applicable Cardholder Agreement for details that can be found on the [Legal Agreements][1] page.
 
 If you request a paper check from us, you must cash it within 180 days of the date of issuance, or we will return the funds to your PayPal balance and retain the non-refundable fee of $1.50.  We will not send a check to a post office box, and we will only send a check to an address once we have confirmed that it belongs to you.
+
+If you receive funds in your PayPal account but we have not verified the required identifying information that you have provided to us, you will be able to transfer the funds to a linked U.S. bank account or eligible debit card, but you will not be able to withdraw funds from an ATM and we will not send you a paper check for the funds. If you do not link a bank account or an eligible debit card to your PayPal account, we will hold the funds for you until you link a bank account, an eligible debit card, or until we verify the required identifying information that you provide to us.
 
  
 
@@ -173,7 +188,9 @@ If you request a paper check from us, you must cash it within 180 days of the da
 
 #### Holding a PayPal balance in a currency other than U.S. dollars
 
-Your PayPal balance may be held in any of the currencies supported by PayPal, and you may hold a PayPal balance in more than one of these currencies at the same time.  You are responsible for all risks associated with maintaining a PayPal balance in multiple currencies.  You may not manage multiple currencies for speculative trading purposes.
+Your PayPal balance may be held in any of the currencies supported by PayPal, and you may hold a PayPal balance in more than one of these currencies at the same time. If we have not verified the required identifying information that you provide to us, you can only access balance that is in a currency other than U.S. dollars by transferring the balance to a linked bank account or to an eligible debit card and such a transfer will require a currency conversion (with payment of the applicable currency conversion spread) as discussed below.
+
+You are responsible for all risks associated with maintaining a PayPal balance in multiple currencies.  You may not manage multiple currencies for speculative trading purposes.
 
  
 
@@ -189,11 +206,11 @@ Some uses of your PayPal account require a currency conversion.  Some examples 
 * Withdrawing funds from your PayPal balance held in a currency other than U.S. dollars to the bank account linked to your PayPal account.
 * If you sold something and the transaction must be refunded or reversed, and you do not have the correct currency available in your PayPal balance at the time of the refund or reversal.
 
-If PayPal converts the currency, we will use a wholesale exchange rate (adjusted from time to time based on market conditions) to perform the conversion.  
+If PayPal converts the currency, it will be completed at the transaction exchange rate we set for the relevant currency exchange. The transaction exchange rate is adjusted regularly and includes a currency conversion spread (described below) applied and retained by us on a base exchange rate to form the rate applicable to your conversion. The base exchange rate is based on rates within the wholesale currency markets on the conversion day or the prior business day; or, if required by law or regulation, set at the relevant government reference rate(s).
 
-For the purchasing and send money transactions described above in the first three bullets that involve a currency conversion, you’ll be charged an additional 3.0% of the amount of the transaction, on top of the wholesale exchange rate, as a currency conversion “spread”.  For all other transactions involving a currency conversion, you’ll be charged an additional 2.5% of the amount of the transaction, on top of the wholesale exchange rate, as a currency conversion “spread”.
+For purchase and send money transactions described above in the first three bullets that involve a currency conversion, the currency conversion spread is 3.0%. For all other transactions involving a currency conversion, the currency conversion spread is 2.5%.
 
-When you purchase goods from a merchant who accepts payment only in a specific currency that you do not hold in your PayPal balance, the currency conversion will occur at the time your transaction is processed and the wholesale exchange rate in effect at the time of the transaction will be used for this currency conversion.
+When you purchase goods from a merchant who accepts payment only in a specific currency that you do not hold in your PayPal balance, the currency conversion will occur at the time your transaction is processed and the transaction exchange rate in effect at the time the transaction is processed will be used for this currency conversion.
 
 When your payment is funded by a debit or credit card and requires a currency conversion, you consent to and authorize PayPal to convert the currency in place of your debit or credit card issuer.  You have the right to have your card issuer perform the currency conversion and can choose this option during checkout on your transaction review page before you complete the transaction.  If your card issuer converts the currency, you’ll be charged a rate set by them (shown on your statement), and you’ll be subject to any fees and terms set by them related to the conversion.
 
@@ -213,7 +230,7 @@ In the event you request that we send you written records related to your PayPal
 
 #### Sending money
 
-You can send money to a friend or family member using the send money feature in your PayPal account (sometimes called “personal payments” or “peer-to-peer/P2P payments”).  You can send money to a friend or family member even if they don’t have a PayPal account at the time you send them money, using their email address or mobile number in any currency that PayPal supports, and you can choose which payment method you want to use.  If the person to whom you are sending money does not have a PayPal account, they can claim it by creating an account, or it will be refunded to you.  Receiving money from a friend or family member is described under Receiving Money.
+You can send money to a friend or family member using the send money feature in your PayPal account (sometimes called “personal payments” or “peer-to-peer/P2P payments”).  You can send money to a friend or family member even if they don’t have a PayPal account at the time you send them money, using their email address or mobile number in any currency that PayPal supports, and you can choose which payment method you want to use.  If the person to whom you are sending money does not have a PayPal account, they can claim it by creating a PayPal account, or it will be refunded to you.  Receiving money from a friend or family member is described under Receiving Money.
 
 We may, at our discretion, impose limits on the amount of money you can send, including money you send for purchases.  You can view your sending limit, if any, by logging into your PayPal account.  Completing the same steps to verify your information as is required for the removal of withdrawal limits, may allow us to increase your sending limits.
 
@@ -248,7 +265,7 @@ You can buy something from a seller who accepts PayPal, in any currency that the
 
 * Buying something at an online retailer’s website and selecting PayPal as your payment method at checkout.
 * Sending money to a seller for good or services.
-* Using your PayPal account to buying something at a seller’s store location.
+* Using your PayPal account to buy something at a seller’s store location.
 
 If the seller you are buying from sells goods and services on a third party website or application and that seller does not already have a PayPal account, they can claim your payment by creating a PayPal account.  If they don’t open a PayPal account within 30 days, your purchase will be refunded.
 
@@ -272,13 +289,13 @@ When PayPal identifies a potentially high-risk transaction, we review the transa
 
  
 
-#### Preapproved payments
+#### Automatic payments
 
-You can agree with a seller who accepts PayPal to use PayPal as the payment method for future purchases with that seller.  This agreement is between you and the seller and allows the seller to take funds from your PayPal account with your authorization either on a one-time, regular or sporadic basis.  Preapproved payments of this type are sometimes called a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "preauthorized transfer" or "automatic payment."
+You can agree with a seller who accepts PayPal to use PayPal as the payment method for future purchases with that seller.  This agreement is between you and the seller and allows the seller to take funds from your PayPal account with your authorization either on a one-time, regular or sporadic basis. Depending on the seller you wish to pay, you might also be able to directly instruct PayPal to make future payments to the seller on your behalf on a one-time, regular or sporadic basis. Examples of automatic payments that can be arranged by you either with a seller or with PayPal include those that PayPal calls a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "preauthorized transfer" or "preapproved payment."
 
-You may cancel a preapproved payment up to 3 Business Days before the date of the next scheduled payment by contacting us through your PayPal account profile or by calling PayPal at (888) 221-1161.  Once you contact PayPal to cancel a preapproved payment, all future preapproved payments under your agreement with that seller will be stopped.  If you cancel a preapproved payment, you may still owe the seller money for the purchase or have additional obligations to the seller for any goods or services that you receive but have not paid for.
+You may cancel an automatic payment up to 3 Business Days before the date of the next scheduled payment by contacting us through your PayPal account profile or by calling PayPal at (888) 221-1161.  Once you contact PayPal to cancel an automatic payment, all future automatic payments under your agreement with that seller will be stopped.  If you cancel an automatic payment, you may still owe the seller money for the purchase or have additional obligations to the seller for any goods or services that you receive but have not paid for.
 
-If a preapproved payment will vary in amount, you have the right to advance notice of the amount and date of the transfer from the seller at least 10 days before the transfer is made.  If the seller provides the option, you may choose to receive this advance notice only when the amount of your preapproved payment will fall outside a range established between you and the seller.
+If you have given advance authorization, either to a seller or to PayPal, that permits a seller to take or receive payments from your PayPal account on a regularly recurring basis (for example, every month or otherwise on a routine billing cycle), and if such payments will vary in amount, you have the right to advance notice of the amount and date of the transfer from the seller at least 10 days before the transfer is made.  If the seller provides the option, you may choose to receive this advance notice only when the amount of your automatic payment will fall outside a range established between you and the seller.
 
  
 
@@ -297,11 +314,11 @@ When you buy something from a seller using PayPal that required a currency conve
 
 You can choose any of the payment methods in your PayPal account as your preferred payment method.  You can select a preferred payment method in your account preferences on [www.paypal.com][17] or in the PayPal app.
 
-You can set separate preferred payment methods for online transactions, in-store transactions and pre-approved payments with a seller.
+You can set separate preferred payment methods for online transactions, in-store transactions and automatic payments with a seller.
 
 If you have chosen an online preferred payment method, it will be shown as the primary method of payment when making a purchase or sending money via goods and services.
 
-If you have chosen a preferred payment method for in store transactions or for pre-approved payments with a seller and you do not have any money in your PayPal balance, your preferred payment method will be used for your purchase. If you do have a PayPal balance, your PayPal balance will be used first and your preferred payment method will be used for any remaining amount due.
+If you have chosen a preferred payment method for in store transactions or for automatic payments with a seller and you do not have any money in your PayPal balance, your preferred payment method will be used for your purchase. If you do have a PayPal balance, your PayPal balance will be used first and your preferred payment method will be used for any remaining amount due.
 
 There may be times when your preferred payment method cannot be used, for example, if you select a credit card that has expired.  Also, the availability of certain payment methods may be limited based on that particular seller or the third party website you are using to complete the transaction.
 
@@ -309,19 +326,31 @@ There may be times when your preferred payment method cannot be used, for exampl
 
 #### If no preferred payment method, it’s still your choice
 
-If you have not selected a preferred payment method, or your preferred payment method is unavailable, we will show you multiple available payment methods, including the payment method you used most often or most recently, at the time of transaction.  You can also click on the “Manage” link to see all of your available payment methods, or add a new one, and select the one of your choosing during the transaction.
+For online and in-store transactions, if you have not selected a preferred payment method, or your preferred payment method is unavailable, we will show you multiple available payment methods, including the payment method you used most often or most recently, at the time of transaction.  You can also click on the “Manage” link to see all of your available payment methods, or add a new one, and select the one of your choosing during the transaction.
+
+ 
+
+#### Backup payment method
+
+Certain one-time online transactions may require that a backup funding method be used in the event that your selected or preferred payment method is expired or declined. In those instances, the backup funding method may be displayed to you on your transaction review page, before you complete the transaction.  Note that this only applies for one-time, online transactions, and not for automatic payments.
+
+ 
 
 #### Sending money to friends and family
 
 When you send money to friends and family using your PayPal balance or your bank account, we waive all fees, so we always show you these payment options first, if available, even if you have a set preferred payment method for your online purchases. Remember, you always have the choice to select any payment method in your account by clicking the “Change” link on the Send Money page.  We will always show you if there is a fee and how much the fee is before you send money.
 
-#### Pre-approved payments
+ 
+
+#### Automatic payments
 
 Some sellers allow you to store PayPal as the payment method to use whenever making purchases on their site, so you can check out faster.  Often, this entails creating an agreement with the seller, where you give the seller permission to pay using your PayPal account every time you make a purchase. 
 
 You can select a payment method for future purchases with a particular seller either at the time of creating the agreement or in your account settings on [www.paypal.com][18]. For example, you can instruct your monthly movie subscription service to always charge your credit card for the monthly cost.
 
-If your chosen payment method is unavailable (i.e. credit card expired), a particular agreement with a seller does not provide for the ability to specify a payment method, or if you have not designated a payment method for future transactions with a seller, the payment method used will be in the following order, if applicable: 1. balance; 2. bank account (instant transfer); 3. PayPal Credit; 4. PayPal co-branded debit card; 5. PayPal co-branded credit card; 6. debit card; 7. credit card; and 8. E-check.
+If your chosen payment method is unavailable (e.g. credit card expired), a particular agreement with a seller does not provide for the ability to specify a payment method, or if you have not designated a payment method for future transactions with a seller, the payment method used will be in the following order, if applicable: 1. balance; 2. bank account (instant transfer); 3. PayPal Credit; 4. PayPal co-branded debit card; 5. PayPal co-branded credit card; 6. debit card; 7. credit card; and 8. E-check.
+
+You can cancel any agreement in your account settings on [www.paypal.com][18].
 
 #### Bank account transfers
 
@@ -333,7 +362,7 @@ E-check is a payment method where you use your bank account as your payment meth
 
 #### Debit card processing
 
-PayPal will process your debit or prepaid card funded transactions through either the ATM debit network or the Visa, MasterCard or Discover network. If we process your debit or prepaid card through an ATM debit network, we may provide you with the opportunity to switch to a Visa, MasterCard or Discover network by changing your preferences for that debit or prepaid card through your PayPal account profile.  If you use your PayPal-branded debit card for a payment that is not in U.S. dollars, your transaction will be funded with your U.S. dollar PayPal balance, even if you have a PayPal balance in another currency.  Any required currency conversion will be performed by Visa, MasterCard, Discover or a similar third party and may be subject to a fee by that third party.
+PayPal will process your debit or prepaid card funded transactions through either the ATM debit network or the Visa, MasterCard or Discover network. If we process your debit or prepaid card through an ATM debit network, we may provide you with the opportunity to switch to a Visa, MasterCard or Discover network by changing your preferences for that debit or prepaid card through your PayPal account profile.  If you use your PayPal-branded debit card for a payment that is not in U.S. dollars, your transaction will be funded with your U.S. dollar PayPal balance, (but only if we have verified the required identifying information that you have provided to us as described under Holding a Balance in Your PayPal Account), even if you have a PayPal balance in another currency.  Any required currency conversion will be performed by Visa, MasterCard, Discover or a similar third party and may be subject to a fee by that third party.
 
 ### Loyalty Cards
 
@@ -403,6 +432,7 @@ Payments for the following are not eligible for reimbursement under PayPal Purch
 * Stored value items such as gift cards and pre-paid cards.
 * Gambling, gaming and/or any other activity with an entry fee and a prize.
 * Payments sent using PayPal’s friends and family functionality. 
+* Payments sent using PayPal to any bill payment service.
 * Payments made using PayPal Payouts and Mass Pay or guest checkout transactions (i.e. not sent using your PayPal account).
 
  
@@ -414,7 +444,7 @@ To be eligible for PayPal Purchase Protection you must meet all of the following
 * Have a PayPal account in good standing.
 * Pay for the eligible item from your PayPal account.
 * You must respond to PayPal's request for documentation and other information in a timely manner.   If you do not respond to PayPal’s request for documentation and other information in the time requested, your PayPal Purchase Protection claim may be decided against you.
-* You must open a dispute within 180 days of the date you sent the payment, then follow the online dispute resolution process.  For [Pay After Delivery][14] transactions you must open your dispute within 180 days of the date of your transaction.
+* You must open a dispute within 180 days of the date you sent the payment, then follow the online dispute resolution process. 
 * You have not received a recovery related to such purchase from another source.
 
  
@@ -423,7 +453,7 @@ To be eligible for PayPal Purchase Protection you must meet all of the following
 
 If you’re unable to resolve a transaction related issue directly with a seller, you must follow our online dispute resolution process through the [**Resolution Center**][19] to pursue a claim under our Purchase Protection program.  You may also file a claim (Step 2 below) by calling us and speaking to an agent.  The steps you must follow are described below, and if you do not follow these steps your claim may be denied:
 
-Step 1:  **Open a dispute** within 180 days of the date you made the payment.  This might allow you to start a direct conversation with the seller regarding your issue with the transaction that may help resolve the dispute.  If you are unable to resolve the dispute directly with the seller, proceed to Step 2.  We will place a hold on all funds related to the transaction in the seller's account until the dispute is resolved or closed.
+Step 1:  **Open a dispute** within 180 days of the date you made the payment.  This might allow you to start a direct conversation with the seller regarding your issue with the transaction that may help resolve the dispute.  If you are unable to resolve the dispute directly with the seller, proceed to Step 2.  We will place a hold on all funds related to the transaction in the seller's PayPal account until the dispute is resolved or closed.
 
 Step 2:  **Escalate the dispute to a claim** for reimbursement within 20 days after opening the dispute, if you and the seller are unable to come to an agreement, or we will automatically close the dispute.  You can escalate the dispute to a claim for reimbursement through the [**Resolution Center**][19].  The seller or PayPal may also escalate the dispute to a claim at this point.  If you are making an Item Not Received claim, PayPal may ask you to wait at least 7 days from the transaction date to escalate the dispute. 
 
@@ -660,7 +690,7 @@ U.S. Dollar:
 
  | 
 
-Step 5:  **PayPal will make a final decision on your claim**, in its sole discretion, based on the coverage and eligibility requirements set forth above, any additional information provided during the online dispute resolution process or any other information PayPal deems relevant and appropriate under the circumstances.
+Step 5:  **PayPal will make a final decision **(including automatically closing any dispute or claim), in its sole discretion, based on the coverage and eligibility requirements set forth above, any additional information provided during the online dispute resolution process or any other information PayPal deems relevant and appropriate under the circumstances.
 
 Note that when you are making [Digital Goods Micropayments Purchases][20], there are special rules that apply and that include pre-determined thresholds where we may, at our discretion, reverse the transaction without requiring you to take further action.  We may limit the number of automatic reversals that you benefit from, but, even if that is the case, you will still be able to follow PayPal's standard dispute resolution processes described above.
 
@@ -694,9 +724,11 @@ You agree that you will not impose a surcharge or any other fee for accepting Pa
 
  
 
-#### Non discouragement
+#### Presentation of PayPal and Pay with Venmo
 
-In representations to your customers or in public communications, you agree not to mischaracterize PayPal as a payment method. At all of your points of sale (in whatever form), you agree not to try to dissuade or inhibit your customers from using PayPal; and, if you enable your customers to pay you with PayPal, you agree to treat PayPal’s payment mark at least at par with other payment methods offered.
+You agree to provide equal treatment to PayPal and/or Venmo vis-à-vis other payment methods or marks you offer at your points of sale (e.g. websites or mobile applications). This includes at least equal or substantially similar: logo placement, position within any point of sale, and treatment in terms of payment flow, terms, conditions, restrictions, or fees, in each case as compared to other marks and payment methods at your points of sale.
+
+In representations to your customers or in public communications, you agree not to mischaracterize PayPal or Venmo as a payment method or exhibit a preference for other payment methods over PayPal or Venmo.  Within all of your points of sale, you agree not to try to dissuade or inhibit your customers from using PayPal or Venmo or encourage the customer to use an alternate payment method.  If you enable your customers to pay you with PayPal or Venmo, whenever you display or exhibit the payment methods that you accept (either within any point of sale or in your marketing materials, advertising and other customer communications) you agree to display the PayPal or Venmo payment marks at least as prominently, and in at least as positive a manner, as you do for all other payment methods.
 
  
 
@@ -728,7 +760,7 @@ PayPal reviews certain potentially high-risk transactions.  If PayPal determine
 
 #### In-store payments
 
-If you accept payments through your PayPal account in your store location, you must communicate the amount of the transaction to the customer before the transaction takes place. You may charge your customer’s PayPal account only for transactions that they have authorized. You must also provide customers with a physical receipt if they request one. You agree that any transaction that you make shall have an accurate and true description of the goods and services being purchased.
+If you accept payments through your PayPal account in your store location, you must communicate the amount of the transaction to the customer before the transaction takes place. You may charge your customer’s account only for transactions that they have authorized. You must also provide customers with a physical receipt if they request one. You agree that any transaction that you make shall have an accurate and true description of the goods and services being purchased.
 
  
 
@@ -740,13 +772,13 @@ If you’re a seller on a marketplace or through a third party application where
 
 #### Card not present transactions
 
-Whenever a buyer uses a debit or credit card as the payment method for a transaction using their PayPal or Venmo account to buy something from you as a seller, the transaction will be processed as a “card not present” transaction, even if the buyer is at your store location.
+Whenever a buyer uses a debit or credit card as the payment method for a transaction using their account to buy something from you as a seller, the transaction will be processed as a “card not present” transaction, even if the buyer is at your store location.
 
  
 
 #### Accepting preauthorized payments
 
-As a seller, you can accept payments from a buyer’s PayPal or Venmo account through preauthorized transfers either on a one-time, regular or sporadic basis.  This type of transaction is sometimes called a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "pre-approved payment " or "automatic payment."
+As a seller, you can accept payments from a buyer’s account through preauthorized transfers either on a one-time, regular or sporadic basis.  This type of transaction is sometimes called a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "pre-approved payment " or "automatic payment."
 
 | ----- |
 |  If you receive preauthorized payments from buyers: |  
@@ -792,13 +824,13 @@ Notify the buyer at least 10 days in advance of the amount and date of each prea
 
 ### Transaction Fees for Online and In-Store Payments
 
-Your PayPal transaction fees depend on the country where the buyer has a PayPal account and whether or not you are registered as a charitable organization and have active 501(c)(3) status.  Your 501(c)(3) status must be documented with PayPal to receive the rates applicable to charitable organizations, and those rates will apply only after you document your status with us.
+Your PayPal transaction fees depend on the country where the buyer has an account and whether or not you are registered as a charitable organization and have active 501(c)(3) status.  Your 501(c)(3) status must be documented with PayPal to receive the rates applicable to charitable organizations, and those rates will apply only after you document your status with us.
 
  
 
 #### Standard transactions fees
 
-The fees you pay when you sell goods or services online and in your store location and the buyer pays using his/her PayPal or Venmo account can be found on the [Standard Transaction Fees table][21].  Please note that:
+The fees you pay when you sell goods or services online and in your store location and the buyer pays using his/her account (or using another authorized third party wallet) can be found on the [Standard Transaction Fees table][21].  Please note that:
 
 * We may adjust the fees applicable to future transactions that you process using PayPal, but before we do that you will have at least 30 days’ advance notice of any such change.
 * If you refund a transaction to a buyer or a donation to a donor, PayPal retains the fixed fee portion of the fees you paid.
@@ -810,7 +842,7 @@ The fees you pay when you sell goods or services online and in your store locati
 
 You may qualify to receive micropayments pricing for the sale of goods and services through your PayPal account, if your transactions typically average less than $10.  In order to qualify, you must have a PayPal account that is in good standing (for example, no limitations or negative PayPal balance), you may not be processing payments using [PayPal Payments Pro][23]  and you must submit an application and have it approved by us.  
 
-If your PayPal account is approved to accept micropayments, then micropayments pricing will apply to all transactions for the sale of goods and services processed through your PayPal account, not the pricing described above under standard transaction fees.  If you have multiple PayPal accounts, you must correctly route your transactions to the appropriate account because, once a transaction is processed, PayPal will not re-route the transaction through a different account.
+If your PayPal account is approved to accept micropayments, then micropayments pricing will apply to all transactions for the sale of goods and services processed through your PayPal account, not the pricing described above under [standard transaction fees][21].  If you have multiple PayPal accounts, you must correctly route your transactions to the appropriate account because, once a transaction is processed, PayPal will not re-route the transaction through a different account.
 
 The fees you pay when you receive micropayments pricing for the sale of goods and services through your PayPal account can be found on the [Micropayment Fees table][24].
 
@@ -828,7 +860,7 @@ PayPal’s Payouts and Mass Pay services let you send multiple payments in one b
 
 If you receive a payment for selling goods or services that is later refunded or invalidated for any reason, you are responsible for the full amount of the payment sent to you plus any fees (including any applicable chargeback fee described below).  Whenever a transaction is refunded or otherwise reversed, PayPal will refund or reverse the transaction from your PayPal account in the same currency as the original transaction.  If your PayPal balance for a particular currency is insufficient to cover the amount of a refund or reversal, PayPal will perform a currency conversion in order to refund or reverse the transaction, and you will be charged for the currency conversion.
 
-If you refund a payment for good or services, we will retain the fixed fee portion of the fees you paid as the seller.  The buyer’s PayPal account will be credited with the full payment amount and the fixed fee portion of the fees you paid as the seller will be deducted from your PayPal account in addition to the amount of the refunded payment.
+If you refund a payment for good or services, we will retain the fixed fee portion of the fees you paid as the seller.  The buyer’s account will be credited with the full payment amount and the fixed fee portion of the fees you paid as the seller will be deducted from your PayPal account in addition to the amount of the refunded payment.
 
  
 
@@ -854,7 +886,7 @@ When you receive a payment, you are liable to PayPal for the full amount of the 
 
 If you receive a debit or credit card-funded payment through your PayPal account and the buyer pursues a chargeback for the transaction with his/her card issuer, then PayPal will not assess you with a chargeback fee if the transaction is eligible for PayPal Seller Protection. However, if the transaction is ineligible for PayPal Seller Protection, PayPal will assess you with a chargeback fee (for facilitating the chargeback process) regardless of whether the buyer is successful in pursuing the chargeback with the card issuer.
 
-The applicable chargeback fee will be deducted from your PayPal account. The chargeback fee is $20 for transactions in U.S. Dollars, or the amount specified on the [Chargeback Fees table][26] in the currency of the original transaction if the transaction is not in U.S. Dollars.
+The applicable chargeback fee will be deducted from your PayPal account. The chargeback fee is $20 for transactions in U.S. Dollars, or the amount specified on the [Chargeback Fees table][26] in the currency of the original transaction if the transaction is not in U.S. Dollars. 
 
  
 
@@ -862,7 +894,7 @@ The applicable chargeback fee will be deducted from your PayPal account. The cha
 
 You should read and understand PayPal’s Purchase Protection program, Venmo’s Authorized Merchant Payment Protection program, and if you sell goods and services to buyers with PayPal accounts in countries other than the U.S., you also should be familiar with the purchase protection available to buyers in each of those countries.  Buyers’ rights under these programs are important for you to understand as a seller. You can find this information for PayPal’s programs on the [Legal Agreements][1] page by selecting your buyer’s location at the top of the page and referring to the applicable user agreement for that geography. You can find information on Venmo’s Authorized Merchant Payment Protection program in [Venmo’s user agreement][27].
 
-If you lose a claim under PayPal’s Purchase Protection program in the U.S. a similar program in another country, or under Venmo’s Authorized Merchant Payment Protection program:
+If you lose a claim under PayPal’s Purchase Protection program in the U.S. or a similar program in another country, or under Venmo’s Authorized Merchant Payment Protection program:
 
 * For claims by the buyer that an item received isn’t what was ordered, you generally will be required to accept the item back.
 * For all claims by the buyer, you must forfeit the full purchase price of the item plus the original shipping cost (and in some cases you may not receive the item back).
@@ -882,12 +914,12 @@ If you sell something to a buyer and the transaction is later disputed or revers
 
 PayPal’s Seller Protection program may apply when a buyer claims that:
 
-* The buyer did not authorize, or benefit from, funds sent from his or her PayPal account (referred to as an “Unauthorized Transaction” claim); or
+* The buyer did not authorize, or benefit from, funds sent from his or her account (referred to as an “Unauthorized Transaction” claim); or
 * The buyer didn’t receive the item from you (referred to as an “Item Not Received” claim).
 
 PayPal’s Seller Protection program may also apply when a transaction is reversed because of a successful chargeback by a buyer or when a bank funded payment is reversed by the buyer’s bank.
 
-This section describes PayPal’s Seller Protection program as it applies to you, but you should be familiar with PayPal’s Purchase Protection programs applicable to each country where your buyers are located because those programs give buyers rights that may impact you as a seller and Venmo’s Authorized Merchant Payment Protection program that applies to buyers with a U.S. Venmo account.
+This section describes PayPal’s Seller Protection program as it applies to you, but you should also be familiar with the Impact of various purchase protection processes on sellers.
 
  
 
@@ -1193,7 +1225,7 @@ Your sale **_is not_** eligible for coverage under PayPal’s Seller Protection 
 * The buyer claims (either with us or their card issuer) that the item you sent isn’t what was ordered (referred to as a “Significantly Not as Described” claim).
 * It involves an item that PayPal determines, in its sole discretion, is a counterfeit item.
 * It involves an item that you deliver in person, including in connection with a payment made in your store location.
-* It involves sales that are not processed either through a buyer’s PayPal account or a guest checkout transaction. For example, if the sale was made using the [PayPal Payments Pro/VT][23] product, [PayPal business payments][16] or using [PayPal Here][22], then it is not eligible for coverage. 
+* It involves sales that are not processed either through a buyer’s PayPal account or a PayPal guest checkout transaction. For example, if the sale was made using the [PayPal Payments Pro/VT][23] product, [PayPal business payments][16] or using [PayPal Here][22], then it is not eligible for coverage. 
 * It involves items equivalent to cash including gift cards.
 * It involves a donation.
 * It relates to the purchase of a financial product or investment of any kind.
@@ -1293,6 +1325,10 @@ A hold is an action that PayPal may take under certain circumstances either at t
 We may place a hold on payments sent to your PayPal account if, in our sole discretion, we believe that there may be a high level of risk associated with you, your PayPal account, or your transactions or that placing such a hold is necessary to comply with state or federal regulatory requirements.  We make decisions about whether to place a payment hold based on a number of factors, including information available to us from both internal sources and third parties.  When we place a hold on a payment, the funds will appear in your PayPal account with an indication that they are unavailable or pending.  We’ll notify you, either through your PayPal account or directly by phone or email, whenever we place a hold.  
 
 Risk-based holds generally remain in place for up to 21 days from the date the payment was received into your PayPal account.  We may release the hold earlier under certain circumstances (for example, if you’ve uploaded shipment tracking information related to the transaction), but any earlier release is at our sole discretion.  The hold may last longer than 21 days if the payment is challenged as a payment that should be invalidated and reversed based on a disputed transaction as discussed in the following paragraph below.  In this case, we’ll hold the payment in your PayPal account until the matter is resolved (but no longer than 180 days).
+
+**Holds related to Marketplace transactions**
+
+If you’re a seller on a marketplace or through a third-party application where PayPal is offered, a hold may be placed on a payment sent to you at the instruction of the applicable marketplace or third-party. This is done once you have granted us permission to have your funds held and will be in accordance with your agreement with the third-party. These holds will appear in your PayPal account. If you have questions about why the applicable marketplace or third party instructed PayPal to put these holds in place, you will need to contact the marketplace or third-party directly.
 
 **Holds based on disputed transactions**
 
@@ -1416,9 +1452,9 @@ Notify us as soon as you can, if you think your statement or receipt is wrong or
 
 If you tell us orally, we may require that you send us your complaint or question in writing within 10 Business Days.
 
-We will determine whether an error occurred within 10 Business Days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 Business Days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 Business Days, we may not credit your account.
+We will determine whether an error occurred within 10 Business Days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your PayPal account within 10 Business Days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 Business Days, we may not credit your PayPal account.
 
-For errors involving new accounts, point-of-sale transactions, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 Business Days to credit your account for the amount you think is in error.
+For errors involving new PayPal accounts, point-of-sale transactions, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new PayPal accounts, we may take up to 20 Business Days to credit your PayPal account for the amount you think is in error.
 
 We will tell you the results within 3 Business Days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.
 
@@ -1494,7 +1530,7 @@ If you think there has been a Remittance Transfer Error or problem with your Rem
 
 * Call us at: (888) 221-1161.
 * Write us at: PayPal, Attn: Error Resolution Department, P.O. Box 45950, Omaha, NE 68145-0950.
-* Log in to your account at paypal.com and go to the [Resolution Center][28] and dispute a transaction. 
+* Log in to your PayPal account at paypal.com and go to the [Resolution Center][28] and dispute a transaction. 
 
 You must contact us within 180 days of the date we promised to you that funds would be made available to the recipient. When you do, please tell us:
 
@@ -1654,7 +1690,7 @@ Payment of all filing, administration, and arbitrator fees will be governed by t
 
  | 
 
-With the exception of any of the provisions in the Prohibition of Class and Representative Actions and Non-Individualized Relief section above, if a court decides that any part of this Agreement to Arbitrate is invalid or unenforceable, the other parts of this Agreement to Arbitrate shall still apply. If a court decides that any of the provisions in the Prohibition of Class and Representative Actions and Non-Individualized Relief section above is invalid or unenforceable, then the entirety of this Agreement to Arbitrate shall be null and void, but the remainder of this user agreement will continue to apply.
+With the exception of any of the provisions in the Prohibition of Class and Representative Actions and Non-Individualized Relief section above, if a court decides that any part of this Agreement to Arbitrate is invalid or unenforceable, the other parts of this Agreement to Arbitrate shall still apply. If a court decides that any of the provisions in the Prohibition of Class and Representative Actions and Non-Individualized Relief section above is invalid or unenforceable because it would prevent the exercise of a non-waivable right to pursue public injunctive relief, then any dispute regarding the entitlement to such relief (and only that relief) must be severed from arbitration and may be litigated in court. All other disputes subject to arbitration under the terms of the Agreement to Arbitrate shall be arbitrated under its terms.
 
  |  
 | 
@@ -1736,7 +1772,7 @@ Always use common sense when sending money.  If something sounds too good to be
 
 #### Escheatment of dormant accounts
 
-If you do not log in to your PayPal account for two or more years, PayPal may close your PayPal account and send the PayPal balance to your primary address or, if required, escheat (send) your PayPal balance to your state of residency.  PayPal will determine your state of residency based on the state listed in the primary address for your PayPal account.  If your address is unknown or registered in a foreign country, your PayPal balance will be escheated to the State of Delaware.  Where required, PayPal will send you a notice prior to escheating any funds in your PayPal account.  If you fail to respond to this notice, your PayPal balance will be escheated to the applicable state.  If you would like to claim any escheated PayPal balance from the applicable state, please contact the applicable state’s unclaimed property administrator.
+If you do not log in to your PayPal account for two or more years, PayPal may close your PayPal account and send the PayPal balance to your primary address (if we have verified the required identifying information that you have provided to us) or, if required, escheat (send) your PayPal balance to your state of residency.  PayPal will determine your state of residency based on the state listed in the primary address  for your PayPal account.  If your address is unknown or registered in a foreign country, your PayPal balance will be escheated to the State of Delaware.  Where required, PayPal will send you a notice prior to escheating any funds in your PayPal account.  If you fail to respond to this notice, your PayPal balance will be escheated to the applicable state.  If you would like to claim any escheated PayPal balance from the applicable state, please contact the applicable state’s unclaimed property administrator.
 
  
 
@@ -1748,7 +1784,7 @@ You agree that, except to the extent inconsistent with or preempted by federal l
 
 #### Identity authentication
 
-You authorize PayPal, directly or through third parties, to make any inquiries we consider necessary to validate your identity.  This may include asking you for further information, requiring you to provide your date of birth, a taxpayer identification number and other information that will allow us to reasonably identify you, requiring you to take steps to confirm ownership of your email address or financial instruments, ordering a credit report from a credit reporting agency, or verifying your information against third party databases or through other sources.  We may also ask to see your driver’s license or other identifying documents at any time.  If you use certain PayPal services, federal law requires that PayPal verify some of your information.  PayPal reserves the right to close, suspend, or limit access to your PayPal account and/or the PayPal services in the event we are unable to obtain or verify this information.
+You authorize PayPal, directly or through third parties, to make any inquiries we consider necessary to validate your identity.  This may include asking you for further information, requiring you to provide your date of birth, a taxpayer identification number, your physical address and other information that will allow us to reasonably identify you, requiring you to take steps to confirm ownership of your email address or financial instruments, ordering a credit report from a credit reporting agency, or verifying your information against third party databases or through other sources.  We may also ask to see your driver’s license or other identifying documents at any time.  If you use certain PayPal services, federal law requires that PayPal verify the required identifying information.  PayPal reserves the right to close, suspend, or limit access to your PayPal account and/or the PayPal services in the event we are unable to obtain or verify this information.
 
  
 
@@ -1784,9 +1820,20 @@ Restricted transactions as defined in Federal Reserve Regulation GG are prohibit
 
  
 
-#### Your use of information
+#### Your use of information; Data protection laws
 
 If you receive information about another PayPal customer, you must keep the information confidential and only use it in connection with the PayPal services.  You may not disclose or distribute any information about PayPal users to a third party or use the information for marketing purposes unless you receive that user’s express consent to do so.  You may not send unsolicited emails to a PayPal customer or use the PayPal services to collect payments for sending, or assist in sending, unsolicited emails to third parties.
+
+To the extent that you (as a seller) process any personal data about a PayPal customer pursuant to this agreement, you agree to comply with the requirements of any applicable data protection laws. You have your own, independently determined privacy policy, notices and procedures for any such personal data that you hold as a data controller, including a record of your activities related to processing of personal data under this agreement.
+
+The data protection laws that may apply include any associated regulations, regulatory requirements and codes of practice applicable to the provision of the services described in this agreement. If you process personal data from Europe pursuant to this agreement, you must comply with the EU Directive 95/46/EC or the General Data Protection Regulation (EU) 2016/679 (GDPR).
+
+In complying with such laws, you will:
+
+* implement and maintain all appropriate security measures for the processing of personal data; and
+* not knowingly do anything or permit anything to be done which might lead to a breach of any data protection laws by PayPal.
+
+ 
 
 [1]: https://www.paypal.com/us/webapps/mpp/ua/legalhub-full
 [2]: https://www.paypalobjects.com/webstatic/ua/pdf/US/en_US/ua.pdf
@@ -1800,15 +1847,15 @@ If you receive information about another PayPal customer, you must keep the info
 [10]: https://www.paypal.com/us/webapps/mpp/merchant
 [11]: https://www.paypal.com/us/webapps/mpp/ua/ceagreement-full
 [12]: https://www.paypal-gifts.com
-[13]: https://www.paypal.com/us/webapps/mpp/paypal-credit
-[14]: https://www.paypal.com/us/webapps/mpp/pad-get-pay
+[13]: https://www.paypal.com/us/webapps/mpp/paypal-fees#transfers
+[14]: https://www.paypal.com/us/webapps/mpp/merchant-fees#transfers
 [15]: https://www.paypal.com/us/webapps/mpp/paypal-fees#sending-friends-family
 [16]: https://www.paypal.com/us/webapps/mpp/ua/business-payments-agreement
 [17]: https://www.paypal.com
 [18]: http://www.paypal.com
 [19]: https://www.paypal.com/us/cgi-bin/webscr?cmd=_complaint-view&nav=0.4
 [20]: https://www.paypal.com/us/webapps/mpp/ua/digital-goods-micropayments-agreement
-[21]: https://www.paypal.com/us/webapps/mpp/merchant-fees#standard-transaction-fees
+[21]: https://www.paypal.com/us/webapps/mpp/merchant-fees?locale.x=en_US#standard-transaction-fees
 [22]: https://www.paypal.com/us/webapps/mpp/ua/paypalhereterms-full
 [23]: https://www.paypal.com/us/webapps/mpp/ua/provt-preview2
 [24]: https://www.paypal.com/us/webapps/mpp/merchant-fees#micropayment-fees
