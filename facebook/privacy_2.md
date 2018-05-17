@@ -226,7 +226,7 @@ Date of Last Revision: September 29, 2016
 [17]: https://www.facebook.com/help/437430672945092
 [18]: https://www.facebook.com/help/302796099745838
 [19]: https://www.facebook.com/help/125338004213029
-[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATPxjPmvvvcQEY09j7ya9NJSFXdWr6v3kHgVRDk9pKPEm-8TP5-KMr9ijHb7JvBOOEF4r7NXO2anP06aXZqxsIvDDm0eBAmPV2l7-TQTtwqbqXQ8bZb3hhTJjfAsZg
+[20]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATMyhGOWi-eBWoJSAArASh0CwrKuYtY9CjZm_tkUofnd3C72Bn7GSN214H7zPmROTf2spfnzmlcudz9YpTuKIL2qLH-mhcxzzYKS7Q5jVxLwXxC1J5ixDbFOBG0mlQ
 [21]: /about/basics
 [22]: https://www.facebook.com/help/contact/173545232710000
 
