@@ -184,10 +184,10 @@ To access the Statement of Rights and Responsibilities in several different lang
 [13]: /ad_guidelines.php
 [14]: https://www.facebook.com/page_guidelines.php
 [15]: https://www.facebook.com/terms/provisions/german/index.php
-[16]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATMOGYLUpV3XOuR1tXHJiElZDNEd5D7wwYRHRA0MiChme7DFwznCASLdSlQcAwKG6IDBnITlG38PnAOmGLFxtSVGy_aGtev7swAGanm7K1IdJd1p1MwhIlBg2gyC3g
+[16]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/trademarks/&h=ATMXMDI_8Fgev1uhgfGIhtLyXIpg5noDOh2GeIhJ-7kigg-n7JqCIN_MMWZ2SIlOi0j1tFC2WZzGakWr4s138yBS6EMHR0PmQFy8AibFU9MfmzeAIKhQSPqarOAGsg
 [17]: /platform
 [18]: https://developers.facebook.com/policy/
 [19]: /page_guidelines.php#promotionsguidelines
-[20]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATOdjWFzpti9GDr1UN0QOnbIRVx5AdczQV87UIAABh2FvOYyGnrGUNovURJ1nOueyXkOCj7WmhUbD5sSGCkTDnNhKMr4mcOUFKyKbf6_da98vMiMmpC8U10LD-PYiA
+[20]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=ATMarzdF_Kk2DFGlk2TfdpDbu7dW8XnPhgx5hwIC-xYJV6XHNgScFvBKba144E_4xZrYk4bKuQrWPKeVtIvZplkd0bCVy9tSWABdh6DK4bYqJkXuO4pSXYg6L1-XZ-m8O7X-on3GxkA
 [21]: /communitystandards
 
