@@ -1,12 +1,12 @@
 **Note:** Our Data Policy is changing. You can view our previous Data Policy [here][1].
 
-# Data Policy
+# **Data Policy**
 
-This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook ([Facebook Products][2] or Products). You can find additional tools and information in the [Facebook Settings][3] and [Instagram Settings][4].
+This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook ([Facebook Products][2] or Products). You can find additional tools and information in the [Facebook Settings][3] and [Instagram Settings][4]. 
 
-## I. What kinds of information do we collect?
+## **I. What kinds of information do we collect?**
 
-To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the [Facebook Settings][3] and [Instagram Settings][5].
+To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the [Facebook Settings][3] and [Instagram Settings][5]. 
 
 > **Things you and others do and provide**
 > 
@@ -21,13 +21,14 @@ To provide the Facebook Products, we must process information about you. The typ
 > 
 > * **Things others do and information they provide about you.** We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
 > 
+>   
+
+> 
 > **Device Information**
 > 
-> As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including [ads][14]) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.   
-  
-Information we obtain from these devices includes:   
-  
-
+> As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including [ads][14]) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.
+> 
+> Information we obtain from these devices includes: 
 > 
 > * **Device attributes:** information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
 > 
@@ -43,17 +44,21 @@ Information we obtain from these devices includes:
 > 
 > * **Cookie data:** data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the [Facebook Cookies Policy][17] and [Instagram Cookies Policy][18].
 > 
+>   
+
+> 
 > **Information from partners**
 > 
-> Advertisers, [app][19] developers, and publishers can send us information through [Facebook Business Tools][20] they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs][21], or the Facebook [pixel][22]. These partners provide information about your activities off Facebook—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.   
+> Advertisers, [app][19] developers, and publishers can send us information through [Facebook Business Tools][20] they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs][21], or the Facebook [pixel][22]. These partners provide information about your activities off Facebook—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.
+> 
+> Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. [Learn more][23] about the types of partners we receive data from.
+> 
+> To learn more about how we use cookies in connection with Facebook Business Tools, review the [Facebook Cookies Policy][24] and [Instagram Cookies Policy][25].
+> 
+>   
   
-Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. [Learn more][23] about the types of partners we receive data from.   
-  
-To learn more about how we use cookies in connection with Facebook Business Tools, review the [Facebook Cookies Policy][24] and [Instagram Cookies Policy][25]. 
 
-  
-
-## II. How do we use this information?
+## **II. How do we use this information?**
 
 We use the information we have (subject to choices you make) as described below and to provide and support the Facebook Products and related services described in the [Facebook Terms][26] and [Instagram Terms][27]. Here's how: 
 
@@ -71,143 +76,157 @@ We use the information we have (subject to choices you make) as described below 
 > 
 > * **Ads and other sponsored content:** We use the information we have about you-including information about your interests, actions and connections-to select and personalize ads, offers and other sponsored content that we show you. Learn more about how we [select and personalize ads][31], and your choices over the data we use to select ads and other sponsored content for you in the [Facebook Settings][3] and [Instagram Settings][35].
 > 
+>   
+
+> 
 > **Provide measurement, analytics, and other business services.**
 > 
-> We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners. 
+> We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners.
+> 
+>   
+
 > 
 > **Promote safety, integrity and security.**
 > 
-> We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Facebook Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to [detect when someone needs help][36]. To learn more, visit the [Facebook Security Help Center][37] and [Instagram Security Tips][38]. 
+> We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Facebook Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to [detect when someone needs help][36]. To learn more, visit the [Facebook Security Help Center][37] and [Instagram Security Tips][38].
+> 
+>   
+
 > 
 > **Communicate with you.**
 > 
-> We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
+> We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us.
+> 
+>   
+
 > 
 > **Research and innovate for social good.**
 > 
-> We use the information we have to conduct and support [research][39] and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyze information we have about migration patterns during crises][40] to aid relief efforts. [Learn more][41] about our research programs. 
-
+> We use the information we have to conduct and support [research][39] and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyze information we have about migration patterns during crises][40] to aid relief efforts. [Learn more][41] about our research programs.
+> 
+>   
   
 
-## III. How is this information shared?
+## **III. How is this information shared?**
 
-Your information is shared with others in the following ways:   
-  
+Your information is shared with others in the following ways:
 
-**_Sharing on Facebook Products_**
+**Sharing on Facebook Products**
 
 > **People and accounts you share and communicate with**
 > 
-> When you share and communicate using our Products, [you choose the audience for what you share][42]. For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories.   
-  
-[**Public information][43]** can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your [public profile on Facebook][43]; and content you share on a Facebook Page, [public Instagram account][44] or any other public forum, such as [Facebook Marketplace][45]. You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Facebook Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products.   
-  
-Learn more about what information is public and how to control your visibility on [Facebook][43] and [Instagram][46]. 
+> When you share and communicate using our Products, [you choose the audience for what you share][42]. For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories.
+> 
+> [**Public information][43]** can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your [public profile on Facebook][43]; and content you share on a Facebook Page, [public Instagram account][44] or any other public forum, such as [Facebook Marketplace][45]. You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Facebook Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products.
+> 
+> Learn more about what information is public and how to control your visibility on [Facebook][43] and [Instagram][46].
 > 
 > **Content others share or reshare about you**
 > 
-> You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as [Facebook Spaces][47]. Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later.   
-  
-People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to [report the content][48]. 
+> You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as [Facebook Spaces][47]. Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later.
+> 
+> People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to [report the content][48].
 > 
 > **Information about your active status or presence on our Products.**
 > 
-> People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on [Instagram][49], [Messenger][50] or Facebook, or when you last used our Products. 
+> People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on [Instagram][49], [Messenger][50] or Facebook, or when you last used our Products.
 > 
 > **Apps, websites, and third-party integrations on or using our Products.**
 > 
-> When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your public profile on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one.   
-  
-Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you.   
-  
-_Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval._
+> When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your public profile on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one.
+> 
+> Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you.
+> 
+> _Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval._
 > 
 > **New owner.**
 > 
-> If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner. 
+> If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner.
 
   
-  
 
-**_Sharing with Third-Party Partners_**
+**Sharing with Third-Party Partners**
 
-> We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with: 
+> We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with:
 > 
 > **Partners who use our analytics services.**
 > 
-> We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Pages, videos and other content on and off the Facebook Products. For example, Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their Page or account. 
+> We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Pages, videos and other content on and off the Facebook Products. For example, Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their Page or account.
 > 
 > **Advertisers.**
 > 
-> We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which Facebook ads led you to make a purchase or take an action with an advertiser. 
+> We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which Facebook ads led you to make a purchase or take an action with an advertiser.
 > 
 > **Measurement partners.**
 > 
-> We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners. 
+> We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners.
 > 
 > **Partners offering goods and services in our Products.**
 > 
-> When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details. 
+> When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details.
 > 
 > **Vendors and service providers.**
 > 
-> We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys. 
+> We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys.
 > 
 > **Researchers and academics.**
 > 
-> We also provide information and content to research partners and [academics][51] to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. 
+> We also provide information and content to research partners and [academics][51] to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
 > 
 > **Law enforcement or legal requests**
 > 
-> We share information with law enforcement or in response to legal requests in the circumstances outlined below. 
+> We share information with law enforcement or in response to legal requests in the circumstances outlined below.
 > 
 > Learn more about how you can control the information about you that you or others share with third-party partners in the [Facebook Settings][3] and [Instagram Settings][52].
 > 
 >   
+  
 
-## IV. How do the Facebook Companies work together?
+## **IV. How do the Facebook Companies work together?**
 
 Facebook and Instagram share infrastructure, systems and technology with other [Facebook Companies][53] (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all [Facebook Company Products][54] you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Facebook Company Products, such as understanding the number of unique users on different Facebook Company Products.
 
   
-
   
 
-## V. How can I manage information about me?
+## **V. How can I manage information about me?**
 
-We provide you with the ability to access, rectify, port and erase your data. Learn more in your [Facebook Settings][3] and [Instagram Settings][55].   
-  
-We store data until it is no longer necessary to provide our services and Facebook Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after submission. Learn more about deletion of [content you have shared][56] and [cookie data obtained through social plugins][57].   
-  
+We provide you with the ability to access, rectify, port and erase your data. Learn more in your [Facebook Settings][3] and [Instagram Settings][55].
+
+We store data until it is no longer necessary to provide our services and Facebook Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after submission. Learn more about deletion of [content you have shared][56] and [cookie data obtained through social plugins][57].
+
 When you delete your account, we [delete things][56] you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook Settings][3] and [Instagram Settings][58].
 
   
+  
 
-## VI. How do we respond to legal requests or prevent harm?
+## **VI. How do we respond to legal requests or prevent harm?**
 
 We access, preserve and share your information with regulators, law enforcement or others: 
 
 * In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
 * When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
 
-  
 Information we receive about you (including financial transaction data related to purchases made with Facebook) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations. 
 
   
+  
 
-## VII. How do we operate and transfer data as part of our global services?
+## **VII. How do we operate and transfer data as part of our global services?**
 
 We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms][26] and [Instagram Terms][59] and to globally operate and provide our Products to you. We utilize [standard contract clauses][60], rely on the European Commission's [adequacy decisions][61] about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries. 
 
   
+  
 
-## VIII. How will we notify you of changes to this policy?
+## **VIII. How will we notify you of changes to this policy?**
 
 We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products. 
 
   
+  
 
-## IX. How to contact Facebook with questions
+## **IX. How to contact Facebook with questions**
 
 You can learn more about how privacy works [on Facebook][62] and on [Instagram][63]. If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices through TrustArc. You can contact TrustArc through its [website][64]. 
 
@@ -224,66 +243,66 @@ Date of Last Revision: April 19, 2018
 [1]: https://www.facebook.com/about/privacy?ref=new_policy
 [2]: https://www.facebook.com/help/1561485474074139?ref=dp
 [3]: https://www.facebook.com/settings
-[4]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=ATPaGMnnB6heAuqbmzbTguwMmAzSZqwg9_lJ0cwoR2JWhVTXSeO1iqX7GcyUe78h0Rkre3xcBv6Zcuxf7duJXW82hJx8E-VYOzSCtAOqDN668s3a7XZ3IBKy1tVGoA
-[5]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=ATPKuCKAm8By4wd9qbfD6JACyJAdNQbyo7716P00fRnSJdyUaaCMBpy7VCrFozgK7Q2hzWQ_VN8rBd5Bwd3koKPDfPBdjDAtUiBDJ9nEuutzF4UXht4CabIo2uuVqA
+[4]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT3WfmPUndtfNtwbJVj6Pc6GG_l-2_60Y9RjvTY-U-BJPSU5f5lF3XX3YPr8O2kqH4_IqHMceuLSgs_a9H5-s8zSU6F9ySA0zYkLb1SHub9N8IhH1S1EadWFqX3beCeFvh-hO394eEOHww
+[5]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT04KoHao2rotwF5jyQ3BSGfwlVaXUUNYRV39jtAM9Mx_S3hXve44mwwXT95TKLU0W9RbWC7pBRTMeSDS_-v6rJdhF9EmDr-2Bh0-ATE4-O8PlvovZCUZVEHehsbrjJ5U5O-hVL92l4nbA
 [6]: https://www.facebook.com/help/162347444215311
 [7]: https://www.facebook.com/help/1297502253597210?ref=dp
 [8]: https://www.facebook.com/help/353111348061173?ref=dp
 [9]: https://www.facebook.com/help/282489752085908?ref=dp
-[10]: https://l.facebook.com/l.php?u=https://help.instagram.com/351460621611097?ref=dp&h=ATPiw-sVGeGuXBwcr31RpNDV1nJ5d8mDutGCklTtwJWrJksExLiewXCiJVPOs_RqPmWHHUPmy3SUH69FbNMi_FZwx-QDzjW0F-8mV7tGrisYkOHyNy8n59t2USu2Jw
+[10]: https://l.facebook.com/l.php?u=https://help.instagram.com/351460621611097?ref=dp&h=AT0J7UZniHKbyCYK3cJB5X-jwYqzt6oBuV_sbczRNDId5YK191MotmkFJzfnsrb2_V1vcahhY3WJwkULEgIoD5mQJQB__WWesn_qd7rhNPQtlD_wsqH9ll9ahNO84UYagHlJWGkZQS9U8Q
 [11]: https://www.facebook.com/help/561688620598358?ref=dp
 [12]: https://www.facebook.com/help/1434403039959381?ref=dp
-[13]: https://l.facebook.com/l.php?u=https://donations.fb.com/&h=ATNPX5gECixUFOLGWxAl1gWunoiOw3BPfJ8uHSD-ljq5N3nOiTKnOC-89gqXveGDK_Xjq732t8v5hV7QofAj47aqY2jIV3OlKNZVjhfzLu58jD_2nkZDL00OqUs7og
+[13]: https://l.facebook.com/l.php?u=https://donations.fb.com/&h=AT3F_RTZNFspkQob-HnBJxAhhhx5SseOfBjzN8o8VVYcbumGPWdrMQpvksbwIHv8UdUBkW71OHH2tTg-gdu_hKUC-ZIWqaan3fMUEOMq_Abafj1rFaLFr-f9g28P21XSAISen0VL0xLuMg
 [14]: https://www.facebook.com/help/119468292028768?ref=dp
 [15]: https://www.facebook.com/help/195227921252400?ref=dp
 [16]: https://www.facebook.com/help/276515126152168?ref=dp
 [17]: https://www.facebook.com/policies/cookies/
-[18]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=ATO4514IiaPcvL495Jfot1YOkmhB9_ty6O_2is9iHm26Z2xTPEckJ0Y_sXTRhBIlfSs6nSLwkGM8vEChc-VvkomPMnVIrrtpdHfVnlcG0Ytb_1KNsVFoAMG8HkomUQ
+[18]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=AT0jpBt84qU5adqsIxf8_QV_28nw1-6D5Nt3u45YtMr6f69kfYfQPwIrnuCxjVaefYWnmuvw2riACV9_Dz-tuMDnmYrFOswrQy5cQPVd7TOo7-JLmBez02oncdaFjTU9P4rTmeEsWPxKgQ
 [19]: https://www.facebook.com/help/1642635852727373?ref=dp
 [20]: https://www.facebook.com/help/331509497253087
 [21]: https://developers.facebook.com/docs/apis-and-sdks
 [22]: https://www.facebook.com/business/a/facebook-pixel
 [23]: https://www.facebook.com/help/494750870625830?ref=dp
 [24]: https://www.facebook.com/policies/cookies
-[25]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=ATN03k97UFrR_oN8ex98s3X4vdyUSvwbnUic9vQOn7oVTuE_NTPUiTLBv4h1YOw7UKxPEqaBsh6dZ2xYbCNRQ0xeunRQgDXM2WLdlpz1eIoEBM2DbYrtl721kQ3lBQ
+[25]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=AT2JA4gaRWljUtUTQFH61NNCYOWRpxkd_0JyjbBwPApyPB-9zfh0_oSw_SO8n1JaxqesyZuN63XUhOf5ukElIyKbs7p9x98G_t9rWsncXOZSUTfgJtvcFQR4WJ2GE2uiyCdfQxnAqgstlA
 [26]: https://www.facebook.com/legal/terms/update
-[27]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=ATNz9qtXyCh18pWJpbwPVIEtQsHmU1wEY9l3cwoOUxmxW14PQI_dMuG8Ktihv6A_Vb65BNvylW3J3dTKDX3uN_pOKGD5338IcOfg3TOCieKvVWWqnTa4__a2mjvJs5Isf50IyuAhx2M
+[27]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=AT0kO1ILcxXw7bncTgaNTraXU-umeIIQjOluMBJ9o_DMQ7tBT39ROd823zLmaf-nYeqeXkqnR_FNvQcMJPWoBwvwgBbWnYsxWta82zrU-oLvNj35Hj-NwLXZG_A01_CX3OgiYk5br7wq2Q
 [28]: https://www.facebook.com/help/166738576721085?ref=dp
-[29]: https://l.facebook.com/l.php?u=https://help.instagram.com/1400877086604710?ref=dp&h=ATOKMgQUYQ1cQKo58z2qa4q9Nzc2j8nVexeJMTjKoYt9sCTd3Q650qPzQNC97YR0Raoikob9ZLYpLBZHoIVQ5gOrKz-0Hgm7nskFgke3MYlPMKpeiLq_gGS7EyEmBA
+[29]: https://l.facebook.com/l.php?u=https://help.instagram.com/1986234648360433?ref=dp&h=AT0uXFo2bFujvWBXRiEonhxkh_fqM4Ftk5FHS4Oxr5TqoEAzbjxnp-LPsKtk3EsO7NGE0Hhdgvn4CDpu-fd_XkPPpgO_taT7E8qAwfn8bO64660JUP9FYT8s_G6wn2_yeOeo-_jccKY7Ng
 [30]: https://www.facebook.com/help/1076296042409786?ref=dp
 [31]: https://www.facebook.com/about/ads
 [32]: https://www.facebook.com/about/basics/manage-your-privacy/location
 [33]: https://www.facebook.com/help/218540514842030?ref=dp
 [34]: https://www.facebook.com/settings/facerec
-[35]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=ATMUbxYaasUgbOtVwuScXp7oOois6Am8AcxNAfz2-7Wh1gUFxPKrm8CZ0mu71iU9j7a6A-MYeUktTXnvbTtqhHgWpVXwp0eOCFSlXRO-bejHGyLtG2FlH0c4XAjG6w
+[35]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT1pLXt62okEsCy4lIAIQlPJYvAn13PYxp6t4Ukxo8t6kS7BA0mTS_4YtMC7u8b1--efnHLw6KHN4V75YN2oLpfazsPl6wpJUqXTfZW9bb2Bi9xoShpYF0jagNF-4OppXWrDatfg0Ka4ow
 [36]: https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/
 [37]: https://www.facebook.com/help/379220725465972?ref=dp
-[38]: https://l.facebook.com/l.php?u=https://help.instagram.com/369001149843369&h=ATNh4QC_pyl2NsH7G5b8iSw8W-H2YXiXKgcaw4J9v81Fh5uXC5vRa6401boivUq-FHRgn4sw7nhg5WkjIPj7Jmd7zrl98Tzik1aibJDKV_I8jcUIGfbZ0gMI7WPOHQ
-[39]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=ATNszL_PgVp5pI6kPERiI-Cy_HXtMMAxreSKfaIBu8gXCOTpxfF653Lm-oxS62LVqtyhPUraYQ8-dXz3xM9bX5ecv7JNp1VIci8DshOLwuSuSODBfzsCdK1tqW9F2A
-[40]: https://l.facebook.com/l.php?u=https://research.fb.com/facebook-disaster-maps-methodology/&h=ATNRnwmUAj5eZkkw0Pdst3rYEOp5_BWSyaT_PD-4xsbsMAFxNYZoL9x9BxTEKwmfBj100s4Hv0O10G416dCQmUjzJDr5Q0KqzGkCSYZnTs7l_lQmTBdcxobWmP2kxA
-[41]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=ATMHi1sSNKTWM5WOcPh3YWLBLH3wN9VS4D30ZTQyAvh0RrxZWCUzrKg_2_4-4QPV20wnj9ZEJNVAN3ccPFKtumc9XULYcEFzfIOS4RDV35XE8jcKbJ0j6rOpE4zNhg
+[38]: https://l.facebook.com/l.php?u=https://help.instagram.com/369001149843369&h=AT03z01UI8YZHLpxUL-zqQUUJ1cxLf_ZPn4s19pD4AkXBdWwhC160RiFAqKjFRCLR7sk5hkrBxHbUKSaZ_p7r-iKf-7ZgZdn8LdPu0iii3bnrSjTPqG2dGzHXYW-J-Ysom_SvWYjHC7_Gw
+[39]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=AT3sduB3RX38BAphDH65NfdwGCkOQJXrKsHH7sbjrT1-a_c7Hw-7l7nHmlrzktMhQ178S7hnH-VUD8R7AnOLUPWL2o-yXn8Upa3INGzzpBOgWWtIpjJAKvHG92vrQctVXiLXJClY-_wyYg
+[40]: https://l.facebook.com/l.php?u=https://research.fb.com/facebook-disaster-maps-methodology/&h=AT3nUvrCg7J4rmvg8k0Lr0t2bMDEYw0Wkvye-XM3a4J7e7PoCWplf3XfWDqhKuhKHqqI-JOeoBOZyk90ddZuAerV8UIvG--FSFCT5-6AHLi4bJ8PcwXTrOqMS8EcfLS-sMrXs89rYnz89Q
+[41]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=AT2ld_ueTIUu4l6a46QJa2gKdSI8773SWJ0zw46V616ErbAIgGVMROX6glnOH50--hYMzG_Wj9l3dvUgRa_cVzc6YcDjmF5v-JGfhCHJecRyy6-v_83QSDFGpnH85YJ_zNz6tvrRZ6Ke1w
 [42]: https://www.facebook.com/help/120939471321735?ref=dp
 [43]: https://www.facebook.com/help/203805466323736?ref=dp
-[44]: https://l.facebook.com/l.php?u=https://help.instagram.com/448523408565555?ref=dp&h=ATN5FuUgmdzR1emaXTstzFR65FLZOkrEZchuTpLGBwttVQDiPCxvfUg4HcSyHbv04kruhAOgcT5IC35g3xFkoQ8kML7pWvmtQC9d948voWQjzoX7102Tk7hRw7OkGw
+[44]: https://l.facebook.com/l.php?u=https://help.instagram.com/448523408565555?ref=dp&h=AT2FtT7s_HExlzKEaYi58AmguRnC1xj_UtWU6gc6PdqmLkjVbYv1QPz8eU5U8gPBPrQgeZY9TlmIURIOmoH_WsvCWK58Ymjd-lbF6NxcsACKwUW98Ngs0t6My4n4u-UGAlU62Zckr2fsbw
 [45]: https://www.facebook.com/marketplace
-[46]: https://l.facebook.com/l.php?u=https://help.instagram.com/243810329323104?ref=dp&h=ATMe2-wmypoBtSE7y2Nc1vb8v_TYlcXD2IsmFwfjacXHRt40KEJUDOXtRt1FY0TJsMlr4hHlr6BkMnSjdSpBX8RfzCM5Xjhid78o6hyAehLeOhH4Oiix4iCHKnDCWA
+[46]: https://l.facebook.com/l.php?u=https://help.instagram.com/243810329323104?ref=dp&h=AT0zvoZI6pxsqCXi1XyLWZ6EH7s_B7ayf8f0CYwVIvNx5EBx0Fm5oi7G-8S5dBHU0DZAVSo5btBbBAdCAAF_9Hjrl9MxSfW-9z3yderwLr-z_ppzxqFUHrG023X2YRm1wguoYA-CZSGz4Q
 [47]: https://www.facebook.com/help/241256606347754?ref=dp
 [48]: https://www.facebook.com/help/181495968648557?ref=dp
-[49]: https://l.facebook.com/l.php?u=https://help.instagram.com/906123729538696?ref=dp&h=ATMJoTc6Ts3l4VSXuiVdCapaNZCnrPz8-uV_sBmugetPCsLdRHUwdJyv1ug6RxONLtQD51r0Bpo3A_7xRH4F7QMftFmP41mcL_QNI5hoytvsYeecqqFp2qn1dynKzA
+[49]: https://l.facebook.com/l.php?u=https://help.instagram.com/906123729538696?ref=dp&h=AT04MQ0902yFkOMo4-nWOUhuqQcn5wpRojztkuDWFyB06hu89GWG2wRa8FCJ_cRIkQaQXlCh8bxeF17BVN3J9heEG3pQdw0UrOJdzdeDTVNwlo7cdTV3G0Jm1BEAS749QR3qzkBxe1JXPA
 [50]: https://www.facebook.com/help/149081061827062?ref=dp
-[51]: https://l.facebook.com/l.php?u=https://research.fb.com/programs/&h=ATPEMuUdvxuD7m4PJtpYnpWO-HKqmqZ2HRlbWUMd9nh5384KGjm6qugM_LbNC8WT8mXBfLQl6KXv6Kf4IlD2NRGI76hHUPfNh9E9HALrlZc96taRlCKBf0Km_fD4Rg
-[52]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=ATP5-g4tXOwDTzD_idhUBdOoTI6w6VneE6SrBu-XCCVGdHB3Tsu2aSFhspPl4XT8IrN0idxS_tkVRrsQpXf-3OIkVoBqFXHGbsL7mS5mM5j3i43c1h2RmaBTe3CvXg
+[51]: https://l.facebook.com/l.php?u=https://research.fb.com/programs/&h=AT0jasTl2urRiF4b5hSuVhARC_q2W8mA9_L-sGd3w1QpMqrIqrSxTdfJ6yQEVxglltxud-lj0jMY8Z6Tlw8WBRmlFusSNnR_ZXmy97YKv9MBrWCQBp60Xbj9-ZktrfDSLIZKdOn8UX13DA
+[52]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT30LYj19roeqiyWBRrkUiZAyPlu14vB9U7ft9OukQUeF34HCHo9bpp--Om1AsCUMbfThjM20T5rC1Ut3LiwS-xh2yHxF-Yhg822t4S_O4LWL36d1vtUDVxDIC0klCMLRRclYL8Qln0f3A
 [53]: https://www.facebook.com/help/111814505650678?ref=dp
 [54]: https://www.facebook.com/help/195227921252400ref=dp
-[55]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=ATMPMRjsLCTJbs86lo40bdzY6GShqhZL4Pg-qyVHEjeGD51zHrSU9DfPbM3zwSC02pSxmqqA1H-hpJoodsKg6xF75fu2JjJLZrOvUuT_f57_sLmf1FIe8Dy1wMxNUA
+[55]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT2pO1WuB3vAitRhtYOmqlXMdgb_v3XLxQUj23Eh--ziObCkuKVpJydx2_4Ry8OalFNTHecy8JOut_-vGEqKg2VqSb7FD3CYlqaVefJeCrXVyYyv3XSxE94TEv4bzTVrO6Z44fUTdwhxgw
 [56]: https://www.facebook.com/help/356107851084108?ref=dp
 [57]: https://www.facebook.com/help/206635839404055?ref=dp
-[58]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=ATNGFSX31yEDtksNhvWgJV_oTjrFB4-7R3_CEEUZ4YTCcoCoipoaSp97L0M7zjqiytg6-QcajE8RYAbLkbzwwjkG07KI3ClMts88SsBzT6Xso0dIYbXH1J8qehxUrw
-[59]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=ATMuGeF7ZGZO_PSJv-a6p_TqNPUPq0aCbsNH_15Ij9zZBio-qNf90soAeNoKpf-8_HLFqjUC8_UjW6p8dRAr4D6K0vs5T6tpjU6kaBiGWiY3WlrK_s9JZQnmeo9llw
-[60]: http://l.facebook.com/l.php?u=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&h=ATPo-xjvXyRY7ES4mUrVr0NXbk82VMq2qFWoqh7by1MsuerJroL8LALTUWzkcQSQ_bvDI9yxA_57d-YflVc4A_hPdhnUhuAGmnel18OD_3AKoYhty0TTzwqU9Mtpvg
-[61]: https://l.facebook.com/l.php?u=https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en&h=ATPQ5bpk5dmTtLvafLvvFH1Py9owbQnT1OQuMHXgEq0rrR-zKxeprFSG89LG_0iB8MjCpTBPta48WsJ2YeqneRWJ0dE17qbeQXvvfFJt60N1SNeFAc-LHAKLM0R1vA
+[58]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT2P9Mwt185A63GUf7MDMJ0JO3LLiXsvkaQl5Ub0ioGPEeasNsBaaYVtwV6NIb-yZtqp3ADHLZxCCDsYeX4LQ_9zHLGIyLZhdfoXM1nWQViN6-fxwB4nh30L0xbBQmBxwsmbZWBruUVflA
+[59]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=AT24IjT6b_T4OkDCLD_fx57HHN0MDAtyiNbiiFpRTbcRmZA57zctkI5UM9FisXr24oXzzKQK5RgnCkxMxwU59xpTZBDtdI6FkVkk8i1bpJgj-umkRksyDK-FsJcBY7vDCiMv865crOTufQ
+[60]: http://l.facebook.com/l.php?u=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&h=AT3CdfRR0yk22_QVm592cToQx6wTwkgGjvxinhjB_68VAH3y11MtWhPTM1FBSLD4hgTTyuyY_SbsLjqCSS2TBQJ_a5hWHekZdlu0guvDgzzSp2ZLufjZTCQDvbwX51pvzP_ywCDULIxAIg
+[61]: https://l.facebook.com/l.php?u=https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en&h=AT0deySu7gJ2Q2Qu3lUTPMCYjXcnYwZpgwpC5Du3m77JweKSLFt0si1CNkTzQsQy0idC2BEqFJ-znDutDzOJd1CnZDBnArfy0W1YHw6l1ywMUlR3SZzKTsG7-AbTH3ZeI-rC5l1b2-ITiA
 [62]: https://www.facebook.com/about/basics
-[63]: https://l.facebook.com/l.php?u=https://help.instagram.com/196883487377501?ref=dp&h=ATMdL532Ew2wpxxOZpuiOLU0VxlPcRp1gQg7QdaieY8bFkaFEKKI1UaRkXziBSMUvPLbIOv4Nl_p2EAlN3SSXHbl7NSWKl5FNxfg5PEgCR0nPGkCWV6oJjeWjML77w
-[64]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=ATPPQTGDdnnPwDBLW0hFOk9UI4-G2afVI0J3ZyXiyYuU26QWqek1qF6Yu76o1OgNU8JPATxhd-dRPpNQqjALpm3py1_C9Fapbi1cUBGSaf8Jh36viXUy-ocLinSuVA
+[63]: https://l.facebook.com/l.php?u=https://help.instagram.com/196883487377501?ref=dp&h=AT39jWkPEa1sO1EhPZtuI8j1a3AYIx_Uc33000XwbHeea3Ol-qNIgbqLVbUoyS708FL9BQELZfWxjg_7Mfvk9321v-CFWXY_3eRv1q13Ben_OQkbF0LYNuS_XcZZBJNa88oIAbGcN4qTyw
+[64]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=AT10XmgByQWD9qyiHTFXB2DGwXZ4RQ3Y4ehr-3CVJ6nWYvxu9PtxF4f05YFkdynjKBLUO95GpjQqE2DEwGqR_DqG3Sc3eHwtKPV90EvAha4Wg91Jf2KIShba9gu2r00ipph-udkROupEHA
 [65]: https://www.facebook.com/help/contact/861937627253138
 
