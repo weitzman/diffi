@@ -214,7 +214,7 @@ Information we receive about you (including financial transaction data related t
 
 ## **VII. How do we operate and transfer data as part of our global services?**
 
-We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms][26] and [Instagram Terms][59] and to globally operate and provide our Products to you. We utilize [standard contract clauses][60], rely on the European Commission's [adequacy decisions][61] about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries. 
+We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms][59] and [Instagram Terms][60] and to globally operate and provide our Products to you. We utilize [standard contract clauses][61], rely on the European Commission's [adequacy decisions][62] about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries. 
 
   
   
@@ -228,9 +228,9 @@ We'll notify you before we make changes to this policy and give you the opportun
 
 ## **IX. How to contact Facebook with questions**
 
-You can learn more about how privacy works [on Facebook][62] and on [Instagram][63]. If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices through TrustArc. You can contact TrustArc through its [website][64]. 
+You can learn more about how privacy works [on Facebook][63] and on [Instagram][64]. If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices through TrustArc. You can contact TrustArc through its [website][65]. 
 
-You can contact us [online][65] or by mail at:   
+You can contact us [online][66] or by mail at:   
   
 Facebook, Inc.  
 ATTN: Privacy Operations  
@@ -243,66 +243,67 @@ Date of Last Revision: April 19, 2018
 [1]: https://www.facebook.com/about/privacy?ref=new_policy
 [2]: https://www.facebook.com/help/1561485474074139?ref=dp
 [3]: https://www.facebook.com/settings
-[4]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT3ftMP2vJhzlsjVcniAUNReM9_66R_5uwwKPmqwLzffjd1G0n3BjdBz5TYvtmff7vuWGFc3KZXjm_0l8F3vpWHWYKV_B_ln6YGOLWzHsnXHT0vCLVREQr3aPDL-WR5ylDS9lXJAdkvITA
-[5]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT2hFaxiaQZ0qN8wKCYtN1N4QIlM0L29fr0hQZBkhhsfYKVJLDFuYAsB9GPE01uwR9U9YChiya7KNt6wcpCx_Vh0ny2olQo9w7g2Tl85DQ4czkZXBWWsMqUEI4qP09DZ9rxpat7Vjw3_ZA
+[4]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT3dYjUOKx2cHKVytcmB4CDmAQV8Og00yO-bWL3TTcvdWoeYfZWFf1GTNk8JOm6sNXMxzmCAkFyFQCIBhzrpsjhZDQhA9t7GvxJDP_0l1m9TSzn6pDaIeadfI2LDjaN-zQ-Jreeb08-aFg
+[5]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT1HBnsm18Bh5UohpjszdMRYzIB5eSwf6aP9J_wygqWC3T5fHcg0YdLcynKcjCrusWe03ooEUymDhdQYusiRHV9z4xXAGJxwd6kN-FrsSvq1nwqNdixoSUMIeWF4HxxXw7FvZFpQPuB3JQ
 [6]: https://www.facebook.com/help/162347444215311
 [7]: https://www.facebook.com/help/1297502253597210?ref=dp
 [8]: https://www.facebook.com/help/353111348061173?ref=dp
 [9]: https://www.facebook.com/help/282489752085908?ref=dp
-[10]: https://l.facebook.com/l.php?u=https://help.instagram.com/351460621611097?ref=dp&h=AT0rfSPJ9avKG1l9yf8ZtcBm7bJXx8_6YkKVL2NU4916mgDb1wO3IE8OjCeS8SGg-e2NKjW4PrFSpaOVP8_63HAVvPCuqsqtfFneJxhZrcYPZJi66h0VqO9rr7W4DQqU1fm8sJEW8KzWUA
+[10]: https://l.facebook.com/l.php?u=https://help.instagram.com/351460621611097?ref=dp&h=AT3O4ieet0Nyh18ZTBR1mGPGPjXBo0bCBiSKUOtX4Ke81u6Y77myM4452yoP3QzflI8wicESaI4jiZI55L1Q0hHv_3HvdH2UpOVEI7ROJI_DIgTL3RydCg34ThV0oqjYjPPenBAYGmDYxA
 [11]: https://www.facebook.com/help/561688620598358?ref=dp
 [12]: https://www.facebook.com/help/1434403039959381?ref=dp
-[13]: https://l.facebook.com/l.php?u=https://donations.fb.com/&h=AT2TFTHSpcruKMs12fOJ3lWe-yKTWBQ-IkQz7pslJebYsX0I4Q1rZuI1rzvfGP5A5MmsQftNpW15l4kC1a_hgya_tiNgk_pl7wsDe4yvwVVksoD8SBVfJCou5-abKK00It8ABG3L2zMsqg
+[13]: https://l.facebook.com/l.php?u=https://donations.fb.com/&h=AT0jEvQTI2uML7ondDsfK5Rw21MDniNK_Fiey7PT514fcjwBINNOFuG5VRJFxa47cbyhnhGPBcEIOyx20y3SQ66limTJseeH-cjPi4S-4qm86V4lnpPEH3iQZN8LIGnPjWdEU6xWr78e6A
 [14]: https://www.facebook.com/help/119468292028768?ref=dp
 [15]: https://www.facebook.com/help/195227921252400?ref=dp
 [16]: https://www.facebook.com/help/276515126152168?ref=dp
 [17]: https://www.facebook.com/policies/cookies/
-[18]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=AT3mhhkki0rPWYKcrnWuF9dDM27xN_bzZJ6SdlcPAU56Y8N_jhbXQ4ei1x3ZA0MYHu7YlygNKVKH39kKyo8xEPkXDi0pIxTCrq-fMGJ1pTivpgTdjGC1CIGnB-U4quxbXnQ6tWLX8O-A3A
+[18]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=AT12rqVxyA8FO4zJPEYwm29g3RdN4024rUSBkEI2__05ZLHQqYL_vLTCfYgSmi3ipjH-7Du1mLL31O9u8Db-m2TBYjs7U2IAZVrxwRlmJNQ89Y3k2u9ZnkK90zSXwm-Wg7UURoNDo8ni1w
 [19]: https://www.facebook.com/help/1642635852727373?ref=dp
 [20]: https://www.facebook.com/help/331509497253087
 [21]: https://developers.facebook.com/docs/apis-and-sdks
 [22]: https://www.facebook.com/business/a/facebook-pixel
 [23]: https://www.facebook.com/help/494750870625830?ref=dp
 [24]: https://www.facebook.com/policies/cookies
-[25]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=AT3qWmbZ1HJk8mCMT1v8WAJ06LIemuFb3DV_seqGe8_rgjvX7JeEYD-UZI5nBVH2StnZ3zhYY6e4e7EF4tUIgdDA9GBdzsBb6OZrr-aXySVFCnUhO-0ehJr6Vw-sqATMCE1_XCYKshDQHA
+[25]: https://l.facebook.com/l.php?u=https://www.instagram.com/legal/cookies/&h=AT3w2hGeMUCbZeNgGiGR6GJRS43dGAK__6eWzkJ37cpsNNjqFnSp1dXGw8gbeX1JRWxqJRxk3aUNheI-LsjzUO3iv5_nCmBOUn22GHQHFQKG1KvXXuz-LNPyrb_UeZpWnYtNQC9D496ztQ
 [26]: https://www.facebook.com/legal/terms/update
-[27]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=AT3JA77JeioxIUb-ZxGCTwdpSHqGt9j8uPg1vtx2zc8xlip2zhQfwMAgP5tPTM3p0FWi3qAtu8X5WWVhnTqSPVcRgU_Af_ruA2RQMFYGOA04MdI7fNfPV6VkllaGg4nu9iszrMbiAp5LGA
+[27]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=AT30b2dEGYWHevdz9jbxjtsOEwFlbKOd03uEVq9KwQOI351SLtVDffV1BBUchbGa4BdS1q9a-erKWk7Rc6PL5p9-f8BKEE6UjI7iuiXOkACze4gvh9qMejGStDxgc5gyNRYkFP-nN0wrMo0Lli_U9AYcEuY
 [28]: https://www.facebook.com/help/166738576721085?ref=dp
-[29]: https://l.facebook.com/l.php?u=https://help.instagram.com/1986234648360433?ref=dp&h=AT0qCFJCHtSfMmyMTuRxRW7cGLM43ZmovEBBCNyoVcZpIhiBtnBy_H7gx6loy0oRUTd7VMxy3Eub_5pakPCKgEW0qcOmhg14xKKdfNzr3EGq1Xdi8PrwO59xAjd4a0ByQ7nX4LIHfR7Ttg
+[29]: https://l.facebook.com/l.php?u=https://help.instagram.com/1986234648360433?ref=dp&h=AT0cnDR02oxbxj11jVgunKUULJtyyEM_7dKN79iCGiOTmzwxPmUWamf1KxaWEAgZ-gdU80mhrDrJvqFyvQOPOGF15TgDJHQAeaT5zXKbKqTZPPumRKv-l42Nn2Hj4qLc6Uri3qOjRMfPyA
 [30]: https://www.facebook.com/help/1076296042409786?ref=dp
 [31]: https://www.facebook.com/about/ads
 [32]: https://www.facebook.com/about/basics/manage-your-privacy/location
 [33]: https://www.facebook.com/help/218540514842030?ref=dp
 [34]: https://www.facebook.com/settings/facerec
-[35]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT1ZTWsHK3GHAgtYMS4j7nDV8fJ7-9_sia17Dz2fHo6a80fVxHzUrxRQkTOin_QDybANXVwu0xgZ5isqFG26JU9pOZvFepzv1-jxVJcioLSaD0pYeIoftSOdJ8UDv_1R-8ep8d0xbmBz0A
+[35]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT1-dUOdRh2pQmM1WnAgdp9otQVKXNpRAlqv51kVcU8PVmf-cMdRNGLL-y_422-bha-ae1VL0s7WmKdyb9UDZSvvV3EW4ssioX7XPelpLOf06-R52iAAUZWrY65STRpN3ABaaJJM0PXarA
 [36]: https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/
 [37]: https://www.facebook.com/help/379220725465972?ref=dp
-[38]: https://l.facebook.com/l.php?u=https://help.instagram.com/369001149843369&h=AT1q0OpiHgNHTRbaCNRBT5Sm-Ro_s1AtZF_-A6qUr81kGN2uUC0EwWudG_jhavWWxi8OnRUWYrhQ6jtqNDZLFxgnifeORj46QhAkIYzTbosXIvzkJvGYfbp2IPDBcssbFfQTvrZ-P3dZ-A
-[39]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=AT18qHno4QotuOpLGtyDoffTX3iZ5ptYwhM1B_rJAosISjSXiBlCWJsHwRQtOaKYeG9XFrE8edHr7TaJtorHQDff6jnSb3hrGt8OZzVu532xUAtG6H_elPrwOeklSZKc1TR7h7rVha3HCQ
-[40]: https://l.facebook.com/l.php?u=https://research.fb.com/facebook-disaster-maps-methodology/&h=AT2Nnyi-L1kI68fwmpD9gUCp_7FjfWz4CPiao3UFSBVP3X0H5yg2kc47ExOatkk8azgTPxUvh-0xcwwUfdYHeiugv0NXkcNEWURGAmNgBGQOhMGnIO_VCn7mzY3XDNlZYFac5crkhEXTiw
-[41]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=AT1O34NzQjccTT-wPXAs8yRo7w5CNt2iHjD7iU7cm8mMOBMqN62D8PRpP9yTG_qcv6HMK4m_LAZ4Fse3k3cVSw3SomMNSbwwA8Xa0Cj_YglJK638_4sfV4Rl8yHh8vSAiX6NYcCJzHXYLQ
+[38]: https://l.facebook.com/l.php?u=https://help.instagram.com/369001149843369&h=AT2ZkmG8SQ5YP8zGLC1xYd0r_X0ZyKA51jUwGXayIKuUqU1bDq8KO-X7AkdeeW2hGmrrxtLApt6jgvvnsdSKcpD12geujJRXdnaHQbb9OzbhnN9K5Xr6XklNQQxvgYdrtO3efaDj9S8uSg
+[39]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=AT1zpRsYF1FCmF8e02dUkARbkYrgufm6XRcKe6tBz023wq0n5mjsKfVtD-ZZRYCv0vhp0QEwJmbscZoPj7AhhngfR8WM4RxkURw78xRkS2XEHqBDdL5xNdud0r9Knu71BbkHxuk--9itNA
+[40]: https://l.facebook.com/l.php?u=https://research.fb.com/facebook-disaster-maps-methodology/&h=AT2rDDTDOErOoHKYFdAMI4J8_0oXaNszeV7fwN6F74aIqmJvAWlbuuD4rPmg-5Y0WRqn8EcmZCeIKOnEiy-XfXo6DDGTdu8pxflv2tNwHO1uyx9HBilcWHNd94JigHDmmB09ww0dpn48JA
+[41]: https://l.facebook.com/l.php?u=https://research.fb.com/&h=AT3nNKSo839GzdsHxIhm_EMPJ2uULII-tiQh1RFvxv1ROu8r6i4UgQZjdQ-K9-6UR5IjVtlr1BRXWgN-QXoEOCnSQhrbOG_sju3XpHjwRIft6d1K-hZe6dI7FNWB22srlGphePVPxQ3Zww
 [42]: https://www.facebook.com/help/120939471321735?ref=dp
 [43]: https://www.facebook.com/help/203805466323736?ref=dp
-[44]: https://l.facebook.com/l.php?u=https://help.instagram.com/448523408565555?ref=dp&h=AT2n2qy8Htp0TLX89oElgnApCDiYndc81YPTIFkAwt7vydF1y9KGw1R0EJWBKO4_Q91S307AYf9iEFc_iEgwUDyZWfCtZ_KMoWnq9yT-zhQ4_PejmgZ39reJBSLb5Ly48K_uPvzaOPJch-hgl43CL1wrWJk
+[44]: https://l.facebook.com/l.php?u=https://help.instagram.com/448523408565555?ref=dp&h=AT0KmRhoIH1PqQg0mK1ntxs_CyywhlFDyqiHa52pb1ljrqOCZkRIVjBM72qGZNcJhmh2ppZYFb1YqqtSXHEfv9W7TToMgtSHono9Uu8qNenLznwDh1YE-bPoXhsvwD1Kv8ObZO9zOPoWhw
 [45]: https://www.facebook.com/marketplace
-[46]: https://l.facebook.com/l.php?u=https://help.instagram.com/243810329323104?ref=dp&h=AT3OyFzuutL_lFtqdy5mbEHsodbkHVoKlLnntM2L0yN8Hgf70VdIXAtawxqVibsc1aUrfAv9fiME-zURu_4wCf56Otk1DotxL2USDPZCJg4uNt7t5o7i5D6nyaPgJXWs5IYsR6W8PRKx7Q
+[46]: https://l.facebook.com/l.php?u=https://help.instagram.com/243810329323104?ref=dp&h=AT1BkeJFioY7ySmmAuig-Vu4tCfmeiR1PL1zpH-AzBxPDK3CaGFOlIDKbdvwb_Ee_cBQt391hgQ31jveSGnd5_G5gU-6OtMG5ndmKu4p1_ITuIsiRoS512Si2RjL8xlRH9G2ptCzNyQRwA
 [47]: https://www.facebook.com/help/241256606347754?ref=dp
 [48]: https://www.facebook.com/help/181495968648557?ref=dp
-[49]: https://l.facebook.com/l.php?u=https://help.instagram.com/906123729538696?ref=dp&h=AT35wq0yQhYCkleAn1ObP4SMZAaR_-lPXOkCEaKqxEaT4Qs4pFeCSKA7y03duUH-I3Gvob5YtI--ObGxO_YXYrC3Q-3irFzbuFfjSIPnp1iP-pkylThXSWUPBjm8ZViuI6Fy8OihMS2q4w
+[49]: https://l.facebook.com/l.php?u=https://help.instagram.com/906123729538696?ref=dp&h=AT2Sgdgjwm_kdaRyidu-ffW8Y47FyG1zB_Q-3IE7AQkUtmBK3x2dnI957J4PshKoD0DEbSV55Pow5yceF-4qrFLRk6f9fVH4kORPJEEd2N3dludf5AbLtoMVivHnij9ITRHI56y0CjCDsA
 [50]: https://www.facebook.com/help/149081061827062?ref=dp
-[51]: https://l.facebook.com/l.php?u=https://research.fb.com/programs/&h=AT0GhSvhQBRhNUtazkqFP4wKPglyu8ZY4LvM6pgBxZwMOw2_cx5IsstJPH_RZQyG66apnUbenWoMor0HyHQXvYa-skzLeFBJr20ncBrQgEGCbaInaAXl3LiKtHY7rr-GRomg3vAr994sGw
-[52]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT2eznNbOx5l-ib_LOgpvUQvepWv1Tp40CDV6no_U4WeMRaqgd3AV6z4j2S6_sAW3I3iNc0bY_v4bOK7mX6a8_5tLljEX_D04G4DO5bkSYkXCKGK0NJu3fw6pWaBV9ZRmUkf2mkuf4DBiQ
+[51]: https://l.facebook.com/l.php?u=https://research.fb.com/programs/&h=AT1exdbhYPS42GaeG6HvSJb4UnpthBHTeAzH7IacLlSQE-CwQzoDS7ze_BnTsr4VJTycmbBPF9ZdzhjWpAxsMiE44mxPNoMVLp-aUA2v8QQcU4lzIy-r9CLKATOnPgCWTIwgzbtFE7bOgA
+[52]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT0Sj3wkt7l42vG-7uRFoaH6JDknhyTNzzyHV-S353lTSOJALmU7QZ3U_gRKOOlxysRK-PR7k6RRvXdRD3UsDM4cAfnmvr0Swt2mdEK6nsgKole366cLioOFJ-qyDI84CZhzrHyRneSMMQ
 [53]: https://www.facebook.com/help/111814505650678?ref=dp
 [54]: https://www.facebook.com/help/195227921252400ref=dp
-[55]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT2xLFCBd2nImp3F-j29UxeOfMGHlKH2Rmn-20mmoV4pG2C-ny1fBRVzcgRCwekCh-002f3160Xl6qURc7vN_fx56cI6GCHMbrtkzhp2CuwXKslKUbc2JUPLx94jYCjO4h0xesNcMKOl6A
+[55]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT3nhskhWigqHeqHnQG8ai6Z0hdqavYGdCxXPlw4klDpl0pxKW0n_DnzueGf19g1-zOCxw0XG8hwKo7J-5moWazoZUZJoAyW0tX38ch0m5Y6BmrXaodfv0IacEQaXA_Fa2tfflScsJjE4g
 [56]: https://www.facebook.com/help/356107851084108?ref=dp
 [57]: https://www.facebook.com/help/206635839404055?ref=dp
-[58]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT1QBb1BR8RjbnEGMeDptm9-wH_fvHCinIRdUVjT6gj-km4PCU7nKUS2nzifRBulcWfb2LWfE7KpQi7lVFhsCaePYrCM7d5nzcAekorHJIHyQ4T-v4nwQLx9VG0qBdH1GC7JM_XToWtgqlOg54uDSbNTUXE
-[59]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=AT3riIiiV-bP_JRrGrLSzBnYsSJGdgjJAJJEIiDgKl5FpcRYjY_aNDEtNfm8ZodJTTfrda-rt21SzLNQYAaccWBxy3IVjzJ2pFyEJ2iV1hSr4KRhfyR4UjbXrS2yzCkcvmu-K3WZ3D65-w
-[60]: http://l.facebook.com/l.php?u=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&h=AT3F5pBgjG6VPRopgJZSmUXWN1LFXgfwnxQdtBPANaLf3TbIS4d_tsCDvrV-Fh5xxEXwD6w8t2ZzMVBsyRq9wKb2o0UfZ0EyF7IOfjyHKt0YZcHzUlQjOtkSJqIWNCcCy_A3gssUe3-4Fw
-[61]: https://l.facebook.com/l.php?u=https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en&h=AT1Fiw8__hEQmX07Wb__zsYQCZR7s9oOBp_l8u6N-beeQzAlRtuNM6XB-MCv3dQPiMC_2XUQwTx7GRKJAxmOjrd0udmpe78TQ5hQ_6mWR1O89YAVzhkLtC2vTSJZsFdE1WfdmxNdPsNhNw
-[62]: https://www.facebook.com/about/basics
-[63]: https://l.facebook.com/l.php?u=https://help.instagram.com/196883487377501?ref=dp&h=AT2FU7bwwUaFdcjQALEdTjhecqFr7LOCY0vQ13rWh_PxlYCN7HUnYNH-_-Et89Qv1dlbuvVEIfVNt1wQhQ8qdx_ScmY7a9g72OZdAGWThNDYpUd64Sh_vup_DXfwOOjqE5w4iv3LWEyvwg
-[64]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=AT0IerUupXuW55dbuqIgOf6sQPGwe-ee8G-An0GduOHzYXwL_XR1LyCDWLjETXUow7OQfGTTnmUyVvrzD2REHXEbLgDhs8yXfOgYm3If94Ix1Ddn83n0TUUgZ9HlK341ajGmD0JVjSuxEg
-[65]: https://www.facebook.com/help/contact/861937627253138
+[58]: https://l.facebook.com/l.php?u=https://www.instagram.com/accounts/privacy_and_security/&h=AT3EK7lYtkcR9fH_MYO0vYQ1QpArgabCebx9_IvCvsm5KNeXCsp8-q8jFgF-na42uQOJigIzgO8o9XX7cZemhNlok3vfpZTewPlVkbL4c9j_kU9zNi4bh2sIYKbq7EarRZ8uX31fYdGy2g
+[59]: https://www.facebook.com/legal/terms/
+[60]: https://l.facebook.com/l.php?u=https://help.instagram.com/581066165581870?ref=dp&h=AT3wC3RpyOQtiiRsFGiHvGlVe5j2p_2H2nuzDshT0wVa_8gHBtKHc5RFZAavRRrewIQx_sWuMS6Xn37j83RBsVKVM33OAohfnwL4W3r6u5Bu1Xe4taTmhnHzfmuYRQRWPMGFc0TO_tg28Q
+[61]: http://l.facebook.com/l.php?u=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&h=AT2jg9ZxbXhoOIwZg6EWuy1rquT3yJRMD6iDR-D4sJxqOB0qUOrO4zcxYPUaRvniJri7ixXEHCXdkxDTn4O7jV8J-n-ozinHCFgZ0333APVU0GWlFs4n3xUY0HqlvM8RXvJrvlMJRm1s_w
+[62]: https://l.facebook.com/l.php?u=https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en&h=AT3bWGl9teV7auEDZH8pMXMC-eWNg4P8Ww8kzK5PcF1-sE5AlHeQKygke09aqncHdfd_IUHqs3bKYAUq9bShk5qs7QLGV-682rHUj2LTLpJ351ciBKWywT4GsKDMBXehAHIYn7PhHl5EzQ
+[63]: https://www.facebook.com/about/basics
+[64]: https://l.facebook.com/l.php?u=https://help.instagram.com/196883487377501?ref=dp&h=AT30l5TJS0IHJND2SRL2UPigU75JR_pL6nuXv_Q6vptNJP9dGATClIk0eYppDy1YjagNOrmLmp6DgIV07WGXt62Yov4GFUUYkZKQpCB9MDf5UTshhagcnWYocTe9ER1Q3KTYyv-yhuxoxQ
+[65]: https://l.facebook.com/l.php?u=https://feedback-form.truste.com/watchdog/request&h=AT3ROapi4ln4c7fL-PU6quoqg4kOrazIodyJ6MB-DtBHWxO1h7dTWJk4E-_W3VSDl1XMWOdJfZsJZlEb0IX-2sn-ebQxMpyYfctKxqxN-giUS2DzVTdt9g9fcPbs2LFE5oaJHCcP55MgZQ
+[66]: https://www.facebook.com/help/contact/861937627253138
 
