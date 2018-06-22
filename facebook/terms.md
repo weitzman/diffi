@@ -168,8 +168,8 @@ Return to top
 
 ###  2\. Our Data Policy and Your Privacy Choices 
 
-To provide these services, we must collect and use your personal data. We detail our practices in the [Data Policy][7], which you must agree to in order to use our Products.   
-  
+To provide these services, we must collect and use your personal data. We detail our practices in the [Data Policy][7], which you must agree to in order to use our Products. 
+
 We also encourage you to review the privacy choices you have in your [settings][12]. 
 
 Return to top
@@ -187,7 +187,6 @@ When people stand behind their opinions and actions, our community is safer and 
 * Create only one account (your own) and use your timeline for personal purposes.
 * Not share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).
 
-  
 We try to make Facebook broadly available to everyone, but you cannot use Facebook if: 
 
 * You are under 13 years old.
@@ -199,7 +198,7 @@ We try to make Facebook broadly available to everyone, but you cannot use Facebo
 
 We want people to use Facebook to express themselves and to share content that is important to them, but not at the expense of the safety and well-being of others or the integrity of our community. You therefore agree not to engage in the conduct described below (or to facilitate or support others in doing so): 
 
-1. You may not use our Products to do or share anything:
+1. You may not use our Products to do or share anything: 
     * That violates these Terms, our [Community Standards][13], and other terms and policies that apply to your use of Facebook.
 
     * That is unlawful, misleading, discriminatory or fraudulent.
@@ -207,26 +206,25 @@ We want people to use Facebook to express themselves and to share content that i
     * That infringes or violates someone else's rights.
 
 2. You may not upload viruses or malicious code or do anything that could disable, overburden, or impair the proper working or appearance of our Products.
+
 3. You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data you do not have permission to access.
-We can remove content you share in violation of these provisions and, if applicable, we may take action against your account, for the reasons described below. We may also disable your account if you repeatedly infringe other people's intellectual property rights.   
-  
+We can remove content you share in violation of these provisions and, if applicable, we may take action against your account, for the reasons described below. We may also disable your account if you repeatedly infringe other people's intellectual property rights. 
+
 To help support our community, we encourage you to [report content][14] or conduct that you believe violates your rights (including [intellectual property rights][15]) or our terms and policies. 
 
 3\. The permissions you give us
 
 We need certain permissions from you to provide our services:   
 
-1. _Permission to use content you create and share:_ You own the content you create and share on Facebook and the other Facebook Products you use, and nothing in these Terms takes away the rights you have to your own content. You are free to share your content with anyone else, wherever you want. To provide our services, though, we need you to give us some legal permissions to use that content.   
-  
-Specifically, when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, royalty-free, and worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your [privacy][16] and [application][17] settings). This means, for example, that if you share a photo on Facebook, you give us permission to store, copy, and share it with others (again, consistent with your settings) such as service providers that support our service or other Facebook Products you use.   
-  
-You can end this license any time by deleting your content or account. You should know that, for technical reasons, content you delete may persist for a limited period of time in backup copies (though it will not be visible to other users). In addition, content you delete may continue to appear if you have shared it with others and they have not deleted it.
-  
+1. _Permission to use content you create and share:_ You own the content you create and share on Facebook and the other Facebook Products you use, and nothing in these Terms takes away the rights you have to your own content. You are free to share your content with anyone else, wherever you want. To provide our services, though, we need you to give us some legal permissions to use that content. 
 
-2. _Permission to use your name, profile picture, and information about your actions with ads and sponsored content:_ You give us permission to use your name and profile picture and information about actions you have taken on Facebook next to or in connection with ads, offers, and other sponsored content that we display across our Products, without any compensation to you. For example, we may show your friends that you are interested in an advertised event or have liked a Page created by a brand that has paid us to display its ads on Facebook. Ads like this can be seen only by people who have your permission to see the actions you've taken on Facebook. You can [learn more][18] about your ad settings and preferences.   
-  
+Specifically, when you share, post, or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, royalty-free, and worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your [privacy][16] and [application][17] settings). This means, for example, that if you share a photo on Facebook, you give us permission to store, copy, and share it with others (again, consistent with your settings) such as service providers that support our service or other Facebook Products you use. 
+
+You can end this license any time by deleting your content or account. You should know that, for technical reasons, content you delete may persist for a limited period of time in backup copies (though it will not be visible to other users). In addition, content you delete may continue to appear if you have shared it with others and they have not deleted it.
+
+2. _Permission to use your name, profile picture, and information about your actions with ads and sponsored content:_ You give us permission to use your name and profile picture and information about actions you have taken on Facebook next to or in connection with ads, offers, and other sponsored content that we display across our Products, without any compensation to you. For example, we may show your friends that you are interested in an advertised event or have liked a Page created by a brand that has paid us to display its ads on Facebook. Ads like this can be seen only by people who have your permission to see the actions you've taken on Facebook. You can [learn more][18] about your ad settings and preferences. 
+
 If you are under the age of eighteen (18), you represent that a parent or legal guardian also agrees to this section on your behalf. (This language is included pursuant to a [court-approved legal settlement][19].) 
-  
 
 3. _Permission to update software you use or download:_ If you download or use our software, you give us permission to download and install upgrades, updates, and additional features to improve, enhance, and further develop it. 
 
@@ -240,55 +238,46 @@ Return to top
 
 1\. Updating our Terms
 
-We work constantly to improve our services and develop new features to make our Products better for you and our community. As a result, we may need to update these Terms from time to time to accurately reflect our services and practices. Unless otherwise required by law, we will notify you before we make changes to these Terms and give you an opportunity to review them before they go into effect. Once any updated Terms are in effect, you will be bound by them if you continue to use our Products.   
-  
+We work constantly to improve our services and develop new features to make our Products better for you and our community. As a result, we may need to update these Terms from time to time to accurately reflect our services and practices. Unless otherwise required by law, we will notify you before we make changes to these Terms and give you an opportunity to review them before they go into effect. Once any updated Terms are in effect, you will be bound by them if you continue to use our Products. 
+
 We hope that you will continue using our Products, but if you do not agree to our updated Terms and no longer want to be a part of the Facebook community, you can [delete][22] your account at any time. 
 
 2\. Account suspension or termination
 
-We want Facebook to be a place where people feel welcome and safe to express themselves and share their thoughts and ideas.   
-  
-If we determine that you have violated our terms or policies, we may take action against your account to protect our community and services, including by suspending access to your account or disabling it. We may also suspend or disable your account if you create risk or legal exposure for us or when we are permitted or required to do so by law. Where appropriate, we will notify you about your account the next time you try to access it. You can [learn more][23] about what you can do if your account has been disabled.   
-  
+We want Facebook to be a place where people feel welcome and safe to express themselves and share their thoughts and ideas. 
+
+If we determine that you have violated our terms or policies, we may take action against your account to protect our community and services, including by suspending access to your account or disabling it. We may also suspend or disable your account if you create risk or legal exposure for us or when we are permitted or required to do so by law. Where appropriate, we will notify you about your account the next time you try to access it. You can [learn more][23] about what you can do if your account has been disabled. 
+
 If you delete or we disable your account, these Terms shall terminate as an agreement between you and us, but the following provisions will remain in place: 3, 4.2-4.5 
 
 3\. Limits on liability
 
-We work hard to provide the best Products we can and to specify clear guidelines for everyone who uses them. Our Products, however, are provided "as is," and we make no guarantees that they always will be safe, secure, or error-free, or that they will function without disruptions, delays, or imperfections. To the extent permitted by law, we also DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. We do not control or direct what people and others do or say, and we are not responsible for their actions or conduct (whether online or offline) or any content they share (including offensive, inappropriate, obscene, unlawful, and other objectionable content).   
-  
+We work hard to provide the best Products we can and to specify clear guidelines for everyone who uses them. Our Products, however, are provided "as is," and we make no guarantees that they always will be safe, secure, or error-free, or that they will function without disruptions, delays, or imperfections. To the extent permitted by law, we also DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. We do not control or direct what people and others do or say, and we are not responsible for their actions or conduct (whether online or offline) or any content they share (including offensive, inappropriate, obscene, unlawful, and other objectionable content). 
+
 We cannot predict when issues might arise with our Products. Accordingly, our liability shall be limited to the fullest extent permitted by applicable law, and under no circumstance will we be liable to you for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms or the Facebook Products, even if we have been advised of the possibility of such damages. Our aggregate liability arising out of or relating to these Terms or the Facebook Products will not exceed the greater of $100 or the amount you have paid us in the past twelve months. 
 
 4\. Disputes
 
-We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, it's useful to know up front where it can be resolved and what laws will apply.   
-  
+We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, it's useful to know up front where it can be resolved and what laws will apply. 
+
 For any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms or the Facebook Products ("claim"), you agree that it will be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County. You also agree to submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any claim, without regard to conflict of law provisions. 
 
 5\. Other
 
 1. These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Facebook, Inc. regarding your use of our Products. They supersede any prior agreements.
-  
 
 2. Some of the Products we offer are also governed by supplemental terms. If you use any of those Products, supplemental terms will be made available and will become part of our agreement with you. For instance, if you access or use our Products for commercial or business purposes, such as buying ads, selling products, developing apps, managing a group or Page for your business, or using our measurement services, you must agree to our [Commercial Terms][24]. If you post or share content containing music, you must comply with our [Music Guidelines][25]. To the extent any supplemental terms conflict with these Terms, the supplemental terms shall govern to the extent of the conflict.
-  
 
 3. If any portion of these Terms are found to be unenforceable, the remaining portion will remain in full force and effect. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us.
-  
 
 4. You will not transfer any of your rights or obligations under these Terms to anyone else without our consent.
-  
-
 5. You may designate a person (called a legacy contact) to manage your account if it is memorialized. Only your legacy contact or a person who you have identified in a valid will or similar document expressing clear consent to disclose your content upon death or incapacity will be able to seek [disclosure][26] from your account after it is memorialized.
-  
 
 6. These Terms do not confer any third-party beneficiary rights. All of our rights and obligations under these Terms are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
-  
 
 7. You should know that we may need to change the username for your account in certain circumstances (for example, if someone else claims the username and it appears unrelated to the name you use in everyday life).
-  
 
 8. We always appreciate your feedback and other suggestions about our products and services. But you should know that we may use them without any restriction or obligation to compensate you, and we are under no obligation to keep them confidential.
-  
 
 9. We reserve all rights not expressly granted to you.
 
@@ -320,7 +309,7 @@ Date of Last Revision: April 19th, 2018
 [7]: https://www.facebook.com/about/privacy/update
 [8]: https://www.facebook.com/help/1561485474074139?ref=tos
 [9]: https://www.facebook.com/help/111814505650678?ref=tos
-[10]: https://l.facebook.com/l.php?u=https://research.fb.com/category/human-computer-interaction-and-ux/&h=AT3G31IlqaaMfIYnGJXubX0h-Z_3Col2bweraRX44E5hkifX9n0AG63o_4IdcWpcg2cpfIACx42NWkNVOTVxiJk-az609GShs2h8y6ZH1q46xSOXpFL3HShhqqtjpMkZR4Ze-YNZX-Fa8g
+[10]: https://l.facebook.com/l.php?u=https://research.fb.com/category/human-computer-interaction-and-ux/&h=AT3cZfAbSQVQtCnUhCmvm4vOjiqItqJvsCI_tdyfukvmkicgBymzn6fzI5721ub1FRu4wbi_mtAmrXM4jc4SY0FanR3BEm3sh0IdhokrpEtRIUiL8eK9x17yv-I6cl5GFkKJ6l6QnobDjDrOmEn6nK1Wllg
 [11]: https://www.facebook.com/help/195227921252400?ref=tos
 [12]: https://www.facebook.com/settings
 [13]: https://www.facebook.com/communitystandards
@@ -330,8 +319,8 @@ Date of Last Revision: April 19th, 2018
 [17]: https://www.facebook.com/help/1727608884153160?ref=tos
 [18]: https://www.facebook.com/about/ads
 [19]: https://www.facebook.com/legal/fraleyfacebooksettlement
-[20]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/trademarks/&h=AT2VZmmezWXZhh2NSnL3au6ep0EZGupeAlKImVS6PQA2o1_1mK-y-3Q4kJECWQMo1STU2GfDTnRBOPXEa2OvnpjUetx-n4Cg_XzNRtxUv1D7kMQcnYbDtoMiTYLqfAOgCPY35CkVYn7C5A
-[21]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/guidelines/brand&h=AT0GaHxD46kurnXh-G33s_jq9c8AhzdRkfBO2YVgmFvDSREWHotK_cTJyqiMjHxPKEz0bDYuUSgkxVoG_fpZA38YRNMFtPp2ahI1EUP0UfiYbGFHjnRnaXwKfRUjkCoVjEtiVqGSOvTarg
+[20]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/trademarks/&h=AT25V86ZEvQz0qGbPOPupsjl6IpvWLbhoZ3bEC4V8xGwQkZoUWurUrGVycOUKaxWuJ2CDKqcknct5OqAqn3Ui0qd6AvDBqDrOehebxOdVgzlst0BVUxLdyn0_zV7WAJTta_XU-mfMZyRjA
+[21]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/guidelines/brand&h=AT2aBDolYrjjPGWkS9JOhJYbKFZYzvXwfFM0-YadMAap-_nxPi8ZX6SQK1Rukp9NXskKtfJjPrMEsOQw0UEQ4uAvGf2FXjIUARFyOXJRfemuQ0ri6vNdInezPY_aLIlMntb0Iv9yZjDbtw
 [22]: https://www.facebook.com/help/224562897555674?ref=tos
 [23]: https://www.facebook.com/help/103873106370583?ref=tos
 [24]: https://www.facebook.com/legal/commercial_terms
@@ -344,5 +333,5 @@ Date of Last Revision: April 19th, 2018
 [31]: https://developers.facebook.com/policy/credits
 [32]: https://www.facebook.com/payments_terms
 [33]: https://www.facebook.com/policies/commerce
-[34]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=AT3koKk5P_JCV_gsVwIRjA8ej3jrY8z6vKXpPdbZLmvniKyD4_Uhi_5SFclaUTUwg9P3kJsgP0KyN4CWjuu0GkW1Aq8099_lSiQPJVEratuUF9r32wfX6TVjllu0GZtP5L85YZ5S3Nm3kg
+[34]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=AT30bRLB22pAAyfIBnbwvxXtTvCCkAtPCUbRGAu9xLXpdIS2TfDWl85RggN6CGTqWz7xdZyTNX0ObjOPnAHv-_n6yqN8EkVwVHVakhigPIP3Q_UPx4iHBJS_SlIe4irp3YIig5bR573UzNNoQF_69taUXbM
 
