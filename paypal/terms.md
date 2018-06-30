@@ -53,7 +53,7 @@ Menu
 
 ## About Your Account
 
-This user agreement will be effective as to all users on April 19, 2018.
+This user agreement will be effective as to all users on June 15, 2018.
 
  
 
@@ -737,12 +737,6 @@ In representations to your customers or in public communications, you agree not 
 Our fees do not include any taxes, levies, duties or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction (collectively, “taxes”).  It is your responsibility to determine what, if any, taxes apply to the payments you make or receive, and it is solely your responsibility to assess, collect, report and remit the correct taxes to the appropriate authority.  PayPal is not responsible for determining whether any taxes apply to your transaction, or for calculating, collecting, reporting or remitting taxes arising from any transaction.
 
 You acknowledge that we may make certain reports to tax authorities regarding transactions that we process.  For example, PayPal is required to report to the Internal Revenue Service the total amount of payments for goods and services you receive each calendar year into all of your PayPal accounts associated with the same tax identification number if you receive more than $20,000 in payments for good and services and process more than 200 transactions involving goods or services through those PayPal accounts in the same calendar year.
-
- 
-
-#### Receiving payments from student accounts
-
-PayPal may block your ability to receive payments from student accounts if you sell goods or services that may be illegal for minors to purchase under any applicable laws or regulations.  This includes, but is not limited to, alcohol, tobacco or adult-oriented materials.
 
  
 
