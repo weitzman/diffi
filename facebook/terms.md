@@ -306,7 +306,7 @@ Date of Last Revision: April 19th, 2018
 [6]: https://www.facebook.com/about/privacy/update
 [7]: https://www.facebook.com/help/1561485474074139?ref=tos
 [8]: https://www.facebook.com/help/111814505650678?ref=tos
-[9]: https://l.facebook.com/l.php?u=https://research.fb.com/category/human-computer-interaction-and-ux/&h=AT1j0Vekk88mxtUg1OzGLhaPxAX9Qn9tHke0pkxMNak4C90Xmojmpf8GjS46jND-bi-HQk_TOOoU8NcwOQy6P6M72BgdsrmEugwgdnl2B0WfM2m_XDLXX83mueK60sWUkuSW9TwslFqigQ
+[9]: https://l.facebook.com/l.php?u=https://research.fb.com/category/human-computer-interaction-and-ux/&h=AT32GJ2feGjldsY_EIkDv6gtFmWKkzpamLB9Oo7Kgx6kRrpR1gcAovvbGWB22UiW0-_m6k8o-WeWJn8lh9K4MO6-DEm69FvtP385JlhxZBtQeVrX4jWP8lX6lA2vv4Iagoh-H3ZKhNst1Q
 [10]: https://www.facebook.com/help/195227921252400?ref=tos
 [11]: https://www.facebook.com/settings
 [12]: https://www.facebook.com/communitystandards
@@ -316,8 +316,8 @@ Date of Last Revision: April 19th, 2018
 [16]: https://www.facebook.com/help/1727608884153160?ref=tos
 [17]: https://www.facebook.com/about/ads
 [18]: https://www.facebook.com/legal/fraleyfacebooksettlement
-[19]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/trademarks/&h=AT3Euf-LjiqnVNQRbnqKK7R1zvfPlqNLrebamy60_gKPk7uSGLHPpRiZNIZIk2T5Fr1i6WL3eM0odT2nBXmITINWVj89TNuWSV4zfe4JRRhtNnuBTW24YQujZFT4qfIt6YMNcuH32JGYtg
-[20]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/guidelines/brand&h=AT1HkDLaT_OrA1NVUBHX2QTZgUJSZIMr19ajGSHq7JXyLi9JlNnwnMjEcCsp5Mpju0SdqLhScHXUdFcuj0OKtC7hKDfZIJI1kTQVZxw_rhz8dJvBBu6-Blkdg8c2dwfyJTXmvqC-zNDw0g
+[19]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/trademarks/&h=AT0AWUB3JSVl-Ag3ml4ZfJomil_qONWvyrPyQ0yqxbikovd4CrjTtli7sUf-9k1JCQfhMVOZxTDuPkqGYI4s3A7N7kYlGdo1cG6Owcxfu-kD5jsN-is9-4wyKQK5D5PGgh7BNRB3c4LdoA
+[20]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/guidelines/brand&h=AT0IUcbNvgoXMwXzFFggk8pVQt3AgX37zLBWIwHtUFEwMmyYYD0E9l8NGuYSnMpocLYmEJ4Ug7x0nZrMhYpVGqQg2nQ08-WCCFSxKqYQr-PDkil38jtQsQ02N4F93DD82Oqkh3garDR8ag
 [21]: https://www.facebook.com/help/224562897555674?ref=tos
 [22]: https://www.facebook.com/help/103873106370583?ref=tos
 [23]: https://www.facebook.com/legal/commercial_terms
@@ -330,5 +330,5 @@ Date of Last Revision: April 19th, 2018
 [30]: https://developers.facebook.com/policy/credits
 [31]: https://www.facebook.com/payments_terms
 [32]: https://www.facebook.com/policies/commerce
-[33]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=AT2zua55m15GSuzB2l7fKH3y4i21mm_XxUqTa8ntL_usgTJ2zW8scgSddape29bJCIrIM70HolR3giOg_bdM0Vck5QCEycCogpTcm9bQOu2F6MUV0ISbYlfUT3omawKkOZ9YtFp7iUjc6g
+[33]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=AT0j4XxRUn2Y-qz3EFeMA58Ou1vUhM_lyvq5NCXiCLDDgAxc58QFf4ngUXyC5PvDKlTBHl42fzpnzLXtQrl2TRPIrTKgBKudEuKGVnCg0wPNVF-O5iubSBCBdbcWFztiikd-vIGF7PH1Nw
 
