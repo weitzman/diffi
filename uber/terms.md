@@ -169,7 +169,7 @@ You may not assign these Terms without Uber's prior written approval. Uber may a
 [1]: https://ct.wolterskluwer.com/sop-locations
 [2]: mailto:change-dr@uber.com
 [3]: https://www.uber.com/legal/usa/privacy
-[4]: http://www.adr.org/arb_med
-[5]: http://www.adr.org/aaa/ShowPDF?doc=ADRSTG_004175
-[6]: http://www.uber.com/cities
+[4]: https://www.adr.org/arb_med
+[5]: https://www.adr.org/aaa/ShowPDF?doc=ADRSTG_004175
+[6]: https://www.uber.com/cities
 
