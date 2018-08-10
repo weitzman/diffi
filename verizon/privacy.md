@@ -8,31 +8,35 @@ Protecting our customers' privacy is an important priority at Verizon and we are
 
 Our Privacy Policy is designed to inform you about the information we collect, how we use it, and your options regarding certain uses of this information. This policy also describes privacy rights you have under certain federal laws.
 
-This policy applies to Verizon website visitors, app users, applicants and customers in the United States. The policy applies across the Verizon [family of companies][2] and the products and services we provide, except it does not apply to our [Oath ][3]or [MapQuest ][4]affiliates or in other specific circumstances which we describe below. The Verizon family of companies includes the companies and joint ventures controlled by Verizon, including the Verizon telephone companies, Verizon Enterprise Solutions, Verizon Wireless, Verizon Online, Verizon Connect and Oath. Verizon’s Oath affiliate, formed by the combination of Yahoo and AOL, has a [separate privacy policy][5]. In addition, some Verizon services and apps such as [go90][6], [hum][7], [Message ][8] and [AppFlash][9] have additional privacy practices that are presented separately. If there is a conflict between this privacy policy and the service-specific policies, the service-specific policy governs when you are using that service.
+This policy applies to Verizon website visitors, app users, applicants and customers in the United States. The policy applies across the Verizon [family of companies][2] and the products and services we provide, except it does not apply to our [Oath, ][3] [MapQuest ][4]or [Visible][5] affiliates (which have separate privacy policies) or in other specific circumstances we describe below. The Verizon family of companies includes the companies and joint ventures controlled by Verizon, including the Verizon telephone companies, Verizon Enterprise Solutions, Verizon Wireless, Verizon Online, Verizon Connect, MapQuest, Visible and Oath. Some Verizon services and apps such as [hum][6], [Message ][7] and [AppFlash][8] have additional privacy practices that are presented separately. If there is a conflict between this privacy policy and the service-specific policies, the service-specific policy governs when you are using that service.
 
-A [separate policy][10] governs the collection of personal data by the Verizon family of companies outside the United States. Also, contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented in other ways.
+A [separate policy][9] governs the collection of personal data by the Verizon family of companies (excluding Oath, MapQuest and Visible) outside the United States. Also, contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented in other ways.
 
-[**See recent changes to the privacy policy][11]**
+[**See recent changes to the privacy policy][10]**
 
 * * *
 
 ### Information we collect and how it is used
 
-We collect information when you communicate with us and when you use our products, services and sites. This includes information you provide such as name and contact information, images, voice recordings or voiceprints, other biometric identifiers, the reason for contacting us, driver’s license number, Social Security Number and payment information. Service and device usage information we collect includes call records, websites visited, wireless location, application and feature usage, network and device data including battery life and apps on your device, product and device-specific information and identifiers, router connections, service options you choose, mobile and device numbers, video streaming and video packages and usage, movie rental and purchase data, TV and other video viewership, and other similar information.
+Information we collect and how it is used
 
-We use this information to establish, monitor and maintain your account and billing records; measure credit and payment risk; provide account-related services; deliver and maintain your products and services; help you with service-related issues or questions; manage and protect our networks, services and users from fraudulent, abusive, or unlawful uses; help us improve our services and research and develop new products and services; authenticate you; determine your eligibility for new products and services and contact you with marketing offers.
+We collect information when you communicate with us and when you use our products, services and sites. This includes information you provide such as name and contact information, images, voice recordings or voiceprints, other biometric identifiers, the reason for contacting us, driver’s license number, Social Security Number and payment information. Service and device information we collect includes call records, websites visited, wireless location, application and feature usage, network and device data including battery life and apps on your device, product and device-specific information and identifiers, router connections, service options you choose, mobile and device numbers, video streaming and video packages and usage, movie rental and purchase data, TV and other video viewership, and other similar information.
 
-When you contact us or we contact you, we may monitor or record that communication or keep a record of the transaction to help us train employees and better serve you. When you communicate with us, we may use artificial intelligence guided by humans, such as chat bots, to respond to your inquiry. If you communicate with us through third-party services like Facebook Messenger or Twitter Direct Message, your communications are also governed by these companies’ privacy policies.
+We collect wireless location information (including cell tower, Wi-Fi and Global Positioning Satellite (GPS) data) in different ways, for example, when your device connects to our network and through system and mobile applications on your device.  You have [choices ][11]about certain collection and uses of this information.
 
-We may automatically measure and monitor network performance and the performance of your connections to improve your, or our, service levels and products. If you contact us for service support, we also may access information about your computer, wireless device or other device settings to provide customized technical support or to install specific applications or services that you use or that are necessary to the applications or services you use.
+We use the information we collect to deliver and maintain products and services; establish, monitor and maintain your account and billing records; measure credit and payment risk; provide account-related services; help you with service-related issues or questions; manage and protect our networks, services, and users from fraudulent, abusive, or unlawful uses; help us improve and personalize our services, and research and develop new products and services; authenticate you; determine your eligibility for new products and services, and deliver marketing offers to you.
 
-Information about your use of Verizon products and services may be aggregated or otherwise de-identified for business and marketing uses by us or by third parties. For example, aggregate or de-identified data may be used to improve our services, measure and analyze the use of services and to help make services and advertising more relevant to you. You can opt out of certain of these uses, for example the Verizon Relevant Mobile Advertising and Business and Marketing Insights programs discussed below.
+We may automatically measure and monitor network performance and the performance of your connections to secure and improve your, or our, services and products. For example, Verizon wireless devices may include system software that gathers information about network and device conditions, including the location of network handoffs that we use for these purposes. If you contact us for service support, we may access information about your device or its settings to customize our technical support.
+
+Information we collect may be aggregated or otherwise de-identified for business and marketing uses by us or by third parties. For example, aggregate or de-identified data may be used to improve our services, measure and analyze the use of services and to help make services and advertising more relevant to you. You can opt out of certain of these uses, for example our [Relevant Mobile Advertising][12], [Relevant Online Advertising][13] and [Business and Marketing Insights][14] programs discussed below.
+
+When you contact us or we contact you, we may monitor or record that communication or keep a record of the transaction to help us train employees or other support resources or systems and to better serve you. When you communicate with us, we may use artificial intelligence guided by humans, such as chat bots, to respond to your inquiry. If you communicate with us through third-party services like Facebook Messenger or Twitter Direct Message, your communications are also governed by these companies’ privacy policies.
 
 When you establish an online account or register on our sites or apps, we may collect information about your user identification, password and secret questions and answers. We use this information to authenticate you when you sign in.
 
 We may also receive information from Oath and will honor the choices Oath users have made about the uses of this information when we receive and use this data.
 
-Verizon will obtain your affirmative consent before we use information we gathered in the course of providing broadband Internet access services about your visits over time to different non-Verizon websites to customize ads specifically to you. One such program is [Verizon Selects][12].
+Verizon will obtain your affirmative consent before we use information we gathered in the course of providing broadband Internet access services about your visits over time to different non-Verizon websites to customize ads specifically to you. One such program is [Verizon Selects][15].
 
 #### Information provided to us by third parties
 
@@ -40,7 +44,7 @@ When you purchase products or apply for service with us, we may obtain credit in
 
 Verizon obtains information from outside companies including demographic and interest data (such as gender, age range, education level, sports enthusiast, or frequent diner), as well as information such as device type, carrier, city and state. We use this data and combine it with other information we have about you to help make marketing offers more relevant to you, and to help us better analyze customer information for business modeling purposes.
 
-When you use social media credentials to login to or interact with a Verizon site or offer, we may collect information about your social media profile, such as your interests, “likes” and friends list. We use this information, for example, to personalize your Verizon experiences and marketing communications, to enhance our services and to better serve you. You can control this data sharing via options in your social media accounts.
+When you use social media credentials to login to or interact with a Verizon site or offer, we may collect information about your social media profile, such as your interests, “likes” and friends list. We use this information, for example, to personalize your Verizon experiences and marketing communications, to enhance our services, and to better serve you. You can control this data sharing via options in your social media accounts.
 
 We also obtain contact information and other marketing lead information from third parties, website “refer-a-friend” options or social media platforms and may combine it with information we have to contact you or direct Verizon's marketing offers to you.
 
@@ -48,9 +52,9 @@ We also obtain contact information and other marketing lead information from thi
 
 When you use Verizon websites and apps, information is collected about your device and your visit including browsing, searching and buying activity as you interact with our sites and apps; IP address; mobile telephone, device numbers and identifiers; account information; web addresses of the sites you come from and go to next; and information about your connection, including your device's browser, operating system, platform type and Internet connection speed. We use this information for operational, performance measurement and other business purposes; and to help us deliver more relevant Verizon marketing messages on our websites, on non-Verizon websites, by our representatives, via mail and email, or via other Verizon services or devices. This information is also used to tailor the content you see, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests and understand the effectiveness of our advertising. We also may use this information to assess the effectiveness of our sites and to help you should you request help with navigation problems on our sites.   
 
-Certain Verizon vendors may place and read [cookies][13] on our sites to help us deliver Verizon marketing messages as described above.  We require that these vendors provide consumers with the ability to opt out of their use of information for these purposes. When information is used to deliver Verizon marketing messages on non-Verizon sites, in accordance with [industry self-regulatory principles][14], you should see this icon ![Icon][15]in  or around the Verizon ads.  Clicking on this icon provides information about the companies and data practices that were used to deliver the ad and also describes how you may opt out of this type of advertising program. You can find out more about choices you have in the "[How to limit the sharing and use of your information"][16] section below.
+Certain Verizon vendors may place and read [cookies][16] on our sites to help us deliver Verizon marketing messages as described above.  We require that these vendors provide consumers with the ability to opt out of their use of information for these purposes. When information is used to deliver Verizon marketing messages on non-Verizon sites, in accordance with [industry self-regulatory principles][17], you should see this icon ![Icon][18]in  or around the Verizon ads.  Clicking on this icon provides information about the companies and data practices that were used to deliver the ad and also describes how you may opt out of this type of advertising program. You can find out more about choices you have in the "[How to limit the sharing and use of your information"][11] section below.
 
-[**View information about "cookies" and related technologies][13]**
+[**View information about "cookies" and related technologies][16]**
 
 #### Information you provide
 
@@ -64,11 +68,11 @@ Verizon may send you emails about your account or about products, services, and 
 
 #### Additional information for Verizon Wireless customers
 
-Verizon Wireless includes a [unique identifier][17] in certain web traffic from your mobile device to help deliver relevant advertising. If you opt out of the [Relevant Mobile Advertising][18] program and you have not joined Verizon [Selects][12], Verizon Wireless will stop inserting the [Unique Identifier Header (UIDH)][17]. The identifier will continue to appear for a short period of time while we are updating our systems.
+Verizon Wireless includes a [unique identifier][19] in certain web traffic from your mobile device to help deliver relevant advertising. If you opt out of the [Relevant Mobile Advertising][20] program and you have not joined Verizon [Selects][15], Verizon Wireless will stop inserting the [Unique Identifier Header (UIDH)][19]. The identifier will continue to appear for a short period of time while we are updating our systems.
 
-Verizon Wireless collects and uses mobile device location data for a variety of purposes, including to provide our mobile voice and data services, emergency services, and our and third-party location-based apps and services such as navigation, weather, mapping and child safety apps or tools. Verizon apps that use location information provide choices about the use of this information.
+As detailed above, some Verizon wireless devices include system software that collects information about network and device conditions we use to secure and improve services and products.  Other Verizon-supplied system software enables automatic installation of apps upon device activation and with your consent at later times. For example, when you interact with a voice response system or an advertisement, the software can install an app you request or open an app or browser to a specific page.
 
-Some Verizon wireless devices include system software that gathers diagnostic information we use to monitor network performance and the performance of your connections.  Other Verizon-supplied system software enables automatic installation of apps when you activate certain Android devices and with your consent at later times. For example, when you interact with a voice response system or an advertisement, the software can install an app you request or open an app or browser to a specific page. This software collects information about the actions it takes, including when an app is first opened or is uninstalled. Please note that some of the apps installed in this way do not have icons on the device screen. These apps have limited utility.  For example, they may facilitate the download of apps you select for your device, update apps you already have on your device, or report to an app owner that an app has been opened on the device.  You can see and also delete or disable apps installed using Verizon-supplied software (whether the apps do or do not have icons on your device screen) using your device’s Application Manager under Settings. Apps on your device are governed by their own terms and privacy policy.
+This software collects information about the actions it takes, including when an app is first opened or is uninstalled. Please note that some of the apps installed in this way do not have icons on the device screen. These apps have limited utility.  For example, they may facilitate the download of apps you select for your device, update apps you already have on your device, or report to an app owner that an app has been opened on the device.  You can see and also delete or disable apps installed using Verizon-supplied software (whether the apps do or do not have icons on your device screen) using your device’s Application Manager under Settings. Apps on your device are governed by their own terms and privacy policy.
 
 #### Information about the Cable Act
 
@@ -78,7 +82,7 @@ The Cable Act allows a provider to use its cable system to collect personally id
 
 We may be required by law to disclose personally identifiable information to a governmental entity to comply with valid legal process, such as warrants, court orders or subpoenas, but we will not disclose records revealing your selection of video programming unless we receive a court order indicating that the governmental entity has made a specified showing of relevance and you were afforded an opportunity to contest the order. We may be required to disclose personally identifiable information (including your selection of video programming) to a non-governmental entity to comply with a court order, after you have been provided notice.
 
-If you believe that your privacy rights have been violated, please [e-mail us ][19]and we will work with you to address your concerns. If you believe that you have been aggrieved as a result of a violation of the Cable Act, you may enforce the limitations imposed by the Cable Act through a civil action in a United States district court seeking damages, attorney's fees, and litigation costs. Other rights and remedies may also be available to you under federal or other applicable laws.
+If you believe that your privacy rights have been violated, please [e-mail us ][21]and we will work with you to address your concerns. If you believe that you have been aggrieved as a result of a violation of the Cable Act, you may enforce the limitations imposed by the Cable Act through a civil action in a United States district court seeking damages, attorney's fees, and litigation costs. Other rights and remedies may also be available to you under federal or other applicable laws.
 
 The Cable Act permits the disclosure of customer names and addresses as long as a subscriber has been provided with the opportunity to prohibit or limit this disclosure and the disclosure does not reveal, directly or indirectly, the subscriber’s viewing or other uses of the cable or other services provided. If we intend to share data in this way, we will provide you with the opportunity to prohibit or limit this type of sharing.
 
@@ -86,21 +90,21 @@ The Cable Act permits the disclosure of customer names and addresses as long as 
 
 ##### Relevant Mobile Advertising
 
-The Verizon Wireless [Relevant Mobile Advertising][18] program helps make marketing you see more personalized and useful to you across the devices and services you use. This program shares information with Oath (formed by the combination of AOL and Yahoo).  The Relevant Mobile Advertising program uses your postal and email addresses; certain information about your Verizon Wireless products and services such as your device type; and demographic and interest information you provide or we obtain from other companies such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). This information may be combined with information collected by Oath advertising services on devices you use to access Oath services and visit third-party websites and apps that include Oath advertising services (such as web browsing, app usage and location), as well as information that we obtain from third-party partners and advertisers. The advertising program uses online and device identifiers including browser cookies, advertising IDs from Apple and Google, and Verizon-created identifiers, including the [Unique Identifier Header (or UIDH][17]) and other ids created to facilitate data sharing with Oath.  
+The Verizon Wireless [Relevant Mobile Advertising][20] program helps make marketing you see more personalized and useful to you across the devices and services you use. This program shares information with Oath (formed by the combination of AOL and Yahoo).  The Relevant Mobile Advertising program uses your postal and email addresses; certain information about your Verizon Wireless products and services such as your device type; and demographic and interest information you provide or we obtain from other companies such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). This information may be combined with information collected by Oath advertising services on devices you use to access Oath services and visit third-party websites and apps that include Oath advertising services (such as web browsing, app usage and location), as well as information that we obtain from third-party partners and advertisers. The advertising program uses online and device identifiers including browser cookies, advertising IDs from Apple and Google, and Verizon-created identifiers, including the [Unique Identifier Header (or UIDH][19]) and other ids created to facilitate data sharing with Oath.  
 
-We do not share information that identifies you personally outside of Verizon as part of this program other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a [choice][20] about participating in this program.
+We do not share information that identifies you personally outside of Verizon as part of this program other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a [choice][22] about participating in this program.
 
 ##### Business and Marketing Insights
 
-Verizon Wireless and Oath use information we have about you to create aggregate business and marketing insights. The information we use for this program and the insights we develop do not identify you individually and may be shared with third parties. [The program][21] uses Verizon information about how you use your mobile device (such as web browsing, device location, and app/feature use), certain information about your Verizon products and services (such as device type and amount of use), and demographic and interest information you provide or we obtain from other companies (such as gender, age range and interests). We may also use Oath information about your use of services (such as email, search, sites and apps) and visits to third-party sites and apps that include Oath services (such as web browsing, app usage and location), as well as information Oath obtains from third-party partners. The program may also use information provided by business and marketing clients who want insights related to their own businesses.  Verizon may also share location information with others in a way that does not personally identify you so that they may produce aggregate insights such as traffic reports. You have a [choice][22] about whether your Verizon information is used for these purposes. Oath data may continue to be used to create insights even if you opt out of the use of Verizon information. Additional detail about Oath information used for this program can be found in [Oath’s privacy policy][5].  
+Verizon Wireless and Oath use information we have about you to create aggregate business and marketing insights. The information we use for this program and the insights we develop do not identify you individually and may be shared with third parties. [The program][23] uses Verizon information about how you use your mobile device (such as web browsing, device location, and app/feature use), certain information about your Verizon products and services (such as device type and amount of use), and demographic and interest information you provide or we obtain from other companies (such as gender, age range and interests). We may also use Oath information about your use of services (such as email, search, sites and apps) and visits to third-party sites and apps that include Oath services (such as web browsing, app usage and location), as well as information Oath obtains from third-party partners. The program may also use information provided by business and marketing clients who want insights related to their own businesses.  Verizon may also share location information with others in a way that does not personally identify you so that they may produce aggregate insights such as traffic reports. You have a [choice][24] about whether your Verizon information is used for these purposes. Oath data may continue to be used to create insights even if you opt out of the use of Verizon information. Additional detail about Oath information used for this program can be found in [Oath’s privacy policy][25].  
 
 ##### Relevant Online Advertising
 
-The Relevant Online Advertising program helps make online ads you see more interesting and useful.  The program uses Verizon information including your postal address and information about your use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories), demographic and interest information we obtain from other companies (such as gender, age-range, sports fan, frequent diner or pet owner). The program may also use information provided by advertisers and advertising partners. This information is used to determine whether you fit within an audience an advertiser is trying to reach. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a [choice][23] about participating in this program.
+The Relevant Online Advertising program helps make online ads you see more interesting and useful.  The program uses Verizon information including your postal address and information about your use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories), demographic and interest information we obtain from other companies (such as gender, age-range, sports fan, frequent diner or pet owner). The program may also use information provided by advertisers and advertising partners. This information is used to determine whether you fit within an audience an advertiser is trying to reach. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a [choice][26] about participating in this program.
 
 ##### Relevant TV Advertising
 
-Verizon’s Relevant TV Advertising program helps make Fios TV ads you see more interesting and useful. The program uses Verizon information including  your postal address and information about your use of Verizon products and services (such as service packages, connected devices, TV and video purchases and program viewing data), demographic and interest information you provide or that we obtain from other companies - such as gender, family size, and luxury car owner.  The program may also use information provided by advertisers and advertising partners. The ads may appear on a variety of platforms where Fios television customers can access video content. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a [choice][24] about receiving this type of advertising and you can opt out online.
+Verizon’s Relevant TV Advertising program helps make Fios TV ads you see more interesting and useful. The program uses Verizon information including  your postal address and information about your use of Verizon products and services (such as service packages, connected devices, TV and video purchases and program viewing data), demographic and interest information you provide or that we obtain from other companies - such as gender, family size, and luxury car owner.  The program may also use information provided by advertisers and advertising partners. The ads may appear on a variety of platforms where Fios television customers can access video content. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a [choice][27] about receiving this type of advertising and you can opt out online.
 
 ### Information we share
 
@@ -110,7 +114,7 @@ Verizon shares customer information within our family of companies for a variety
 
 Customer Proprietary Network Information (CPNI) is information that relates to the type, quantity, destination, technical configuration, location, amount of use and related billing information of your telecommunications or interconnected Voice over Internet Protocol (VoIP) services. Federal law governs our use and sharing of CPNI. Credit information includes your credit score, information found in your consumer reports, and your account history.
 
-We may also share information from Oath as described in this privacy policy or in a separate service-specific policy. Oath will honor the choices Verizon customers have made about the uses of their information when they receive and use this data.
+We may also share information with Oath as described in this privacy policy or in a separate service-specific policy. Oath will honor the choices Verizon customers have made about the uses of their information when they receive and use this data.
 
 #### Information shared outside the Verizon family of companies:
 
@@ -144,11 +148,11 @@ You may see third-party advertisements on some Verizon websites, services, apps 
 
 If you choose to interact with specific advertisers who advertise on our apps, sites or services, the information you provide to them is subject to the conditions of their specific privacy policies.
 
-Advertising that is customized based on predictions generated from your visits over time and across different websites is sometimes called "online behavioral" or "interest-based" advertising. In accordance with [industry self-regulatory principles][14], we require that companies disclose when they are using online behavioral advertising programs to deliver third-party ads on our sites or collecting information about your visit to our sites for these purposes and give consumers the ability to opt out of this use of their information.  You will see an icon ![Icon][15]in or around third-party advertisements that are delivered on our sites using behavioral advertising programs. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad as well as information on how you may opt out of these advertising programs. Additional information about your options regarding the use of your information for advertising purposes can be found below[. View additional information about online behavioral advertising][14]. Please note that Verizon does not have control over or access to information contained in the cookies that are set on your computer by ad servers, ad networks or third-party advertisers.
+Advertising that is customized based on predictions generated from your visits over time and across different websites is sometimes called "online behavioral" or "interest-based" advertising. In accordance with [industry self-regulatory principles][17], we require that companies disclose when they are using online behavioral advertising programs to deliver third-party ads on our sites or collecting information about your visit to our sites for these purposes and give consumers the ability to opt out of this use of their information.  You will see an icon ![Icon][28]in or around third-party advertisements that are delivered on our sites using behavioral advertising programs. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad as well as information on how you may opt out of these advertising programs. Additional information about your options regarding the use of your information for advertising purposes can be found below[. View additional information about online behavioral advertising][17]. Please note that Verizon does not have control over or access to information contained in the cookies that are set on your computer by ad servers, ad networks or third-party advertisers.
 
 Similarly, advertising may be customized based on predictions developed from your use of applications and industry self-regulatory principles also apply.  This type of advertising involves the use of device advertising identifiers. You can opt out of this use of your device advertising identifier by selecting "Limit Ad Tracking" or "Opt out of Interest Based Ads” from your device settings page.
 
-[**View information about "cookies" and related technologies][13]**
+[**View information about "cookies" and related technologies][16]**
 
 We also may permit advertisers on our sites, apps and services to place ads based on certain information we have about your Verizon products and services as well as geographic and demographic data. Information used for this purpose does not identify you individually.
 
@@ -164,17 +168,17 @@ Customers of Verizon telecommunications and VoIP services may choose to limit th
 
 Verizon Wireline consumers and certain business customers may opt out by calling 1-866-483-9700. Verizon Wireless consumer and certain business customers may call 1-800-333-9956. Other customers may decline to provide or withdraw CPNI consent by following the instructions in the Verizon notice seeking consent.
 
-[**View CPNI-related notices for Verizon Wireline and Verizon Wireless][25]**
+[**View CPNI-related notices for Verizon Wireline and Verizon Wireless][29]**
 
 #### Information about Your Credit
 
-Verizon Wireline consumers may limit the sharing of credit information for our marketing of new services to you.  You may opt-out of this sharing by following the instructions in the [notice][25] provided on your monthly bill, or by calling 1-844-366-2879.  
+Verizon Wireline consumers may limit the sharing of credit information for our marketing of new services to you.  You may opt-out of this sharing by following the instructions in the [notice][29] provided on your monthly bill, or by calling 1-844-366-2879.  
 
-[**View notice for Verizon Wireline][25]**
+[**View notice for Verizon Wireline][29]**
 
 #### Telemarketing
 
-Federal "Do Not Call" laws allow you to place your phone numbers on the National Do Not Call Registry to prohibit many telemarketing calls to those numbers. To add your numbers to this list, please call 1-888-382-1222 or visit the [National Do Not Call Registry][26].
+Federal "Do Not Call" laws allow you to place your phone numbers on the National Do Not Call Registry to prohibit many telemarketing calls to those numbers. To add your numbers to this list, please call 1-888-382-1222 or visit the [National Do Not Call Registry][30].
 
 Most telemarketing laws allow companies to contact their own customers without consulting the federal or state Do Not Call list. If you would like to be removed from Verizon's residential telemarketing list, please contact us at 1-800-VERIZON. If you would like to be removed from the Verizon Wireless telemarketing list, please contact us at 1-800-922-0204. Please allow 30 days for your telephone number to be removed from any sales programs that are currently underway.
 
@@ -182,33 +186,39 @@ Most telemarketing laws allow companies to contact their own customers without c
 
 Marketing emails you receive from Verizon include an unsubscribe instruction (usually found at the bottom of the email) that you may use to opt out of receiving future marketing-related emails.
 
-You may opt out of receiving marketing-related postal mailings or prevent door-to-door marketing solicitations from Verizon by calling 1-800-VERIZON. You may opt out of receiving marketing-related postal mailing or prevent text message marketing by Verizon Wireless by calling 1-800-922-0204. You may opt out of receiving marketing-related postal mailing or prevent text message marketing by Verizon Vehicle service by calling 1-800-711-5800. Text message solicitations from Verizon also contain an "unsubscribe" feature that you can use to prevent future marketing text messages from us. Please note that Verizon may use bulk mail service for some marketing mailings. These services deliver offers to all homes in a neighborhood or zip code. This type of mailing will continue even if you opt out of receiving marketing-related postal mailings from Verizon.
+You may opt out of receiving marketing-related postal mailings or prevent door-to-door marketing solicitations from Verizon by calling 1-800-VERIZON. You may opt out of receiving marketing-related postal mailing or prevent text message marketing by Verizon Wireless by calling 1-800-922-0204. You may opt out of receiving marketing-related postal mailing or prevent text message marketing by hum by calling 1-800-711-5800. Text message solicitations from Verizon also contain an "unsubscribe" feature that you can use to prevent future marketing text messages from us. Please note that Verizon may use bulk mail service for some marketing mailings. These services deliver offers to all homes in a neighborhood or zip code. This type of mailing will continue even if you opt out of receiving marketing-related postal mailings from Verizon.
 
 #### Information used for online advertising
 
-You have choices about whether certain information collected on websites, including Verizon's, is used to customize advertising based on predictions generated from your visits over time and across different websites and apps. When you see this icon ![Icon][15]in or around an advertisement you can click on the icon to see additional information on the companies and data practices that were used to deliver the ad and descriptions of how you may opt out of these advertising programs. You may also visit [Digital Advertising Alliance's Consumer Choices][14] to learn more or to limit the collection of information by these parties. Similarly, many mobile devices offer controls you can set to limit the advertising use of information collected across mobile apps on your device.
+You have choices about whether certain information collected on websites, including Verizon's, is used to customize advertising based on predictions generated from your visits over time and across different websites and apps. When you see this icon ![Icon][18]in or around an advertisement you can click on the icon to see additional information on the companies and data practices that were used to deliver the ad and descriptions of how you may opt out of these advertising programs. You may also visit [Digital Advertising Alliance's Consumer Choices][17] to learn more or to limit the collection of information by these parties. Similarly, many mobile devices offer controls you can set to limit the advertising use of information collected across mobile apps on your device.
 
 Please note that many opt outs use browser cookies or device controls and are specific to the device and browser you are using. If you buy a new computer, change web browsers or devices or delete the cookies on your computer, you may need to opt out again. In addition, ads you receive may still be tailored using other techniques such as publisher, device or browser-enabled targeting. You should check the privacy policies of the products, sites, apps and services you use to learn more about any such techniques and your options.
 
 You also can limit the collection of certain website information by deleting or disabling cookies. Most computers' Internet browsers enable you to erase stored cookies, block all cookies, or receive a warning before a cookie is stored. Disabling cookies may prevent you from using specific features on our sites and other websites, such as ordering products or services and maintaining an online account.  
 
-[**View information about "cookies" and related technologies][13]**
+[**View information about "cookies" and related technologies][16]**
 
 #### Advertising and Insights programs:
 
 If you opt out online, you will need your account user ID and password. Also, please note that you will receive ads whether you participate in these programs or not, but under these programs, ads may be more personalized and useful to you.
 
-* Verizon Wireless customers may opt out of the Relevant Mobile Advertising or Business and Marketing Insights program by calling 1-866-211-0874 or by visiting[ your privacy choices page in My Verizon][27]. Please note that if you have multi-line account, you should indicate your opt out choice for each line. If you add a line or change a telephone number, you will need to update your privacy choices.
-* Verizon broadband Internet access customers may opt out of the Relevant Online Advertising program described above by [following these instructions.][23]
-* Customers may opt out of Verizon's Relevant TV Advertising program by [following these instructions][28].
+* Verizon Wireless customers may opt out of the Relevant Mobile Advertising or Business and Marketing Insights program by calling 1-866-211-0874 or by visiting[ your privacy choices page in My Verizon][31]. Please note that if you have multi-line account, you should indicate your opt out choice for each line. If you add a line or change a telephone number, you will need to update your privacy choices.
+* Verizon broadband Internet access customers may opt out of the Relevant Online Advertising program described above by [following these instructions.][26]
+* Customers may opt out of Verizon's Relevant TV Advertising program by [following these instructions][32].
+
+#### Location Information:
+
+Mobile device operating systems have a location setting.  When you turn this setting to “off,” the device stops collecting your location and stops transmitting location information to apps on the device, including Verizon apps that use location information. Other device settings allow you to stop the transmission of location data to individual apps on your device.
+
+We may use certain location information we collect, such as information about the location of Wi-Fi access points, to help improve location accuracy in our services or apps.  If you do not want us to use your Wi-Fi router information, you should change your router’s name so that it contains “_nomap” or “_optout”. For example, if your router is named “Myrouter”, you could rename it “Myrouter_nomap”
 
 ### Working together to keep children safe.
 
 Verizon recognizes that online service providers must be vigilant in protecting the safety and privacy of children online. We do not knowingly market to or solicit personal information from children under the age of 13 without obtaining verifiable parental consent.
 
-If you have a complaint about child pornography, the soliciting of children for sexual activity, or any other illegal or inappropriate activity involving children on a Verizon service, report it to us by [sending an e-mail][29]. Please include the words "child porn" in the subject line of your email. You can also make a report directly to the National Center for Missing and Exploited Children through [CyberTipline][30].
+If you have a complaint about child pornography, the soliciting of children for sexual activity, or any other illegal or inappropriate activity involving children on a Verizon service, report it to us by [sending an e-mail][33]. Please include the words "child porn" in the subject line of your email. You can also make a report directly to the National Center for Missing and Exploited Children through [CyberTipline][34].
 
-[**Learn more about online safety tips and resources][31]**
+[**Learn more about online safety tips and resources][35]**
 
 ### Information security and data retention
 
@@ -216,17 +226,17 @@ Verizon has technical, administrative and physical safeguards in place to help p
 
 Although we work hard to protect personal information that we collect and store, no program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information. Verizon maintains security and incident response plans to handle incidents involving unauthorized access to private information we collect or store.
 
-If you become aware of a security issue, please contact [Verizon's Security Control Center][32]. We will work with you to address any problems.
+If you become aware of a security issue, please contact [Verizon's Security Control Center][36]. We will work with you to address any problems.
 
 Verizon often publishes helpful information about a wide range of scams that you may encounter.
 
-[**Learn more about Internet and phone scams and tips on how to protect yourself][33]**
+[**Learn more about Internet and phone scams and tips on how to protect yourself][37]**
 
 ###  Accessing and updating your information
 
-We strive to keep our customer records as accurate as possible. You may correct or update your Verizon customer information by calling a Verizon customer service representative at 1-800-VERIZON or by accessing your account online and providing the updated information there. Similarly, updates can be made to your Verizon Wireless account by calling a Verizon Wireless customer service representative at 1-800-922-0204 or [contact us online][34]. Verizon Enterprise Services customers may update their information by contacting their account manager. Verizon Connect customers may change or update their contact information by calling 1-800-711-5800.
+We strive to keep our customer records as accurate as possible. You may correct or update your Verizon customer information by calling a Verizon customer service representative at 1-800-VERIZON or by accessing your account online and providing the updated information there. Similarly, updates can be made to your Verizon Wireless account by calling a Verizon Wireless customer service representative at 1-800-922-0204 or [contact us online][38]. Verizon Enterprise Services customers may update their information by contacting their account manager. Verizon Connect customers may change or update their contact information by calling 1-800-711-5800.
 
-Fios and other customers served over our fiber-to-the-premises network who would like to see their personally identifiable information may [e-mail us][19] to arrange a time and convenient location to do so during business hours. You will need to provide proper identification and you may examine records that contain personally identifiable information about you and no one else. If you believe any of your personally identifiable information is inaccurate, we will work with you to ensure that corrections are made. Verizon reserves the right to charge you for the cost of photocopying any documents you request.
+Fios and other customers served over our fiber-to-the-premises network who would like to see their personally identifiable information may [e-mail us][21] to arrange a time and convenient location to do so during business hours. You will need to provide proper identification and you may examine records that contain personally identifiable information about you and no one else. If you believe any of your personally identifiable information is inaccurate, we will work with you to ensure that corrections are made. Verizon reserves the right to charge you for the cost of photocopying any documents you request.
 
 ### Information sharing: Blogs and social networking
 
@@ -236,9 +246,9 @@ Some Verizon websites, apps and services may allow you to participate in blog di
 
 We reserve the right to make changes to this privacy policy, so please check back periodically for changes. You will be able to see that changes have been made by checking to see the effective date posted at the end of the policy. If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt out mechanism.
 
-[**View recent changes to privacy policy][35]**
+[**View recent changes to privacy policy][39]**
 
-Updated May, 2018
+Updated July, 2018
 
 © 2009, 2011-2018 Verizon. All Rights Reserved.
 
@@ -246,86 +256,90 @@ Updated May, 2018
 
 ### Contact us
 
-If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, [e-mail us][36] or contact us at:
+If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, [e-mail us][40] or contact us at:
 
 Verizon Privacy Office1300 I Street, NWSuite 500 EastWashington, DC 20005Fax: 202-789-1432
 
 ## Privacy Policy
 
-* [Privacy Policy Summary][37]
-* [Full Privacy Policy][38]
-    * [Recent changes][35]
-* [Privacy Officer Message][39]
-* [Fios Privacy Policy][40]
-* [Oath Privacy Policy][41]
-* [Verizon App Privacy Policies][42]
-    * [AppFlash][43]
-    * [Message ][44]
-    * [VZ Navigator App][45]
-* [Go90 Privacy Policy][46]
-* [Hum privacy policy][47]
-* [Smart Family Privacy Policy][48]
-* [Verizon Home Privacy Policy][49]
-* [MapQuest Privacy Policy][50]
-* [Mobile Location Analytics Privacy Notice][51]
-* [Device Installment Privacy][52]
-* [International Privacy Centre][53]
-* [California Privacy Rights][54]
-* [Better Business Bureau Accredited][55]
+* [Summary][41]
+* [Full Privacy Policy][42]
+    * [Recent changes][39]
+* [Privacy Officer Message][43]
+* [Fios][44]
+* [Oath][45]
+* [Verizon Apps][46]
+    * [AppFlash][47]
+    * [Message ][48]
+    * [VZ Navigator App][49]
+* [Hum][50]
+* [Smart Family][51]
+* [Verizon Home][52]
+* [Gizmo][53]
+* [MapQuest][54]
+* [Mobile Location Analytics][55]
+* [Device Installment][56]
+* [International Privacy Centre][57]
+* [California Privacy Rights][58]
+* [Better Business Bureau Accredited][59]
 
 [1]: http://www.verizon.com/about/privacy/politica-de-privacidad-completa
 [2]: http://www.verizon.com/about/our-company/history-timeline
 [3]: https://www.oath.com/#perfect-match
 [4]: http://www.verizon.com/about/privacy/mapquest
-[5]: https://policies.oath.com/us/en/oath/privacy/index.html
-[6]: http://www.verizon.com/about/privacy/go90-app-privacy-policy
-[7]: http://www.verizon.com/about/privacy/hum-privacy-policy
-[8]: http://www.verizon.com/about/privacy/verizon-messages-app-privacy-policy
-[9]: http://www.verizon.com/about/privacy/appflash-privacy-policy
-[10]: http://www.verizon.com/about/privacy/international-policy
-[11]: http://www.verizon.com/about/privacy/changes-privacy-policy
-[12]: http://www.verizonwireless.com/support/verizon-selects-faqs/
-[13]: http://www.verizon.com/about/privacy/cookies
-[14]: http://www.aboutads.info/
-[15]: https://vzcorp.verizon.com/about/sites/default/files/icon-Verizon-advertisements.jpg
-[16]: http://www.verizon.com/about/privacy/full-privacy-policy#limit-section
-[17]: http://www.verizonwireless.com/support/unique-identifier-header-faqs/
-[18]: http://www.verizonwireless.com/support/mobile-ads-faqs/
-[19]: mailto:privacyoffice@verizon.com
-[20]: https://wbillpay.verizonwireless.com/vzw/secure/setPrivacy.action
-[21]: https://www.verizonwireless.com/support/business-marketing-reports-faqs/
-[22]: https://ebillpay.verizonwireless.com/vzw/secure/setPrivacy.action
-[23]: https://www.verizon.com/foryourhome/MyAccount/ngen/upr/signin.aspx?goto=https://www.verizon.com:443/foryourhome/myaccount/ngen/pr/svcs/internet.aspx?myvzmd=fios_internet&ddm=y
-[24]: http://www.verizon.com/tvads
-[25]: http://www.verizon.com/about/privacy/customer-proprietary-network-information
-[26]: http://www.donotcall.gov/
-[27]: http://verizonwireless.com/myprivacy
-[28]: https://www.verizon.com/foryourhome/myaccount/ngen/upr/signin.aspx?goto=https://www.verizon.com/fiostv/myservices/members/fiostv.aspx
-[29]: mailto:abuse@verizon.net?subject=I am reporting an incident of Child Pornography
-[30]: http://www.cybertipline.org/
-[31]: http://www.verizon.com/about/responsibility/online-safety
-[32]: http://www.verizon.com/Support/Residential/phone/homephone/general support/support tools/general/122858.htm
-[33]: http://www.verizon.com/about/responsibility/cybersecurity
-[34]: http://www.verizonwireless.com/b2c/contact/index.jsp
-[35]: /about/privacy/changes-privacy-policy
-[36]: mailto:privacyoffice@verizon.com?subject=Verizon Privacy Policy question, concern or suggestion
-[37]: /about/privacy/privacy-policy-summary
-[38]: /about/privacy/full-privacy-policy
-[39]: /about/privacy/privacy-officer-message
-[40]: /about/privacy/fios-privacy-policy
-[41]: /about/privacy/aol-privacy-policy
-[42]: /about/privacy/verizon-app-privacy-policies
-[43]: /about/privacy/appflash-privacy-policy
-[44]: /about/privacy/verizon-messages-app-privacy-policy
-[45]: /about/privacy/vz-navigator-app-privacy-policy
-[46]: /about/privacy/go90-app-privacy-policy
-[47]: /about/privacy/hum-privacy-policy
-[48]: /about/privacy/smart-family-privacy-policy
-[49]: /about/privacy/verizon-home-app-privacy-policy
-[50]: /about/privacy/mapquest
-[51]: /about/privacy/mobile-location-analytics-privacy-notice
-[52]: /about/privacy/device-installment-privacy
-[53]: /about/privacy/international-privacy-centre
-[54]: /about/privacy/california-privacy-rights
-[55]: /about/privacy/better-business-bureau-accredited
+[5]: https://www.visible.com/legal/privacy.html
+[6]: http://www.verizon.com/about/privacy/hum-privacy-policy
+[7]: http://www.verizon.com/about/privacy/verizon-messages-app-privacy-policy
+[8]: http://www.verizon.com/about/privacy/appflash-privacy-policy
+[9]: http://www.verizon.com/about/privacy/international-policy
+[10]: http://www.verizon.com/about/privacy/changes-privacy-policy
+[11]: http://www.verizon.com/about/privacy/full-privacy-policy#limit-section
+[12]: https://www.verizon.com/about/privacy/full-privacy-policy#Relevant_Mobile_Advertising
+[13]: http://www.verizon.com/about/privacy/full-privacy-policy#Relevant_Online_Advertising
+[14]: https://www.verizon.com/about/privacy/full-privacy-policy#Business_and_Marketing_Insights
+[15]: http://www.verizonwireless.com/support/verizon-selects-faqs/
+[16]: http://www.verizon.com/about/privacy/cookies
+[17]: http://www.aboutads.info/
+[18]: https://www.verizon.com/about/sites/default/files/icon-Verizon-advertisements.jpg
+[19]: http://www.verizonwireless.com/support/unique-identifier-header-faqs/
+[20]: http://www.verizonwireless.com/support/mobile-ads-faqs/
+[21]: mailto:privacyoffice@verizon.com
+[22]: https://wbillpay.verizonwireless.com/vzw/secure/setPrivacy.action
+[23]: https://www.verizonwireless.com/support/business-marketing-reports-faqs/
+[24]: https://ebillpay.verizonwireless.com/vzw/secure/setPrivacy.action
+[25]: https://policies.oath.com/us/en/oath/privacy/index.html
+[26]: https://www.verizon.com/foryourhome/MyAccount/ngen/upr/signin.aspx?goto=https://www.verizon.com:443/foryourhome/myaccount/ngen/pr/svcs/internet.aspx?myvzmd=fios_internet&ddm=y
+[27]: http://www.verizon.com/tvads
+[28]: https://vzcorp.verizon.com/about/sites/default/files/icon-Verizon-advertisements.jpg
+[29]: http://www.verizon.com/about/privacy/customer-proprietary-network-information
+[30]: http://www.donotcall.gov/
+[31]: http://verizonwireless.com/myprivacy
+[32]: https://www.verizon.com/foryourhome/myaccount/ngen/upr/signin.aspx?goto=https://www.verizon.com/fiostv/myservices/members/fiostv.aspx
+[33]: mailto:abuse@verizon.net?subject=I am reporting an incident of Child Pornography
+[34]: http://www.cybertipline.org/
+[35]: http://www.verizon.com/about/responsibility/online-safety
+[36]: http://www.verizon.com/Support/Residential/phone/homephone/general support/support tools/general/122858.htm
+[37]: http://www.verizon.com/about/responsibility/cybersecurity
+[38]: http://www.verizonwireless.com/b2c/contact/index.jsp
+[39]: /about/privacy/changes-privacy-policy
+[40]: mailto:privacyoffice@verizon.com?subject=Verizon Privacy Policy question, concern or suggestion
+[41]: /about/privacy/privacy-policy-summary
+[42]: /about/privacy/full-privacy-policy
+[43]: /about/privacy/privacy-officer-message
+[44]: /about/privacy/fios-privacy-policy
+[45]: /about/privacy/aol-privacy-policy
+[46]: /about/privacy/verizon-app-privacy-policies
+[47]: /about/privacy/appflash-privacy-policy
+[48]: /about/privacy/verizon-messages-app-privacy-policy
+[49]: /about/privacy/vz-navigator-app-privacy-policy
+[50]: /about/privacy/hum-privacy-policy
+[51]: /about/privacy/smart-family-privacy-policy
+[52]: /about/privacy/verizon-home-app-privacy-policy
+[53]: /about/privacy/gizmo-privacy-policy
+[54]: /about/privacy/mapquest
+[55]: /about/privacy/mobile-location-analytics-privacy-notice
+[56]: /about/privacy/device-installment-privacy
+[57]: /about/privacy/international-privacy-centre
+[58]: /about/privacy/california-privacy-rights
+[59]: /about/privacy/better-business-bureau-accredited
 
