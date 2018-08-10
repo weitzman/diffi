@@ -1785,21 +1785,4 @@
     </div>
 
 
-<script type="text/javascript">
-    // This fix is for driver reconsents with known iOS bug where user is unable to scroll to the bottom
-    var iOS = /iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-    var isWeb = document.querySelectorAll('[ng-app]').length > 0 || document.querySelectorAll('[data-reactroot]').length > 0;
-    var queryParams = window.location.search && window.location.search.substring(1).split('&');
-
-    if (iOS && !isWeb && queryParams && queryParams.includes('scrollView=1')) {
-        var container = document.getElementById('main-container');
-        container.style.width = '320px';
-        container.style.height = 'calc(100vh - 250px)';
-        container.style.maxHeight = 'calc(100vh - 250px)';
-        container.style.overflowY = 'scroll';
-        container.style.marginTop = '40px';
-        container.style.padding = '10px';
-    }
-</script>
-
 </div> </div>
