@@ -365,7 +365,7 @@ LinkedIn Corporation _© 2018_
 [22]: http://www.linkedin.com/redir/redirect?url=https://press.linkedin.com/&urlhash=uTdA
 [23]: http://www.linkedin.com/redir/redirect?url=https://blog.linkedin.com/&urlhash=bplK
 [24]: http://www.linkedin.com/redir/redirect?url=https://developer.linkedin.com&urlhash=Qc8-
-[25]: https://lor1-app15385.prod.linkedin.com/company-beta/linkedin/jobs?trk=hb_ft_work
+[25]: https://ltx1-app6135.prod.linkedin.com/company-beta/linkedin/jobs?trk=hb_ft_work
 [26]: /advertising?src=en-all-el-li-hb_ft_ads&trk=hb_ft_ads
 [27]: http://www.linkedin.com/redir/redirect?url=http://business.linkedin.com/talent-solutions?src=li-footer&urlhash=f9Nj
 [28]: http://www.linkedin.com/redir/redirect?url=http://business.linkedin.com/sales-solutions?src=li-footer&trk=lss_linkedin_footer_link2micro&utm_source=footer&utm_medium=linkedin&utm_campaign=linkedin-footer&urlhash=_ibI
