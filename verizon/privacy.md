@@ -272,16 +272,17 @@ Verizon Privacy Office1300 I Street, NWSuite 500 EastWashington, DC 20005Fax: 20
     * [AppFlash][47]
     * [Message ][48]
     * [VZ Navigator App][49]
-* [Hum][50]
-* [Smart Family][51]
-* [Verizon Home][52]
-* [Gizmo][53]
-* [MapQuest][54]
-* [Mobile Location Analytics][55]
-* [Device Installment][56]
-* [International Privacy Centre][57]
-* [California Privacy Rights][58]
-* [Better Business Bureau Accredited][59]
+    * [Wild and Seek][50]
+* [Hum][51]
+* [Smart Family][52]
+* [Verizon Home][53]
+* [Gizmo][54]
+* [MapQuest][55]
+* [Mobile Location Analytics][56]
+* [Device Installment][57]
+* [International Privacy Centre][58]
+* [California Privacy Rights][59]
+* [Better Business Bureau Accredited][60]
 
 [1]: http://www.verizon.com/about/privacy/politica-de-privacidad-completa
 [2]: http://www.verizon.com/about/our-company/history-timeline
@@ -332,14 +333,15 @@ Verizon Privacy Office1300 I Street, NWSuite 500 EastWashington, DC 20005Fax: 20
 [47]: /about/privacy/appflash-privacy-policy
 [48]: /about/privacy/verizon-messages-app-privacy-policy
 [49]: /about/privacy/vz-navigator-app-privacy-policy
-[50]: /about/privacy/hum-privacy-policy
-[51]: /about/privacy/smart-family-privacy-policy
-[52]: /about/privacy/verizon-home-app-privacy-policy
-[53]: /about/privacy/gizmo-privacy-policy
-[54]: /about/privacy/mapquest
-[55]: /about/privacy/mobile-location-analytics-privacy-notice
-[56]: /about/privacy/device-installment-privacy
-[57]: /about/privacy/international-privacy-centre
-[58]: /about/privacy/california-privacy-rights
-[59]: /about/privacy/better-business-bureau-accredited
+[50]: /about/privacy/wild-and-seek-privacy-policy
+[51]: /about/privacy/hum-privacy-policy
+[52]: /about/privacy/smart-family-privacy-policy
+[53]: /about/privacy/verizon-home-app-privacy-policy
+[54]: /about/privacy/gizmo-privacy-policy
+[55]: /about/privacy/mapquest
+[56]: /about/privacy/mobile-location-analytics-privacy-notice
+[57]: /about/privacy/device-installment-privacy
+[58]: /about/privacy/international-privacy-centre
+[59]: /about/privacy/california-privacy-rights
+[60]: /about/privacy/better-business-bureau-accredited
 
