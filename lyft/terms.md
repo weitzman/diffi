@@ -397,14 +397,14 @@ Although we help Riders and Drivers communicate with one another to arrange a pi
 **Contact Information**. Feel free to contact us at any time with any questions or comments about this Privacy Policy, your personal information, our use and sharing practices, or your consent choices by contacting our [Help Center][16]. 
 
 [1]: https://www.lyft.com/cities
-[2]: https://help.lyft.com/hc/en-us/articles/115012922687-Cancellation-policy-for-passengers
-[3]: https://help.lyft.com/hc/en-us/articles/115012927787-Toll-info-for-passengers
-[4]: https://help.lyft.com/hc/en-us/articles/213815078-List-of-Tolls
-[5]: https://help.lyft.com/hc/en-us/articles/214216577-I-m-Seeing-a-Charge-from-Lyft-on-my-Bank-Account
+[2]: https://help.lyft.com/hc/articles/115012922687-Cancellation-policy-for-passengers
+[3]: https://help.lyft.com/hc/articles/115012927787-Toll-info-for-passengers
+[4]: https://help.lyft.com/hc/articles/213815078-List-of-Tolls
+[5]: https://help.lyft.com/hc/articles/214216577-I-m-Seeing-a-Charge-from-Lyft-on-my-Bank-Account
 [6]: https://www.lyft.com/terms/driver-addendum
 [7]: https://www.lyft.com/privacy
 [8]: https://www.lyft.com/invite-terms
-[9]: https://help.lyft.com/hc/en-us/articles/115013080048-Service-animal-policy
+[9]: https://help.lyft.com/hc/articles/115013080048-Service-animal-policy
 [10]: https://www.lyft.com/copyright
 [11]: http://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/
 [12]: https://www.google.com/help/terms_maps.html
@@ -413,5 +413,5 @@ Although we help Riders and Drivers communicate with one another to arrange a pi
 [15]: https://www.adr.org/aaa/faces/rules/searchrules/rulesdetail?_afrWindowId=57rsw71ei_1&_afrLoop=1335893675945842&doc=ADRSTAGE2021424&_afrWindowMode=0&_adf.ctrl-state=hf27f5iaa_4#@?_afrWindowId=57rsw71ei_1&_afrLoop=1335893675945842&doc=ADRSTAGE2021424&_afrWindowMode=0&_adf.ctrl-state=57rsw71ei_79
 [16]: https://help.lyft.com/
 [17]: https://www.lyft.com/terms
-[18]: https://help.lyft.com/hc/en-us/articles/214218437-Law-Enforcement-Requests
+[18]: https://help.lyft.com/hc/articles/214218437-Law-Enforcement-Requests
 
