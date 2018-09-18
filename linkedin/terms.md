@@ -287,60 +287,6 @@ If you want to send us notices or service of process, please contact us:
 
 [ONLINE][18] OR BY [MAIL][19]
 
-* [Help Center][20]
-* [About][21]
-    * [Press][22]
-    * [Blog][23]
-    * [Developers][24]
-* [Careers][25]
-* [Advertising][26]
-* [Talent Solutions][27]
-* [Sales Solutions][28]
-* [Small Business][29]
-* [Mobile][30]
-* [Language][31]
-    * [Bahasa Indonesia][31]
-    * [Bahasa Malaysia][31]
-    * Č[eština][31]
-    * [Dansk][31]
-    * [Deutsch][31]
-    * [**English**][31]
-    * [Español][31]
-    * 繁體中文
-    * [Français][31]
-    * 한국어
-    * [Italiano][31]
-    * 简体中文
-    * [Nederlands][31]
-    * 日本語
-    * [Norsk][31]
-    * [Polski][31]
-    * [Português][31]
-    * [Română][31]
-    * Русский
-    * [Svenska][31]
-    * [Tagalog][31]
-    * ภาษาไทย
-    * [Türkçe][31]
-    * العربية
-* [ Online Learning ][32]
-* [ProFinder][33]
-* [Search Jobs][34]
-* Directories
-* [Members][35]
-* [Pulse][36]
-* [Companies][37]
-* [Universities][38]
-
-LinkedIn Corporation _© 2018_
-
-* [User Agreement][39]
-* [Privacy Policy][40]
-* [Community Guidelines][41]
-* [Cookie Policy][42]
-* [Copyright Policy][43]
-* [Unsubscribe][44]
-
 [1]: /legal/user-agreement
 [2]: /legal/privacy-policy
 [3]: /legal/cookie-policy
@@ -360,29 +306,4 @@ LinkedIn Corporation _© 2018_
 [17]: https://brand.linkedin.com/policies
 [18]: https://www.linkedin.com/help/linkedin?trk=microsites-frontend_legal_user-agreement&lang=en
 [19]: https://www.linkedin.com/help/linkedin/answer/79728?trk=microsites-frontend_legal_user-agreement&lang=en
-[20]: https://www.linkedin.com/help/linkedin?lang=en "Help Center"
-[21]: //press.linkedin.com/about-linkedin
-[22]: http://www.linkedin.com/redir/redirect?url=https://press.linkedin.com/&urlhash=uTdA
-[23]: http://www.linkedin.com/redir/redirect?url=https://blog.linkedin.com/&urlhash=bplK
-[24]: http://www.linkedin.com/redir/redirect?url=https://developer.linkedin.com&urlhash=Qc8-
-[25]: https://ltx1-app6135.prod.linkedin.com/company-beta/linkedin/jobs?trk=hb_ft_work
-[26]: /advertising?src=en-all-el-li-hb_ft_ads&trk=hb_ft_ads
-[27]: http://www.linkedin.com/redir/redirect?url=http://business.linkedin.com/talent-solutions?src=li-footer&urlhash=f9Nj
-[28]: http://www.linkedin.com/redir/redirect?url=http://business.linkedin.com/sales-solutions?src=li-footer&trk=lss_linkedin_footer_link2micro&utm_source=footer&utm_medium=linkedin&utm_campaign=linkedin-footer&urlhash=_ibI
-[29]: http://www.linkedin.com/redir/redirect?url=https://smallbusiness.linkedin.com/?trk=lnkd_footer&utm_source=linkedin&utm_medium=footer&utm_content=&utm_campaign=lifooter&urlhash=lFQo
-[30]: //mobile.linkedin.com
-[31]: /secure/settings
-[32]: /learning/?trk=li_footer_learning
-[33]: /profinder?trk=hb_ft_profinder
-[34]: https://www.linkedin.com/jobs?trk=hb_ft_jobs
-[35]: https://www.linkedin.com/directory/people-a?trk=hb_ft_peopledir
-[36]: https://www.linkedin.com/directory/pulse
-[37]: https://www.linkedin.com/directory/companies
-[38]: https://www.linkedin.com/directory/universities
-[39]: /legal/user-agreement?trk=hb_ft_userag
-[40]: /legal/privacy-policy?trk=hb_ft_priv
-[41]: https://www.linkedin.com/help/linkedin/answer/34593?lang=en
-[42]: /legal/cookie-policy?trk=hb_ft_cookie
-[43]: /legal/copyright-policy?trk=hb_ft_copy
-[44]: /psettings/guest-email-unsubscribe?trk=hb_ft_gunsub
 
