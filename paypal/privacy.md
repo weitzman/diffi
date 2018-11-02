@@ -4,9 +4,7 @@
 
 # PayPal Privacy Policy
 
-**Please note: ****We have renames the privacy policy to “PayPal Privacy Statement”.  We have also clarified that we may share Personal Data to process transactions, provide you with benefits associated with your eligible cards, and keep your financial information up to date.**
-
-**There are no other changes to this document. ****The version marked “Current PayPal Privacy Policy” set out immediately below is effective until November 12, 2018.  The version marked “Updated PayPal Privacy Statement” ****set out ****further below will take effect and supersede the Current PayPal Privacy Policy on November 13, 2018.**
+At PayPal, it is important to us that you understand our privacy practices and your privacy choices. We have re-branded our Privacy Policy to our Privacy Statement. Specifically, we have included more details about how we retain and share your personal data for the purpose of keeping your financial information up to date and providing you with benefits. The version marked “Current PayPal Privacy Policy” set out immediately below is effective until November 12, 2018. The version marked “Updated PayPal Privacy Statement” set out further below will take effect and supersede the Current PayPal Privacy Policy on November 13, 2018.
 
  
 
