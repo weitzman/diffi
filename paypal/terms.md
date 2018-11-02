@@ -53,7 +53,7 @@ Menu
 
 ## About Your Account
 
-This user agreement will be effective as to all users on June 15, 2018.
+This user agreement will be effective as to all users on June 15, 2018. An updated user agreement will come into effect on November 7, 2018 and you agree to be bound by that user agreement.  Click [here][6] to view the updated terms.
 
  
 
@@ -63,13 +63,13 @@ This user agreement is a contract between you and PayPal, Inc. that governs your
 
 By opening and using a PayPal account, you agree to comply with all of the terms and conditions in this user agreement, so please read all of the terms and conditions carefully. The terms include an agreement to resolve disputes by arbitration on an individual basis. You also agree to comply with the following additional policies and each of the other agreements on the [Legal Agreements][1] page that apply to you:
 
-* [Privacy Policy][6]
-* [Acceptable Use Policy][7]
-* [Electronic Communications Delivery Policy (E-Sign Disclosure and Consent)][8]
+* [Privacy Policy][7]
+* [Acceptable Use Policy][8]
+* [Electronic Communications Delivery Policy (E-Sign Disclosure and Consent)][9]
 
 Please read carefully all of the terms of these policies and each of the other agreements that apply to you.
 
-We may amend this user agreement at any time by posting a revised version on our website.  The revised version will be effective at the time we post it.  If we change the user agreement in a way that reduces your rights or increases your responsibilities, we will provide you with 30 days’ prior notice by posting notice on the [Policy Updates][9] page of our website.
+We may amend this user agreement at any time by posting a revised version on our website.  The revised version will be effective at the time we post it.  If we change the user agreement in a way that reduces your rights or increases your responsibilities, we will provide you with 30 days’ prior notice by posting notice on the [Policy Updates][6] page of our website.
 
 ### Opening an Account
 
@@ -425,7 +425,7 @@ Payments for the following are not eligible for reimbursement under PayPal Purch
 * Vehicles, including, but not limited to, motor vehicles, motorcycles, caravans, aircraft and boats.
 * Significantly Not As Described claims for custom-made items.
 * Donations including payments on crowdfunding platforms.
-* Items prohibited by the PayPal [Acceptable Use Policy][7].
+* Items prohibited by the PayPal [Acceptable Use Policy][8].
 * For Item Not Received claims, items which you collect in person or arrange to be collected on your behalf, including items bought in a seller’s store location.
 * Industrial machinery used in manufacturing.
 * Anything purchased from, or an amount paid to, a government agency.
@@ -1254,7 +1254,7 @@ You are responsible for any damages suffered by PayPal or any third parties resu
 
 In connection with your use of our websites, your PayPal account, the PayPal services, or in the course of your interactions with PayPal, other PayPal customers, or third parties, you will not:
 
-* Breach this user agreement, the PayPal [Acceptable Use Policy][7], the [Commercial Entity Agreements][11] (if they apply to you), any[ other agreement][1] between you and PayPal, or violate any PayPal policy.
+* Breach this user agreement, the PayPal [Acceptable Use Policy][8], the [Commercial Entity Agreements][11] (if they apply to you), any[ other agreement][1] between you and PayPal, or violate any PayPal policy.
 * Violate any law, statute, ordinance, or regulation (for example, those governing financial services, consumer protections, unfair competition, anti-discrimination or false advertising).
 * Infringe PayPal's or any third party's copyright, patent, trademark, trade secret or other intellectual property rights, or rights of publicity or privacy.
 * Sell counterfeit goods.
@@ -1284,12 +1284,12 @@ If we believe that you’ve engaged in any of these activities, we may take a nu
 
 * Terminate this user agreement and/or close or suspend your PayPal account, and we may refuse to provide the PayPal services to you in the future. 
 * Limit your access to our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf, your PayPal account or any of the PayPal services, including limiting your ability to pay or send money with any of the payment methods linked to your PayPal account, restricting your ability to send money or make withdrawals.
-* Hold your PayPal balance for up to 180 days if reasonably needed to protect against the risk of liability or if you have violated our [Acceptable Use Policy][7].
+* Hold your PayPal balance for up to 180 days if reasonably needed to protect against the risk of liability or if you have violated our [Acceptable Use Policy][8].
 * Suspend your eligibility for PayPal’s Purchase Protection program and/or PayPal’s Seller Protection program.
 * Contact buyers who have purchased goods or services from you using PayPal, your bank or credit card issuer, other impacted third parties or law enforcement about your actions.
 * Update inaccurate information you provided us.
 * Take legal action against you.
-* If you’ve violated our [Acceptable Use Policy][7], then you’re also responsible for damages to PayPal caused by your violation of this policy.
+* If you’ve violated our [Acceptable Use Policy][8], then you’re also responsible for damages to PayPal caused by your violation of this policy.
 * If you are a seller and you violate the Acceptable Use Policy, then in addition to being subject to the above actions you will be liable to PayPal for the amount of PayPal's damages caused by your violation of the Acceptable Use Policy.  You acknowledge and agree that $2,500.00 U.S. dollars per violation of the Acceptable Use Policy is presently a reasonable minimum estimate of PayPal's actual damages considering all currently existing circumstances, including the relationship of the sum to the range of harm to PayPal that reasonably could be anticipated because, due to the nature of the violations of the Acceptable Use Policy, actual damages would be impractical or extremely difficult to calculate.  PayPal may deduct such damages directly from any existing PayPal balance in any PayPal account you control.
 
 If we close your PayPal account or terminate your use of the PayPal services for any reason, we’ll provide you with notice of our actions and make any unrestricted funds held in your PayPal account available for withdrawal.
@@ -1340,7 +1340,7 @@ There are a number of reasons why your PayPal account could be limited. For inst
 * If your debit or credit card issuer alerts us that someone has used your card without your permission. Similarly, if your bank lets us know that there have been unauthorized transfers between your PayPal account and your bank account.
 * In order to comply with regulatory requirements. For example, requesting certain products, like a debit card, can trigger federal and state laws, and we may limit your PayPal account while we work together to satisfy those requirements.
 * Due to PayPal policies we have in place to ensure we’re in compliance with law.
-* If we reasonably believe you have violated the [Acceptable Use Policy][7].
+* If we reasonably believe you have violated the [Acceptable Use Policy][8].
 * Seller performance indicating your PayPal account is high risk. For example, receiving an unusually high number of claims and chargebacks from your buyers is an indication of poor seller performance.  If you start selling an entirely new type of product, such as a higher-cost item like jewelry, or if your typical sales volume increases rapidly, your PayPal account may be limited.
 
 To remove the limitation and restore your PayPal account, you will need to resolve any issues with the account, often by providing information to us, although there may be certain situations where there is no specific action that you can take to help remove the limitation (for example, the limitation is put in place due to policies we have to ensure we’re in compliance with laws). If you find that your PayPal account has been limited, you should either review the email you receive from us informing you that your PayPal account is limited, or log in to your PayPal account for additional details about the limitation on your PayPal account.
@@ -1544,7 +1544,7 @@ We will determine whether an error occurred within 90 days after you contact us 
 
 If you provide us your mobile phone number, you agree that PayPal and its affiliates may contact you at that number using autodialed or prerecorded calls or text messages to: (i) service your PayPal-branded accounts, (ii) investigate or prevent fraud, or (iii) collect a debt.  We will not use autodialed or prerecorded calls or texts to contact you for marketing purposes unless we receive your prior express written consent.  We may share your mobile phone number with service providers with whom we contract to assist us with the activities listed above, but we will not share your mobile phone number with third parties for their own purposes without your consent.  You do not have to agree to receive autodialed or prerecorded calls or texts to your mobile phone number in order to use and enjoy the products and services offered by PayPal.**  **You can decline to receive autodialed or prerecorded calls or texts to your mobile phone number in several ways, including in your PayPal account settings at [www.paypal.com][31], by contacting [customer support][32] or by calling us at 1-844-629-9108.  Standard telephone minute and text charges may apply.
 
-PayPal may communicate with you about your PayPal account and the PayPal services electronically as described in our [Electronic Communications Delivery Policy][8].  You will be considered to have received a communication from us, if it’s delivered electronically, 24 hours after the time we post it to our website or email it to you.  You will be considered to have received a communication from us, if it’s delivered by mail, 3 Business Days after we send it. 
+PayPal may communicate with you about your PayPal account and the PayPal services electronically as described in our [Electronic Communications Delivery Policy][9].  You will be considered to have received a communication from us, if it’s delivered electronically, 24 hours after the time we post it to our website or email it to you.  You will be considered to have received a communication from us, if it’s delivered by mail, 3 Business Days after we send it. 
 
 Unless you’re communicating with us about a matter where we’ve specified another notice address (for example, our Liability for Unauthorized Transactions and Other Errors process), written notices to PayPal must be sent by postal mail to: PayPal, Inc., Attention: Legal Department, 2211 North First Street, San Jose, California 95131.
 
@@ -1790,7 +1790,7 @@ Our relationship with you under this user agreement is as a payment service prov
 
 #### Privacy
 
-Protecting your privacy is very important to us.  Please review our [Privacy Policy][6] in order to better understand our commitment to maintaining your privacy, as well as our use and disclosure of your information.
+Protecting your privacy is very important to us.  Please review our [Privacy Policy][7] in order to better understand our commitment to maintaining your privacy, as well as our use and disclosure of your information.
 
  
 
@@ -1834,10 +1834,10 @@ In complying with such laws, you will:
 [3]: https://www.paypal.com/us/webapps/mpp/home
 [4]: https://www.paypal.com/signin?country.x=US&locale.x=en_US
 [5]: https://www.paypal.com/us/webapps/mpp/account-selection
-[6]: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
-[7]: https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full
-[8]: https://www.paypal.com/us/webapps/mpp/ua/esign-full
-[9]: https://www.paypal.com/us/webapps/mpp/ua/upcoming-policies-full
+[6]: https://www.paypal.com/us/webapps/mpp/ua/upcoming-policies-full
+[7]: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+[8]: https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full
+[9]: https://www.paypal.com/us/webapps/mpp/ua/esign-full
 [10]: https://www.paypal.com/us/webapps/mpp/merchant
 [11]: https://www.paypal.com/us/webapps/mpp/ua/ceagreement-full
 [12]: https://www.paypal-gifts.com
