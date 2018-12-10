@@ -284,6 +284,7 @@ Verizon Privacy Office1300 I Street, NWSuite 500 EastWashington, DC 20005Fax: 20
 * [Verizon Home][53]
 * [Gizmo][54]
 * [MapQuest][55]
+* [Visible][5]
 * [Mobile Location Analytics][56]
 * [Device Installment][57]
 * [International Privacy Centre][58]
