@@ -28,7 +28,7 @@ You acknowledge and agree that you and Uber are each waiving the right to a tria
 
 ##### Rules and Governing Law.
 
-The arbitration will be administered by the American Arbitration Association ("AAA") in accordance with the AAA’s Consumer Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the "AAA Rules") then in effect, except as modified by this Arbitration Agreement. The AAA Rules are available at [www.adr.org/arb_med][4] or by calling the AAA at 1-800-778-7879.
+The arbitration will be administered by the American Arbitration Association ("AAA") in accordance with the AAA’s Consumer Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the "AAA Rules") then in effect, except as modified by this Arbitration Agreement. The AAA Rules are available at [www.adr.org][4] or by calling the AAA at 1-800-778-7879.
 
 The parties agree that the arbitrator (“Arbitrator”), and not any federal, state, or local court or agency, shall have exclusive authority to resolve any disputes relating to the interpretation, applicability, enforceability or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The Arbitrator shall also be responsible for determining all threshold arbitrability issues, including issues relating to whether the Terms are unconscionable or illusory and any defense to arbitration, including waiver, delay, laches, or estoppel.
 
@@ -36,7 +36,7 @@ Notwithstanding any choice of law or other provision in the Terms, the parties a
 
 ##### Process.
 
-A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules. (The AAA provides a form Demand for Arbitration - Consumer Arbitration Rules at [www.adr.org][5] or by calling the AAA at 1-800-778-7879). The Arbitrator will be either (1) a retired judge or (2) an attorney specifically licensed to practice law in the state of California and will be selected by the parties from the AAA's roster of consumer dispute arbitrators. If the parties are unable to agree upon an Arbitrator within seven (7) days of delivery of the Demand for Arbitration, then the AAA will appoint the Arbitrator in accordance with the AAA Rules.
+A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules. (The AAA provides a form Demand for Arbitration - Consumer Arbitration Rules at [www.adr.org][4] or by calling the AAA at 1-800-778-7879). The Arbitrator will be either (1) a retired judge or (2) an attorney specifically licensed to practice law in the state of California and will be selected by the parties from the AAA's roster of consumer dispute arbitrators. If the parties are unable to agree upon an Arbitrator within seven (7) days of delivery of the Demand for Arbitration, then the AAA will appoint the Arbitrator in accordance with the AAA Rules.
 
 ##### Location and Procedure.
 
@@ -110,7 +110,7 @@ You are responsible for obtaining the data network access necessary to use the S
 
 #### 5\. Payment
 
-You understand that use of the Services may result in charges to you for the services or goods you receive ("Charges"). Uber will receive and/or enable your payment of the applicable Charges for services or goods obtained through your use of the Services. Charges will be inclusive of applicable taxes where required by law. Charges may include other applicable fees, tolls, and/or surcharges including a booking fee, municipal tolls, airport surcharges or processing fees for split payments. Please visit [www.uber.com/cities][6] for further information on your particular location.
+You understand that use of the Services may result in charges to you for the services or goods you receive ("Charges"). Uber will receive and/or enable your payment of the applicable Charges for services or goods obtained through your use of the Services. Charges will be inclusive of applicable taxes where required by law. Charges may include other applicable fees, tolls, and/or surcharges including a booking fee, municipal tolls, airport surcharges or processing fees for split payments. Please visit [www.uber.com/cities][5] for further information on your particular location.
 
 All Charges and payments will be enabled by Uber using the preferred payment method designated in your Account, after which you will receive a receipt by email. If your primary Account payment method is determined to be expired, invalid or otherwise not able to be charged, you agree that Uber may use a secondary payment method in your Account, if available. Charges paid by you are final and non-refundable, unless otherwise determined by Uber.
 
@@ -165,7 +165,6 @@ You may not assign these Terms without Uber's prior written approval. Uber may a
 [1]: https://ct.wolterskluwer.com/sop-locations
 [2]: mailto:change-dr@uber.com
 [3]: https://www.uber.com/legal/usa/privacy
-[4]: https://www.adr.org/arb_med
-[5]: https://www.adr.org/aaa/ShowPDF?doc=ADRSTG_004175
-[6]: https://www.uber.com/cities
+[4]: https://www.adr.org/
+[5]: https://www.uber.com/cities
 
