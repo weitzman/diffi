@@ -90,7 +90,9 @@ The Cable Act permits the disclosure of customer names and addresses as long as 
 
 ##### Relevant Mobile Advertising
 
-The Verizon Wireless [Relevant Mobile Advertising][20] program helps make marketing you see more personalized and useful to you across the devices and services you use. This program shares information with Oath (formed by the combination of AOL and Yahoo).  The Relevant Mobile Advertising program uses your postal and email addresses; certain information about your Verizon Wireless products and services such as your device type; and demographic and interest information you provide or we obtain from other companies such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). This information may be combined with information collected by Oath advertising services on devices you use to access Oath services and visit third-party websites and apps that include Oath advertising services (such as web browsing, app usage and location), as well as information that we obtain from third-party partners and advertisers. The advertising program uses online and device identifiers including browser cookies, advertising IDs from Apple and Google, and Verizon-created identifiers, including the [Unique Identifier Header (or UIDH][19]) and other ids created to facilitate data sharing with Oath.  
+The Verizon Wireless [Relevant Mobile Advertising][20] program helps make marketing you see more personalized and useful to you across the devices and services you use. This program shares information with Oath (formed by the combination of AOL and Yahoo).  
+    
+The Relevant Mobile Advertising program uses your postal and email addresses; certain information about your Verizon Wireless products and services such as your device type; and demographic and interest information you provide or we obtain from other companies such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). This information may be combined with information collected by Oath advertising services on devices you use to access Oath services and visit third-party websites and apps that include Oath advertising services (such as web browsing, app usage and location), as well as information that we obtain from third-party partners and advertisers. The advertising program uses online and device identifiers including browser cookies, advertising IDs from Apple and Google, and Verizon-created identifiers, including the [Unique Identifier Header (or UIDH][19]) and other ids created to facilitate data sharing with Oath.  
 
 We do not share information that identifies you personally outside of Verizon as part of this program other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a [choice][22] about participating in this program.
 
@@ -264,7 +266,13 @@ Updated July, 2018
 
 If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, [e-mail us][40] or contact us at:
 
-Verizon Privacy Office1300 I Street, NWSuite 500 EastWashington, DC 20005Fax: 202-789-1432
+Verizon Privacy Office  
+1300 I Street, NW  
+Suite 500 East  
+Washington, DC 20005  
+Fax: 202-789-1432
+
+ 
 
 ## Privacy Policy
 
