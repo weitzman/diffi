@@ -1889,7 +1889,7 @@ In complying with such laws, you will:
  
 
 [1]: http://www.paypal.com/us/webapps/mpp/ua/legalhub-full
-[2]: https://www.paypalobjects.com/digitalassets/c/website/ua/pdf/US/en/ua.pdf
+[2]: https://www.paypal.com/us/ua.pdf
 [3]: https://www.paypal.com/us/webapps/mpp/home
 [4]: https://www.paypal.com/signin?country.x=US&locale.x=en_US
 [5]: https://www.paypal.com/us/webapps/mpp/account-selection
