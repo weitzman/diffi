@@ -413,7 +413,7 @@ If you have questions or complaints regarding this Policy, please first [contact
 [10]: https://www.linkedin.com/help/linkedin?trk=microsites-frontend_legal_privacy-policy&lang=en
 [11]: https://www.linkedin.com/help/linkedin/answer/63?trk=microsites-frontend_legal_privacy-policy&lang=en
 [12]: https://www.linkedin.com/profile/edit
-[13]: https://www.linkedin.com/help/linkedin/answer/80?trk=microsites-frontend_legal_privacy-policy&lang=en
+[13]: https://www.linkedin.com/help/linkedin/answer/38594?trk=microsites-frontend_legal_privacy-policy&lang=en
 [14]: https://www.linkedin.com/profinder/terms
 [15]: https://www.linkedin.com/help/linkedin/answer/67210?trk=microsites-frontend_legal_privacy-policy&lang=en
 [16]: https://www.linkedin.com/help/linkedin/answer/77?trk=microsites-frontend_legal_privacy-policy&lang=en
