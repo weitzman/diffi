@@ -52,7 +52,7 @@ Menu
 
 ## About Your Account
 
-This user agreement will be effective for all users as of March 29, 2019.
+This user agreement will be effective for all users as of May 7, 2019.
 
  
 
@@ -217,7 +217,7 @@ You are responsible for all risks associated with maintaining multiple currencie
 
 If PayPal converts currency, it will be completed at the transaction exchange rate we set for the relevant currency exchange. The transaction exchange rate is adjusted regularly and includes a currency conversion spread (described below) applied and retained by us on a base exchange rate to form the rate applicable to your conversion. The base exchange rate is based on rates within the wholesale currency markets on the conversion day or the prior Business Day; or, if required by law or regulation, set at the relevant government reference rate(s).
 
-For some uses of your PayPal accounts, PayPal may determine currency conversion is necessary. For any of the following transactions that involve a currency conversion, the currency conversion spread is 3.0% or such other amount as may be disclosed to you during the transaction, not to exceed 3.7%:
+For some uses of your PayPal accounts, PayPal may determine currency conversion is necessary. For any of the following transactions that involve a currency conversion, the currency conversion spread is 3.25% or such other amount as may be disclosed to you during the transaction, not to exceed 3.7%:
 
 * Paying for goods or services in a currency other than the currency the goods or services are listed in.
 * Sending money to a friend or family member such that they receive a different currency from the currency you pay in.
@@ -234,8 +234,6 @@ PayPal will always perform the conversion for transactions where your Cash Accou
 ### Account Statements
 
 You have the right to receive an account statement showing your PayPal account activity. You may view your PayPal account statement by logging into your PayPal account. If you have a Cash Account linked to your personal PayPal account, you will receive two statements: one showing all transactions in your personal PayPal account and an additional statement showing only transactions involving your Cash Account.
-
-# PayPal User Agreement
 
 ## Sending Money and Buying
 
@@ -738,7 +736,7 @@ If you choose to dispute a transaction with PayPal and we decide against you, yo
 
 Before contacting your card issuer or filing a dispute with PayPal, you should contact the seller to attempt to resolve your issue in accordance with the seller’s return policy.
 
-# PayPal User Agreement
+#  
 
 ## Selling and Accepting Payments
 
@@ -867,7 +865,7 @@ Your PayPal transaction fees depend on:
 The fees you pay when selling goods or services and the buyer pays using their PayPal account (or using another authorized wallet) can be found on the [Standard Transaction Fees table][29], with the fees applicable to charitable organizations founds on the [Standard Transaction Fees for Charitable Organizations][29] table for the charitable fees. Please note that:
 
 * We may adjust the fees applicable to future transactions that you process using PayPal. We will provide you at least 21 days’ advance notice for personal PayPal accounts and at least 5 days’ advance notice for business PayPal accounts of any fee increase or the introduction of a new type of fee.
-* If you refund a transaction to a buyer or a donation to a donor, PayPal retains the fixed fee portion of the fees you paid.
+* If you refund a transaction to a buyer or a donation to a donor, there are no fees to make the refund, but the fees you originally paid as the seller are not returned.
 * If you accept payments using a PayPal product (like [PayPal Here][30] or [PayPal Payments Pro][31]), the fees applicable to those products will apply to your transactions.
 
  
@@ -1899,7 +1897,7 @@ In complying with such laws, you will:
  
 
 [1]: http://www.paypal.com/us/webapps/mpp/ua/legalhub-full
-[2]: https://www.paypal.com/us/ua.pdf
+[2]: https://www.paypal.com/us/ppwallet.pdf
 [3]: https://www.paypal.com/us/webapps/mpp/home
 [4]: https://www.paypal.com/signin?country.x=US&locale.x=en_US
 [5]: https://www.paypal.com/us/webapps/mpp/account-selection
