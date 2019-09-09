@@ -52,7 +52,7 @@ Menu
 
 ## About Your Account
 
-This user agreement will be effective for all users as of July 9, 2019.
+This user agreement will be effective for all users as of September 3, 2019.
 
  
 
@@ -217,13 +217,13 @@ You are responsible for all risks associated with maintaining multiple currencie
 
 If PayPal converts currency, it will be completed at the transaction exchange rate we set for the relevant currency exchange. The transaction exchange rate is adjusted regularly and includes a currency conversion spread (described below) applied and retained by us on a base exchange rate to form the rate applicable to your conversion. The base exchange rate is based on rates within the wholesale currency markets on the conversion day or the prior Business Day; or, if required by law or regulation, set at the relevant government reference rate(s).
 
-For some uses of your PayPal accounts, PayPal may determine currency conversion is necessary. For any of the following transactions that involve a currency conversion, the currency conversion spread is 3.25% or such other amount as may be disclosed to you during the transaction, not to exceed 3.7%:
+For some uses of your PayPal accounts, PayPal may determine currency conversion is necessary. For any of the following transactions that involve a currency conversion, the currency conversion spread is 3.75% or such other amount as may be disclosed to you during the transaction:
 
 * Paying for goods or services in a currency other than the currency the goods or services are listed in.
 * Sending money to a friend or family member such that they receive a different currency from the currency you pay in.
 * Sending money using PayPal’s Payouts or MassPay products such that your recipients receive a different currency from the currency you pay in.
 
-For all other transactions involving a currency conversion, the currency conversion spread is 2.5% or such other amount as may be disclosed to you during the transaction, not to exceed 3.7%.
+For all other transactions involving a currency conversion, the currency conversion spread is 3.0% or such other amount as may be disclosed to you during the transaction.
 
 #### Currency conversion choices
 
@@ -897,7 +897,7 @@ You can send money through Payouts or Mass Pay even if your receiver does not ha
 
 If you receive a payment for selling goods or services that is later refunded or invalidated for any reason, you are responsible for the full amount of the payment sent to you plus any fees (including any applicable chargeback fee described below). Whenever a transaction is refunded or otherwise reversed, PayPal will refund or reverse the transaction from your PayPal account. If a currency conversion is necessary (for example if the balance in your Cash Account or your business PayPal account for a particular currency is insufficient to cover the amount of a refund or reversal, or if the buyer paid in a different currency), PayPal will perform a currency conversion in order to refund or reverse the transaction. PayPal’s transaction exchange rate (including our currency conversion spread) at the time the refund or reversal is processed will be used.
 
-If you refund a payment for goods or services, we will retain the fixed fee portion of the fees you paid as the seller. The amount of the refunded payment will be deducted from your PayPal account.
+If you refund a payment for goods or services, there are no fees to make the refund, but the fees you originally paid as the seller are not returned to you. The amount of the refunded payment will be deducted from your PayPal account.
 
  
 
