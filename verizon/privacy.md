@@ -10,7 +10,7 @@ Our Privacy Policy is designed to inform you about the information we collect, h
 
 This policy applies to Verizon website visitors, app users, applicants and customers in the United States. The policy applies across the Verizon [family of companies][2] and the products and services we provide, except it does not apply to [Oath,][3] [MapQuest][4] or [Visible][5] affiliates (which have separate privacy policies) or in other specific circumstances we describe below. The Verizon family of companies includes the companies and joint ventures controlled by Verizon, including the Verizon telephone companies, Verizon Enterprise Solutions, Verizon Wireless, Verizon Online, Verizon Connect, MapQuest, Visible and Oath. Some Verizon services and apps such as [Hum][6], [Message ][7] and [AppFlash][8] have additional privacy practices that are presented separately. If there is a conflict between this privacy policy and the service-specific policies, the service-specific policy governs when you are using that service.
 
-A [separate policy][9] governs the collection of personal data by the Verizon family of companies (excluding Oath, MapQuest and Visible) outside the United States. Also, contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented in other ways.
+A [separate policy][9] governs the collection of personal data from individuals located outside of the United States by the Verizon family of companies. Also, contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented in other ways.
 
 [See recent changes to the privacy policy][10]
 
@@ -260,11 +260,33 @@ Updated April, 2019
 
 © 2009, 2011-2019 Verizon. All Rights Reserved.
 
+\--------------
+
+I also made edits to the international privacy centre to make the language consistent across the board. My edits are in the attached. 
+
+ 
+
+I promise this is it from me (at least for now ;-))
+
+![][37]
+
+ 
+
+Attachments area
+
+ 
+
+ 
+
+ 
+
+ 
+
 * * *
 
 ### Contact us
 
-If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, [e-mail us][37] or contact us at:
+If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, [e-mail us][38] or contact us at:
 
 Verizon Privacy Office  
 1300 I Street, NW  
@@ -276,28 +298,28 @@ Fax: 202-789-1432
 
 ## Privacy Policy
 
-* [Summary][38]
-* [Full Privacy Policy][39]
+* [Summary][39]
+* [Full Privacy Policy][40]
     * [Recent changes][10]
-* [Privacy Officer Message][40]
-* [Fios][41]
-* [Oath][42]
-* [Verizon Apps][43]
+* [Privacy Officer Message][41]
+* [Fios][42]
+* [Oath][43]
+* [Verizon Apps][44]
     * [AppFlash][8]
     * [Message ][7]
-    * [VZ Navigator App][44]
-    * [Wild and Seek][45]
+    * [VZ Navigator App][45]
+    * [Wild and Seek][46]
 * [Hum][6]
-* [Smart Family][46]
-* [Verizon Home][47]
-* [Gizmo][48]
+* [Smart Family][47]
+* [Verizon Home][48]
+* [Gizmo][49]
 * [MapQuest][4]
 * [Visible][5]
-* [Mobile Location Analytics][49]
-* [Device Installment][50]
-* [International Privacy Centre][51]
-* [California Privacy Rights][52]
-* [Better Business Bureau Accredited][53]
+* [Mobile Location Analytics][50]
+* [Device Installment][51]
+* [International Privacy Centre][52]
+* [California Privacy Rights][53]
+* [Better Business Bureau Accredited][54]
 
 [1]: http://www.verizon.com/about/privacy/politica-de-privacidad-completa
 [2]: /about/our-company/history-timeline
@@ -307,7 +329,7 @@ Fax: 202-789-1432
 [6]: /about/privacy/hum-privacy-policy
 [7]: /about/privacy/verizon-messages-app-privacy-policy
 [8]: /about/privacy/appflash-privacy-policy
-[9]: /about/privacy/international-policy
+[9]: http://www.verizon.com/about/privacy/international-policy
 [10]: /about/privacy/changes-privacy-policy
 [11]: https://wbillpay.verizonwireless.com/vzw/secure/setPrivacy.action
 [12]: /about/privacy/full-privacy-policy#Relevant_Mobile_Advertising
@@ -335,21 +357,22 @@ Fax: 202-789-1432
 [34]: /about/responsibility/account-security
 [35]: http://www.verizonwireless.com/b2c/contact/index.jsp
 [36]: mailto:privacyoffice@verizon.com
-[37]: mailto:privacyoffice@verizon.com?subject=Verizon Privacy Policy question, concern or suggestion
-[38]: /about/privacy/privacy-policy-summary
-[39]: /about/privacy/full-privacy-policy
-[40]: /about/privacy/privacy-officer-message
-[41]: /about/privacy/fios-privacy-policy
-[42]: /about/privacy/aol-privacy-policy
-[43]: /about/privacy/verizon-app-privacy-policies
-[44]: /about/privacy/vz-navigator-app-privacy-policy
-[45]: /about/privacy/wild-and-seek-privacy-policy
-[46]: /about/privacy/smart-family-privacy-policy
-[47]: /about/privacy/verizon-home-app-privacy-policy
-[48]: /about/privacy/gizmo-privacy-policy
-[49]: /about/privacy/mobile-location-analytics-privacy-notice
-[50]: /about/privacy/device-installment-privacy
-[51]: /about/privacy/international-privacy-centre
-[52]: /about/privacy/california-privacy-rights
-[53]: /about/privacy/better-business-bureau-accredited
+[37]: https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif
+[38]: mailto:privacyoffice@verizon.com?subject=Verizon Privacy Policy question, concern or suggestion
+[39]: /about/privacy/privacy-policy-summary
+[40]: /about/privacy/full-privacy-policy
+[41]: /about/privacy/privacy-officer-message
+[42]: /about/privacy/fios-privacy-policy
+[43]: /about/privacy/aol-privacy-policy
+[44]: /about/privacy/verizon-app-privacy-policies
+[45]: /about/privacy/vz-navigator-app-privacy-policy
+[46]: /about/privacy/wild-and-seek-privacy-policy
+[47]: /about/privacy/smart-family-privacy-policy
+[48]: /about/privacy/verizon-home-app-privacy-policy
+[49]: /about/privacy/gizmo-privacy-policy
+[50]: /about/privacy/mobile-location-analytics-privacy-notice
+[51]: /about/privacy/device-installment-privacy
+[52]: /about/privacy/international-privacy-centre
+[53]: /about/privacy/california-privacy-rights
+[54]: /about/privacy/better-business-bureau-accredited
 
