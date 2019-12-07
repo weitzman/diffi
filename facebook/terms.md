@@ -352,8 +352,8 @@ Date of Last Revision: July 31, 2019
 [16]: https://www.facebook.com/help/1727608884153160?ref=tos
 [17]: https://www.facebook.com/help/250563911970368/?helpref=hc_fnav
 [18]: https://www.facebook.com/help/212802592074644
-[19]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/trademarks/&h=AT0L3loqHiu2fUsE4hXXdj2W1MqRw9aRPzyd1FlhCKzmm9CUP-D8gbPYErfFfAr6x6xs1lMgoytaTxqb_444x-W_xPpmAA1WWdVAl4-1TT4csvWEmiNrFj5-fZYKZfNiFLDSW5kSKOLcUQ
-[20]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/guidelines/brand&h=AT1Lc_LiY_d7MhGmh8Opku0PQSMkbxOXcjrBVHOSTYKAL1gPklKDr3-CaLGZ0M1CFs_Nyh-r2EM5UhDZ4AiISeBkxl1Cp-8ZD0m4E_eRyWMAIYs9vrrOiP8soHagOSXxGxagnPS7RTCHzg
+[19]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/trademarks/&h=AT0QFhrROEdLFmkm3fg-q8SUaaSefMbAsRi3GU7Fgs9xaC6ZwXgJs94liXc9Xw51mNGSXDJQnhuAnPCbM9_iswqhRYJoDkEHm9CI8FpKuzITBrKJ-zsRDbN8Zs6-r66pma0X_ab07Rk_Wg
+[20]: https://l.facebook.com/l.php?u=https://en.facebookbrand.com/guidelines/brand&h=AT3aR-HmTlr-gWzoN5IleXcy65pNmPcbScb-JYj0ZdaZHNhmwEF6MAmpIpZ6sXMWQbIHGNv-59k1WBUHrKaW2Q4vgpNaJj3Vl4oZ5I08ADO94MTTfja1JK7fdWZSoc1EIbZyD2h1maZotQ
 [21]: https://www.facebook.com/help/224562897555674?ref=tos
 [22]: https://www.facebook.com/help/103873106370583?ref=tos
 [23]: https://www.facebook.com/legal/commercial_terms
@@ -366,5 +366,5 @@ Date of Last Revision: July 31, 2019
 [30]: https://developers.facebook.com/policy/credits
 [31]: https://www.facebook.com/payments_terms
 [32]: https://www.facebook.com/policies/commerce
-[33]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=AT0xRadalmmVikSChDwgK5uefbheN9AaDHzfoZ1ozy-WTUtMwoi7-uhOtHe9rdqcDpn9ZTYp11monmuUQvDYtCs5afUXQVMrvUGvhKD7UxAXOinG1Cqbn4lnHCtccyqTVOD0rSxFsesh9g
+[33]: https://l.facebook.com/l.php?u=https://www.facebookbrand.com/&h=AT0o1HQAzsgKrGdc7Uqb1EhHndOyWZacuJThrk7Wg6dXoS6JvPzAPJ25GVMYK5eDJlJ7Y3McUf5CoK92ZV41uO1LwUzOLE3Tlcaly6vQYcYcu1Bg9vjaqr5NIJckLd1RPCsgY1VNC8hSyTnV2TQSKtdb4Ws
 
