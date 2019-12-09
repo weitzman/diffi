@@ -1,8 +1,9 @@
+
 # U.S. Terms of Use
 
 Effective: November 12, 2019
 
-**1\. Contractual Relationship**
+**1. Contractual Relationship**
 
 These Terms of Use ("Terms") govern your access or use, from within the United States and its territories and possessions, of the applications, websites, content, products, and services (the "Services," as more fully defined below in Section 3) made available in the United States and its territories and possessions by Uber USA, LLC and its parents, subsidiaries, representatives, affiliates, officers and directors (collectively, "Uber"). PLEASE READ THESE TERMS CAREFULLY, AS THEY CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU AND UBER. In these Terms, the words "including" and "include" mean "including, but not limited to."
 
@@ -12,23 +13,23 @@ By accessing or using the Services, you confirm your agreement to be bound by th
 
 Supplemental terms may apply to certain Services, such as policies for a particular event, program, activity or promotion, and such supplemental terms will be disclosed to you in separate region-specific disclosures (e.g., a particular city webpage on Uber.com) or in connection with the applicable Service(s). Supplemental terms are in addition to, and shall be deemed a part of, the Terms for the purposes of the applicable Service(s). Supplemental terms shall prevail over these Terms in the event of a conflict with respect to the applicable Services.
 
-Uber may amend the Terms from time to time. Amendments will be effective upon Uber's posting of such updated Terms at this location or in the amended policies or supplemental terms on the applicable Service(s). Your continued access or use of the Services after such posting confirms your consent to be bound by the Terms, as amended. If Uber changes these Terms after the date you first agreed to the Terms (or to any subsequent changes to these Terms), you may reject any such change by providing Uber written notice of such rejection within 30 days of the date such change became effective, as indicated in the "Effective" date above. This written notice must be provided either (a) by mail or hand delivery to our registered agent for service of process, c/o Uber USA, LLC (the name and current contact information for the registered agent in each state are available online [here][1]), or (b) by email from the email address associated with your Account to: [change-dr@uber.com][2]. In order to be effective, the notice must include your full name and clearly indicate your intent to reject changes to these Terms. By rejecting changes, you are agreeing that you will continue to be bound by the provisions of these Terms as of the date you first agreed to the Terms (or to any subsequent changes to these Terms).
+Uber may amend the Terms from time to time. Amendments will be effective upon Uber's posting of such updated Terms at this location or in the amended policies or supplemental terms on the applicable Service(s). Your continued access or use of the Services after such posting confirms your consent to be bound by the Terms, as amended. If Uber changes these Terms after the date you first agreed to the Terms (or to any subsequent changes to these Terms), you may reject any such change by providing Uber written notice of such rejection within 30 days of the date such change became effective, as indicated in the "Effective" date above. This written notice must be provided either (a) by mail or hand delivery to our registered agent for service of process, c/o Uber USA, LLC (the name and current contact information for the registered agent in each state are available online [here](https://ct.wolterskluwer.com/sop-locations)), or (b) by email from the email address associated with your Account to: [change-dr@uber.com](mailto:change-dr@uber.com). In order to be effective, the notice must include your full name and clearly indicate your intent to reject changes to these Terms. By rejecting changes, you are agreeing that you will continue to be bound by the provisions of these Terms as of the date you first agreed to the Terms (or to any subsequent changes to these Terms).
 
-Uber’s collection and use of personal information in connection with the Services is described in Uber's Privacy Statements located at [www.uber.com/legal/privacy][3].
+Uber’s collection and use of personal information in connection with the Services is described in Uber's Privacy Statements located at [www.uber.com/legal/privacy](https://www.uber.com/legal/usa/privacy).
 
-**2\. Arbitration Agreement**
+**2. Arbitration Agreement**
 
 **By agreeing to the Terms, you agree that you are required to resolve any claim that you may have against Uber on an individual basis in arbitration, as set forth in this Arbitration Agreement. This will preclude you from bringing any class, collective, or representative action against Uber, and also preclude you from participating in or recovering relief under any current or future class, collective, consolidated, or representative action brought against Uber by someone else.**
 
 **Agreement to Binding Arbitration Between You and Uber.**
 
-You and Uber agree that any dispute, claim or controversy arising out of or relating to (a) these Terms or the existence, breach, termination, enforcement, interpretation or validity thereof, or (b) your access to or use of the Services at any time, whether before or after the date you agreed to the Terms, will be settled by binding arbitration between you and Uber, and not in a court of law. Notwithstanding the foregoing, where you allege claims of sexual assault or sexual harassment occurring in connection with your use of the Services, you may elect to bring those claims in a court of competent jurisdiction instead of arbitration. Uber agrees to honor your election of forum with respect to your individual sexual assault or sexual harassment claim but in so doing does not waive the enforceability of this Arbitration Agreement as to any other provision (including, but not limited to, the waivers provided in the following paragraph, which will continue to apply in court and arbitration), controversy, claim or dispute.
+You and Uber agree that any dispute, claim or controversy arising out of or relating to (a) these Terms or the existence, breach, termination, enforcement, interpretation or validity thereof, or (b) your access to or use of the Services at any time, whether before or after the date you agreed to the Terms, will be settled by binding arbitration between you and Uber, and not in a court of law.  Notwithstanding the foregoing, where you allege claims of sexual assault or sexual harassment occurring in connection with your use of the Services, you may elect to bring those claims in a court of competent jurisdiction instead of arbitration. Uber agrees to honor your election of forum with respect to your individual sexual assault or sexual harassment claim but in so doing does not waive the enforceability of this Arbitration Agreement as to any other provision (including, but not limited to, the waivers provided in the following paragraph, which will continue to apply in court and arbitration), controversy, claim or dispute.
 
 You acknowledge and agree that you and Uber are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding. Unless both you and Uber otherwise agree in writing, any arbitration will be conducted only on an individual basis and not in a class, collective, consolidated, or representative proceeding. However, you and Uber each retain the right to bring an individual action in small claims court and the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of a party's copyrights, trademarks, trade secrets, patents or other intellectual property rights.
 
 **Rules and Governing Law.**
 
-The arbitration will be administered by the American Arbitration Association ("AAA") in accordance with the AAA’s Consumer Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the "AAA Rules") then in effect, except as modified by this Arbitration Agreement. The AAA Rules are available at [www.adr.org][4] or by calling the AAA at 1-800-778-7879.
+The arbitration will be administered by the American Arbitration Association ("AAA") in accordance with the AAA’s Consumer Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the "AAA Rules") then in effect, except as modified by this Arbitration Agreement. The AAA Rules are available at [www.adr.org](https://www.adr.org/) or by calling the AAA at 1-800-778-7879.
 
 The parties agree that the arbitrator ("Arbitrator"), and not any federal, state, or local court or agency, shall have exclusive authority to resolve any disputes relating to the interpretation, applicability, enforceability or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The Arbitrator shall also be responsible for determining all threshold arbitrability issues, including issues relating to whether the Terms are unconscionable or illusory and any defense to arbitration, including waiver, delay, laches, or estoppel.
 
@@ -36,7 +37,7 @@ Notwithstanding any choice of law or other provision in the Terms, the parties a
 
 **Process.**
 
-A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules. (The AAA provides a form Demand for Arbitration - Consumer Arbitration Rules at [www.adr.org][4] or by calling the AAA at 1-800-778-7879). The Arbitrator will be either (1) a retired judge or (2) an attorney specifically licensed to practice law in the state of California and will be selected by the parties from the AAA's roster of consumer dispute arbitrators. If the parties are unable to agree upon an Arbitrator within seven (7) days of delivery of the Demand for Arbitration, then the AAA will appoint the Arbitrator in accordance with the AAA Rules.
+A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules. (The AAA provides a form Demand for Arbitration - Consumer Arbitration Rules at [www.adr.org](https://www.adr.org/) or by calling the AAA at 1-800-778-7879). The Arbitrator will be either (1) a retired judge or (2) an attorney specifically licensed to practice law in the state of California and will be selected by the parties from the AAA's roster of consumer dispute arbitrators. If the parties are unable to agree upon an Arbitrator within seven (7) days of delivery of the Demand for Arbitration, then the AAA will appoint the Arbitrator in accordance with the AAA Rules.
 
 **Location and Procedure.**
 
@@ -52,13 +53,13 @@ Your responsibility to pay any AAA filing, administrative and arbitrator fees wi
 
 **Changes.**
 
-Notwithstanding the provisions in Section I above, regarding consent to be bound by amendments to these Terms, if Uber changes this Arbitration Agreement after the date you first agreed to the Terms (or to any subsequent changes to the Terms), you may reject any such change by providing Uber written notice of such rejection within 30 days of the date such change became effective, as indicated in the "Effective" date above. This written notice must be provided either (a) by mail or hand delivery to our registered agent for service of process, c/o Uber USA, LLC (the name and current contact information for the registered agent in each state are available online [here][1]), or (b) by email from the email address associated with your Account to: [change-dr@uber.com][2]. In order to be effective, the notice must include your full name and clearly indicate your intent to reject changes to this Arbitration Agreement. By rejecting changes, you are agreeing that you will arbitrate any dispute between you and Uber in accordance with the provisions of this Arbitration Agreement as of the date you first agreed to the Terms (or to any subsequent changes to the Terms).
+Notwithstanding the provisions in Section I above, regarding consent to be bound by amendments to these Terms, if Uber changes this Arbitration Agreement after the date you first agreed to the Terms (or to any subsequent changes to the Terms), you may reject any such change by providing Uber written notice of such rejection within 30 days of the date such change became effective, as indicated in the "Effective" date above. This written notice must be provided either (a) by mail or hand delivery to our registered agent for service of process, c/o Uber USA, LLC (the name and current contact information for the registered agent in each state are available online [here](https://ct.wolterskluwer.com/sop-locations)), or (b) by email from the email address associated with your Account to: [change-dr@uber.com](mailto:change-dr@uber.com). In order to be effective, the notice must include your full name and clearly indicate your intent to reject changes to this Arbitration Agreement. By rejecting changes, you are agreeing that you will arbitrate any dispute between you and Uber in accordance with the provisions of this Arbitration Agreement as of the date you first agreed to the Terms (or to any subsequent changes to the Terms).
 
 **Severability and Survival.**
 
 If any portion of this Arbitration Agreement is found to be unenforceable or unlawful for any reason, (1) the unenforceable or unlawful provision shall be severed from these Terms; (2) severance of the unenforceable or unlawful provision shall have no impact whatsoever on the remainder of the Arbitration Agreement or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to the Arbitration Agreement; and (3) to the extent that any claims must therefore proceed on a class, collective, consolidated, or representative basis, such claims must be litigated in a civil court of competent jurisdiction and not in arbitration, and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration.
 
-**3\. The Services**
+**3. The Services**
 
 The Services comprise mobile applications and related services (each, an "Application"), which enable users to arrange and schedule transportation, logistics and/or delivery services and/or to purchase certain goods, including with third party providers of such services and goods under agreement with Uber or certain of Uber's affiliates ("Third Party Providers"). In certain instances the Services may also include an option to receive transportation, logistics and/or delivery services for an upfront price, subject to acceptance by the respective Third Party Providers. Unless otherwise agreed by Uber in a separate written agreement with you, the Services are made available solely for your personal, noncommercial use. YOU ACKNOWLEDGE THAT YOUR ABILITY TO OBTAIN TRANSPORTATION, LOGISTICS AND/OR DELIVERY SERVICES THROUGH THE USE OF THE SERVICES DOES NOT ESTABLISH UBER AS A PROVIDER OF TRANSPORTATION, LOGISTICS OR DELIVERY SERVICES OR AS A TRANSPORTATION CARRIER.
 
@@ -82,7 +83,7 @@ The Services may be made available or accessed in connection with third party se
 
 The Services and all rights therein are and shall remain Uber's property or the property of Uber's licensors. Neither these Terms nor your use of the Services convey or grant to you any rights: (i) in or related to the Services except for the limited license granted above; or (ii) to use or reference in any manner Uber's company names, logos, product and service names, trademarks or services marks or those of Uber's licensors.
 
-**4\. Access and Use of the Services**
+**4. Access and Use of the Services**
 
 **User Accounts.**
 
@@ -94,7 +95,7 @@ The Service is not available for use by persons under the age of 18. You may not
 
 **Text Messaging and Telephone Calls.**
 
-You agree that Uber may contact you by telephone or text messages (including by an automatic telephone dialing system) at any of the phone numbers provided by you or on your behalf in connection with an Uber account, including for marketing purposes. You understand that you are not required to provide this consent as a condition of purchasing any property, goods or services. You also understand that you may opt out of receiving text messages from Uber at any time, either by texting the word "STOP" to 89203 using the mobile device that is receiving the messages, or by contacting help.uber.com. If you do not choose to opt out, Uber may contact you as outlined in its User Privacy Statement, located at [www.uber.com/legal/privacy][3].
+You agree that Uber may contact you by telephone or text messages (including by an automatic telephone dialing system) at any of the phone numbers provided by you or on your behalf in connection with an Uber account, including for marketing purposes. You understand that you are not required to provide this consent as a condition of purchasing any property, goods or services. You also understand that you may opt out of receiving text messages from Uber at any time, either by texting the word "STOP" to 89203 using the mobile device that is receiving the messages, or by contacting help.uber.com. If you do not choose to opt out, Uber may contact you as outlined in its User Privacy Statement, located at [www.uber.com/legal/privacy](https://www.uber.com/legal/usa/privacy).
 
 **User Provided Content.**
 
@@ -108,9 +109,9 @@ You agree to not provide User Content that is defamatory, libelous, hateful, vio
 
 You are responsible for obtaining the data network access necessary to use the Services. Your mobile network's data and messaging rates and fees may apply if you access or use the Services from your device. You are responsible for acquiring and updating compatible hardware or devices necessary to access and use the Services and Applications and any updates thereto. Uber does not guarantee that the Services, or any portion thereof, will function on any particular hardware or devices. In addition, the Services may be subject to malfunctions and delays inherent in the use of the Internet and electronic communications.
 
-**5\. Payment**
+**5. Payment**
 
-You understand that use of the Services may result in charges to you for the services or goods you receive ("Charges"). Uber will receive and/or enable your payment of the applicable Charges for services or goods obtained through your use of the Services. Charges will be inclusive of applicable taxes where required by law. Charges may include other applicable fees, tolls, and/or surcharges including a booking fee, municipal tolls, airport surcharges or processing fees for split payments. Please visit [www.uber.com/cities][5] for further information on your particular location.
+You understand that use of the Services may result in charges to you for the services or goods you receive ("Charges"). Uber will receive and/or enable your payment of the applicable Charges for services or goods obtained through your use of the Services. Charges will be inclusive of applicable taxes where required by law. Charges may include other applicable fees, tolls, and/or surcharges including a booking fee, municipal tolls, airport surcharges or processing fees for split payments. Please visit [www.uber.com/cities](https://www.uber.com/cities) for further information on your particular location.
 
 All Charges and payments will be enabled by Uber using the preferred payment method designated in your Account, after which you will receive a receipt by email. If your primary Account payment method is determined to be expired, invalid or otherwise not able to be charged, you agree that Uber may use a secondary payment method in your Account, if available. Charges paid by you are final and non-refundable, unless otherwise determined by Uber.
 
@@ -122,9 +123,9 @@ In certain cases, with respect to Third Party Providers, Charges you incur will 
 
 You shall be responsible for the cost of repair for damage to, or necessary cleaning of, vehicles and property resulting from use of the Services under your Account in excess of normal "wear and tear" damages and necessary cleaning ("Repair or Cleaning"). In the event that a Repair or Cleaning request is verified by Uber in Uber's reasonable discretion, Uber reserves the right to facilitate payment for the reasonable cost of such Repair or Cleaning using your payment method designated in your Account. Such amounts, as well as those pertaining to lost and found goods, will be transferred by Uber to a Third Party Provider, if applicable, and are non-refundable.
 
-The amounts related to repair, cleaning or lost & found fees applicable in Puerto Rico may be found at <https://www.uber.com/es-US/blog/puerto-rico/puerto-rico-terminos-y-condiciones/> and may be updated from time to time solely by Uber.
+The amounts related to repair, cleaning or lost &amp; found fees applicable in Puerto Rico may be found at [https://www.uber.com/es-US/blog/puerto-rico/puerto-rico-terminos-y-condiciones/](https://www.uber.com/es-US/blog/puerto-rico/puerto-rico-terminos-y-condiciones/) and may be updated from time to time solely by Uber.
 
-**6\. Disclaimers; Limitation of Liability; Indemnity.**
+**6. Disclaimers; Limitation of Liability; Indemnity.**
 
 **DISCLAIMER.**
 
@@ -144,7 +145,7 @@ THE LIMITATIONS AND DISCLAIMER IN THIS SECTION DO NOT PURPORT TO LIMIT LIABILITY
 
 You agree to indemnify and hold Uber and its affiliates and their officers, directors, employees, and agents harmless from any and all claims, demands, losses, liabilities, and expenses (including attorneys' fees), arising out of or in connection with: (i) your use of the Services or services or goods obtained through your use of the Services; (ii) your breach or violation of any of these Terms; (iii) Uber's use of your User Content; or (iv) your violation of the rights of any third party, including Third Party Providers.
 
-**7\. Other Provisions**
+**7. Other Provisions**
 
 **Choice of Law.**
 
@@ -152,19 +153,12 @@ These Terms are governed by and construed in accordance with the laws of the Sta
 
 **Claims of Copyright Infringement.**
 
-Claims of copyright infringement should be sent to Uber's designated agent. Please visit Uber's web page at <https://www.uber.com/legal/intellectual-property/copyright/global> for the designated address and additional information.
+Claims of copyright infringement should be sent to Uber's designated agent. Please visit Uber's web page at [https://www.uber.com/legal/intellectual-property/copyright/global](https://www.uber.com/legal/intellectual-property/copyright/global) for the designated address and additional information.
 
 **Notice.**
 
-Uber may give notice by means of a general notice on the Services, electronic mail to your email address in your Account, telephone or text message to any phone number provided in connection with your account, or by written communication sent by first class mail or pre-paid post to any address connected with your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by email or telephone). You may give notice to Uber, with such notice deemed given when received by Uber, at any time by first class mail or pre-paid post to our registered agent for service of process, c/o Uber USA, LLC. The name and current contact information for the registered agent in each state are available online [here][1].
+Uber may give notice by means of a general notice on the Services, electronic mail to your email address in your Account, telephone or text message to any phone number provided in connection with your account, or by written communication sent by first class mail or pre-paid post to any address connected with your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by email or telephone). You may give notice to Uber, with such notice deemed given when received by Uber, at any time by first class mail or pre-paid post to our registered agent for service of process, c/o Uber USA, LLC. The name and current contact information for the registered agent in each state are available online [here](https://ct.wolterskluwer.com/sop-locations).
 
 **General.**
 
 You may not assign these Terms without Uber's prior written approval. Uber may assign these Terms without your consent to: (i) a subsidiary or affiliate; (ii) an acquirer of Uber's equity, business or assets; or (iii) a successor by merger. Any purported assignment in violation of this section shall be void. No joint venture, partnership, employment, or agency relationship exists between you, Uber or any Third Party Provider as a result of this Agreement or use of the Services. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced to the fullest extent under law. Uber's failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Uber in writing. This provision shall not affect the Severability and Survivability section of the Arbitration Agreement of these Terms.
-
-[1]: https://ct.wolterskluwer.com/sop-locations
-[2]: mailto:change-dr@uber.com
-[3]: https://www.uber.com/legal/usa/privacy
-[4]: https://www.adr.org/
-[5]: https://www.uber.com/cities
-
