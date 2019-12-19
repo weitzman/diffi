@@ -1,7 +1,7 @@
 - [Our Privacy Principles](/en-US/privacy/privacy-center/)- [Your Privacy, Explained](/en-US/privacy/your-privacy/)- [Privacy by Product](/en-US/privacy/privacy-by-product/)- [Privacy Policy](/en-US/privacy/privacy-policy/)- [How We Use Your Information](/en-US/privacy/your-information/)- [Transparency Report](/en-US/privacy/transparency/)
 # Privacy Policy
 
-Effective: October 30, 2019
+Effective: December 18, 2019
 
 Snap Inc. is a camera company. Our products and services—including Snapchat, Bitmoji, Spectacles, advertising, and others that link to this Privacy Policy—provide fast and fun ways to express yourself, live in the moment, learn about the world, and have fun together!
 
@@ -155,11 +155,15 @@ You have the right to object to our use of your information. With many types of 
 
 ### International Transfers
 
-We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. Whenever we share information of EU users outside the EU we make sure an adequate transfer mechanism is in place. For internal transfers, we rely on Model Contractual Clauses or the EU-U.S. and Swiss-U.S. Privacy Shield, which you can read more about [here](https://www.snap.com/privacy/privacy-shield/). You can find more information on the categories of third parties we share information with [here](https://support.snapchat.com/a/snapchat-service-providers).
+We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. Whenever we share information of EU users outside the EU we make sure an adequate transfer mechanism is in place. For internal transfers, we rely on Model Contractual Clauses or the EU-U.S. and Swiss-U.S. Privacy Shield, which you can read more about [here](/privacy/privacy-shield/). You can find more information on the categories of third parties we share information with [here](https://support.snapchat.com/a/snapchat-service-providers).
 
 **Complaints?** If you’re based in the EU, you can always file a complaint with the supervisory authority in your Member State. For example, if you’re based in the UK, you can file a complaint with the [Information Commissioner’s Office](https://ico.org.uk/).
 
 Snap Group Limited is the representative of Snap Inc. in the EU and is located in the United Kingdom at 77 Shaftesbury Avenue, London, W1D 5DU, United Kingdom.
+
+## California Residents
+
+If you’re a California resident, you have certain privacy rights under California law, including the California Consumer Privacy Act of 2018 (“CCPA”). Our California Privacy Notice specifies these rights, [check it out](/privacy/california-privacy-notice).
 
 ## Children
 
