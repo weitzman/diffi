@@ -17,15 +17,13 @@ This notice describes the personal data we collect, how it’s used and shared, 
 
 ## II. Overview
 
-### A. Scope
+**A. Scope**
 
-**This notice applies to users of Uber’s services anywhere in the world, including users of Uber’s apps, websites, features, or other services.**
+This notice applies to users of Uber’s services anywhere in the world, including users of Uber’s apps, websites, features, or other services.
 
 This notice describes how Uber and its affiliates collect and use personal data. This notice applies to all users of our apps, websites, features, or other services anywhere in the world, unless covered by a separate privacy notice, such as the [Uber Freight Privacy Notice](https://www.uberfreight.com/privacy-policy). This notice specifically applies to:
-<li class="cmln__list-item">**Riders**: individuals who request or receive transportation, including those who receive transportation requested by another individual
-</li>
-<li class="cmln__list-item">**Drivers**: individuals who provide, or submit applications to Uber to provide, transportation individually or through partner transportation companies
-</li>
+- **Riders**: individuals who request or receive transportation, including those who receive transportation requested by another individual
+- **Drivers**: individuals who provide, or submit applications to Uber to provide, transportation individually or through partner transportation companies
 - **Delivery recipients**: individuals who request or receive food, or other products and services 
 - **Delivery partners**: individuals who provide, or submit applications to Uber to provide, delivery or other services
 - **Renters**: individuals who rent JUMP bicycles or scooters, or other light electrical vehicles or devices (collectively, “Rental Devices”), through an Uber app. 
@@ -36,6 +34,7 @@ All those subject to this notice are referred to as “users” in this notice.
 
 In addition, please note the following:  
 - **For users in Argentina**: The Public Information Access agency, in its role of Regulating Body of Law 25.326, is responsible for receiving complaints and reports presented by any data subjects who believe their rights have been impacted by a violation of the local data protection regulation.
+- **For California users**: Information regarding Uber’s privacy practices related to the California Consumer Privacy Act (CCPA) is available [here](http://uber.com/privacy/california).
 - **For users in Mexico**: Please see [here](http://t.uber.com/privacy-notice-mexico-2019) for information regarding Uber’s privacy practices required under Mexico’s Mexican Personal Data Protection Law (Ley Federal de Protección de Datos Personales en Posesión de los Particulares).
 - **For users in South Korea**: Uber’s Korean Domestic Representative is Bae, Kim &amp; Lee LLC, Representative Attorney Yangho Oh, 133 Teheran-ro Gangnam-gu, Seoul, 06133, Korea. Telephone: 02-3404-0003. Email: UberPrivacyKR@bkl.co.kr.
 - **For riders without an Uber account**: The personal data of riders who take trips arranged by the owners of an Uber account, such as when a rider takes a ride arranged by the owner of an Uber Health account (such as a hospital or healthcare provider), is processed in accordance with our contract with the owner of that account, and not as otherwise described in this notice. Such processing may include sharing of rider location data with the owner of that account. Please contact the owner of such account for more information.
