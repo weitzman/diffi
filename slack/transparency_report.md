@@ -1,5 +1,5 @@
 
-At Slack we are committed to trust and transparency. As part of this commitment, we publish periodic reports about requests for data by law enforcement and governmental entities. The latest report is below and covers all such requests received from May 1 through December 31, 2018. Please note that this period covers more time than previous reports published. We’re moving to an annual cadence of reporting on these matters to coincide with the year end. More information about our policies and practices with respect to data (including definitions of terms not defined herein)  can be found in the [Slack Terms of Service](https://slack.com/terms-of-service), [Privacy Policy](https://slack.com/privacy-policy), [Security Practices](https://slack.com/security-practices) and [Data Request Policy](https://slack.com/user-data-request-policy).
+At Slack we are committed to trust and transparency. As part of this commitment, we publish periodic reports about requests for data by law enforcement and governmental entities. The latest report is below and covers all such requests received from May 1 through December 31, 2018. Please note that this period covers more time than previous reports published. We’re moving to an annual cadence of reporting on these matters to coincide with the year end. More information about our policies and practices with respect to data (including definitions of terms not defined herein)  can be found in the [Slack Terms of Service](https://slack.com/intl/en-mx/terms-of-service), [Privacy Policy](https://slack.com/intl/en-mx/privacy-policy), [Security Practices](https://slack.com/intl/en-mx/security-practices) and [Data Request Policy](https://slack.com/intl/en-mx/user-data-request-policy).
 
 In addition to our belief in the importance of trust and transparency, as outlined here and in our policies, we believe in the importance of fundamental privacy protections, constitutional guardrails, and judicial oversight of government data collection and surveillance.
 
@@ -32,4 +32,4 @@ During this period we received a total of 22 requests for information from US la
 
 “Subpoena” A formal, compulsory demand for the production of documents or testimony issued by a governmental entity (including grand jury subpoenas, administrative subpoenas, investigative subpoenas, and trial subpoenas).
 
-Previous versions of this report can be found in our [Archives](https://slack.com/policy-archives).
+Previous versions of this report can be found in our [Archives](https://slack.com/intl/en-mx/policy-archives).
