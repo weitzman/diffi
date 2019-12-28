@@ -1,13 +1,13 @@
 
 **Effective: January 31, 2018**
 
-These Customer Terms of Service (the “**Customer Terms**”) describe your rights and responsibilities when using our online workplace productivity tools and platform (the “**Services**”). Please read them carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services. If you are being invited to a workspace set up by a Customer, the [User Terms of Service](https://slack.com/intl/en-mx/terms-of-service/user) (the “**User Terms**”) govern your access and use of the Services. We are grateful you’re here.
+These Customer Terms of Service (the “**Customer Terms**”) describe your rights and responsibilities when using our online workplace productivity tools and platform (the “**Services**”). Please read them carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services. If you are being invited to a workspace set up by a Customer, the [User Terms of Service](https://slack.com/terms-of-service/user) (the “**User Terms**”) govern your access and use of the Services. We are grateful you’re here.
 
 ## First Things First
 
 ### These “Customer Terms” Form a Part of a Binding “Contract”
 
-These Customer Terms (or, if applicable, your written agreement with us) and any Order Form(s) (defined below) together form a binding “**Contract**” between Customer and us. If any terms in the [Customer-Specific Supplement](https://slack.com/intl/en-mx/terms-of-service/supplement) apply to Customer (e.g., if Customer is a U.S. government entity), those terms are also incorporated herein by reference and form part of the Contract. “We,” “our” and “us” refers to the applicable Slack entity in the section entitled “Which Slack Entity is Customer Contracting With?” below.
+These Customer Terms (or, if applicable, your written agreement with us) and any Order Form(s) (defined below) together form a binding “**Contract**” between Customer and us. If any terms in the [Customer-Specific Supplement](https://slack.com/terms-of-service/supplement) apply to Customer (e.g., if Customer is a U.S. government entity), those terms are also incorporated herein by reference and form part of the Contract. “We,” “our” and “us” refers to the applicable Slack entity in the section entitled “Which Slack Entity is Customer Contracting With?” below.
 
 ### Your Agreement On Behalf of “Customer”
 
