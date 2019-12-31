@@ -27,7 +27,7 @@ Our Privacy Policy explained
 
 [How to Contact Us with Questions About this Privacy Policy](#contact)
 
-Effective December 16, 2019
+Effective January 1, 2020
 
 We know you care about your privacy and the protection of your [personal information](#PersonalInfo). We also know it is our responsibility to be clear about how we protect your information. We designed this Privacy Policy to do just that. It explains the types of personal information we collect, and how we collect, use, maintain, protect, and share this information. This Privacy Policy also tells you about the rights and choices you may have when it comes to your personal information.
 
@@ -115,6 +115,8 @@ You have many choices about how we communicate with you and how we use or share 
 - Your account communications and notifications- Your marketing calls, texts, and direct mail preferences- Your preference for door-to-door sales calls- Promotional or commercial emails Comcast may send to you- Personalized advertising for third-party products and services based on your interests
 Part of our commitment to transparency includes giving our customers access to the personally identifiable information we have about them. If you subscribe to Xfinity Services, you have the ability to see and correct your personally identifiable information through the My Account or Xfinity Home portals.
 
+If you are a California resident, you may have additional rights described in the “[Special Information Regarding California Residents’ Privacy Rights](#cpp-info)” section of this Privacy Policy.
+
 If you subscribe to Xfinity TV, Internet, or Voice services and would like to see your own personally identifiable information, you may do so at your local Comcast office.  To do so, please contact us by mail at the address below or by phone at <a href=\"tel:18009346489\">1-800-XFINITY</a>, giving us a reasonable period of time to locate and, if necessary, prepare the information for review, and to arrange an appointment during regular business hours. You will need to have proper identification and will only be able to see the personally identifiable information in your account and no other account.
 
 If you make a written request for a copy of your Xfinity Voice or Mobile CPNI, we will provide you with the relevant information we have by mailing it to your account address, or to any person authorized by you, if we reasonably believe the request is valid. However, subscribers to our Xfinity Voice and Mobile Services should be aware that we generally do not provide them with records of any inbound or outbound calls or other records that we do not furnish in the ordinary course of business (for example, as part of a bill) or which are available only from our archives, without valid legal process such as a court order. In addition, we cannot correct any errors in customer names, addresses, or telephone numbers appearing in, or omitted from, our or our vendors’ directory lists until the next available publication of those directory lists. Further, we may have no control over information appearing in the directory lists or directory assistance services of directory publishers or directory assistance providers that are not owned by us.
@@ -129,25 +131,94 @@ Comcast reserves the right to charge you for the reasonable cost of retrieving a
 <section class="privacy-copy__container privacy-copy--section" id="your-rights">
 
 Your Rights and Our Limitations Under Federal Laws
-The Cable Act and Personally Identifiable Information
+<p>The federal Cable Act imposes limitations on our collection and sharing of information that personally identifies you when you subscribe to Services that use the facilities of the Comcast cable system. The Communications Act imposes restrictions on our use and sharing of CPNI when you use Services that are deemed telecommunications services.
 
-<p>This Privacy Policy is designed to comply with Section 631 of the Cable Communications Policy Act of 1984, as amended, (the “Cable Act”). The Cable Act permits Comcast to use the cable system to collect personally identifiable information about you. Personally identifiable information is information that identifies you specifically; it does not include de-identified, anonymous, aggregate, or other data that does not identify you. We may collect personally identifiable information when it is necessary to render cable services or other services to you and to detect unauthorized reception or use of the services. We may use the cable system to collect personally identifiable information about you for additional purposes with your prior written or electronic consent. The Cable Act also permits Comcast to disclose personally identifiable information if the disclosure is necessary to render, or conduct a legitimate business activity related to, the cable service or other services provided to you; required by law or legal process; or limited to your name and address, subject to your opt-out consent. The frequency of any disclosure of personally identifiable information varies in accordance with our business needs and activities as described in this Policy.
+If you believe that you have been aggrieved by any act of ours in violation of the Cable Act or other applicable laws, we encourage you to contact us directly at <a href=\"mailto:Comcast_Privacy@comcast.com\">Comcast_Privacy@comcast.com</a> in order to resolve your question or concern. You may also enforce the limitations imposed on us by the Cable Act as applicable with respect to your personally identifiable information through a civil lawsuit seeking damages, attorneys’ fees, and litigation costs. Other rights and remedies may be available to you under federal or other applicable laws as well.
 
-If you believe that you have been aggrieved by any act of ours in violation of the Cable Act or other applicable laws, we encourage you to contact us directly at [Comcast_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com) in order to resolve your question or concern. You may also enforce the limitations imposed on us by the Cable Act as applicable with respect to your personally identifiable information through a civil lawsuit seeking damages, attorneys’ fees, and litigation costs. Other rights and remedies may be available to you under federal or other applicable laws as well.
+This Privacy Policy neither supersedes, enhances, nor modifies any arbitration agreement to which you may be bound as a subscriber to one or more of the Services."
+                            },
+                            {
+                                "itemSubHeading": "The Communications Act and CPNI",
+                                "itemSubCopy": "Section 222 of the Communications Act of 1934, as amended (the “Communications Act”), provides additional privacy protections for information about the quantity, technical configuration, type, destination, location, and amount of your use of telecommunications services, including Xfinity Voice and Mobile Services, and the information about those services contained on your bills for those Services. This information is known as customer proprietary network information or “CPNI.” CPNI does not include your name, address, or telephone number, which is defined by the Communications Act as “subscriber list information.” However, that information is otherwise considered personally identifiable information.
 
-This Privacy Policy neither supersedes, enhances, nor modifies any arbitration agreement to which you may be bound as a subscriber to one or more of the Services.
+If you are a customer of Xfinity Voice or Mobile Service, or another Service that is subject to these requirements, you have the right, and Comcast has a duty, under the Communications Act and other applicable laws, to protect the confidentiality of your CPNI. In addition, the FCC’s rules provide additional privacy protections and choices regarding use and sharing that are specific to our Voice and Mobile service that we describe in this Policy."
+                            }
+                        ]
+                    }
+                ]
+            }
+</script>
+<section class="privacy-copy__container privacy-copy--section" id="info-collection">
 
-Section 222 of the Communications Act of 1934, as amended (the “Communications Act”), provides additional privacy protections for information about the quantity, technical configuration, type, destination, location, and amount of your use of telecommunications services, including Xfinity Voice and Mobile Services, and the information about those services contained on your bills for those Services. This information is known as customer proprietary network information or “CPNI.” CPNI does not include your name, address, or telephone number, which is defined by the Communications Act as “subscriber list information.” However, that information is otherwise considered personally identifiable information.
+<img alt="Woman lounging on couch watching tablet" class="" src="///cdn.comcast.com/-/media/Images/cpp-privacy-portal/policy/PrivacyPolicy_Image-3.jpg"/>
 
-If you are a customer of Xfinity Voice or Mobile Service, or another Service that is subject to these requirements, you have the right, and Comcast has a duty, under the Communications Act and other applicable laws, to protect the confidentiality of your CPNI. In addition, the FCC’s rules provide additional privacy protections and choices regarding use and sharing that are specific to our Voice and Mobile service that we describe in this Policy.
+</section>
+<section class="privacy-copy__container privacy-copy--section" id="cpp-info">
 
-Beginning January 1, 2020, the California Consumer Privacy Act of 2018 (“CCPA”) will provide California residents with rights to receive certain disclosures regarding the collection, use, and sharing of “Personal Information,” as well as rights to access, delete, and restrict the sale of certain Personal Information we collect about them. The CCPA defines “Personal Information” to mean “information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.” If you are a California resident, you will have a right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.  We’ll be updating the Privacy Policy on January 1, 2020 to provide more information about how California residents can exercise these rights.
+Special Information Regarding California Residents’ Privacy Rights
+<p>The California Consumer Privacy Act of 2018 (“CCPA”) provides California residents with rights to receive certain disclosures regarding the collection, use, and sharing of “Personal Information,” as well as rights to access, delete, and restrict the sale of certain Personal Information we collect about them. You may submit a request to exercise these rights by visiting our [Individual Rights Request](/privacy/requests) Page or calling us at [1-844-963-0138](tel:18449630138).
+
+The CCPA defines “Personal Information” to mean “information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.” If you are a California resident, you have a right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
 
 Residents of the State of California also have the right to request information regarding third parties to whom the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes under California’s “Shine the Light” law (Cal. Civ. Code §1798.83). Personal information under this California law means “any information that when it was disclosed identified, described, or was able to be associated with an individual.” We do not disclose this type of personal information to third parties for their own purposes and we permit you to opt out of any disclosures of non-identifiable personal information. However, if you are a California resident and would like to inquire further, please email [Comcast_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com).
 
 We do not knowingly allow others to collect personally identifiable information about your online activities over time and across third-party websites when you use our online Services.  Because definitions and rules for a "Do Not Track" standard have not yet been established, including whether such signals must be user-enabled, Comcast does not yet respond to "Do Not Track" signals sent from browsers.  For more information about cookies and other online tracking technologies, please visit our [Cookie Notice](/privacy/policy/cookienotice); to manage your preferences, please visit the [Xfinity Privacy Preferences Center](/privacy/manage-optouts).
 
-We may change this Privacy Policy over time as our business needs and those of our customers change. If we make material changes to this Privacy Policy that increase our rights to use personal information that we have previously collected about you, we will notify you through written, electronic, or other means so that you can make any necessary decisions about your ongoing use of our Services.
+Directly from you when you provide it to us, such as when you create an account
+
+From our systems when we generate the information and assign it to you, such as your account number or your IP address
+- To offer or provide our Services- To make improvements to our existing Services and create new products, services, or features- To provide marketing and advertising- To personalize our Services
+Directly from you when you provide it to us, such as when you create an account or pay for your Services
+
+From third parties who make inferences regarding your household, such as the education level
+- To offer or provide our Services- To make improvements to our existing Services and create new products, services, or features- To provide marketing and advertising- To personalize our Services
+Directly from you when you provide it to us, such as when you sign up for an offer for veterans
+
+ From third parties who make inferences regarding your household, such as marital status or the age ranges of people within your household
+- To offer or provide our Services- To make improvements to our existing Services and create new products, services, or features- To provide marketing and advertising- To personalize our Services
+From you when you complete transactions with us
+
+From third parties
+- To offer or provide our Services- To make improvements to our existing Services and create new products, services, or features- To provide marketing and advertising- To personalize our Services- To provide our Services- To make improvements to our existing Services and create new products, services, or features
+From our systems when you use or interact with our Services
+
+From third parties
+- To offer or provide our Services- To make improvements to our existing Services and create new products, services, or features- We do not use information collected from our broadband network through the provision of Xfinity Internet or Xfinity Mobile for these purposes.- To provide our Services- To make improvements to our existing Services- To personalize our Services and to provide marketing and advertising; we do not use information collected from our provision of Xfinity Internet or Xfinity Mobile for these purposes- To provide our Services- To make improvements to our existing Services and create new products, services, or features- To offer or provide our Services-  To make improvements to our existing Services and create new products, services, or features- To provide marketing and advertising- To personalize our Services
+Unique personal identifier, online identifier, internet protocol address, or other similar identifiers
+
+Categories of Third Parties to Whom PI was \"Sold\"
+
+Affiliates, advertising networks, data analytics providers, social networks, and audience measurement companies
+
+Information regarding your interaction with an internet website, application, or advertisement.
+
+Categories of Third Parties to Whom PI was \"Sold\"
+
+Affiliates, advertising networks, data analytics providers, social networks, and audience measurement companies
+
+There may be information we will not return in response to your access request, such as information that would affect the privacy of others or interfere with legal requirements. Similarly, there may be reasons why we cannot comply with your deletion request, such as the need to keep your personal information to provide you service or to fulfill a legal obligation."
+                            },
+                            {
+                                "itemSubHeading": "Right to Information Regarding Participation in Data Sharing for Financial Incentives",
+                                "itemSubCopy": "We may run promotions from time to time and ask you to share personal information with us in exchange for discounts. For example, we may offer a one-time discount if consumers sign up for our email marketing list. We will always give you clear notices about these types of programs when you sign up, and participation is always voluntary. If you change your mind, you will always be able to opt out, and if you don’t participate, you will still be able to use our Services."
+                            },
+                            {
+                                "itemSubHeading": "How to Submit a Request",
+                                "itemSubCopy": "You may submit a request to exercise your rights by:
+
+(1) Visiting our <a href=\"/privacy/requests\">Individual Rights Request</a> Page.
+
+(2) Calling us at <a href=\"tel:18449630138\">1-844-963-0138</a>."
+                            }
+                        ]
+                    }
+                ]
+            }
+</script>
+<section class="privacy-copy__container privacy-copy--section" id="changes">
+
+Changes to this Privacy Policy
+<p>We may change this Privacy Policy over time as our business needs and those of our customers change. If we make material changes to this Privacy Policy that increase our rights to use personal information that we have previously collected about you, we will notify you through written, electronic, or other means so that you can make any necessary decisions about your ongoing use of our Services.
 - **Send Us a Message: [Comcast_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com)**
 Be sure to include your name and address, your Comcast account number, and a daytime telephone number where we can reach you.
 
