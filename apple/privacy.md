@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-### The Apple Privacy Policy was updated on August 29, 2019.
+### The Apple Privacy Policy was updated on December 31, 2019.
 
 Your privacy is important to Apple so we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your personal information.
 
@@ -12,7 +12,7 @@ In addition to this Privacy Policy, we provide data and privacy information imbe
 
 You can review this information before enabling these features, in Settings related to those features and/or online at [apple.com/legal/privacy](/legal/privacy/). Please take a moment to familiarize yourself with our privacy practices and [contact us](contact/) if you have any questions.<br/>
  <br/>
-[Your California Privacy Disclosures](/legal/privacy/california-dnt/) <br/>
+[Your California Privacy Disclosures](/legal/privacy/california/) <br/>
 [Information Regarding Commercial Electronic Messages in Canada](canada-notice/)<br/>
 [Apple Health Research Apps Privacy Policy](../apple-health-studies/en-ww/)<br/>
 
