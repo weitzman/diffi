@@ -625,7 +625,7 @@ Minimum Age: 13 years old
 Applicable Verizon Media Entity:
 <ol>
 <li>
-For Yahoo Answers, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Entity is Yahoo! Asia Pacific Pte. Ltd. (Address: 60 Anson Road, #12-01 Mapletree Anson, Singapore 079914) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Asia Pacific Pte. Ltd. will be governed by the laws of Singapore without regard to its conflict of law provisions, and (b) you and Yahoo! Asia Pacific Pte. Ltd. agree to submit to the exclusive jurisdiction of the courts of Singapore.
+For Yahoo Answers, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Entity is Yahoo! Singapore Digital Marketing Pte. Ltd. (Address: 60 Anson Road, #12-01 Mapletree Anson, Singapore 079914) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Singapore Digital Marketing Pte. Ltd. will be governed by the laws of Singapore without regard to its conflict of law provisions, and (b) you and Yahoo! Singapore Digital Marketing Pte. Ltd. agree to submit to the exclusive jurisdiction of the courts of Singapore.
 </li>
 <li>
 For other Services:
@@ -781,4 +781,4 @@ Additional terms for Italian users can be found [here](/policies/ie/it/verizonm
 
 Additional terms for German users can be found [here](https://www.verizonmedia.com/policies/ie/de/verizonmedia/terms/additionalterms/index.html).
 
-**Last updated: December 2019**
+**Last updated: January 2020**
