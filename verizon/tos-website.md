@@ -1,6 +1,13 @@
 
 # Terms of Use
 
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+h5 {padding-top:6px;}
+/*--><!]]>*/
+</style>
+
 We want to make it easier for everyone to find information and access resources across our websites. Listed below, you can find terms for using Verizon’s websites. You can also view specific [terms for Verizon Wireless websites](http://www.verizonwireless.com/b2c/globalText?textName=WEBSITE_USE&amp;jspName=footer/webuse.jsp), as well as [terms for Verizon business customers](http://www.verizonenterprise.com/terms/).<br/> 
 
 ### Acceptance of terms
@@ -93,33 +100,7 @@ With respect to certain Verizon initiatives - such as the "Verizon Developer Com
 
 ##### Filing a DMCA notice alleging copyright infringement:
 
-Pursuant to Title II of the DMCA, all claims alleging copyright infringement for material that is believed to be residing on Verizon's system or network should be promptly sent in the form of written notice to Verizon's Designated Agent:
-
-Designated Agent for DMCA Notices<br/>Verizon Copyright Department<br/>1320 North Courthouse Road, Floor 9<br/>Arlington, Virginia 22201, U.S.A.<br/>Fax 703.351.3669<br/>Email [DMCA@verizon.com](mailto:DMCA@verizon.com)
-
-**NOTE:** No other notices or communications should be sent to the Designated Agent, who is appointed solely for the purpose of receiving notices of claims alleging copyright infringement under the DMCA.
-
-Specific requirements for proper notification of claimed infringement are set forth in the DMCA (see 17 U.S.C. § 512(c)(3)). Valid notification must be a written communication that includes all of the following elements:
-1. Signature of copyright owner or person authorized to act on behalf of the owner;
-1. Identification of copyrighted work claimed to be infringed;
-1. Identification of the material claimed to be infringing or to be the subject of infringing activity and information reasonably sufficient to permit the service provider to locate the material;
-1. Information reasonably sufficient to permit the service provider to contact the complaining party (address, phone number and, if available, email address);
-1. A statement that the complaining party has a good faith belief that use of the material in the manner complained is not authorized by the copyright owner, its agent, or the law; and
-1. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of the exclusive right allegedly being infringed.
-
-It is the policy of Verizon that upon receipt of a valid DMCA notice Verizon will remove or disable access to allegedly infringing material.
-
-**NOTE:** There are substantial penalties for false claims (see 17 U.S.C. § 512(f) - providing sanctions for material misrepresentations of copyright infringement).
-
-##### Filing a DMCA counter-notification:
-
-If a notice of alleged copyright infringement under the DMCA has been wrongly filed against you, you may submit a counter-notification to Verizon's Designated Agent. Specific requirements for a proper counter-notification are set forth in the DMCA (see 17 U.S.C. § 512(g)(3)).  A valid counter-notification must be a written communication that includes all of the following elements:
-1. A physical or electronic signature;
-1. Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled;
-1. A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification; and
-1. Your name, address, and telephone number, and a statement that you consent to the jurisdiction of federal district court for the judicial district in which the address is located, or if your address is outside of the U.S., for any judicial district in which the service provider may be found, and that you will accept service of process from the complainant.
-
-Upon receipt of a valid counter-notification, Verizon will forward it to the original complainant who submitted the DMCA notice alleging copyright infringement.  The original complainant will then have ten (10) days to notify Verizon that it has filed a lawsuit relating to the allegedly infringing material otherwise Verizon will restore the removed material or cease disabling access to it.
+For information on Copyright Infringement Claims and filing a DMCA notice, please visit our[ Copyright Infringement Claims page](https://www.verizon.com/support/residential/account/manage-account/security/copyright-infringement-claims).
 
 ##### Repeat Infringer Policy
 
