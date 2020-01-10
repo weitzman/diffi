@@ -306,7 +306,7 @@ California Residents' Privacy Rights
 California residents have rights to request access to certain personal data collected about them over the past 12 months, or deletion of their personal data, subject to certain exceptions, and may not be discriminated against because they exercise their rights under the California Consumer Privacy Act. We may require you to provide additional personal data to verify your identity before we process your request; we may not process your request if we are unable to verify your identity. 
 
 You can make requests as follows:
- - For PayPal Services, you may contact us by clicking [here](https://www.paypal.com/us/smarthelp/contact-us?email=privacy) or call us at 1-888-221-1121. - For Xoom Services, you may contact us by clicking [here](https://help.xoom.com/s/contactsupport?language=en_US) or call us at 1-877-815-1531 
+ - For PayPal Services, you may contact us by clicking [here](https://www.paypal.com/us/smarthelp/contact-us?email=privacy) or call us at 1-888-221-1161. - For Xoom Services, you may contact us by clicking [here](https://help.xoom.com/s/contactsupport?language=en_US) or call us at 1-877-815-1531 
 **In the preceding 12 months, we have collected the following categories of personal data from California residents:**
 
 **We have collected such personal data from the following categories of sources:**
