@@ -219,7 +219,9 @@ There may be information we will not return in response to your access request, 
 
 Changes to this Privacy Policy
 <p>We may change this Privacy Policy over time as our business needs and those of our customers change. If we make material changes to this Privacy Policy that increase our rights to use personal information that we have previously collected about you, we will notify you through written, electronic, or other means so that you can make any necessary decisions about your ongoing use of our Services.
-- **Send Us a Message: [Comcast_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com)**
+
+Send us a message: [Comcast_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com)
+
 Be sure to include your name and address, your Comcast account number, and a daytime telephone number where we can reach you.
 
 ### We're here to help
