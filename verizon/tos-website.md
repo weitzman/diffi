@@ -96,13 +96,11 @@ With respect to certain Verizon initiatives - such as the "Verizon Developer Com
 ---
 
 
-### <a id="DMCA" name="DMCA"></a>Digital Millennium Copyright Act (DMCA)
+### <a id="DMCA" name="DMCA"></a>Copyright infringement claims and Digital Millennium Copyright Act (DMCA)
 
-##### Filing a DMCA notice alleging copyright infringement:
+##### For information on how to submit a copyright infringement claim and filing a DMCA notice, please visit our[ Copyright Infringement Claims page](https://www.verizon.com/support/residential/account/manage-account/security/copyright-infringement-claims).
 
-For information on Copyright Infringement Claims and filing a DMCA notice, please visit our[ Copyright Infringement Claims page](https://www.verizon.com/support/residential/account/manage-account/security/copyright-infringement-claims).
-
-##### Repeat Infringer Policy
+##### DMCA repeat infringer policy
 
 Pursuant to Section 512 of the DMCA, it is Verizon’s policy to terminate the account of repeat copyright infringers in appropriate circumstances.
 
