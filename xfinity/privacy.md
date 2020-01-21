@@ -38,7 +38,7 @@ Some of what we say in our Privacy Policy is required by law, and may at times s
 - How our products and services help to protect you
 - How you can better protect yourself online
 
-You can review this Privacy Policy and the information in the Xfinity Privacy Center anytime. If you still have questions, you can [contact us](xfinityAssistant#xfinityAssistant) for more information.
+You can review this Privacy Policy and the information in the Xfinity Privacy Center anytime. If you still have questions, you can [contact us](https://www.xfinity.com/xfinityassistant/?intent=other-privacy_center) for more information.
 
 Effective: January 1, 2020 [Download PDF ]()
                     </footer> -->
