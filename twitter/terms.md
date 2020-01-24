@@ -1,4 +1,7 @@
 
+<li class="p01__menu-item p01__menu-item-download-pdf">
+[Download: Twitter User Agreement](https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/site-assets/privacy-policy-new/Twitter-User-Agreement-EN.pdf)
+</li>
 <li class="has-item p01__menu-item p01__menu-item-hamburger has-menu js-toggle-menu">
 
 
@@ -22,6 +25,11 @@
 <a class="p01__dropdown-item-link twtr-color--white-neutral" href="#intlTerms">
                         If you live in the European Union or European Economic Area
                       </a>
+</li>
+<li class="p01__dropdown-item p01__dropdown-item--pdf">
+<a class="p01__dropdown-item-link has-hover twtr-type--bold-18 twtr-color--white-neutral" href="https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/site-assets/privacy-policy-new/Twitter-User-Agreement-EN.pdf">
+                      Download: Twitter User Agreement
+                    </a>
 </li>
 
 # Twitter Terms of  Service
