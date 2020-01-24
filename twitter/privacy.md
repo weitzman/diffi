@@ -1,4 +1,7 @@
 
+<li class="p01__menu-item p01__menu-item-download-pdf">
+[Download PDF](https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/site-assets/privacy-page-gdpr/pdfs/Twitter-Privacy-Policy-EN.pdf)
+</li>
 <li class="has-item p01__menu-item p01__menu-item-hamburger has-menu js-toggle-menu">
 
 
@@ -48,6 +51,11 @@
 <a class="p01__dropdown-item-link twtr-color--white-neutral" href="#chapter7">
                         Changes to This Privacy Policy
                       </a>
+</li>
+<li class="p01__dropdown-item p01__dropdown-item--pdf">
+<a class="p01__dropdown-item-link has-hover twtr-type--bold-18 twtr-color--white-neutral" href="https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/site-assets/privacy-page-gdpr/pdfs/Twitter-Privacy-Policy-EN.pdf">
+                      Download PDF
+                    </a>
 </li>
 
 # Twitter Privacy Policy
