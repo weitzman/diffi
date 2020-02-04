@@ -235,7 +235,7 @@ Yahoo Developer Network
 Makers 
 </li>
 
-The following services are provided by Oath (Americas) Inc.:
+The following services are provided by Verizon Media Inc.:
 
 <li>
 AOL On.
@@ -781,4 +781,4 @@ Additional terms for Italian users can be found [here](/policies/ie/it/verizonm
 
 Additional terms for German users can be found [here](https://www.verizonmedia.com/policies/ie/de/verizonmedia/terms/additionalterms/index.html).
 
-**Last updated: January 2020**
+**Last updated: **3 February** 2020**
