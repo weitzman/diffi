@@ -17,10 +17,10 @@ Our Privacy Policy describes the information we collect, how it is used and shar
 <li class="accordion-item" data-accordion-item="" data-layout-content-preview-placeholder-label='"Accordion item" block'>
 <a class="accordion-title" href="#acc-item-30">
 
-
+<h2 class="accordion-title__heading cell medium-4 h3">
           What information does Verizon collect?
 
-      
+      </h2>
 
 Learn about the information Verizon collects about you, your devices and your use of products and services we provide.
 
@@ -31,10 +31,10 @@ Learn about the information Verizon collects about you, your devices and your u
 
 
 
-
+<h3 class="sbs__heading cell-4-10 h4">
             We collect information when you interact with us and use our products and services.
 
-        
+        </h3>
 
 The types of information we collect depends on your use of our products and services and the ways that you interact with us. This may include information about:
 <ul>- [Contact, billing and other information you provide](#)
@@ -42,3 +42,8 @@ The types of information we collect depends on your use of our products and ser
 - [How you use our websites and apps](#)
 - [How our network and your devices are working](#)
 - [Location of your wireless devices](#)
+
+### 
+            We collect information when you interact with us and use our products and services.
+
+        
