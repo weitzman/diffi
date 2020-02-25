@@ -197,7 +197,7 @@ We may update this Privacy Policy from time to time, so you should check it peri
 </li>
 
 <li>
-<p>If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&amp;token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVViU3MHqVQ8eD98XMp4RclW%252Bpxa6fxY1YdCiDU9ZoUvcE%253D&amp;locale=en_US&amp;page=contactform&amp;selectedChannel=email-icon) or you can contact us at:<br/>
+<p>If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?page=contactform&amp;locale=en_US&amp;token=Zh/BBVqXzLHlIbokbUqVWTUbuuQeXGkGnZzhKR2JQ4O6mMQdy9JSWfJCJWvc4C3/4ml2UKrHQ0nko7rLtSR524MJxCBJKi0QupzNgfCBzntg9dSBRYOublwVE756J6MoPaeCIytHoug=&amp;selectedChannel=email-icon) or you can contact us at:<br/>
 <br/>
 		Verizon Media<br/>
 		Customer Care - Privacy Policy Issues<br/>
