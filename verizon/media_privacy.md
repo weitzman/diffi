@@ -20,7 +20,7 @@ This Privacy Policy is meant to help you understand what information Verizon Med
 </li>
 
 <li>
-We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data, and search history at [Privacy Controls](/policies/us/en/verizonmedia/privacy/controls/index.html). Some of our Services provide additional controls and privacy practices. ([See, Details for Specific Products and Services](/policies/us/en/verizonmedia/privacy/index.html#1))
+We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data, and search history at [Privacy Controls](/policies/us/en/verizonmedia/privacy/dashboard/index.html). Some of our Services provide additional controls and privacy practices. ([See, Details for Specific Products and Services](/policies/us/en/verizonmedia/privacy/index.html#1))
 </li>
 
 <li>
@@ -83,7 +83,7 @@ We are able to deliver, personalize, and improve our Services by combining and u
 Provide, maintain, improve, and develop relevant features, content, and Services.
 </li>
 <li>
-Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](/policies/us/en/verizonmedia/privacy/products/communications/faq/index.html)). You can review and control certain types of information tied to your Verion Media account by using [Privacy Controls](/policies/us/en/verizonmedia/privacy/controls/index.html). 
+Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](/policies/us/en/verizonmedia/privacy/products/communications/faq/index.html)). You can review and control certain types of information tied to your Verion Media account by using [Privacy Controls](/policies/us/en/verizonmedia/privacy/dashboard/index.html). 
 </li>
 <li>
 Fulfill your requests and when authorized by you. 
@@ -95,7 +95,7 @@ Help advertisers and publishers connect to offer relevant advertising in their a
 Match and serve targeted advertising (across devices and both on and off of our Services) and provide [targeted advertising](/policies/us/en/verizonmedia/privacy/topics/adserving/index.html) based on your device activity, inferred interests and location information.
 </li>
 <li>
-Contact you with information about your account or with marketing messages, which [you can also control](/policies/us/en/verizonmedia/privacy/controls/index.html). 
+Contact you with information about your account or with marketing messages, which [you can also control](/policies/us/en/verizonmedia/privacy/dashboard/index.html). 
 </li>
 <li>
 Associate your activity across our Services and your different devices as well as associate any accounts you may use across Verizon Media Services together. We may associate activity and accounts under a single user ID. 
@@ -119,7 +119,7 @@ Combine information we have about you with information we obtain from business p
 Detect and defend against fraudulent, abusive, or unlawful activity.
 </li>
 
-We provide you with controls to manage your experience with us. For example, you can review or edit your [account information](/policies/us/en/verizonmedia/privacy/controls/index.html), manage your [marketing preferences](/policies/us/en/verizonmedia/privacy/controls/index.html), or [opt out of targeted ads](/policies/us/en/verizonmedia/privacy/controls/index.html). If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. <a id="3" name="3"></a>
+We provide you with controls to manage your experience with us. For example, you can review or edit your [account information](/policies/us/en/verizonmedia/privacy/dashboard/index.html), manage your [marketing preferences](/policies/us/en/verizonmedia/privacy/dashboard/index.html), or [opt out of targeted ads](/policies/us/en/verizonmedia/privacy/dashboard/index.html). If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. <a id="3" name="3"></a>
 
 <li>
 Verizon Media shares information within its affiliated brands and companies and with Verizon. We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with [third-party apps and widgets](/policies/us/en/verizonmedia/privacy/topics/thirdparties/index.html)). We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Verizon Media unless one of the following circumstances applies:
