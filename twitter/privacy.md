@@ -800,7 +800,7 @@ Even as Twitter evolves, you can always change your privacy settings. The power 
 
 Effective:Â January 1, 2020
 
-[<u>Archive of Previous Privacy Policies</u>](/en/privacy/previous)
+[<u>Archive of Previous Privacy Policies</u>](https://twitter.com/en/privacy/previous)
 
 <sub>**1** **The many sides of you.**Â Let your identify run free. Explore your interests with a number of different identities.<br/>
 **2** **Hello, World.**Â Your profile information is displayed under your photo and username on your profile page.<br/>
