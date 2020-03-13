@@ -5,7 +5,7 @@
 
 ## About Your Account
 
-<a class="anchor" id="top" name="top"></a>This user agreement will be effective for all users as of September 3, 2019.
+<a class="anchor" id="top" name="top"></a>This user agreement will be effective for all users as of March 12, 2020.
 
  
 
@@ -195,13 +195,15 @@ When PayPal identifies a potentially high-risk transaction, we review the transa
 
 #### Automatic payments
 
-You can agree with a seller who accepts PayPal to use PayPal as the payment method for future purchases with that seller. This agreement is between you and the seller and allows you to pay the seller on a one-time, regular or sporadic basis. Examples of automatic payments that can be arranged by you either with a seller or with PayPal include those that PayPal calls a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "preauthorized transfer" or "preapproved payment."
+You can agree with a seller who accepts PayPal to use PayPal as the payment method for future purchases with that seller. This agreement is between you and the seller and allows you to pay the seller on a one-time, recurring or sporadic basis. Examples of automatic payments that can be arranged by you either with a seller or with PayPal include those that PayPal calls a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "preauthorized transfer" or "preapproved payment."
 
-You may cancel an automatic payment up to 3 [Business Days](#business-days) before the date of the next scheduled payment from your account settings or by contacting us through the [PayPal Help Center](https://www.paypal.com/us/smarthelp/home), or by calling PayPal at (888) 221-1161. Once your automatic payment is canceled, all future automatic payments under your agreement with that seller will be stopped. If you cancel an automatic payment, you may still owe the seller money for the purchase or have additional obligations to the seller for any goods or services that you receive but have not paid for.
+If you have a personal PayPal account, you may cancel a recurring automatic payment up to 3 [**Business Days**](#business-days) before the date of the next scheduled payment from your account settings or by contacting us through the [**PayPal Help Center**](https://www.paypal.com/us/smarthelp/home), or by calling PayPal at (888) 221-1161.
+
+Once your automatic payment is canceled, all future automatic payments under your agreement with that seller will be stopped. If you cancel an automatic payment, you may still owe the seller money for the purchase or have additional obligations to the seller for any goods or services that you receive but have not paid for.
 
 If you have given advance authorization, either to a seller or to PayPal, that permits a seller to take or receive payments from your PayPal account on a regularly recurring basis (for example, every month or otherwise on a routine billing cycle), and if such payments will vary in amount, you have the right to advance notice of the amount and date of the transfer from the seller at least 10 days before the transfer is made. If the seller provides the option, you may choose to receive this advance notice only when the amount of your automatic payment will fall outside a range established between you and the seller.
 
-If you have authorized an automatic payment and PayPal performs currency conversion for an automatic payment transaction, PayPal will use the transaction exchange rate (including PayPal’s [currency conversion spread](#currency-conversion)) in effect at the time the automatic payment transaction is processed.
+If you have authorized an automatic payment and PayPal performs currency conversion for an automatic payment transaction, PayPal will use the transaction exchange rate (including PayPal’s [**currency conversion spread**](#currency-conversion)) in effect at the time the automatic payment transaction is processed.
 
  
 
@@ -227,13 +229,11 @@ Money will be refunded in the currency you paid; or if we are unable to refund i
 
 #### Selecting a preferred payment method
 
-You can choose any of the payment methods in your PayPal account as your preferred payment method. You can select a preferred payment method in your account preferences on [www.paypal.com](https://www.paypal.com) or in the PayPal app. There may be times when your preferred payment method cannot be used, for example, if you select a credit card that is expired.
+You can choose any of the payment methods in your PayPal account as your preferred payment method. You can select a preferred payment method in your account preferences on [**www.paypal.com**](https://www.paypal.com/) or in the PayPal app. There may be times when your preferred payment method cannot be used, for example, if you select a credit card that is expired.
 
-You can set separate preferred payment methods for online transactions, in-store transactions and automatic payments.
+You can set separate preferred payment methods for online transactions, in-store transactions, and each of your automatic payment agreements, as described below.
 
 If you have chosen a preferred payment method, it will be shown as the primary method of payment.
-
-<a class="anchor" name="default-payment-methods"></a>
 
 If no preferred payment method, it’s still your choice.
 
@@ -257,13 +257,15 @@ When you send money to friends and family within the U.S. using balance in your 
 
 #### Automatic payments
 
-Some sellers allow you to store PayPal as the way you pay when making purchases on their site, so you can check out faster. Often, this entails creating an agreement with the seller that permits them to request that we charge your PayPal account each time you make a purchase. If the seller provides the option, you may choose to receive this advance notice only when the amount of your automatic payment will fall outside a range established between you and the seller. To help minimize disruptions in your automatic payments, we may update your Payment Method information, see Link or Unlink a Payment Method.
+Some sellers allow you to store PayPal as the way you pay when making purchases on their site, so you can check out faster. Often, this entails creating an agreement with the seller that permits them to request that we charge your PayPal account each time you make a purchase. To help minimize disruptions in your automatic payments, we may update your Payment Method information; see Link or Unlink a Payment Method.
 
-When you first set up an agreement, your preferred payment method (if you have one selected) will be shown first. We will also show you other payment methods you have available in your PayPal account that you can instruct the seller to use. For example, you can instruct your monthly movie subscription service to always charge your credit card for the monthly cost. The payment method you select will be used for every future transaction with that seller, unless you change it in your account settings on www.paypal.com or the payment method is unavailable (e.g., because the credit card has expired).
+When you first set up an automatic payment agreement, you may have the option to set up a preferred payment method for such agreement. You can review, set, or change a preferred payment method for an automatic payment agreement in your account settings on paypal.com.
 
-There are a few sellers where you can select PayPal as the method of payment for future transactions, but you won’t be shown the specific payment method that will be used. When setting up an agreement with one of these sellers, the payment method used will be in the following order, if applicable: 1. Cash Account (if one is linked to your personal PayPal account) or balance in your business PayPal account (if we’ve been able to verify the [required identifying information](#business-accounts) you provide to us); 2. Bank account; 3. PayPal co-branded debit card; 4. PayPal co-branded credit card; 5. Debit card; 6. Credit card; and 7. E-check. This is also the order of payment methods that will be used if a previously selected payment method to be used in a seller agreement is unavailable.
+Your preferred payment method for an automatic payment agreement will be used for transactions with that seller. If you have available balance in a linked Cash or cash Plus account, that balance may be used before your preferred payment method.
 
-You can cancel any agreement in your account settings on [www.paypal.com](http://www.paypal.com).
+If you have not set a preferred payment method for an automatic payment agreement, or if your preferred payment method for an automatic payment agreement is unavailable (for example, because it is expired or has insufficient funds) the payment method used will be in the following order, if applicable: 1. Cash Account (if one is linked to your personal PayPal account) or balance in your business PayPal account (if we’ve been able to verify the [**required identifying information**](#business-accounts) you provide to us); 2. Bank account; 3. PayPal co-branded debit card; 4. PayPal co-branded credit card; 5. Debit card; 6. Credit card; and 7. E-check. This is also the order of payment methods that will be used if a previously selected payment method to be used in a seller agreement is unavailable.
+
+
 
 #### Bank account transfers
 
@@ -451,9 +453,9 @@ You agree that you will not impose a surcharge or any other fee for accepting Pa
 
 #### Presentation of PayPal and Pay with Venmo
 
-You must treat PayPal and/or Venmo as payment methods or marks at least on par with any other payment methods offered at your points of sale, including your websites or mobile applications. This includes at least equal or substantially similar: logo placement, position within any point of sale, and treatment in terms of payment flow, terms, conditions, restrictions, or fees, in each case as compared to other marks and payment methods at your points of sale.
+You must treat PayPal and/or Venmo as payment methods or marks at least on par with any other payment methods offered at your points of sale where PayPal or Venmo branded services are integrated, including your websites or mobile applications. This includes at least equal or better: logo placement, position within any point of sale, and treatment in terms of payment flow, terms, conditions, restrictions, and fees, in each case as compared to other marks and payment methods at your points of sale. Further, you must not present any payment method or mark upstream (or at an earlier point in the checkout experience) from the presentment of any of PayPal or Venmo services or marks. 
 
-In representations to your customers or in public communications, you must not mischaracterize PayPal or Venmo as a payment method or exhibit a preference for other payment methods over PayPal or Venmo. Within all of your points of sale, you agree not to try to dissuade or inhibit your customers from using PayPal or Venmo or encourage the customer to use an alternate payment method. If you enable your customers to pay you with PayPal or Venmo, whenever you display or exhibit the payment methods that you accept (either within any point of sale or in your marketing materials, advertising and other customer communications) you agree to display the PayPal or Venmo payment marks at least as prominently, and in at least as positive a manner, as you do for all other payment methods.
+In representations to your customers or in public communications, you must not mischaracterize any PayPal or Venmo services or exhibit a preference for other payment methods over PayPal or Venmo services. Within all of your points of sale, you agree not to try to dissuade or inhibit your customers from using PayPal or Venmo services or encourage the customer to use an alternate payment method. If you enable your customers to pay you with PayPal or Venmo, whenever you display or exhibit the payment methods that you accept (either within any point of sale or in your marketing materials, advertising, and other customer communications) you agree to display the PayPal or Venmo services payment marks at least as prominently, and in at least as positive a manner, as you do for all other payment methods.
 
  
 
@@ -465,9 +467,13 @@ You acknowledge that we may make certain reports to tax authorities regarding tr
 
  
 
-#### Your refund policy and privacy policy
+#### Your customer service information, refunds and returns policy, and privacy policy
 
-You must publish a refunds and return policy, as well as a privacy policy, where required by law.
+You must publish customer service information with clear instructions on how your customers can contact you. Such instructions must include at least: (1) one active customer service email address or active customer service URL to file tickets for assistance and (2) at least one active customer service telephone number. Such information must be readily accessible for review by your customers.
+
+You must publish a refunds and returns policy.
+
+You must publish a privacy policy, where required by law.
 
  
 
@@ -507,9 +513,11 @@ You must not:
 Restart future payments without the buyer’s written authorization, if a buyer has stopped or canceled a preauthorized payment.
 
  
- <td class="content"> Provide a simple and easily accessible online cancellation procedure, if buyers sign up for preauthorized payments online. </td> 
+ <td class="content"> Provide a simple and easily accessible online cancelation procedure, if buyers sign up for preauthorized payments online. </td> 
  <td class="content"> Provide buyers the ability to stop any such payment up to 3 [Business Days](#business-days) before the date scheduled for payment. </td> 
  <td class="content"> Notify the buyer at least 10 days in advance of the amount and date of each preauthorized payment if the preauthorized payment will vary from the preauthorized amount or (at the buyer’s option) any payment that is in an amount that falls outside of the pre-determined range. </td> 
+
+ 
 
 ### Transaction Fees for Online and In-Store Payments
 
@@ -722,6 +730,8 @@ You are responsible for all reversals, chargebacks, claims, fees, fines, penalti
 Under certain circumstances, in order to protect PayPal and the security and integrity of the network of buyers and sellers that use the PayPal services, PayPal may take account-level or transaction-level actions. Unless otherwise noted, if we take any of the actions described here, we’ll provide you with notice of our actions, but we retain the sole discretion to take these actions. To request information in connection with an account limitation, hold or reserve, you should visit the [Resolution Center](https://www.paypal.com/us/cgi-bin/webscr?cmd=_complaint-view&amp;amp;nav=0.4) or follow the instructions in our email notice with respect to the limitation, hold or reserve.
 
 Our decision about holds, limitations and reserves may be based on confidential criteria that are essential to our management of risk and the protection of PayPal, our customers and/or service providers. We may use proprietary fraud and risk modeling when assessing the risk associated with your PayPal account. In addition, we may be restricted by regulation or a governmental authority from disclosing certain information to you about such decisions. We have no obligation to disclose the details of our risk management or security procedures to you.
+
+In order to facilitate PayPal’s actions described above and allow us to assess the level of risk associated with your PayPal account, you agree to cooperate with PayPal’s reasonable requests for financial statements and other documentation or information in a timely fashion. 
 
  
 
@@ -1062,7 +1072,7 @@ Protecting your privacy is very important to us. Please review our [Privacy Stat
 
 #### State disclosures
 
-In addition to reporting complaints against PayPal directly to PayPal as described above, if you are a California resident, you may report complaints to the California Department of Business Oversight by mail at Department of Business Oversight, Attn: Consumer Services, 1515 K Street, Suite 200, Sacramento, CA 95814 or online through its website at [http://www.dbo.ca.gov/Consumers/consumer_services.asp](http://www.dbo.ca.gov/Consumers/consumer_services.asp). The California Department of Business Oversight offers assistance with its complaint form by phone at 866-275-2677. If you are a California resident, you have a right to receive communications about your PayPal account and the PayPal services by email. To make such a request, send a letter to PayPal to: PayPal, Inc., Attention: Legal Department, 2211 North First Street, San Jose, California 95131), include your email address, and your request for that information by email.
+In addition to reporting complaints against PayPal directly to PayPal as described above, if you are a California resident, you may report complaints to the California Department of Business Oversight by mail at Department of Business Oversight, Attn: Consumer Services, 1515 K Street, Suite 200, Sacramento, CA 95814 or online through its website at [http://www.dbo.ca.gov/Consumers](http://www.dbo.ca.gov/Consumers). The California Department of Business Oversight offers assistance with its complaint form by phone at 866-275-2677. If you are a California resident, you have a right to receive communications about your PayPal account and the PayPal services by email. To make such a request, send a letter to PayPal to: PayPal, Inc., Attention: Legal Department, 2211 North First Street, San Jose, California 95131), include your email address, and your request for that information by email.
 
 Florida residents may contact the Florida Department of Financial Services in writing at 200 East Gaines Street, Tallahassee, Florida, 32399, or by telephone at 1-800-342-2762.
 
