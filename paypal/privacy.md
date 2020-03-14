@@ -3,14 +3,11 @@
 
 # <h2>PayPal Privacy Statement</h2>
 
-
 <p> 
 
  
 
-<img alt="print" id="print_pic" src="https://www.paypalobjects.com/webstatic/ua/printer_icon.jpg"/><button class="link-button" id="enhanced-legal-print" pa-marked="1">Print</button>
-
-<style type="text/css"> div&gt;p { padding-top: 0px; } li { margin-top: 1rem; } table.ua_table { border: 2px solid #000; border-collapse: collapse; width: auto } .ua_table table { border: 2px solid #000; border-collapse: collapse; width: auto; margin: 0.25em 0.0625rem; } .ua_table th { border: 2px solid #000; padding: 0 0.1875rem; text-align: center; vertical-align: middle } .ua_table td { border: 2px solid #000; padding: 0.1875rem; text-align: inherit; vertical-align: middle } .ua_table td&gt;p, .ua_table p { margin: 0.0625rem; padding: 0 0.1875rem; } .ua_legalhub_div { padding: 0.3125em } </style> <p> 
+<style type="text/css"> div&gt;p {padding-top: 0px; } ol.table-content &gt; li, li&gt;ol, li&gt;ol&gt;li {margin-top: 1rem; } table.ua_table {border: 2px solid #000; border-collapse: collapse; width: auto } .ua_table table {border: 2px solid #000; border-collapse: collapse; width: auto; margin: 0.25em 0.0625rem; } ul {line-height: 120%; margin-bottom: .5rem; } .ua_table th {border: 2px solid #000; padding: 0 0.1875rem; text-align: center; vertical-align: middle } .ua_table td {border: 2px solid #000; padding: 0.1875rem; text-align: inherit; vertical-align: middle } .ua_table td&gt;p, .ua_table p {margin: 0.0625rem; padding: 0 0.1875rem; } .ua_legalhub_div {padding: 0.3125em } </style> <p> 
 
  
 
@@ -28,19 +25,19 @@ This privacy statement explains how and why PayPal collects, stores, uses, and s
 
 ### <a name="privacyRights"></a>Your privacy rights and choices
 
-When it comes to how your personal data is collected, stored, used, and shared, you have rights and choices. 
+When it comes to how your personal data is collected, stored, used, and shared, you have rights and choices.
 
 #### **<a name="understandingRights"></a>Understanding your rights**
 
-You have the right to request a copy of the personal data we’ve collected about you in the past 12 months. You also have the right to ask us to delete your personal data we have collected about you. If you want to see or delete your personal data, [contact us](#contactUs) . We will not deny you services, charge you different prices, or provide you with a different level of service solely for exercising your privacy rights.
+You have the right to request a copy of the personal data we’ve collected about you in the past 12 months. You also have the right to ask us to delete your personal data we have collected about you. If you want to see or delete your personal data, [contact us](#contactUs). We will not deny you services, charge you different prices, or provide you with a different level of service solely for exercising your privacy rights.
 
 If you request to see or delete your personal data, we’ll first need to verify who you are before we can respond to your request. If we can’t verify your identity, we will not be able to fulfill your request.
 
-If you want to delete your personal data, you have choices:  
- - Log in to your account and delete information you previously added. For example, you can delete your profile picture and non-primary addresses in your settings  - Call us and request that we delete specific information - Close your account 
+If you want to delete your personal data, you have choices:
+ - Log in to your account and delete information you previously added. For example, you can delete your profile picture and non-primary addresses in your settings - Call us and request that we delete specific information - Close your account 
 If you close your account or request that we delete personal data, we still need to keep some personal data so we can:
- - Complete a transaction, provide goods or services you requested, or comply with our promises to you in the User Agreement or other contract you have with us  - Detect and prevent malicious, fraudulent, or illegal activity - Protect your (or another person’s) legal rights, including the right to free speech - Manage our internal business processes that are reasonably related to your expectations when using our services - Comply with laws 
-Depending on where you live and what type of account you use, you may have different rights and choices for managing your personal data. For example, certain State privacy laws do not apply to personal data collected, processed, or disclosed by a financial institution according to federal laws, such as the Gramm-Leach-Bliley Act.  Consumers may read our [<u>Consumer Privacy Notice</u> ](#consumerPrivacy) for more information about their rights under US federal law. 
+ - Complete a transaction, provide goods or services you requested, or comply with our promises to you in the User Agreement or other contract you have with us - Detect and prevent malicious, fraudulent, or illegal activity - Protect your (or another person’s) legal rights, including the right to free speech - Manage our internal business processes that are reasonably related to your expectations when using our services  - Comply with laws 
+Depending on where you live and what type of account you use, you may have different rights and choices for managing your personal data. For example, certain State privacy laws do not apply to personal data collected, processed, or disclosed by a financial institution according to federal laws, such as the Gramm-Leach-Bliley Act. Consumers may read our [<u>Consumer Privacy Notice</u>](#consumerPrivacy) for more information about their rights under US federal law.
 
 #### **<a name="understandingChoices"></a>Understanding your choices**
 
@@ -48,13 +45,9 @@ You can control how personal data is collected or shared, as well as how we comm
 
 **Choose how we collect personal data**
 
-You may choose to limit the personal data you provide when our apps or services request it
+You may choose to limit the personal data you provide when our apps or services request it. To help make choices that are right for you, it’s important to understand that personal data helps us provide a richer, more personalized experience for you. Also, some personal data is required for our services to function at all.
 
-To help make choices that are right for you, it’s important to understand that personal data helps us provide a richer, more personalized experience for you.  Also, some personal data is required for our services to function at all.
-
-For example, sharing your contacts helps make it easier for you to find the people you want to send money to. If you choose not to share your contacts with us, you can still use our mobile apps, but some actions may not be as fast or easy as it would be if shared your contacts.
-
-Another example is creating an account with us. If you choose not to provide information that is required for an account to function, like your name and email address, we will not be able to create an account for you.
+For example, sharing your contacts helps make it easier for you to find the people you want to send money to. If you choose not to share your contacts with us, you can still use our mobile apps, but some actions may not be as fast or easy as it would be if shared your contacts. Another example is creating an account with us. If you choose not to provide information that is required for an account to function, like your name and email address, we will not be able to create an account for you.
 
 **Choose how connected accounts collect and use personal data**
 
@@ -68,15 +61,15 @@ Your choices about how we communicate with you differ depending on the purpose o
 
 You can click the unsubscribe link in a marketing email, opt out of a text message by replying “STOP,” or turn off notifications on your device. You can also change your account’s notification settings or the notification preferences on your device.
 
-You won’t be able to opt out of messages that are considered necessary for you to manage your account, such as receipts and emails that alert you to changes in your account’s status that require your attention. You may be able to decide how we send those messages, such as by email, text message, or a notification on your mobile device.
+You won’t be able to opt out of messages that are considered necessary for you to manage your account, such as receipts and emails that alert you to changes in your account’s status that require your attention. You may be able to decide how we send those messages, such as by email, text message, or a notification on your mobile device. 
 
 ### <a name="dataCollect"></a>The personal data we collect
 
 We may collect your personal data when you register for or use our services, such as when you create an account, make a payment, or make a purchase on a merchant’s website.
 
-If you use our services without creating or logging into an account, we’ll still collect personal data, which may include your payment information, device information, and location. When you use our services without creating or logging into an account, we will use this information to process transactions, prevent fraud and comply with the law. We may connect this information with your account, if you have one.  
+If you use our services without creating or logging into an account, we’ll still collect personal data, which may include your payment information, device information, and location. When you use our services without creating or logging into an account, we will use this information to process transactions, prevent fraud and comply with the law. We may connect this information with your account, if you have one. 
 
-
+Here are the kinds of personal data that we may collect when you create an account or use our services:
 
 1. Information that identifies you, for example:
  - First and last name - Address - Phone number - Email - IP address - Information collected from cookies or other tracking technologies 
@@ -100,9 +93,9 @@ If you use our services without creating or logging into an account, we’ll sti
 
 We may collect personal information about you from various sources, for example from:
  - You - Merchants - Our payment partners, such as card networks and payment processors - Financial institutions, such as banks - Credit bureaus - Service providers, such as companies that help us manage risk and fraud, deliver services to you, and market our services 
-We do not knowingly collect personal information from people who are not allowed to use our sites and services, such as children under the age of 13. [<u>Contact us</u> ](#contactUs) if you believe that we’ve mistakenly collected personal data from someone not allowed to use our services. We’ll delete it immediately, unless we’re legally required to keep it.
+We do not knowingly collect personal information from people who are not allowed to use our sites and services, such as children under the age of 13. [<u>Contact us</u>](#contactUs) if you believe that we’ve mistakenly collected personal data from someone not allowed to use our services. We’ll delete it immediately, unless we’re legally required to keep it.
 
-#### **<a name="cookies"></a>How we use tracking technologies like cookies**
+#### **<a class="anchor" id="cookies" name="cookies"></a>How we use tracking technologies like cookies**
 
 We or our authorized service providers may use cookies and similar tracking technologies to collect personal data whenever you use our services, visit our sites, or visit websites that offer our services. The information collected with these technologies helps us personalize your experience, measure the effect of our ads, prevent fraud and enhance the security of our sites and service.
 
@@ -110,27 +103,27 @@ You can disable or decline some cookies for our sites and services. But, since s
 
 Some web browsers have an optional setting called “Do Not Track” (DNT) that lets you opt-out of being tracked by advertisers and some third parties. Because many of our services won’t function without tracking data, we do not respond to DNT settings.
 
-If you want to know more about how we use cookies, read our [<u>Cookie Statement</u>](#cookies) . To learn how to opt-out of this kind of tracking technology, visit [<u>About Ads</u>](https://optout.aboutads.info/?c=2&amp;lang=EN) .
+If you want to know more about how we use cookies, read our [<u>Cookie Statement</u>](https://www.paypal.com/us/webapps/mpp/ua/cookie-full). To learn how to opt-out of this kind of tracking technology, visit [<u>About Ads</u>](https://optout.aboutads.info/?c=2&amp;lang=EN).
 
 ### <a name="collectData"></a>Why we collect personal data
 
 We collect personal data for many reasons, including to improve your experience, and to run our business. Specific reasons why we collect your personal data include:
- 1. Run our sites and provide better services, for example to help you send or request money, make purchases, show you your account information, verify access to your account, and keep your account and payment information up to date. 1. Manage and improve our business. For example, we do user research to improve our products’ performance and abilities.  We also monitor and analyze our sites to help ensure they work as expected.  1. Protect our business and our customers from risk and fraud, including fraud that  involves our business partners, strategic ventures, or other individuals and merchants, such as eBay, Inc. 1. Send you marketing information about our products and services. We may use personal data to market about our partners, such as merchants. We use personal data to better understand and cater to your interests. 1. Personalize your experience when you use our sites and services, as well as other third-party sites and services. In this case, we might use tracking technologies like cookies. See our <u>Cookie Statement</u> for more details. 1. Send you locally relevant options, but only if you agree to let us track your location. If you do, this can help us enhance the security of our sites and services, and customize our services by using the right language and personalizing content such as ads and search results. 1. Make it easy for you to find and connect with others. For instance, if you let us access your contacts, we can suggest connections with people you may know. 1. Contact you when you need us, such as answering a question you sent to our customer service team. 1. Comply with laws and enforce our agreements with you and other people who use our services. 
+ 1. Run our sites and provide better services, for example to help you send or request money, make purchases, show you your account information, verify access to your account, and keep your account and payment information up to date. 1. Manage and improve our business. For example, we do user research to improve our products’ performance and abilities. We also monitor and analyze our sites to help ensure they work as expected.  1. Protect our business and our customers from risk and fraud, including fraud that involves our business partners, strategic ventures, or other individuals and merchants, such as eBay, Inc. 1. Send you marketing information about our products and services. We may use personal data to market about our partners, such as merchants. We use personal data to better understand and cater to your interests.  1. Personalize your experience when you use our sites and services, as well as other third-party sites and services. In this case, we might use tracking technologies like cookies. See our [Cookie Statement](https://www.paypal.com/us/webapps/mpp/ua/cookie-full) for more details. 1. Send you locally relevant options, but only if you agree to let us track your location. If you do, this can help us enhance the security of our sites and services, and customize our services by using the right language and personalizing content such as ads and search results. 1. Make it easy for you to find and connect with others. For instance, if you let us access your contacts, we can suggest connections with people you may know. 1. Contact you when you need us, such as answering a question you sent to our customer service team. 1. Comply with laws and enforce our agreements with you and other people who use our services. 
 ### <a name="shareData"></a>How and why we share personal data
 
-We do not sell your personal data.  However, we may share personal data across our services and with other members of the PayPal corporate family. Sometimes we share the personal data we collect with third parties to help us provide services, protect our customers from risk and fraud, market our products, and comply with legal obligations.
+We do not sell your personal data. However, we may share personal data across our services and with other members of the PayPal corporate family. Sometimes we share the personal data we collect with third parties to help us provide services, protect our customers from risk and fraud, market our products, and comply with legal obligations.
 
-You can review the personal data that we may share by reviewing [<u>The personal data we collect</u>](#personalData)  section.
+You can review the personal data that we may share by reviewing [<u>The personal data we collect</u>](#dataCollect) section.
 
 We may share personal data with:
- 1. Other members of the PayPal corporate family 1. Service providers that help us with processing payments, marketing, research, compliance, audits, corporate governance, communications, and security 1. Card networks and payment processors 1. Financial institutions, such as banks we partner with to offer joint products, like Synchrony Bank in connection with PayPal Credit, the PayPal Cashback Mastercard, and the PayPal Extras Mastercard 1. Credit reporting and collections agencies 1. Courts, governments, regulators and law enforcement when accompanied by a subpoena or other legal documentation that requires PayPal or members of our corporate family to respond 1. People involved in a transaction, such as other users or merchants and their service providers. 1. Third parties that you asked us to connect with, such as other financial or social media apps.  If you want us to stop sharing information with a third party, disconnect your account from that third party. 1. Third-party tools used to help fight spam and abuse. For instance, we use ReCaptcha to help determine whether you’re a person or a computer. When you use ReCaptcha, your personal data is subject to [Google’s Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Use](https://policies.google.com/terms?hl=en). 1. Other third parties to:  - Comply with laws - Investigate or enforce violations of our user agreement - Facilitate a merger, purchase, or sale of part or all of our business - Comply with card association rules - To prevent physical harm or illegal activity 
+ 1. Other members of the PayPal corporate family 1. Service providers that help us with processing payments, marketing, research, compliance, audits, corporate governance, communications, and security 1. Card networks and payment processors 1. Financial institutions, such as banks we partner with to offer joint products, like Synchrony Bank in connection with PayPal Credit, the PayPal Cashback Mastercard, and the PayPal Extras Mastercard 1. Credit reporting and collections agencies 1. Courts, governments, regulators and law enforcement when accompanied by a subpoena or other legal documentation that requires PayPal or members of our corporate family to respond 1. People involved in a transaction, such as other users or merchants and their service providers. 1. Third parties that you asked us to connect with, such as other financial or social media apps. If you want us to stop sharing information with a third party, disconnect your account from that third party. 1. Third-party tools used to help fight spam and abuse. For instance, we use ReCaptcha to help determine whether you’re a person or a computer. When you use ReCaptcha, your personal data is subject to [Google’s Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Use](https://policies.google.com/terms?hl=en).  1. Other third parties to:  <li>Comply with laws 1. Investigate or enforce violations of our user agreement 1. Facilitate a merger, purchase, or sale of part or all of our business 1. Comply with card association rules 1. To prevent physical harm or illegal activity  </li> 
 ### <a name="protectData"></a>How we protect your personal data
 
 Helping to keep your personal data safe against loss, misuse, unauthorized access, disclosure, and alteration is our top priority.
 
 To protect your personal data, we use technical, physical, and administrative security measures that include:
  - Firewalls - Data encryption - Physical access controls at our data centers 
-While we protect our systems and services, you’re responsible for keeping your password(s) and account information private. You are also responsible for making sure your personal information is accurate and up to date.
+While we protect our systems and services, you’re responsible for keeping your password(s) and account information private. You are also responsible for making sure your personal information is accurate and up to date. 
 
 If your account is closed, we may keep your personal data and other information as required by law and according to our data retention policy. If we do, we’ll continue to handle it as we describe in this statement.
 
@@ -138,7 +131,7 @@ If your account is closed, we may keep your personal data and other information 
 
 We’ll make changes to this privacy statement from time to time. This helps us stay up to date with changes to our business and the most current laws. After a new version is published, we’ll collect, store, use, and protect your personal data as we outline in that revised statement.
 
-If the new version reduces your rights or increases your responsibilities, we’ll post it on the [<u>Policy Updates or Privacy Statement</u>](https://www.paypal.com/us/webapps/mpp/ua/upcoming-policies-full)  page of our website at least 21 days before it becomes effective.
+If the new version reduces your rights or increases your responsibilities, we’ll post it on the [<u>Policy Updates or Privacy Statement</u>](https://www.paypal.com/us/webapps/mpp/ua/upcoming-policies-full) page of our website at least 21 days before it becomes effective.
 
 We may notify you about these changes through email or other communications. 
 
@@ -150,7 +143,7 @@ To talk about your PayPal account:
  - Call PayPal Customer Service at 1-888-221-1161 - or [<u>visit our Customer Service web portal</u>](https://www.paypal.com/us/smarthelp/contact-us?email=privacy)  
 To talk about your Xoom account:
  - Call Xoom Customer Service at 1-877-815-1531 - or [<u>visit our Help Center web portal</u>](https://help.xoom.com/s/contactsupport?language=en_US)  
-### Consumer Privacy Notice
+### <a class="anchor" id="consumerPrivacy" name="consumerPrivacy"></a>Consumer Privacy Notice
 
 Effective Date: March 12, 2020
 
@@ -158,22 +151,22 @@ This Consumer Privacy Notice applies to you if you are an individual who resides
  <td style="width:23.0%"> **FACTS** </td> | **WHAT DOES PAYPAL DO WITH YOUR PERSONAL INFORMATION?**  
 
 **WHAT DOES PAYPAL DO WITH YOUR PERSONAL INFORMATION?**
- | **Why?**  | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.  
+ | **Why?**  | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
 
-Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.
- | **What?**  | The types of personal information we collect and share depend on the product or service you have with us.  This information can include:  - Social Security number and account balances - Payment history or transaction history - Credit history or credit scores  When you are no longer our customer, we continue to share your information as described in this notice.  
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
+ | **What?**  | The types of personal information we collect and share depend on the product or service you have with us. This information can include:  - Social Security number and account balances - Payment history or transaction history - Credit history or credit scores  When you are no longer our customer, we continue to share your information as described in this notice.  
 
-The types of personal information we collect and share depend on the product or service you have with us.  This information can include:
- | **How?**  | All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayPal chooses to share; and whether you can limit this sharing.  
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+ | **How?**  | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayPal chooses to share; and whether you can limit this sharing.  
 
-All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayPal chooses to share; and whether you can limit this sharing.
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayPal chooses to share; and whether you can limit this sharing.
  | **<strong>Reasons we can share your personal information**</strong>  | **<strong>Does PayPal share?**</strong>  | **<strong>Can you limit this sharing?**</strong>  
 
 **<strong>Does PayPal share?**</strong>
  | **For our everyday business purposes –**<br/> such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  | Yes  | No  
 
 Yes
- | **For our marketing purposes –**<br/> to offer our products and services to you  | Yes  | No<br/>    
+ | **For our marketing purposes –**<br/> to offer our products and services to you   | Yes  | No<br/>    
 
 Yes
  | **For joint marketing with other financial companies**  | Yes  | No  
@@ -191,35 +184,35 @@ No
  | **For nonaffiliates to market to you**  | No  | We don’t share  
 
 No
- <td style="width:33.0%"> **Questions?** </td> | Call our customer service at 1-888-221-1161or visit us at [**https://www.paypal.com/us/smarthelp/contact-us?email=privacy**](https://www.paypal.com/us/smarthelp/contact-us?email=privacy).   
+ <td style="width:33.0%"> **Questions?** </td> | Call our customer service at 1-888-221-1161or visit us at [**https://www.paypal.com/us/smarthelp/contact-us?email=privacy**](https://www.paypal.com/us/smarthelp/contact-us?email=privacy).    
 
-Call our customer service at 1-888-221-1161or visit us at [**https://www.paypal.com/us/smarthelp/contact-us?email=privacy**](https://www.paypal.com/us/smarthelp/contact-us?email=privacy). 
+Call our customer service at 1-888-221-1161or visit us at [**https://www.paypal.com/us/smarthelp/contact-us?email=privacy**](https://www.paypal.com/us/smarthelp/contact-us?email=privacy).  
  <td colspan="2"> **<strong>Who we are**</strong> </td> 
  | **Who is providing this Privacy <u>Statement</u>?**  | This privacy notice is provided by PayPal, Inc. and is applicable to your personal U.S. PayPal and/or Xoom accounts.   
 
 This privacy notice is provided by PayPal, Inc. and is applicable to your personal U.S. PayPal and/or Xoom accounts. 
  <td colspan="2"> **<strong>What we do**</strong> </td> 
- | **How does PayPal protect my personal information?**  | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.  These measures include computer safeguards and secured files and buildings.  
+ | **How does PayPal protect my personal information?**  | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.  These measures include computer safeguards and secured files and buildings.
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
  | **How does PayPal collect my personal information?**  | We collect your personal information, for example, when you  - open an account or provide account information - use your credit or debit card or give us your contact information - use your PayPal and/or Xoom account to send or receive funds  We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
 
 We collect your personal information, for example, when you
- | **Why can’t I limit all sharing?**  | Federal law gives you the right to limit only  - sharing for affiliates’ everyday business purposes — information about your creditworthiness - affiliates from using your information to market to you - sharing for nonaffiliates to market to you  State laws and individual companies may give you additional rights to limit sharing.  See below for more information on your rights under state law.  
+ | **Why can’t I limit all sharing?**  | Federal law gives you the right to limit only  - sharing for affiliates’ everyday business purposes — information about your creditworthiness - affiliates from using your information to market to you - sharing for nonaffiliates to market to you  State laws and individual companies may give you additional rights to limit sharing. See below for more information on your rights under state law.  
 
 Federal law gives you the right to limit only
  <td colspan="2"> **<strong>Definitions**</strong> </td> 
- | **Affiliates**  | Companies related by common ownership or control.  They can be financial and nonfinancial companies.  - Our affiliates include Bill Me Later, Inc.   
+ | **Affiliates**  | Companies related by common ownership or control. They can be financial and nonfinancial companies.  - Our affiliates include Bill Me Later, Inc.   
 
-Companies related by common ownership or control.  They can be financial and nonfinancial companies.
- | **Nonaffiliates**  | Companies not related by common ownership or control.  They can be financial and nonfinancial companies.  - Nonaffiliates with which we share personal information include service providers that perform services or functions on our behalf.   
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+ | **Nonaffiliates**  | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  - Nonaffiliates with which we share personal information include service providers that perform services or functions on our behalf.   
 
-Companies not related by common ownership or control.  They can be financial and nonfinancial companies.
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
  | **Joint Marketing**  | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  - Our joint marketing partners include financial companies and banks, such as Synchrony Bank.   
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
  | **Other important information**  
- | We may transfer personal information to other countries, for example, for customer service or to process transactions. <br/> <u>California:</u> Effective January 1, 2020, the California Consumer Act of 2018 (CCPA) permits consumers who are California residents to ask businesses covered under the act about personal data it has collected about the consumer, submit an access or deletion request, and opt-out of the sale of personal information, if applicable. These provisions do not apply to personal data collected, processed, shared, or disclosed by financial institutions pursuant to federal law such as the Gramm-Leach-Bliley Act. Contact us if you have questions about our privacy statement, this consumer notice, or your personal data. If your PayPal account has a California mailing address, we will not share personal information we collect about you except to the extent permitted under California law.  <br/> To talk about your PayPal account, call PayPal Customer Service at 1-888-221-1161 or visit our [**https://www.paypal.com/selfhelp/home**](https://www.paypal.com/selfhelp/home).  For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email: Aginfo@ag.nv.gov     
+ | We may transfer personal information to other countries, for example, for customer service or to process transactions. <br/> <u>California:</u> Effective January 1, 2020, the California Consumer Act of 2018 (CCPA) permits consumers who are California residents to ask businesses covered under the act about personal data it has collected about the consumer, submit an access or deletion request, and opt-out of the sale of personal information, if applicable. These provisions do not apply to personal data collected, processed, shared, or disclosed by financial institutions pursuant to federal law such as the Gramm-Leach-Bliley Act. Contact us if you have questions about our privacy statement, this consumer notice, or your personal data. If your PayPal account has a California mailing address, we will not share personal information we collect about you except to the extent permitted under California law.  <br/> To talk about your PayPal account, call PayPal Customer Service at 1-888-221-1161 or visit our [Customer Service web portal](https://www.paypal.com/us/smarthelp/contact-us?email=privacy). To talk about your Xoom account, call Xoom Customer Service at 1-877-815-1531 or visit our [Help Center web portal](https://help.xoom.com/s/contactsupport?language=en_US). <br/> <u>Vermont</u>: If your PayPal account has a Vermont mailing address, we will not share personal information we collect about you with non-affiliates unless the law allows or you provide authorization.  <br/> <u>Nevada</u>: If your PayPal account has a Nevada mailing address, we are providing this notice pursuant to Nevada law. If you prefer not to receive marketing calls from PayPal, you may be placed on our internal Do Not Call List by calling 1-888-221-1161 or going to [**https://www.paypal.com/selfhelp/home**](https://www.paypal.com/selfhelp/home). For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email: Aginfo@ag.nv.gov  
 
 <u>California:</u> Effective January 1, 2020, the California Consumer Act of 2018 (CCPA) permits consumers who are California residents to ask businesses covered under the act about personal data it has collected about the consumer, submit an access or deletion request, and opt-out of the sale of personal information, if applicable. These provisions do not apply to personal data collected, processed, shared, or disclosed by financial institutions pursuant to federal law such as the Gramm-Leach-Bliley Act. Contact us if you have questions about our privacy statement, this consumer notice, or your personal data. If your PayPal account has a California mailing address, we will not share personal information we collect about you except to the extent permitted under California law. 
 
