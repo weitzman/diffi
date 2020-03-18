@@ -41,8 +41,6 @@ You're seeing information for **Washington D.C.**. To see local features and ser
 
 # <a id="_kd2ozkbyti4d"></a>**U.S. Terms of Use**
 
-**Effective: November 12, 2019**
-
 ## <a id="_emo6j1kfny9"></a>1. Contractual Relationship
 
 These Terms of Use ("Terms") govern your access or use, from within the United States and its territories and possessions, of the applications, websites, content, products, and services (the "Services," as more fully defined below in Section 3) made available in the United States and its territories and possessions by Uber USA, LLC and its parents, subsidiaries, representatives, affiliates, officers and directors (collectively, "Uber"). PLEASE READ THESE TERMS CAREFULLY, AS THEY CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU AND UBER. In these Terms, the words "including" and "include" mean "including, but not limited to."
