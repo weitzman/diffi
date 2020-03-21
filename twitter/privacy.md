@@ -802,9 +802,9 @@ Effective:Â January 1, 2020
 
 [<u>Archive of Previous Privacy Policies</u>](/en/privacy/previous)
 
-<sub>**1** **The many sides of you.**Â Let your identify run free. Explore your interests with a number of different identities.<br/>
+<sub>**1** **The many sides of you.**Â Let yourÂ imagination run free. Explore your interests with a number of different identities.<br/>
 **2** **Hello, World.**Â Your profile information is displayed under your photo and username on your profile page.<br/>
-**3** **Keep a low profile.Â **Friend want to tag you in a photo? Lucky you. If you're not into that sort of thing, you can always change your settings.<br/>
+**3** **Keep a low profile.Â **Friends want to tag you in a photo? Lucky you. If you're not into that sort of thing, you can always change your settings.<br/>
 **4 Spam stinks.**Â We scan your Direct Messages to try and prevent spam for you and our service. <br/>
 **5 Just like email.**Â Only send Direct Messages to people you trust. Remember, even though someone canât Retweet your Direct Messages, they still have a copy of your message. <br/>
 **6 Approved by you.Â **We use your payment information to process transactions youâve approved and for fraud detection.<br/>
