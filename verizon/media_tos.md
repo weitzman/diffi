@@ -205,7 +205,7 @@ The following important provisions apply to all of our fee-based services:
 **Provider of Services**
 
 <li>
-The Services are provided by the company that offers the Services in your region as set out in Section 14 (the “Applicable Verizon Media Entity”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services. Your Service provider may change if you relocate to another country and continue using our Services.
+The Services are provided by the company that offers the Services in your region as set out in Section [14.2](#14.2)  (the “Applicable Verizon Media Entity”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services. Your Service provider may change if you relocate to another country and continue using our Services.
 </li>
 <li>
 The following services are provided to you by the same Verizon Media Entity wherever you are based in the world:

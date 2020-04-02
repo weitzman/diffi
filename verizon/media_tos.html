@@ -41,12 +41,10 @@
             var mrktParm = "us";
             var langParm = "en-US";
         </script>
-<script>
-        var devValue = '';
-        var dversion = '';
-</script>
-<script>
-        var redirectToolMappingsArr = ''</script>
+<script type="text/javascript">
+        var queryParms = [];
+        var login_hint, device_session_id, device_verifier; var expectedUrls = ["/policies/", "mydashboard.oath.com/"];   
+    </script>
 </head>
 <body class="sticky-header">
 <header class="site-header" id="site-header">
@@ -78,8 +76,7 @@
 <li><div class="line-wrap"><a href="/policies/us/en/verizonmedia/privacy/products/index.html">Products</a></div></li>
 <li><div class="line-wrap"><a href="/policies/us/en/verizonmedia/privacy/topics/thirdparties/index.html">Third Parties</a></div></li>
 <li><div class="line-wrap"><a href="/policies/us/en/verizonmedia/privacy/california/index.html">California Privacy Rights</a></div></li>
-<li><div class="line-wrap"><a href="/policies/us/en/verizonmedia/privacy/controls/index.html">Controls</a></div></li>
-<li><div class="line-wrap"><a href="/policies/us/en/verizonmedia/privacy/dashboard/index.html">Dashboard</a></div></li>
+<li><div class="line-wrap"><a href="/policies/us/en/verizonmedia/privacy/dashboard/index.html">Dashboard &amp; Controls</a></div></li>
 <li><div class="line-wrap"><a href="/policies/us/en/verizonmedia/privacy/adinfo/index.html">Relevant Advertising</a></div></li>
 </ul>
 </div>
@@ -133,8 +130,7 @@
 <li><a class="is-not-active" href="/policies/us/en/verizonmedia/privacy/products/index.html">Products</a></li>
 <li><a class="is-not-active" href="/policies/us/en/verizonmedia/privacy/topics/thirdparties/index.html">Third Parties</a></li>
 <li><a class="is-not-active" href="/policies/us/en/verizonmedia/privacy/california/index.html">California Privacy Rights</a></li>
-<li><a class="is-not-active" href="/policies/us/en/verizonmedia/privacy/controls/index.html">Controls</a></li>
-<li><a class="is-not-active" href="/policies/us/en/verizonmedia/privacy/dashboard/index.html">Dashboard</a></li>
+<li><a class="is-not-active" href="/policies/us/en/verizonmedia/privacy/dashboard/index.html">Dashboard &amp; Controls</a></li>
 <li><a class="is-not-active" href="/policies/us/en/verizonmedia/privacy/adinfo/index.html">Relevant Advertising</a></li>
 </ul>
 </div>
@@ -406,7 +402,7 @@
 <p><strong>Provider of Services</strong></p>
 <ol start="1" style="list-style-type: lower-alpha;">
 <li>
-<p>The Services are provided by the company that offers the Services in your region as set out in Section 14 (the “Applicable Verizon Media Entity”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services. Your Service provider may change if you relocate to another country and continue using our Services.</p>
+<p>The Services are provided by the company that offers the Services in your region as set out in Section <a href="#14.2">14.2</a>  (the “Applicable Verizon Media Entity”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services. Your Service provider may change if you relocate to another country and continue using our Services.</p>
 </li>
 <li>
 <p>The following services are provided to you by the same Verizon Media Entity wherever you are based in the world:</p>
@@ -1178,7 +1174,7 @@
 </div>
 </footer>
 <!-- Bootstrap core JavaScript -->
-<script src="https://s.yimg.com/zz/combo?ge/toc/ass/js/2.2.4/jquery.min.js&amp;ge/toc/ass/js/libs.min.js&amp;cv/apiv2/oath/policies/js/app-min-v2.js&amp;ge/toc/ass/js/tocCustom.js"></script>
+<script src="https://s.yimg.com/zz/combo?ge/toc/ass/js/2.2.4/jquery.min.js&amp;ge/toc/ass/js/libs.min.js&amp;ge/toc/ass/js/tocCustom.js&amp;cv/apiv2/oath/policies/js/app-min-v2.js"></script>
 <script src="https://s.yimg.com/zz/combo?ge/oath/policies/js/oathTableStyle_v1_min.js&amp;ge/oath/policies/js/oathplcy_custom_min.js"></script>
 <script src="https://s.yimg.com/zz/combo?ge/oath/policies/v1/dist/scripts/aimdata-min.js&amp;ge/policies/js/v2/redirectTool_links_replacement_v2.js" type="text/javascript"></script>
 <script src="https://s.yimg.com/cv/apiv2/oathsites/overlay/js/verizon-overlay-v3-min.js"></script>
@@ -1192,5 +1188,6 @@
          var myRapidInstance = new YAHOO.i13n.Rapid(rapidConfig);
        </script>
 <script src="https://s.yimg.com/cv/apiv2/vzmsites/policies/js/vzm-policies.js"></script>
+<script src="https://s.yimg.com/cv/apiv2/vzmsites/policies/js/cpqp_v2.js"></script>
 </body>
 </html>
