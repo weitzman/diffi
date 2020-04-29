@@ -5,7 +5,7 @@
 
 ## About Your Account
 
-<a class="anchor" id="top" name="top"></a>This user agreement will be effective for all users as of March 12, 2020.
+<a class="anchor" id="top" name="top"></a>This user agreement will be effective for all users as of April 28, 2020.
 
  
 
@@ -77,7 +77,7 @@ Except as provided below, any balance in your Cash Account and any funds sent to
 
 PayPal is not a bank and does not itself take deposits. You will not receive any interest on the funds held with PayPal. PayPal combines your PayPal funds with the PayPal funds of other PayPal users and invests those funds in liquid investments in accordance with state money transmitter laws. PayPal owns the interest or other earnings on these investments. These pooled amounts are held apart from PayPal’s corporate funds, and PayPal will neither use these funds for its operating expenses or any other corporate purposes nor will it voluntarily make these funds available to its creditors in the event of bankruptcy.
 
-If you have a PayPal Cash Card debit card as part of a Cash Account, that Cash Account will have pass-through FDIC insurance as further detailed in the [PayPal Cash and PayPal Cash Plus Account Terms and Conditions](https://www.paypal.com/us/webapps/mpp/ua/cashagreement-full).
+If you have a PayPal Cash Card debit card as part of a Cash Account, have enrolled in Direct Deposit, or have established Goals in PayPal, such funds will have pass-through FDIC insurance as further detailed in the [PayPal Cash and PayPal Cash Plus Account Terms and Conditions](https://www.paypal.com/us/webapps/mpp/ua/cashagreement-full).
 
  
 
