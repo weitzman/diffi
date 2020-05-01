@@ -232,9 +232,9 @@ We’re on hand with tips, tricks, and advice anytime.
 
 Easily find help and support articles.
 
-## **Chat with Xfinity**
+## **Xfinity Assistant**
 
-Get 24/7 assistance for any questions you have.
+Get 24/7 help with any questions you have.
 
 ### {{sectionHeading}}
 
