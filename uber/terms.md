@@ -6,39 +6,7 @@
 
                   This probably isn't the experience you were expecting. Internet Explorer isn't supported on Uber.com. Try switching to a different browser to view our site.
                 
-Ride[Overview](/us/en/ride/)[How it works](/us/en/ride/how-it-works/)[Price estimator](/us/en/price-estimate/)[Safety](/us/en/ride/safety/)[Find a city](/global/en/cities/)[Find an airport](/global/en/airports/)[Blog](/blog/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">UberX</h4>](/us/en/ride/uberx/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">UberPool</h4>](/us/en/ride/uberpool/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">XL</h4>](/us/en/ride/uberxl/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Select</h4>](/us/en/ride/uberselect/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Black</h4>](/us/en/ride/uberblack/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">WAV</h4>](/us/en/ride/uberwav/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Bikes</h4>](https://www.jump.com/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Lux</h4>](/us/en/ride/uberlux/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Black SUV</h4>](/us/en/ride/ubersuv/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Taxi</h4>](/us/en/ride/ubertaxi/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Flash</h4>](https://www.uber.com/en-HK/blog/uber-flash-has-arrived-one-tap-for-two-options-uberx-and-taxis/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Transit</h4>](/us/en/ride/transit/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Scooters</h4>](https://www.jump.com/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Auto</h4>](https://www.uber.com/en-IN/blog/new-delhi/launching-uber-auto/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Copter</h4>](/us/en/ride/uber-copter/)Drive[Overview](/us/en/drive/)[How to sign up](/us/en/drive/requirements/)[Need a car](/us/en/drive/vehicle-solutions/)[Earnings](/us/en/drive/how-much-drivers-make/)[Driver app](/us/en/drive/driver-app/)[Basics of driving](/us/en/drive/basics/)[Driver safety](/us/en/drive/safety/)[Insurance](/us/en/drive/insurance/)[Blog](/blog/driver-announcements/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Drive</h4>](/us/en/drive/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Deliver</h4>](/us/en/drive/delivery/)Uber Eats[Overview](https://www.ubereats.com/)[Find a city](https://about.ubereats.com/cities/)[Blog](https://www.ubereats.com/blog)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Order</h4>](https://www.ubereats.com)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Deliver</h4>](/us/en/drive/delivery/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Restaurant partner</h4>](https://www.ubereats.com/restaurant/signup)Uber for Business[Overview](https://www.uber.com/us/en/business/)[Resources](/us/en/business/resources/)[Uber for Business Blog](/blog/business/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Business travel</h4>](https://www.uber.com/us/en/business/travel/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Courtesy rides</h4>](https://www.uber.com/us/en/business/central/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Vouchers</h4>](/us/en/business/vouchers/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Health</h4>](https://www.uberhealth.com/)Freight[Overview](/us/en/freight/)[Blog](/blog/freight/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Carrier</h4>](/us/en/freight/carrier/)[<h4 as="span" class="c1 fp hq cu hr cm cn hj hs gi gj gl gm gn gp">Shipper</h4>](/us/en/freight/shipper/)
-#### UberPool
-
-#### Select
-
-#### WAV
-
-#### Lux
-
-#### Taxi
-
-#### Transit
-
-#### Auto
-
-#### Drive
-
-#### Order
-
-#### Restaurant partner
-
-#### Courtesy rides
-
-#### Health
-
-#### Shipper
-[About us](/us/en/about/)[How Uber works](/us/en/about/how-does-uber-work/)[Global citizenship](/us/en/community/)[Newsroom](/newsroom/)[Investor relations](https://investor.uber.com/)[Careers](/us/en/careers/)
-Find everything you need to track your success on the road.
-
-Manage your payment options, review trip history, and more.
-
-You're seeing information for **Washington D.C.**. To see local features and services for another location, select a different city. <button aria-expanded="false" class="ci cf c1 cj g4 ew cm g5 ey cn co cp cq cr cs nk cu cv nh ni fy fz g1 g2 fs dy cy">Show more</button>
-
+- [Uber](https://www.uber.com/)- <button data-baseweb="button" class="cx cy cn cr cz d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 b5 da db cd ce dc dd de df c3 c2 c4 c1 ba dg dh di dj dk dl dm dn do dp dq c7 bi dr ds"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" size="16"><title>Person (outlined)</title><path fill-rule="evenodd" clip-rule="evenodd" d="M17.5 6.5c0 3-2.5 5.5-5.5 5.5S6.5 9.5 6.5 6.5 9 1 12 1s5.5 2.5 5.5 5.5zm-3 0C14.5 5.1 13.4 4 12 4S9.5 5.1 9.5 6.5 10.6 9 12 9s2.5-1.1 2.5-2.5zM3 20c0-3.3 2.7-6 6-6h6c3.3 0 6 2.7 6 6v3h-3v-3c0-1.7-1.4-3-3-3H9c-1.6 0-3 1.3-3 3v3H3v-3z" fill="currentColor"></path></svg></button>- <button data-baseweb="button" class="cx cy cn cr cz d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 b5 da db cd ce dc dd de df c3 c2 c4 c1 ba dg dh di dt du dv dw dn do dx dy dz e0 e1 e2 ds e3 e4">Sign up</button>- <button data-baseweb="button" data-drawer="Company" class="cx cy cn cr cz d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 b5 da db cd ce dc dd de df c3 c2 c4 c1 ba dg dh di dj dk dl dm dn do dp dq c7 bi dr ds"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" size="16" color="white"><title>Two lines (filled)</title><path d="M2 6h20v3H2V6z" fill="currentColor"></path>,<path d="M2 15h20v3H2v-3z" fill="currentColor"></path></svg></button>
 # <a id="_kd2ozkbyti4d"></a>**U.S. Terms of Use**
 
 ## <a id="_emo6j1kfny9"></a>1. Contractual Relationship
@@ -202,3 +170,49 @@ Uber may give notice by means of a general notice on the Services, electronic ma
 You may not assign these Terms without Uber's prior written approval. Uber may assign these Terms without your consent to: (i) a subsidiary or affiliate; (ii) an acquirer of Uber's equity, business or assets; or (iii) a successor by merger. Any purported assignment in violation of this section shall be void. No joint venture, partnership, employment, or agency relationship exists between you, Uber or any Third Party Provider as a result of this Agreement or use of the Services. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced to the fullest extent under law. Uber's failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Uber in writing. This provision shall not affect the Severability and Survivability section of the Arbitration Agreement of these Terms.
 
 ## Return to Legal Hub
+
+Visit Help Center
+
+Do Not Sell My Info (California)
+
+About us
+
+Newsroom
+
+Investors
+
+Blog
+
+Careers
+
+Ride
+
+Drive
+
+Eat
+
+Uber for Business
+
+Uber Freight
+
+Safety
+
+Diversity
+
+Transparency
+
+ATG
+
+AI
+
+Elevate
+
+© <!-- -->2020<!-- --> Uber Technologies Inc.
+
+
+
+Privacy
+
+Accessibility
+
+Terms
