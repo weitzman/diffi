@@ -34,9 +34,9 @@
 
 # Twitter Terms of  Service
 
-**If you liveÂ outside the European Union or European Economic Area including the United States**, the Twitter User Agreement comprises these [Terms of Service](/en/tos#update), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies
+**If you liveÂ outside the European Union or European Economic Area including the United States**, the Twitter User Agreement comprises these [Terms of Service](https://twitter.com/en/tos#update), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies
 
-**If you live in the European Union or European Economic Area**, the Twitter User Agreement comprises these [Terms of Service](/en/tos?wcmmode=disabled#intlTerms), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies.
+**If you live in the European Union or European Economic Area**, the Twitter User Agreement comprises these [Terms of Service](https://twitter.com/en/tos?wcmmode=disabled#intlTerms), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies.
 
 ### Twitter Terms of Service
 
