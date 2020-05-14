@@ -11,7 +11,7 @@
 
  
 
-Effective March 12, 2020
+Effective May 13, 2020
  1. [**Overview**](#overview) 1. [**Your privacy rights and choices**](#privacyRights) <ol style="list-style-type:lower-alpha"> <li>[**Understanding your rights**](#understandingRights) 1. [**Understanding your choices**](#understandingChoices)  1. [**How we use tracking technologies like cookies**](#cookies) 
  
 
@@ -67,7 +67,7 @@ You won’t be able to opt out of messages that are considered necessary for you
 
 We may collect your personal data when you register for or use our services, such as when you create an account, make a payment, or make a purchase on a merchant’s website.
 
-If you use our services without creating or logging into an account, we’ll still collect personal data, which may include your payment information, device information, and location. When you use our services without creating or logging into an account, we will use this information to process transactions, prevent fraud and comply with the law. We may connect this information with your account, if you have one. 
+If you use our services without creating or logging into an account, we’ll still collect personal data, which may include your payment information, device information, and location. When you use our services without creating or logging into an account, we will use this information to process transactions, prevent fraud and comply with the law. We may connect this information with your account, if you have one or if you create an account at a later date. 
 
 Here are the kinds of personal data that we may collect when you create an account or use our services:
 
