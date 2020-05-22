@@ -14,7 +14,7 @@ You can review this information before enabling these features, in Settings rela
  <br/>
 [Your California Privacy Disclosures](/legal/privacy/california/) <br/>
 [Information Regarding Commercial Electronic Messages in Canada](canada-notice/)<br/>
-[Apple Health Research Apps Privacy Policy](../apple-health-studies/en-ww/)<br/>
+[Apple Health Research Apps Privacy Policy](/legal/privacy/apple-health-studies/en-ww)<br/>
 
 
 ## Collection and Use of Personal Information
