@@ -246,7 +246,7 @@ Snap Inc. is located in the United States at 2772 Donald Douglas Loop North, San
 
 (If you live outside the United States)
 
-Effective: October 30, 2019
+Effective: May 27, 2020
 
 ## Welcome!
 
@@ -442,6 +442,8 @@ We try to keep the Services up and running and free of annoyances. But we cannot
 
 **Snap Group Limited, Snap Inc. and our affiliates, directors, officers, stockholders, employees, licensors, suppliers, and agents will not be liable for any indirect, incidental, special, consequential, punitive, or multiple damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill or other intangible losses, resulting from: (a) your use of the Services or inability to use the Services; (b) your access to or inability to access the Services; (c) the conduct or content of other users or third parties on or through the Services; or (d) unauthorised access, use or alteration of your content. In no event will Snap Group Limited, Snap Inc. or their affiliates’ aggregate liability for all claims relating to the Services exceed the greater of €100 EUR or the amount you paid Snap Group Limited in the last 12 months for any paid Services.**
 
+**Nothing in these Terms (or for the avoidance of doubt any other terms to which you are subject in respect of the provision of Services by Snap Group Limited, Snap Inc., or their affiliates) shall exclude or limit Snap Group Limited’s, Snap Inc.’s, or their affiliates’ liability for: a) death or personal injury arising from their own respective intent or negligence; b) fraud or fraudulent misrepresentation; or c) any other liability to the extent that such liability may not be excluded or limited as a matter of law.**
+
 **IF THE LAW OF THE COUNTRY WHERE YOU LIVE DOES NOT ALLOW ANY LIMITATION OF LIABILITY PROVIDED FOR IN THIS CLAUSE, THAT LIMITATION WILL NOT APPLY.**
 
 ## 17. Dispute resolution, arbitration 
@@ -480,4 +482,4 @@ Given the breadth of our Services, we sometimes need to craft additional terms a
 
 Snap Group Limited welcomes comments, questions, concerns, or suggestions. You can contact us or get support by using [this online form](https://support.snapchat.com/i-need-help).
 
-The company responsible for the Services outside the United States is called Snap Group Limited and is located in the United Kingdom at 77 Shaftesbury Avenue, London, W1D 5DU, United Kingdom. Registered company number: 09763672. Authorised representative: David Lewis, Director. VAT ID: GB 237218316.
+The company responsible for the Services outside the United States is called Snap Group Limited and is located in the United Kingdom at 77 Shaftesbury Avenue, London, W1D 5DU, United Kingdom. Registered company number: 09763672. VAT ID: GB 237218316.
