@@ -171,7 +171,7 @@ Google Dashboard allows you to manage information associated with specific produ
 
 Manage your contact information, such as your name, email, and phone number.
 
-[Go to Personal Info](https://myaccount.google.com/privacy?utm_source=pp#personalinfo)
+[Go to Personal Info](https://myaccount.google.com/personal-info?utm_source=pp)
 
 When you’re signed out, you can manage information associated with your browser or device, including:
 - Signed-out search personalization: [Choose](https://www.google.com/history/optout?utm_source=pp) whether your search activity is used to offer you more relevant results and recommendations.- YouTube settings: Pause and delete your [YouTube Search History](https://www.youtube.com/feed/history/search_history?utm_source=pp) and your [YouTube Watch History](https://www.youtube.com/feed/history?utm_source=pp).- Ad Settings: [Manage](https://adssettings.google.com/?utm_source=pp) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
@@ -185,7 +185,7 @@ You can also [request to remove content](https://support.google.com/legal?p=priv
 
 To delete your information, you can:
 - Delete your content from [specific Google services](privacy#footnote-delete-specific)- Search for and then delete specific items from your account using [My Activity](https://myactivity.google.com/?utm_source=pp)- [Delete specific Google products](https://myaccount.google.com/deleteservices?utm_source=pp), including your information associated with those products- [Delete your entire Google Account](https://myaccount.google.com/deleteaccount?utm_source=pp)
-[Delete your information](https://myaccount.google.com/preferences?utm_source=pp#deleteservices)
+[Delete your information](https://myaccount.google.com/delete-services-or-account?utm_source=pp)
 
 And finally, [Inactive Account Manager](https://myaccount.google.com/inactive?utm_source=pp) allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
 
@@ -244,7 +244,7 @@ You can export a copy of content in your Google Account if you want to back it u
 
 To delete your information, you can:
 - Delete your content from [specific Google services](privacy#footnote-delete-specific)- Search for and then delete specific items from your account using [My Activity](https://myactivity.google.com/?utm_source=pp)- [Delete specific Google products](https://myaccount.google.com/deleteservices?utm_source=pp), including your information associated with those products- [Delete your entire Google Account](https://myaccount.google.com/deleteaccount?utm_source=pp)
-[Delete your information](https://myaccount.google.com/preferences?utm_source=pp#deleteservices)
+[Delete your information](https://myaccount.google.com/delete-services-or-account?utm_source=pp)
 
 # Retaining your information
 
