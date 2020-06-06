@@ -144,7 +144,7 @@ In addition, depending on their location, users may have the right to file a com
 
 Visit Help Center
 
-Do Not Sell My Info (California)
+Do not sell my info (California)
 
 About us
 
