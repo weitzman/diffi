@@ -173,7 +173,7 @@ You may not assign these Terms without Uber's prior written approval. Uber may a
 
 Visit Help Center
 
-Do Not Sell My Info (California)
+Do not sell my info (California)
 
 About us
 
