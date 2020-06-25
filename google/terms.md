@@ -72,7 +72,7 @@ We need your permission if your intellectual property rights restrict our use of
 This license covers [your content](terms#footnote-your-content) if that content is protected by intellectual property rights.
 
 ### What’s not covered
-- This license doesn’t affect your privacy rights — it’s only about your intellectual property rights- This license doesn’t cover these types of content:<ul>- publicly-available factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a license because it’s considered common knowledge that everyone’s free to use.- feedback that you offer, such as suggestions to improve our services. Feedback is covered in the **[Service-related communications](terms#toc-service-related-comm)** section below.
+- This license doesn’t affect your privacy rights — it’s only about your intellectual property rights- This license doesn’t cover these types of content:<ul><li>publicly-available factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a license because it’s considered common knowledge that everyone’s free to use.- feedback that you offer, such as suggestions to improve our services. Feedback is covered in the **[Service-related communications](terms#toc-service-related-comm)** section below.
 ### Scope
 - worldwide, which means it’s valid anywhere in the world- non-exclusive, which means you can license your content to others- royalty-free, which means there are no fees for this license
 ### Rights
