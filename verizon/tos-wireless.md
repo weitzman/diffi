@@ -12,14 +12,12 @@
 
 ## My Service
 
-**Your Service terms and conditions are part of this Agreement.** Your Plan includes your monthly allowances and features, where you can use them (your “Coverage Area”), and their monthly and pay-per-use charges. You can also subscribe
-          to several Optional Services, like international service plans or equipment protection services. Together, your Plan, features you use, and any Optional Services you select are your Service. Your billing and shipping addresses, and your primary
-          place of use, must be within the areas served by the network Verizon owns and operates. The current version of this Agreement and the terms and conditions for your Service are available online at **[verizonwireless.com](https://www.verizonwireless.com/)**. 
-          A description of permitted and prohibited uses for calling and Data Services is available online at **[verizonwireless.com/support/important-plan-information/](https://www.verizonwireless.com/support/important-plan-information/)**.
+**Your Service terms and conditions are part of this Agreement.** Your Plan includes your monthly allowances and features, where you can use them (your "Coverage Area"), and their monthly and pay–per–use charges.  You can also subscribe to several Optional Services, like international service plans or equipment protection services. Together, your Plan, features you use, and any Optional Services you select are your Service. Your billing and shipping addresses, and your primary place of use, must be within the areas served by the network Verizon owns and operates. The current version of this Agreement and the terms and conditions for your Service are available online at **[verizonwireless.com](https://www.verizonwireless.com/)**. 
+        A description of permitted and prohibited uses for calling and Data Services is available online at **[https://www.verizonwireless.com/support/important-plan-information/](https://www.verizonwireless.com/support/important-plan-information/)**; prepaid customers should visit **[https://www.verizon.com/support/prepaid-customer-info-legal/](https://www.verizon.com/support/prepaid-customer-info-legal/)**.
 
 By using the Service, you are agreeing to every provision of this Agreement whether or not
-you have read it. This agreement also applies to all lines on your account and anyone who
-uses your Service.
+        you have read it. This agreement also applies to all lines on your account and anyone who
+        uses your Service.
 
 ### Cancellation
 
@@ -28,18 +26,15 @@ uses your Service.
 ### My Privacy
 
 
-          By entering into this Agreement, you agree to the data collection, use and sharing practices described in our Privacy Policy, which is available at **[www.verizon.com/privacy](https://www.verizon.com/about/privacy/privacy-policy-summary)**.
-          In some circumstances, you have choices to limit how we use the data we have about you. You can review your choices in our Privacy Policy. If we need your permission for additional purposes, we will ask you before starting those practices. It
-          is your responsibility to notify people who connect devices through your mobile hotspot, Jetpack or wireless router that we will collect, use and share information about their device and use of the Service in accordance with our Privacy Policy.
+          Accepting this Agreement means that you also agree to our Privacy Policy, available at **[www.verizon.com/privacy](https://www.verizon.com/privacy)**, 
+          which describes the information we collect use and share. The policy also informs you about your ability to limit  ways we use information we have about you. 
+          We will notify you or ask for your permission, as appropriate, if we plan to use your information for additional purposes. It is your responsibility to let the people who connect devices through your mobile hotspot, Jetpack or wireless router know that we will collect, use and share information about their device and use of the Service in as described in our Privacy Policy.
 
-If you subscribe to Service for which usage charges are billed at the end of the billing period ("Postpay Service"), we may investigate your credit history at any time. If you'd like the name and address of any credit agency that gives
-          us a credit report about you, just ask.
+If you subscribe to Service for which usage charges are billed at the end of the billing period ("Postpay Service"), or have a device payment installment agreement, we may investigate your credit history at any time in connection with the service subscription or device payment installment agreement.  If you'd like the name and address of any credit agency that gives us a credit report about you, just ask.
 
 Many services and applications offered through your device may be provided by third parties. You should review the applicable terms and privacy policy before you use, link to or download a service or application provided by a third party.
 
-You agree to allow Verizon and anyone who collects on our behalf to contact you about your account status, including past due or current charges, using prerecorded calls, email and calls or messages delivered by an automatic telephone dialing
-          system to any wireless phone number, other contact number or email address you provide. Verizon will treat any email address you provide as your private email that is not accessible by unauthorized third parties. Unless you notify us that your
-          wireless service is based in a different time zone, calls will be made to your cellular device during permitted calling hours based upon the time zone affiliated with the mobile telephone number you provide.
+You agree that Verizon  and collections agencies that work on our behalf may contact you about your account status, including past due or current charges, using prerecorded calls, email and calls or messages delivered by an automatic telephone dialing system to any wireless phone number, other contact number or email address you provide. Verizon will treat any email address you provide as your private email that is only accessible by you; you acknowledge that we may send you receipts, notices and other documents regarding your service to this email address. Unless you notify us that your wireless service is based in a different time zone, calls will be made to your cellular device during permitted calling hours based upon the time zone affiliated with the mobile telephone number you provide.
 
 ### What happens if my Postpay Service is canceled before the end of my contract term?
 
@@ -49,17 +44,18 @@ If you're signing up for Postpay Service, you're agreeing to subscribe to a line
 
 **If you purchased a device on a monthly installment agreement and cancel service, you should check that agreement to determine if you may have to immediately pay off the balance.**
 
-### Can I take my wireless phone number to another carrier?
+### Your Mobile Number and Porting.
 
 You may be able to transfer, or "port", your wireless phone number to another carrier. If you port a number from us, we'll treat it as though you asked us to cancel your Service for that number. After the porting is completed, you
           won't be able to use our service for that number, but you'll remain responsible for all fees and charges through the end of that billing cycle, just like any other cancellation. If you're a Prepaid customer, you won't be entitled
           to a refund of any balance on your account. If you port a number to us, please be aware that we may not be able to provide some services right away, such as 911 location services. You don't have any rights to your wireless phone number,
-          except for any right you may have to port it.
+          except for any right you may have to port it. After a line of service is disconnected, for any reason, the disconnected Mobile Telephone Number (MTN) may not be suspended or otherwise reserved and may not be able to be recovered.
 
 ### Can I have someone else manage my Postpay account?
 
-No problem – just tell us by phone, in person, or in writing. You can appoint someone to manage your Postpay account. The person you appoint will be able to make changes to your account, including adding new lines of Service, buying new wireless
-          devices, and extending your contract term. Any changes that person makes will be treated as modifications to this Agreement.
+No problem – just tell us by phone, in person, or in writing. You can appoint someone to manage your Postpay account. 
+          The person you appoint (the Account Manager) will be able to make changes to your account, including adding new lines of Service, buying a new wireless device(s) on a device payment agreement based upon your credit history, billing certain services and accessories to your account, and extending your contract term. 
+          Any changes that person makes will be treated as modifications to this Agreement.
 
 ### Can Verizon change this Agreement or my Service?
 
@@ -75,11 +71,7 @@ Your wireless device must comply with Federal Communications Commission regulati
 
 ### Internet Access
 
-<strong>If you download or use applications, services or software provided by third parties (including voice applications), 911 or E911, or other calling functionality, may work differently than services offered by us, or may not work at all. Please review
-          all terms and conditions of such third–party products. Verizon Wireless is not responsible for any third–party information, content, applications or services you access, download or use on your device. You are responsible for maintaining virus
-          and other Internet security protections when accessing these third–party products or services. For additional information, visit the Verizon Content Policy at [responsibility.verizon.com/contentpolicy](https://www.verizon.com/about/our-company/company-policies).
-          For more information regarding content filters visit [www.verizonwireless.com/solutions-and-services/content-filters/](https://www.verizonwireless.com/solutions-and-services/content-filters/). For information about our network management
-          practices for our broadband internet access services visit [www.verizon.com/about/our-company/open-internet](https://www.verizon.com/about/our-company/open-internet)</strong>
+**If you download or use applications, services or software provided by third parties (including voice applications), 911 or E911, or other calling functionality, may work differently than services offered by us, or may not work at all. Please review all terms and conditions of such third–party products.  Verizon Wireless is not responsible for any third–party information, content, applications or services you access, download or use on your device. You are responsible for maintaining virus and other Internet security protections when accessing these third–party products or services. For additional information, visit the Verizon Content Policy at [responsibility.verizon.com/contentpolicy.](https://www.verizon.com/about/our-company/company-policies) To learn about content filtering and how you may block materials harmful to minors, visit [www.verizonwireless.com/solutions-and-services/content-filters/](https://www.verizonwireless.com/solutions-and-services/content-filters/). For information about our network management practices for our broadband internet access services visit [www.verizon.com/about/our-company/open-internet](https://www.verizon.com/about/our-company/open-internet)**
 
 ### Where and how does Verizon wireless Service work?
 
@@ -134,7 +126,10 @@ If you're a Postpay customer and we don't get your payment on time, we will char
           We may apply deposits or payments in any order to any amounts you owe us on any account. If your final credit balance is less than $1, we will refund it only if you ask. If your service is suspended or terminated, you may have to pay a fee to
           have service reactivated. 
 
-If you're a Prepaid customer, you may replenish your balance at any time before the expiration date by providing us with another payment. If you maintain a Prepaid account balance, it may not exceed $1,000 and you may be prevented from replenishing if your balance reaches $1,000.  We may apply your payments to any amounts you may owe us if your earlier account replenishment payments had been reversed. If you do not have sufficient funds in your account to cover your Plan, and sufficient funds are not added within 60 days, your account will be cancelled and any unused balance will be forfeited.
+If you're a Prepaid customer, you may replenish your balance at any time before the expiration date by providing us with another payment. 
+          If you maintain a Prepaid account balance, it may not exceed $1,000 and you may be prevented from replenishing if your balance reaches $1,000.  
+          We may apply your payments to any amounts you may owe us if your earlier account replenishment payments had been reversed. 
+          If you do not have sufficient funds in your account to cover your Service, and sufficient funds are not added within 60 days, your account will be cancelled and any unused balance will be forfeited.
         
 
 We may charge you up to $25 for any returned check. If you make a payment, or make a payment arrangement, through a call center representative, we may charge you an Agent Assistance Fee of $7.00.
@@ -209,10 +204,10 @@ If you're a Postpay customer, you may be eligible for a discount if you are and 
 
 ### About this Agreement
 
-If we don't enforce our rights under this agreement in one instance, that doesn't mean we won't or can't enforce those rights in any other instance. You cannot assign this Agreement or any of your rights or duties under it without
+If either you or we don't enforce our rights under this agreement in one instance, that doesn't mean you or we won't or can't enforce those rights in any other instance. You cannot assign this Agreement or any of your rights or duties under it without
           our permission. However, we may assign this Agreement or any debt you owe us without notifying you. **If you're a Postpay customer, please note that many notices we send to you will show up as messages on your monthly bill. If you have online billing, those notices will be deemed received by you when your online bill is available for viewing. If you get a paper bill, those notices will be deemed received by you three days after we mail the bill to you. If we send other notices to you, they will be considered received immediately if we send them to your wireless device, or to any email or fax number you've given us, or after three days if we mail them to your billing address. If you need to send notices to us, please send them to the customer service address on your latest bill.**
 
-**If you're a Prepaid customer and we send notices to you, they will be considered received immediately if we send them to your wireless device or to any email or fax number you've given us, or if we post them as a precall notification on your Service, or after three days if we mail them to the most current address we have for you. If you need to send notices to us, please send them to the Customer Service Prepaid address at [verizonwireless.com/contactus](https://www.verizonwireless.com/support/contact-us/)**
+**If you're a Prepaid customer and we send notices to you, they will be considered received immediately if we send them to your wireless device or to any email you've given us, or if we post them as a precall notification on your Service, or after three days if we mail them to the most current address we have for you. If you need to send notices to us, please send them to the Customer Service Prepaid address at [verizonwireless.com/contactus](https://www.verizonwireless.com/support/contact-us/)**
 
 **If any part of this agreement, including anything regarding the arbitration process (except for the prohibition on class arbitrations as explained in part 8 of the dispute resolution section above), is ruled invalid, that part may be removed from this agreement.**
 
@@ -221,4 +216,4 @@ If we don't enforce our rights under this agreement in one instance, that doesn'
           state.
         
 
-Updated Nov 28, 2019
+Updated June 30, 2020
