@@ -266,13 +266,65 @@ When we receive formal written complaints, we respond by contacting the person w
 
 ## California requirements
 
-If the California Consumer Privacy Act (CCPA) applies to your information, we provide these disclosures and the [tools](privacy#infochoices) described in this policy so you can exercise your rights to receive information about our data practices, as well as to request access to and deletion of your information. These tools allow you to review, update and delete your information, as well as export and download a copy of it. You can also [read more](technologies/retention) about Google’s data retention periods, and the process we follow to delete your information.
+The California Consumer Privacy Act (CCPA) requires specific disclosures for California residents.
 
-Google does not sell your personal information. We only [share your information](privacy#infosharing) as described in this policy. Google [processes your information](privacy#whycollect) for the purposes described in this policy, which include “business purposes” under the CCPA. These purposes include:
-- **Protecting against security threats, abuse, and illegal activity.** Google uses and may disclose information to detect, prevent and respond to security incidents, and for protecting against other malicious, deceptive, fraudulent, or illegal activity. For example, to protect our services, Google may receive or disclose information about IP addresses that malicious actors have compromised.- **Auditing and measurement.** Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes.- **Maintaining our services.** Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.- **Research and development.** Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s language models and build features like Google Translate.- **Use of service providers.** Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.- **Advertising.** Google processes information, including online identifiers and information about your interactions with advertisements, to provide advertising. This keeps many of our services freely available for users. You can control what information we use to show you ads by visiting your [ad settings](https://adssettings.google.com/?utm_source=pp).
-Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. We provide information about the number and type of requests we receive from governments in our [Transparency Report](https://transparencyreport.google.com/user-data/overview).
+This Privacy Policy is designed to help you understand how Google handles your information:
+- We explain the categories of information Google collects and the sources of that information in [Information Google collects](privacy#infocollect).- We explain how Google uses information in [Why Google collects data](privacy#whycollect).- We explain when Google may share information in [Sharing your information](privacy#infosharing). Google does not sell your personal information.
+The CCPA also provides the right to request information about how Google collects, uses, and discloses your personal information. And it gives you the right to access your information and request that Google delete that information. Finally, the CCPA provides the right to not be discriminated against for exercising your privacy rights.
 
-If you have additional questions or requests related to your rights under the CCPA, [you can contact Google](https://support.google.com/policies/troubleshooter/7575787).
+We describe the choices you have to manage your privacy and data across Google’s services in [Your privacy controls](privacy#infochoices). You can exercise your rights by using these controls, which allow you to access, review, update and delete your information, as well as [export and download](https://takeout.google.com/settings/takeout?utm_source=pp) a copy of it. When you use them, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under the CCPA, you (or your authorized agent) can also [contact Google](https://support.google.com/policies/answer/9581826).
+
+The CCPA requires a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy.
+
+### Categories of personal information we collect
+
+**Identifiers** such as your [name, phone number](https://myaccount.google.com/personal-info), and address, as well as [unique identifiers](privacy#footnote-unique-id) tied to the browser, application, or device you’re using.
+
+**Demographic information**, such as your [age](https://myaccount.google.com/personal-info), [gender](https://myaccount.google.com/gender) and [language](https://myaccount.google.com/language).
+
+**Commercial information** such as your [payment information](https://myaccount.google.com/payments-and-subscriptions) and a history of [purchases](https://myaccount.google.com/purchases) you make on Google’s services.
+
+**Biometric information** if you choose to provide it, such as fingerprints in Google’s product development studies.
+
+**Internet, network, and other activity information** such as your search terms; views and interactions with content and ads; Chrome browsing history you’ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in [My Activity](https://myactivity.google.com/myactivity?utm_source=pp).
+
+**Geolocation data**, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Learn more about [Google’s use of location information](technologies/location-data).
+
+**Audio, electronic, visual and similar information**, such as [voice and audio information](https://support.google.com/websearch/answer/6030020) when you use audio features.
+
+**Professional, employment, and education information**, such as information [you provide](https://myaccount.google.com/profile) or that is maintained through a G Suite account by an organization at which you study or work.
+
+**Other information you create or provide**, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). [Google Dashboard](https://myaccount.google.com/dashboard) allows you to manage information associated with specific products.
+
+**Inferences** drawn from the above, like your [ads interest categories](https://adssettings.google.com/authenticated?utm_source=pp).
+
+### Business purposes for which information may be used or disclosed
+
+**Protecting against security threats, abuse, and illegal activity**: Google uses and may disclose information to detect, prevent and respond to security incidents, and for protecting against other malicious, deceptive, fraudulent, or illegal activity. For example, to protect our services, Google may receive or disclose information about IP addresses that malicious actors have compromised.
+
+**Auditing and measurement**: Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes.
+
+**Maintaining our services**: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.
+
+**Research and development**: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s language models and build features like Google Translate.
+
+**Use of service providers**: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.
+
+**Advertising**: Google processes information, including online identifiers and information about your interactions with advertisements, to provide advertising. This keeps Google’s services and many of the websites and services you use free of charge. You can control what information we use to show you ads by visiting your [ad settings](https://adssettings.google.com/?utm_source=pp).
+
+**Legal reasons**: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. We provide information about the number and type of requests we receive from governments in our [Transparency Report](https://transparencyreport.google.com/user-data/overview).
+
+### Parties with whom information may be shared
+
+**Other people with whom you choose to share your information**, like docs or photos, and videos or comments on YouTube.
+
+**Third parties to whom you consent to sharing your information**, such as services that integrate with Google’s services. You can [review and manage third party apps and sites](https://myaccount.google.com/permissions) with access to data in your Google Account.
+
+**Service providers**, trusted businesses or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+**Domain administrators**, if you work or study at an organization that uses Google services like G Suite.
+
+**Law enforcement or other third parties**, for the legal reasons described in [Sharing your information](privacy#infosharing).
 
 # About this policy
 
