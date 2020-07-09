@@ -82,7 +82,7 @@ This license allows Google to:
 ### Purpose
 
 This license is for the limited purpose of:
-- **operating and improving the services**, which means allowing the services to work as designed and creating new features and functionalities. This  includes using automated systems and algorithms to analyze your content:<ul><li>for spam, malware, and illegal content- to recognize patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together- to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com))
+- **operating and improving the services**, which means allowing the services to work as designed and creating new features and functionalities. This  includes using automated systems and algorithms to analyze your content:<ul><li>for spam, malware, and illegal content- to recognize patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together- to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com?utm_source=ps-terms))
 ### Duration
 
 This license lasts for as long as your content is protected by intellectual property rights.
