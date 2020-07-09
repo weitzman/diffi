@@ -64,6 +64,8 @@ We believe you should always know what data we collect from you and how we use i
 <br/>
 Thatâs the basic purpose of this Privacy Policy.
 
+goglobalwithtwitterbanner
+
 Twitter is public and Tweets are immediately viewable and searchable by anyone around the world. We give you non-public ways to communicate on Twitter too, through protected Tweets and Direct Messages. You can also use Twitter under a pseudonym if you prefer not to use your name.
 
 When you use Twitter, even if youâre just looking at Tweets, we receive some personal information from you like the type of device youâre using and your IP address. You can choose to share additional information with us like your email address, phone number, address book contacts, and a public profile. We use this information for things like keeping your account secure and showing you more relevant Tweets, people to follow, events, and ads.
