@@ -91,8 +91,9 @@ All information posted on the site is subject to change without notice and Veriz
 
 These Terms, together with (i) any additional terms to which you agree when using particular elements of a given Site, and, where applicable, (ii) any separate written or electronic agreement between you and Verizon, constitute the entire and exclusive and final statement of the agreement between you and Verizon with respect to the subject matter hereof, superseding any prior agreements or negotiations between you and Verizon with respect to such subject matter. Verizon&#x27;s failure to exercise or enforce any provision of these Terms shall not constitute a waiver of such provision. If any provision of these Terms shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from the Terms and shall not affect the validity and enforceability of any remaining provisions. You agree that these Terms shall be governed and construed in accordance with the laws of the State of New York, and any legal action or proceeding between Verizon and you for any purpose concerning these Terms shall be brought exclusively in a federal or state court of competent jurisdiction sitting in New York. Verizon may assign its rights and duties under these Terms to any party at any time without notice to you. Your rights and duties under these Terms are not assignable by you without our written consent. These Terms do not provide any third party (other than the Verizon Parties) with a remedy, claim, or right of reimbursement.
 
-### 
+### Follow Verizon News
 
+Stay up-to-date with the latest news stories from Verizon.
 
 
 ### Read this and other top stories
