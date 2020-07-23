@@ -98,11 +98,11 @@ Stay up-to-date with the latest news stories from Verizon.
 
 ### Read this and other top stories
 
-**06.25.2020**
+**07.22.2020**
 
-#### [Students pull back the curtain on distance learning](/about/news/students-pull-back-curtain)
+#### [What does academic growth look like](/about/news/what-does-academic-growth-look)
 
-Middle schoolers share how tech keeps them connected during pandemic.
+These three schools used resources from Verizon Innovative Learning to level up.
 - [Our Company](/about/our-company)- [News](/about/media-center)- [Responsibility](/about/responsibility)- [Investors](/about/investors)- [Careers](/about/careers)
 Verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
 - [Wireless](https://www.verizonwireless.com/)- [Residential](https://www.verizon.com/?lid=//global//residential)- [Business](https://www.verizon.com/business/gateway/)- [Privacy Policy](https://www.verizon.com/about/privacy/)- [Do Not Sell My Personal Information](https://www.verizon.com/about/privacy/do-not-sell-my-info)- [Terms &amp; Conditions](https://www.verizon.com/about/terms-conditions/overview)- [Open Internet](/about/our-company/open-internet)- [Accessibility](/about/accessibility/overview)- [Important Consumer Info](/about/consumer-safety/important-consumer-information)- [Contact Us](https://www.verizon.com/support/residential/contact-us/homepage.htm)- [Sitemap](https://www.verizon.com/about/site-map)
