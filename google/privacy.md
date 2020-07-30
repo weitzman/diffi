@@ -111,9 +111,9 @@ We’ll ask for your consent before using your information for a purpose that is
 
 You have choices regarding the information we collect and how it's used
 
-This section describes key controls for managing your privacy across our services. You can also visit the [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp), which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our [Product Privacy Guide](technologies/product-privacy).
+This section describes key controls for managing your privacy across our services. You can also visit the [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&amp;utm_medium=Promo-in-product&amp;utm_campaign=pp_body), which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our [Product Privacy Guide](technologies/product-privacy).
 
-[Go to Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp)
+[Go to Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&amp;utm_medium=Promo-in-product&amp;utm_campaign=pp_body)
 
 ## Managing, reviewing, and updating your information
 
@@ -347,7 +347,7 @@ The following privacy notices provide additional information about some Google s
 ## Other useful resources
 
 The following links highlight useful resources for you to learn more about our practices and privacy settings.
-- [Your Google Account](https://myaccount.google.com/) is home to many of the settings you can use to manage your account- [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp) guides you through key privacy settings for your Google Account- [Google’s safety center](https://www.google.com/intl/en/safetycenter/) helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online- [Privacy &amp; Terms]() provides more context regarding this Privacy Policy and our Terms of Service- [Technologies](technologies) includes more information about:<ul><li>[How Google uses cookies](technologies/cookies)- Technologies used for [Advertising](technologies/ads)- [How Google uses pattern recognition](technologies/pattern-recognition) to recognize things like faces in photos- [How Google uses information from sites or apps that use our services](technologies/partner-sites)
+- [Your Google Account](https://myaccount.google.com/) is home to many of the settings you can use to manage your account- [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&amp;utm_medium=Promo-in-product&amp;utm_campaign=pp_body) guides you through key privacy settings for your Google Account- [Google’s safety center](https://www.google.com/intl/en/safetycenter/) helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online- [Privacy &amp; Terms]() provides more context regarding this Privacy Policy and our Terms of Service- [Technologies](technologies) includes more information about:<ul><li>[How Google uses cookies](technologies/cookies)- Technologies used for [Advertising](technologies/ads)- [How Google uses pattern recognition](technologies/pattern-recognition) to recognize things like faces in photos- [How Google uses information from sites or apps that use our services](technologies/partner-sites)
 ## Key terms
 
 ### Affiliates
