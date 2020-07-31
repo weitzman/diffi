@@ -37,17 +37,17 @@
 <meta content="width=device-width,initial-scale=1" name="viewport">
 <title>Xfinity Privacy Policy</title>
 <meta content="Xfinity Privacy Policy" name="description"/>
-<link href="/assets/channels/legal-9ea6e06e128e20b4c1d5c2da150edf60.css" media="all" rel="stylesheet"/>
+<link href="/assets/channels/legal-75db479ed3790324e4df9ae8f7f07e73.css" media="all" rel="stylesheet"/>
 <meta content="authenticity_token" name="csrf-param"/>
-<meta content="6uRRznVhwSbIvPGv3hf0Xt82oty0mU1YCiibNgz9De8o4J4syewKOP/A4sx1usn728D4imujptBXxUpSE8lz/g==" name="csrf-token"/>
+<meta content="m0ziqcOAUjAeKy65NmrmYBXITfqusWFCMyUtqZxyDLrsvCcqstotYcByptX9bHzPz+OqkDu6rr6tEkVKMyIN/A==" name="csrf-token"/>
 <link href="https://my.xfinity.com/privacy/archive" rel="canonical"/>
 <link href="/assets/favicon-b9f6715ac1f07d6b864c07fa227693b6.ico" rel="shortcut icon" type="image/x-icon"/>
 <!-- FINGERPRINT
   Application: MyXfinity
-  Environment: production_sc_ashburn
-  Hostname: as-pb02
-  build_tag: Xfinity-my-xfinity-release-1014
-  revision: 2b6152e0283f42df0b78b727050ccf432150e681
+  Environment: production_sc_potomac
+  Hostname: po-pb09
+  build_tag: xfinity-my-xfinity-release-51
+  revision: 8e1d121ba30e952a69b72138cb8fa2e0c424df65
 -->
 <script>
 var CIM = CIM || {};
@@ -62,9 +62,9 @@ CIM.properties["primetime_metadata_endpoint"] = "https://consecservice.ccp.xcal.
 CIM.properties["xtv_api_root"] = "https://xtvapi.cloudtv.comcast.net";
 CIM.properties["xacsa_domain"] = "xacsa.ccp.xcal.tv";
 CIM.properties["xtv_api_root_path"] = "/xtvapi/";
-CIM.properties["environment"] = "production_sc_ashburn";
+CIM.properties["environment"] = "production_sc_potomac";
 CIM.properties["chrome_server"] = "";
-CIM.properties["localPageUrl"] = "/local";
+CIM.properties["localPageUrl"] = "https://weather.com/weather/today";
 CIM.properties["passiveOauthEndpoint"] = "https://auth.xfinity.com/oauth/login?passive=true";
 CIM.properties["passiveOauthTimeout"] = 5000;
 CIM.properties["meleeToken"] = "AD7BE0B7-120E-4CA2-B58F-C71B46AAB7E7";
@@ -89,6 +89,7 @@ CIM.properties["prebidURL"] = "https://static.cimcontent.net/common-web-assets/a
 CIM.properties["apnAdTesting"] = true;
 CIM.properties["apnAdTagKeyword"] = "100";
 CIM.properties["dtmEnabled"] = true;
+CIM.properties["cppOptOut_blockedStates"] = ["ME"];
 CIM.properties["pathContext"] = "/privacy/archive";
 </script>
 <script type="tracking-data-digitalData"> {
@@ -111,11 +112,11 @@ CIM.properties["pathContext"] = "/privacy/archive";
     },
     "codebase": {
       "name": "my-xfinity",
-      "releaseVersion": "production_sc_ashburn env"
+      "releaseVersion": "production_sc_potomac env"
     }
   },
   "siteInfo": {
-    "server": "as-pb02",
+    "server": "po-pb09",
     "sessionID": "",
     "visitorID": ""
   },
@@ -139,9 +140,10 @@ CIM.properties["pathContext"] = "/privacy/archive";
   }
 } </script>
 <script src="//assets.adobedtm.com/43896e740dcedef854392e0be6ea80deb8eb2ba5/satelliteLib-92c952fd09bad012062a2b018524f558156dd758.js"></script>
-<script src="https://static.cimcontent.net/data-layer/nonprod/datalayer-resi-slim.min.js"></script>
-<script src="/assets/xapi-lib-this-prod.min-aba1de516401efb16241d2b475bd69a0.js"></script>
-<script src="/assets/application_top-389e1a0546ec056b4e8d0102831f2e47.js"></script>
+<script src="https://static.cimcontent.net/data-layer/datalayer-resi-slim.min.js"></script>
+<script src="/assets/oauth.umd.min-1a880f61190ca5a759decc3c57d0d249.js"></script>
+<script src="/assets/xapi-lib-this-prod.min-b62f1cb0d8faec8c2f9c30acb6129edc.js"></script>
+<script src="/assets/application_top-eb8d66ac609cf94a853c0e469a243178.js"></script>
 </meta></head>
 <body>
 <style>
@@ -158,7 +160,7 @@ CIM.properties["pathContext"] = "/privacy/archive";
 <div class="polaris-container">
 <div class="polaris-greeting">
 <a class="polaris-auth-link polaris-greeting-user polaris-hidden" href="https://customer.xfinity.com/#/users/me">Hello!</a>
-<a class="polaris-auth-link polaris-hidden polaris-signout" href="https://login.comcast.net/oauth/sp-logout?client_id=my-xfinity">Sign Out</a>
+<a class="polaris-auth-link polaris-hidden polaris-signout" href="https://oauth.xfinity.com/oauth/sp-logout?client_id=my-xfinity">Sign Out</a>
 <a class="polaris-auth-link polaris-hidden polaris-signin" href="https://auth.xfinity.com/oauth/login?state=https%3A%2F%2Fcustomer.xfinity.com%2F%23%2F%3FCMP%3DILC_signin_myxfinity_re">Sign In</a>
 </div>
 <div class="polaris-email">
@@ -202,35 +204,9 @@ CIM.properties["pathContext"] = "/privacy/archive";
 <style>
 xc-header { display: block; min-height: 69px; background: #000; }
 </style>
-<xc-header client-id="myxfinity" disable-skip="" enable-notifications="" external-links="" sign-in-url="https://auth.xfinity.com/oauth/login?state=https%3A%2F%2Fcustomer.xfinity.com%2F%23%2F%3FCMP%3DILC_signin_myxfinity_re" sign-out-url="https://login.comcast.net/oauth/sp-logout?client_id=my-xfinity" simpleheader="true" slimnav="" tab="myxfinity" width="1240"></xc-header>
-<div id="main">
-<div id="legal">
-<h1>Privacy Policy Archive</h1>
-<ul class="archive">
-<li><a href="/privacy/2018-05/" rel="default">05/2018</a> — <span class="activetext">Active</span></li>
-<li><a href="/privacy/2017-04/" rel="default">04/2017</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2016-10/" rel="default">10/2016</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2016-04/" rel="default">04/2016</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2015-10/" rel="default">10/2015</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2015-01/" rel="default">01/2015</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2014-05/" rel="default">05/2014</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2014-01/" rel="default">01/2014</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2013-12/" rel="default">12/2013</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2013-10/" rel="default">10/2013</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2013-06/" rel="default">06/2013</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2013-03/" rel="default">03/2013</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2012-03/" rel="default">03/2012</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2011-10/" rel="default">10/2011</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2011-03/" rel="default">03/2011</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2010-11/" rel="default">11/2010</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2010-02/" rel="default">02/2010</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2009-10/" rel="default">10/2009</a> — <span class="archivetext">Archived, not current</span></li>
-<li><a href="/privacy/2007-10/" rel="default">10/2007</a> — <span class="archivetext">Archived, not current</span></li>
-</ul>
-</div>
-</div>
+<xc-header client-id="myxfinity" disable-skip="" enable-notifications="" external-links="" sign-in-url="https://auth.xfinity.com/oauth/login?state=https%3A%2F%2Fcustomer.xfinity.com%2F%23%2F%3FCMP%3DILC_signin_myxfinity_re" sign-out-url="https://oauth.xfinity.com/oauth/sp-logout?client_id=my-xfinity" simpleheader="true" slimnav="" tab="myxfinity" width="1240"></xc-header>
 <xc-footer client-id="myxfinity" external-links="true" simplefooter="true" width="1240"></xc-footer>
-<script src="/assets/master_top-4a7711e4e01130b331d687e9178f5f86.js"></script>
-<script src="/assets/legal-0aa2c7b39194240bba41411108c732e8.js"></script>
+<script src="/assets/master_top-4aca3795aed73e2c41d5e05e7408db56.js"></script>
+<script src="/assets/legal-d9aff509a99692c7a746695abfd4ed0a.js"></script>
 </body>
 </html>
