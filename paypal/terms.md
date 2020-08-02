@@ -5,7 +5,7 @@
 
 ## About Your Account
 
-<a class="anchor" id="top" name="top"></a>This user agreement will be effective for all users as of April 28, 2020.
+<a class="anchor" id="top" name="top"></a>This user agreement will be effective for all users as of July 31, 2020.
 
  
 
@@ -40,7 +40,7 @@ You can also use a personal PayPal account to receive money for the sale of good
 #### Business PayPal accounts
 
 We recommend business PayPal accounts for people and organizations that primarily use PayPal to sell goods or services or accept donations, even if your business is not incorporated. With a business PayPal account, you can do things like:
- - Use a company or business name as the name on your business PayPal account. - Allow up to 200 employees access to some of the features of your business PayPal account. - Sign up for [PayPal products](https://www.paypal.com/us/webapps/mpp/merchant) that meet your business needs. 
+ - Use a company or business name as the name on your business PayPal account. - Allow employees access to some of the features of your business PayPal account. - Sign up for [PayPal products](https://www.paypal.com/us/webapps/mpp/merchant) that meet your business needs. 
 Business PayPal accounts may be subject to fees that differ from the fees applicable to personal accounts.
 
 **By opening up a business PayPal account or converting a personal PayPal account to a business PayPal account, you certify to us that you are using it primarily for a business or commercial purpose. You also consent to PayPal obtaining your personal and/or business credit report from a credit reporting agency at account opening and whenever we reasonably believe there may be an increased level of risk associated with your business PayPal account.**
@@ -251,7 +251,7 @@ Certain one-time online transactions may require that a backup funding method be
 
 #### Sending money to friends and family
 
-When you send money to friends and family within the U.S. using balance in your Cash Account linked to your personal PayPal account, the balance in your business PayPal account, or your bank account, we waive all fees, so we always show you these payment options first, even if you have a set preferred payment method for your online purchases. Remember, you always have the choice to select any payment method in your PayPal account by clicking the“Change” link on the Send Money page. If you select a payment method with a fee, we will always show you the fee before you send money.
+When you send money to friends and family within the U.S. using balance in your Cash Account linked to your personal PayPal account, the balance in your business PayPal account, or your bank account, we waive all fees, so we always show you these payment options first, even if you have a set preferred payment method for your online purchases. Remember, you always have the choice to select any payment method in your PayPal account by clicking the “Change” link on the Send Money page. If you select a payment method with a fee, we will always show you the fee before you send money.
 
  
 
@@ -299,11 +299,17 @@ If you believe that a transaction made through your PayPal account was not autho
 
  
 
+#### QR Code Transactions
+
+If you buy something from a seller in person by using a PayPal goods and services QR code, your transaction may be eligible for PayPal’s Purchase Protection program.
+
+ 
+
 #### Item Not Received claims
 
 Your claim ****will not**** qualify for a refund under PayPal’s Purchase Protection program for an Item Not Received claim, if:
- - You collect the item in person, or arrange for it to be collected on your behalf, including if you use PayPal in a seller’s physical store, or - The seller has provided [proof of shipment](#spp-proof-delivery) or [proof of delivery](#spp-proof-delivery). 
-If the seller presents evidence that they delivered the goods to your address, PayPal may find in favor of the seller for an Item Not Received claim even if you claim you did not receive the goods.
+ - You collect the item in person, or arrange for it to be collected on your behalf, including if you use PayPal in a seller’s physical store, except for in-person [PayPal QR code](#qrcodetxn) goods and services transactions, or - The seller has provided [proof of shipment](#spp-proof-delivery) or [proof of delivery](#spp-proof-delivery). 
+If the seller presents evidence that they delivered the goods to you, PayPal may find in favor of the seller for an Item Not Received claim even if you claim you did not receive the goods.
 
  
 
@@ -318,13 +324,13 @@ An item may not be considered Significantly Not as Described if:
 #### Ineligible items and transactions under PayPal’s Purchase Protection program
 
 Payments for the following are not eligible for reimbursement under PayPal Purchase Protection:
- - Real estate, including residential property. - Financial products or investments of any kind. - Businesses (when you buy or invest in a business). - Vehicles, including, but not limited to, motor vehicles, motorcycles, recreational vehicles, aircraft and boats. - Significantly Not as Described claims for wholly or partly custom-made items. - Donations including payments on crowdfunding platforms. - Items prohibited by the PayPal [Acceptable Use Policy](https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full). - For Item Not Received claims, items which you collect in person or arrange to be collected on your behalf, including items bought in a seller’s store location. - Industrial machinery used in manufacturing. - Anything purchased from, or an amount paid to, a government agency. - Stored value items such as gift cards and pre-paid cards. - Gambling, gaming and/or any other activity with an entry fee and a prize. - Payments sent using PayPal’s friends and family functionality.  - Payments sent using PayPal to any bill payment service. - Payments made using PayPal Payouts and Mass Pay or guest checkout transactions (i.e. not sent using your PayPal account). 
+ - Real estate, including residential property. - Financial products or investments of any kind. - Businesses (when you buy or invest in a business). - Vehicles, including, but not limited to, motor vehicles, motorcycles, recreational vehicles, aircraft and boats. - Significantly Not as Described claims for wholly or partly custom-made items or items picked up in person, except for in-person [PayPal QR code](#qrcodetxn) goods and services transactions. - Donations including payments on crowdfunding platforms. - Items prohibited by the PayPal [Acceptable Use Policy](https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full). - For Item Not Received claims, items which you collect in person or arrange to be collected on your behalf, including items bought in a seller’s store location, except for in-person [PayPal QR code](#qrcodetxn) goods and services transactions. - Industrial machinery used in manufacturing. - Anything purchased from, or an amount paid to, a government agency. - Stored value items such as gift cards and pre-paid cards. - Gambling, gaming and/or any other activity with an entry fee and a prize. - Personal Payments.  - Payments sent using PayPal to any bill payment service. - Payments made using PayPal Payouts and Mass Pay or guest checkout transactions (i.e. not sent using your PayPal account).- Items intended for resale, including single item transactions or transactions that include multiple items. 
  
 
 #### Transaction eligibility for PayPal’s Purchase Protection program
 
 To be eligible for PayPal Purchase Protection you must meet all of the following requirements:
- - You have a PayPal account in good standing. - You pay for the eligible item from your PayPal account. - You respond to PayPal's request for documentation and other information within the time requested. - You open a dispute in the Resolution Center within 180 days of the date you sent the payment, then follow our online dispute resolution process. - You have not received a recovery related to such purchase from another source. 
+ - Have a PayPal account in good standing. - Pay for the eligible item from your PayPal account.- Attempt to contact the seller to resolve your issue directly before filing a claim through the Resolution Center.- Respond to PayPal's request for documentation and other information within the time requested. - Open a dispute in the Resolution Center within 180 days of the date you sent the payment and follow our online dispute resolution process. - Not have received a recovery or agreed to an alternative resolution related to your purchase from another source. 
  
 
 #### Our online dispute resolution process
@@ -342,10 +348,10 @@ Step 3: **Respond to PayPal’s requests for documentation or other information*
 Step 4: **Comply with PayPal’s shipping requests in a timely manner**, if you’re filing a Significantly Not as Described claim. PayPal may require you, at your expense, to ship the item back to the seller, to PayPal or to a third party (which will be specified by PayPal) and to provide proof of delivery.
 
 Proof of delivery means:
- - For transactions that total less than $750 U.S. dollars (or the foreign currency threshold in the table below), confirmation that can be viewed online and includes the delivery address showing at least city/state or zip code, delivery date, and the identity of the shipping company you used. - For transactions that total $750 U.S. dollar (or the foreign currency threshold in the table below) or more, you must provide signature confirmation of delivery. 
+ - For transactions that total less than $750 U.S. dollars (or the currency threshold in the table below), confirmation that can be viewed online and includes the delivery address showing at least city/state or zip code, delivery date, and the identity of the shipping company you used. - For transactions that total $750 U.S. dollar (or the currency threshold in the table below) or more, you must provide signature confirmation of delivery. If the transaction is in a currency not listed in the table, then signature confirmation is required when the payment exceeds the equivalent of $750 USD at the PayPal exchange rate that applies at the time the transaction is processed. 
 <a class="anchor" name="table-purchase-protection-signature-conf"> </a>
 
- <tr class="header"> <td class="content" colspan="4" scope="col">Signature confirmation foreign currency thresholds</td> </tr> |------
+ <tr class="header"> <td class="content" colspan="4" scope="col">Signature confirmation currency thresholds</td> </tr> |------
 
 **Currency**
 
@@ -415,7 +421,7 @@ Proof of delivery means:
 
 750 USD
 
-Step 5: **PayPal will make a decision **(including automatically closing any dispute or claim), in its sole discretion, based on the coverage and eligibility requirements set forth above, any additional information provided during the online dispute resolution process or any other information PayPal deems relevant and appropriate under the circumstances.
+Step 5: **PayPal will make a final decision **(including automatically closing any dispute or claim), in its sole discretion, based on the coverage and eligibility requirements set forth above, any additional information provided during the online dispute resolution process or any other information PayPal deems relevant and appropriate under the circumstances.
 
 Note that when you are making [Digital Goods Micropayments Purchases](https://www.paypal.com/us/webapps/mpp/ua/digital-goods-micropayments-agreement), there are special rules that apply and that include pre-determined thresholds where we may, at our discretion, reverse the transaction without requiring you to take further action. We may limit the number of automatic reversals that you benefit from, but, even if that is the case, you will still be able to follow PayPal's standard dispute resolution processes described above.
 
@@ -469,7 +475,7 @@ You acknowledge that we may make certain reports to tax authorities regarding tr
 
 #### Your customer service information, refunds and returns policy, and privacy policy
 
-You must publish customer service information with clear instructions on how your customers can contact you. Such instructions must include at least: (1) one active customer service email address or active customer service URL to file tickets for assistance and (2) at least one active customer service telephone number. Such information must be readily accessible for review by your customers.
+You must publish customer service information with clear instructions on how your customers can contact you. Such instructions must include at least: (1) one active customer service email address or active customer service URL to file tickets for assistance and/or (2) one active customer service telephone number. Such information must be readily accessible for review by your customers.
 
 You must publish a refunds and returns policy.
 
@@ -479,19 +485,27 @@ You must publish a privacy policy, where required by law.
 
 #### Payment review
 
-PayPal reviews certain potentially high-risk transactions. If PayPal determines, in its sole discretion, that a transaction is high-risk, we place a hold on the payment and provide notice to you to delay shipping of the item. PayPal will conduct a review and either complete or cancel the payment. If the payment is completed, PayPal will provide notice to you to ship the item. Otherwise, PayPal will cancel the payment and the funds will be returned to the buyer, unless we are legally required to take other action. All payments that complete this payment review will be eligible for PayPal Seller Protection coverage if they meet the PayPal Seller Protection requirements. We will notify you about payment reviews by email and/or through your PayPal account.
+PayPal reviews certain potentially high-risk transactions. If PayPal determines, in its sole discretion, that a transaction is high-risk, we place a hold on the payment and provide notice to you to delay shipping of the item. PayPal will conduct a review and either complete or cancel the payment. If the payment is completed, PayPal will provide notice to you to ship the item. Otherwise, PayPal will cancel the payment and the funds will be returned to the buyer, unless we are legally required to take other action. All payments that complete this payment review will be eligible for PayPal's Seller Protection coverage if they meet the PayPal's Seller Protection requirements. We will notify you about payment reviews by email and/or through your PayPal account.
 
  
 
-#### In-store payments
+#### In-store payments and QR code transactions
 
 If you accept PayPal payments at your physical store, you must communicate the total amount of the transaction to the customer before it takes place. You may charge your customer’s account only for transactions that they have authorized. You must also provide customers with a physical receipt if they request one. You agree that any transaction that you make shall have an accurate and true description of the goods and services being purchased.
+
+If you use a QR code to accept payments in your physical store, you must use a QR code intended for goods and services transactions. You must also not use QR codes intended for in-person transactions as a method of accepting payment for goods and services transactions occurring online. For any buyer claims related to QR code transactions, you may be required to provide us with alternative evidence of delivery or such additional documentation or information relating to the transaction.
 
  
 
 #### Marketplace sellers
 
 If you’re a seller on a marketplace or through a third party application where PayPal is offered, you must comply with any rules that apply to the marketplace’s or the third party application’s buyer protection program for sales you make through that forum. Any such protections may require you to take certain actions and may impact how claims are processed.
+
+ 
+
+#### PayPal Giving Fund
+
+If you are a charity and hold a PayPal account, you may be eligible to participate in PayPal Giving Fund programs. PayPal Giving Fund is a Donor Advised Fund (DAF) recognized by the Internal Revenue Service (IRS) under Section 501(c)(3) of the Code as a tax-exempt public charity (Federal Tax ID: 45-0931286). If you meet the eligibility requirements in the [**Nonprofit Certification Policy**](https://www.paypal.com/webapps/mpp/givingfund/policies/nonprofit-certification-policy) and are either a “Public Charity” under Section 509(a) of the Code or a "Private Operating Foundation" under IRS regulations, you may be automatically enrolled with PayPal Giving Fund upon acceptance of this user agreement. You will receive an email from us confirming your enrollment. Your relationship with PayPal Giving Fund will be governed by the [**Nonprofit User Agreement**](https://www.paypal.com/us/webapps/mpp/givingfund/policies/nonprofit-user-agreement), including receiving email communications from PayPal Giving Fund about its current and future partners about its programs. You can opt out of email communications at any time in your [**PayPal Giving Fund profile**](https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fgivingfund&amp;state=%2Fprofile). If you don’t want to be enrolled or receive donations from PayPal Giving Fund, you can opt-out at any time by [**contacting us**](https://www.paypal.com/us/givingfund/contact). For more information, please see [**PayPal Giving Fund’s Policies**](https://www.paypal.com/us/webapps/mpp/givingfund/policies).
 
  
 
@@ -549,6 +563,12 @@ The amount you will pay us for these services differs according to whether you u
 
 You can send money through Payouts or Mass Pay even if your receiver does not have a PayPal or Venmo account, as applicable, using their email address or mobile number. If the person to whom you are sending money does not have a relevant account, they can claim it by opening one. If they don’t claim it, it will be refunded to you in thirty (30) days.  PayPal is not liable for amounts sent by you in error. PayPal shall have no responsibility to reverse any payout payment. 
 
+ 
+
+#### Your responsibility to notify PayPal of pricing or fee errors
+
+Once you have access to any account statement(s) or other account activity information made available to you by PayPal with respect to your business account(s), you will have ninety (90) days to notify PayPal in writing of any errors or discrepancies with respect to the pricing or other fees applied by PayPal. If you do not notify PayPal within such timeframe, you accept such information as accurate, and PayPal shall have no obligation to make any corrections. For the purposes of this provision, such pricing or fee errors or discrepancies are different than [Unauthorized Transactions](#s5-unauthorized-transactions) and other electronic transfer** [Errors](#s5-error-resolution)** which are each subject to different notification timeframes as set forth herein.
+
 ### Refunds, Reversals and Chargebacks
 
 #### General information
@@ -562,31 +582,31 @@ If you refund a payment for goods or services, there are no fees to make the ref
 #### Payments that are invalidated and reversed
 
 Payments to you may be invalidated and reversed by PayPal if:
- - You lose a PayPal Purchase Protection claim submitted to us by a buyer, including as a result of your failure to respond in a timely manner. - You lose a Venmo Protected Purchase Program claim. - Your buyer pursues a chargeback related to a card-funded transaction and the transaction is not eligible for [PayPal Seller Protection](#s3-seller-protection). The card issuer, not PayPal, determines whether a buyer is successful when they pursue a chargeback related to a card-funded transaction. - You do not fulfill the transaction as promised or you cannot provide [proof of shipment or proof of delivery](#spp-proof-delivery) when required. - eBay decides against you under its money back guarantee program (and you haven’t opted out). - Our investigation of a bank reversal made by a buyer or the buyer’s bank finds that the transaction was fraudulent. - PayPal sent the payment to you in error. - The payment was unauthorized - You received the payment for activities that violated this user agreement or any other agreement between you and PayPal. 
+ - You lose a PayPal Purchase Protection claim submitted to us by a buyer, including as a result of your failure to respond in a timely manner. - You lose a Venmo Protected Purchase Program claim. - Your buyer pursues a chargeback related to a card-funded transaction and the transaction is not eligible for [PayPal's Seller Protection](#s3-seller-protection). The card issuer, not PayPal, determines whether a buyer is successful when they pursue a chargeback related to a card-funded transaction. - You do not fulfill the transaction as promised or you cannot provide [proof of shipment or proof of delivery](#spp-proof-delivery) when required. - eBay decides against you under its money back guarantee program (and you haven’t opted out). - Our investigation of a bank reversal made by a buyer or the buyer’s bank finds that the transaction was fraudulent. - PayPal sent the payment to you in error. - The payment was unauthorized - You received the payment for activities that violated this user agreement or any other agreement between you and PayPal. 
 When you receive a payment, you are liable to PayPal for the full amount of the payment sent to you plus any fees if the payment is later invalidated or reversed for any reason.  If the buyer paid in another currency, the full amount of  that payment may be calculated in that currency, using the PayPal transaction exchange rate (including our [currency conversion spread](#currency-conversion)) that applies at the time the refund or reversal is processed.  If the balance in your Cash Account or business PayPal account doesn’t cover the payment amount due plus the fees, we may use any of the payment methods linked to your PayPal account to cover the amount due. If the payment methods linked to your PayPal account don’t cover the amount due, this will result in a negative balance.  A negative balance represents an amount that you owe to us, and, in this situation, you must immediately add funds to your balance to resolve it. If you don’t, PayPal may:
  - engage in collection efforts to recover the amount due from you; - take any or all action as outlined under [Amounts owed to PayPal](#set-off-rights); or - place a limitation or take other action on your PayPal account as outlined under [Restricted Activities and Holds](#s4-restricted-activities). 
  
 
 #### Chargeback fees
 
-If you receive a debit or credit card-funded payment through your PayPal account and the buyer pursues a chargeback for the transaction with their card issuer, then PayPal will not assess you with a chargeback fee if the transaction is eligible for [PayPal Seller Protection](#s3-seller-protection). However, if the transaction is ineligible for PayPal Seller Protection, PayPal will assess you with a chargeback fee (for facilitating the chargeback process) regardless of whether the buyer is successful in pursuing the chargeback with the card issuer.
+If you receive a debit or credit card-funded payment through your PayPal account and the buyer pursues a chargeback for the transaction with their card issuer, then PayPal will not assess you with a chargeback fee if the transaction is eligible for [PayPal's Seller Protection](#s3-seller-protection). However, if the transaction is ineligible for PayPal's Seller Protection, PayPal will assess you with a chargeback fee (for facilitating the chargeback process) regardless of whether the buyer is successful in pursuing the chargeback with the card issuer.
 
 #### Impact of various purchase protection processes on sellers
 
 You should read and understand PayPal’s Purchase Protection program, Venmo’s Protected Purchase Program, and if you sell goods and services to buyers with PayPal accounts in countries other than your own, you also should be familiar with the purchase protection available to buyers in each of those countries.  Buyers’ rights under these programs may impact you as a seller. You can find information about PayPal’s protection programs on the [Legal Agreements](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full) page by selecting your buyer’s location at the top of the page and referring to the corresponding user agreement. You can find information on Venmo’s Protected Purchase Program in [Venmo’s user agreement](https://venmo.com/legal/us-user-agreement/).
 
 If you lose a claim under [PayPal’s Purchase Protection](#s2-purchase-protection) program in any country, or under Venmo’s Protected Purchase Program:
- - You must forfeit the full purchase price of the item plus the original shipping cost. In some cases you may not receive the item back. - You will not receive a refund of the PayPal fees that you paid in connection with the sale. - If the claim was that the item received was Significantly Not as Described, you will generally be required to accept the item back. - If the claim was that the item received was Significantly Not as Described and related to an item you sold that is counterfeit, you will be required to provide a full refund to the buyer and you may not receive the item back (it will be destroyed). 
+ - You must forfeit the full purchase price of the item plus the original shipping cost. In some cases you may not receive the item back. - You will not receive a refund of the PayPal fees that you paid in connection with the sale. - If the claim was that the item received was Significantly Not as Described, you may not receive the item back, or you may be required to accept the item back and pay for the return shipping costs. - If the claim was that the item received was Significantly Not as Described and related to an item you sold that is counterfeit, you will be required to provide a full refund to the buyer and you may not receive the item back. 
 If you accept PayPal payments from buyers for goods or services you sell through eBay, then you need to read and understand the eBay Money Back Guarantee program. Unless you opt out by calling eBay, PayPal will treat eBay’s decisions in favor of your buyers under that program as a basis for reversing a PayPal payment made to you. If the balance in your Cash Account or business PayPal account is insufficient to cover the amount, we may:
  - place a [hold ](#holds)on your PayPal account until sufficient funds become available in your PayPal account to cover the amount; or - create a negative balance in your PayPal account. 
 ### PayPal's Seller Protection Program
 
 #### What’s eligible
 
-If you sell something to a buyer and the transaction is later disputed or reversed under [Reversals, Claims or Chargebacks](#s3-refunds-reversals-chargebacks), you may be eligible for reimbursement under PayPal’s Seller Protection program. When it applies, PayPal’s Seller Protection program entitles you to retain the full purchase amount and we will waive any related chargeback fees paid (for debit and credit card-funded transactions). There is no limit on the number of payments for which you can receive coverage. By accessing the transaction details page in your PayPal account you can determine whether or not your transaction is eligible for protection under this program
+If you sell something to a buyer and the transaction is later disputed or reversed under [Reversals, Claims or Chargebacks](#s3-refunds-reversals-chargebacks), you may be eligible for reimbursement under PayPal’s Seller Protection program. When it applies, PayPal’s Seller Protection program entitles you to retain the full purchase amount and we will waive any related chargeback fees paid (for debit and credit card-funded transactions). There is no limit on the number of payments for which you can receive coverage. By accessing the transaction details page in your PayPal account you can determine whether or not your transaction is eligible for protection under this program.
 
 PayPal’s Seller Protection program may apply when a buyer claims that:
- - They did not authorize, or benefit from, funds sent from their PayPal account (referred to as an “[Unauthorized Transaction](#what-is-unauthorized-transaction)” claim); or - They didn’t receive the item from you (referred to as an “[Item Not Received](#item-not-received)” claim). 
+ - They did not authorize, or benefit from, funds sent from their PayPal account (referred to as an “[Unauthorized Transaction](#what-is-unauthorized-transaction)” claim), and the Unauthorized Transaction occurs in an environment hosted by Paypal; or - They didn’t receive the item from you (referred to as an “[Item Not Received](#item-not-received)” claim). 
 PayPal’s Seller Protection program may also apply when a transaction is reversed because of a successful chargeback by a buyer or when a bank funded payment is reversed by the buyer’s bank.
 
 This section describes PayPal’s Seller Protection program as it applies to you, but you should also be familiar with the [Impact of various purchase protection processes on sellers](#impact-purchase-protection-sellers).
@@ -595,31 +615,42 @@ This section describes PayPal’s Seller Protection program as it applies to you
 
 #### Basic requirements
 
-To be eligible for PayPal’s Seller Protection, you must meet all of the following requirements:
- - The primary address for your PayPal account must be in the United States. - The item must be a physical, tangible good that can be shipped. - You must ship the item to the shipping address on the transaction details page in your PayPal account for the transaction. If you originally ship the item to the recipient's shipping address on the transaction details page but the item is later redirected to a different address, you will not be eligible for PayPal Seller Protection. We therefore recommend not using a shipping service that is arranged by the buyer, so that you will be able to provide valid proof of shipping and delivery. - You must respond to PayPal's requests for documentation and other information in a timely manner as requested in our email correspondence with you or in our correspondence with you through the [Resolution Center](https://www.paypal.com/us/cgi-bin/webscr?cmd=_complaint-view&amp;amp;nav=0.4). If you do not respond to PayPal’s request for documentation and other information in the time requested, you may not be eligible for Seller Protection. - If the sale involves pre-ordered or made-to-order goods, you must ship within the timeframe you specified in the listing. Otherwise, it is recommended that you ship all items within 7 days after receipt of payment. 
+To be eligible for PayPal’s Seller Protection, all of the following basic requirements must be met, as well as any applicable additional requirements:
+ - The primary address for your PayPal account must be in the United States. - The item must be a physical, tangible good that can be shipped, except for items subject to the [Intangible Goods Additional Requirements](#intangible-goods). Transactions involving items that you deliver in person in connection with payment made in your physical store, may also be eligible for Seller Protection so long as the buyer paid for the transaction in person by using a PayPal goods and services QR code. - You must ship the item to the shipping address on the transaction details page in your PayPal account for the transaction. If you originally ship the item to the recipient's shipping address on the transaction details page but the item is later redirected to a different address, you will not be eligible for PayPal's Seller Protection. We therefore recommend not using a shipping service that is arranged by the buyer, so that you will be able to provide valid proof of shipping and delivery. <ul style="margin-left: 40px;">- The shipping requirement does not apply to eligible transactions involving items that you deliver in person; provided, however, that you agree to provide us with alternative evidence of delivery or such additional documentation or information relating to the transaction that we may request.
+PayPal determines, in its sole discretion, whether your claim qualifies for the Seller Protection program. PayPal will make a decision, in its sole discretion, based on the coverage and eligibility requirements, any information or documentation provided during the resolution process, or any other information PayPal deems relevant and appropriate under the circumstances.
+
  
 
 #### Item Not Received additional requirements
 
-To be eligible for PayPal’s Seller Protection program for a buyer’s Item Not Received claim, you must meet both the [basic requirements](#spp-basic-req) listed above and the additional requirements listed below:
- - Where a buyer files a chargeback with the issuer for a card-funded transaction, the payment must be marked “eligible” for PayPal’s Seller Protection on the Transaction Details page. - You must provide [proof of delivery ](#spp-proof-delivery)as described below. 
+To be eligible for PayPal’s Seller Protection program for a buyer’s Item Not Received claim, you must meet both the [basic requirements](#spp-basic-req) and the additional requirement listed below:
+ - Where a buyer files a chargeback with the issuer for a card-funded transaction, the payment must be marked “eligible” for PayPal’s Seller Protection on the Transaction Details page. 
  
 
-#### Unauthorized Transactions additional requirements
+#### Intangible Goods additional requirements
 
-To be eligible for PayPal’s Seller Protection program for a buyer’s Unauthorized Transaction claim, you must meet both the basic requirements listed above and the additional requirements listed below:
- - The payment must be marked “eligible” or “partially eligible” for PayPal's Seller Protection on the Transaction Details page. - You must provide proof of shipment or [proof of delivery ](#spp-proof-delivery)as described below. 
+For the sale of intangible goods and services to be eligible for PayPal’s Seller Protection, the sale must meet the [**basic requirements**](#spp-basic-req)  and the following additional requirements: 
+
  
 
 #### Establishing proof of delivery or proof of shipment
 
+**Physical Goods**
+
 Proof of shipment
 
 Proof of delivery
- <td class="content"> Online or physical documentation from a shipping company that includes:  - Date of shipment - An address for the recipient that matches the shipping address on the Transaction Details page - An address for the recipient showing at least the city/state, city/country, or zip/postal code (or international equivalent).  </td> <td class="content"> Online or physical documentation from a shipping company that includes:  - Date of delivery and ‘delivered’ status - An address for the recipient that matches the shipping address on the Transaction Details page - An address for the recipient showing at least the city/state, city/country, or zip/postal code (or international equivalent). - Signature confirmation, if the full amount of the payment including shipping and taxes exceeds a fixed amount (based on the currency of the payment) from the [signature confirmation threshold table](#table-purchase-protection-signature-conf) below. Signature confirmation is online documentation, viewable at the shipping company’s website, indicating that the item was signed for.  IMPORTANT: Your choice of carrier and shipment options with that carrier can have a big impact on your ability to meet the proof of delivery requirements. Please ensure, especially when shipping goods internationally, that your carrier can provide ‘delivered’ status at the correct address, or your Seller Protection claim may be denied. </td> 
+ <td class="content"> Online or physical documentation from a shipping company that includes:  - Date of shipment - An address for the recipient that matches the shipping address on the Transaction Details page - An address for the recipient showing at least the city/state, city/country, or zip/postal code (or international equivalent).  </td> <td class="content"> Online or physical documentation from a shipping company that includes:  - Date of delivery and ‘delivered’ status - An address for the recipient that matches the shipping address on the Transaction Details page - An address for the recipient showing at least the city/state, city/country, or zip/postal code (or international equivalent). - Signature confirmation when the full amount of the payment (including shipping and taxes) exceeds the amount (based on the currency of the payment) listed in the [signature confirmation threshold table](#table-purchase-protection-signature-conf) Signature confirmation is online documentation, viewable at the shipping company’s website, indicating that the item was signed for.  **IMPORTANT:** Your choice of carrier and shipment options with that carrier can have a big impact on your ability to meet the proof of delivery requirements. Please ensure, especially when shipping goods internationally, that your carrier can provide ‘delivered’ status at the correct address, or your Seller Protection claim may be denied. </td> 
 
 Online or physical documentation from a shipping company that includes:
- - Date of delivery and ‘delivered’ status - An address for the recipient that matches the shipping address on the Transaction Details page - An address for the recipient showing at least the city/state, city/country, or zip/postal code (or international equivalent). - Signature confirmation, if the full amount of the payment including shipping and taxes exceeds a fixed amount (based on the currency of the payment) from the [signature confirmation threshold table](#table-purchase-protection-signature-conf) below. Signature confirmation is online documentation, viewable at the shipping company’s website, indicating that the item was signed for. 
+ - Date of delivery and ‘delivered’ status - An address for the recipient that matches the shipping address on the Transaction Details page - An address for the recipient showing at least the city/state, city/country, or zip/postal code (or international equivalent). - Signature confirmation when the full amount of the payment (including shipping and taxes) exceeds the amount (based on the currency of the payment) listed in the [signature confirmation threshold table](#table-purchase-protection-signature-conf) Signature confirmation is online documentation, viewable at the shipping company’s website, indicating that the item was signed for. 
+**Intangible Goods**
+
+**QR Code Transactions**
+ <td class="content"> For intangible or digital goods, proof of shipment or delivery means compelling evidence to show the item was delivered or the purchase order was fulfilled. Compelling evidence could include a system of record showing the date the item was sent and that it was either:  - Electronically sent to the recipient, including the recipient’s address (email, IP, etc.), where applicable; or - Received or accessed by the recipient.  </td> <td class="content"> For QR code transactions, you may be required to provide us with alternative evidence of delivery or such additional documentation or information relating to the transaction. </td> 
+
+For QR code transactions, you may be required to provide us with alternative evidence of delivery or such additional documentation or information relating to the transaction.
+
  
 
 **Currency**
@@ -697,7 +728,7 @@ Online or physical documentation from a shipping company that includes:
 #### Ineligible items and transactions
 
 Your sale ****is not**** eligible for coverage under PayPal’s Seller Protection program if:
- - It involves intangible, non-physical, items, including digital goods, and services. Digital goods are delivered and used in an electronic format, like a song delivered online or through a mobile application. - The buyer claims (either with us or their card issuer) that the item you sent isn’t what was ordered (referred to as a “Significantly Not as Described” claim). - It involves an item that PayPal determines, in its sole discretion, is a counterfeit item. - It involves an item that you deliver in person, including in connection with a payment made in your physical store. - It involves sales that are not processed either through a buyer’s PayPal account or a PayPal guest checkout transaction. For example, if the sale was made using the [PayPal Payments Pro/VT](https://www.paypal.com/us/webapps/mpp/ua/provt-preview2) product, [PayPal business payments](https://www.paypal.com/us/webapps/mpp/ua/business-payments-agreement) or using [PayPal Here](https://www.paypal.com/us/webapps/mpp/ua/paypalhereterms-full), then it is not eligible for coverage.  - It involves items equivalent to cash including gift cards. - It involves a donation. - It relates to the purchase of a financial product or investment of any kind. - It involves a payment sent using PayPal’s friends and family functionality. - It involves a payment made using PayPal Payouts and Mass Pay. - The item is a vehicle, including, but not limited to a motor vehicle, motorcycle, recreational vehicle, aircraft or boat. 
+ - The buyer claims (either with us or their card issuer) that the item you sent isn’t what was ordered (referred to as a “Significantly Not as Described” claim). - It involves an item that PayPal determines, in its sole discretion, is a counterfeit item. - It involves an item that you deliver in person, including in connection with a payment made in your physical store, unless the buyer paid for the transaction in person by using a PayPal goods and services QR code. - It involves sales that are not processed either through a buyer’s PayPal account or a PayPal guest checkout transaction. For example, if the sale was made using the [PayPal Payments Pro/VT](https://www.paypal.com/us/webapps/mpp/ua/provt-preview2) product, [PayPal business payments](https://www.paypal.com/us/webapps/mpp/ua/business-payments-agreement) or using [PayPal Here](https://www.paypal.com/us/webapps/mpp/ua/paypalhereterms-full), then it is not eligible for coverage.  - It involves items equivalent to cash including gift cards. - It involves a donation. - It relates to the purchase of a financial product or investment of any kind. - It involves a payment sent using PayPal’s friends and family functionality. - It involves a payment made using PayPal Payouts and Mass Pay. - The item is a vehicle, including, but not limited to a motor vehicle, motorcycle, recreational vehicle, aircraft or boat. - Payments made in respect of gold (whether in physical form or in exchange-traded form). 
 ### PayPal Advertising Program
 
 The PayPal Advertising Program enables you to promote PayPal services, including PayPal Credit, through PayPal-hosted banners and buttons on your websites or in your customer emails. PayPal may change the content provided through this program at any time for any reason, and PayPal may choose to discontinue the PayPal Advertising Program at any time.
@@ -717,7 +748,7 @@ In connection with your use of our websites, your PayPal account, the PayPal ser
  - Breach this user agreement, the PayPal [Acceptable Use Policy](https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full), the [Commercial Entity Agreements](https://www.paypal.com/us/webapps/mpp/ua/ceagreement-full) (if they apply to you), the [PayPal Cash and PayPal Cash Plus Account Terms and Conditions](https://www.paypal.com/us/webapps/mpp/ua/cashagreement-full) (if it applies to you), or any[ other agreement](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full) between you and PayPal; - Violate any law, statute, ordinance, or regulation (for example, those governing financial services, consumer protections, unfair competition, anti-discrimination or false advertising); - Infringe PayPal's or any third party's copyright, patent, trademark, trade secret or other intellectual property rights, or rights of publicity or privacy; - Sell counterfeit goods; - Act in a manner that is defamatory, trade libelous, threatening or harassing; - Provide false, inaccurate or misleading information; - Send or receive what we reasonably believe to be potentially fraudulent funds; - Refuse to cooperate in an investigation or provide confirmation of your identity or any information you provide to us; - Attempt to double dip during the course of a dispute by receiving or attempting to receive funds from both PayPal and the seller, bank or card issuer for the same transaction; - Control an account that is linked to another account that has engaged in any of these restricted activities; - Conduct your business or use the PayPal services in a manner that results in or may result in; <ul> <li>complaints; - requests by buyers (either filed with us or card issuers) to invalidate payments made to you; - fees, fines, penalties or other liability or losses to PayPal, other PayPal customers, third parties or you; 
 ### Actions We May Take if You Engage in Any Restricted Activities
 
-If we believe that you’ve engaged in any of these activities, we may take a number of actions to protect PayPal, its customers and others at any time in our sole discretion. The actions we make take include, but are not limited to, the following:
+If we believe that you’ve engaged in any of these activities, we may take a number of actions to protect PayPal, its customers and others at any time in our sole discretion. The actions we may take include, but are not limited to, the following:
  - Terminate this user agreement, limit your PayPal account (and any linked Cash Account), and/or close or suspend your PayPal account (and any linked Cash Account), immediately and without penalty to us; - Refuse to provide the PayPal services to you in the future; - Limit your access to our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf, your PayPal account or any of the PayPal services, including limiting your ability to pay or send money with any of the payment methods linked to your PayPal account, restricting your ability to send money or make withdrawals; - Hold the balance in your Cash Account, the balance in your business PayPal account, or any money waiting to be claimed through your personal PayPal account if you do not have a Cash Account linked to your personal PayPal account, for up to 180 days if reasonably needed to protect against the risk of liability or if you have violated our [Acceptable Use Policy](https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full); - Suspend your eligibility for PayPal’s Purchase Protection program and/or PayPal’s Seller Protection program; - Contact buyers who have purchased goods or services from you using PayPal, your bank or credit card issuer, other impacted third parties or law enforcement about your actions; - Update inaccurate information you provided us; - Take legal action against you; - If you’ve violated our [Acceptable Use Policy](https://www.paypal.com/us/webapps/mpp/ua/acceptableuse-full), then you’re also responsible for damages to PayPal caused by your violation of this policy; or - If you are a seller and you violate the Acceptable Use Policy, then in addition to being subject to the above actions you will be liable to PayPal for the amount of PayPal's damages caused by your violation of the Acceptable Use Policy. You acknowledge and agree that $2,500.00 U.S. dollars per violation of the Acceptable Use Policy is presently a reasonable minimum estimate of PayPal's actual damages considering all currently existing circumstances, including the relationship of the sum to the range of harm to PayPal that reasonably could be anticipated because, due to the nature of the violations of the Acceptable Use Policy, actual damages would be impractical or extremely difficult to calculate. PayPal may deduct such damages directly from any existing balance in any PayPal account you control. 
 If we close your PayPal account or terminate your use of the PayPal services for any reason, we’ll provide you with notice of our actions and make any unrestricted funds held in the balance of your Cash Account linked to your personal PayPal account or in the balance of your business PayPal account, or any money waiting to be claimed through your personal PayPal account if you do not have a Cash Account linked to your personal PayPal account, available for withdrawal.
 
@@ -747,7 +778,7 @@ Risk-based holds generally remain in place for up to 21 days from the date the p
 
 **Holds related to Marketplace transactions**
 
-If you’re a seller on a marketplace or through a third-party application where PayPal is offered, a hold may be placed on a payment sent to you at the instruction of the applicable marketplace or third-party. This is done once you have granted us permission to have your funds held and will be in accordance with your agreement with the third-party. These holds will appear in your PayPal account. If you have questions about why the applicable marketplace or third party instructed PayPal to put these holds in place, you will need to contact the marketplace or third-party directly.
+If you’re a seller on a marketplace or through a third-party application where PayPal is offered, a hold may be placed on a payment sent to you at the instruction of the applicable marketplace or third party. This is done once you have granted us permission to have your funds held and will be in accordance with your agreement with the third party. These holds will appear in your PayPal account. If you have questions about why the applicable marketplace or third party instructed PayPal to put these holds in place, you will need to contact the marketplace or third party directly.
 
 **Holds based on disputed transactions**
 
