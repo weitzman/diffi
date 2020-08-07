@@ -6,13 +6,13 @@
 <li>
 <p>**Welcome to ****Verizon Media**<br/>
 <br/>
-	Oath Inc. and all of its brands listed in Section 13 (including Yahoo and AOL brands) and the corporate entities listed in Sections 13 and Section 14 (collectively, “Verizon Media”, “us,” “we” or “our”) are part of the Verizon family of companies. Our brands, websites, apps, products, services and technologies (“Services”) are provided by the entities listed in Section 13 below. Please carefully read Sections 1 through 13, 14.1, and <u>[14.2](#14.2)</u>, which are the sections that apply to you.<br/>
+	Oath Inc. and all of its brands listed in Section 13 (including Yahoo and AOL brands) and the corporate entities listed in Sections 13 and Section 14 (collectively, “Verizon Media”, “us,” “we” or “our”) are part of the Verizon family of companies. Our brands, websites, apps, products, services and technologies (“Services”) are provided by the entities listed in Section 13 below. Please carefully read Sections 1 through 13, 14.1, and <u>[14.2](#1)</u>, which are the sections that apply to you.<br/>
 <br/>
 	By using the Services, you agree to these terms, the policies in our <u>[Privacy Center](/policies/us/en/verizonmedia/privacy/index.html)</u>, and any community guidelines and supplemental terms provided to you for the Services that you use (collectively, “Terms”). Please read the Terms carefully, as they form your entire agreement with us.<br/>
 <br/>
 **THESE TERMS CONTAIN LIMITATIONS OF ****OUR ****LIABILITY IN ****<u>[SECTION 9](#9)</u>****.** <br/>
 <br/>
-**U.S. USERS: THESE TERMS CONTAIN A BINDING ARBITRATION AGREEMENT AND CLASS ACTION AND JURY TRIAL WAIVER CLAUSES IN ****<u>[SECTION 14.2](#14.2)</u>**** BELOW, WHICH ARE APPLICABLE TO ALL U.S. USERS.**</p>
+**U.S. USERS: THESE TERMS CONTAIN A BINDING ARBITRATION AGREEMENT AND CLASS ACTION AND JURY TRIAL WAIVER CLAUSES IN ****<u>[SECTION 14.2](#1)</u>**** BELOW, WHICH ARE APPLICABLE TO ALL U.S. USERS.**</p>
 </li>
 <li>
 **Using the Services**
@@ -126,10 +126,10 @@ Subject to any statutory rights you might have, if your account is terminated, a
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE, ALONG WITH OUR PARENT COMPANIES, SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, PARTNERS, LICENSORS AND DISTRIBUTORS (COLLECTIVELY VERIZON MEDIA ENTITIES) DO NOT MAKE ANY REPRESENTATIONS, PROMISES, OR WARRANTIES, EXPRESS OR IMPLIED, ABOUT THE SERVICES. WE PROVIDE OUR SERVICES “AS-IS,” “WITH ALL FAULTS,” AND “AS AVAILABLE.” YOUR USE OF THE SERVICES, INCLUDING CONTENT WITHIN THE SERVICES, IS AT YOUR OWN RISK AND WE DO NOT REPRESENT, PROMISE, OR WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE. YOU UNDERSTAND AND AGREE THAT NO DATA TRANSMISSION OVER THE INTERNET OR INFORMATION STORAGE TECHNOLOGY CAN BE GUARANTEED TO BE SECURE, AND WE EXPRESSLY DISCLAIM ANY WARRANTIES, EXPRESS OR IMPLIED, TO THAT EFFECT. WE MAKE NO COMMITMENTS, PROMISES OR WARRANTIES ABOUT THE CONTENT WITHIN THE SERVICES OR CONTENT LINKED FROM THE SERVICES, THE SUPPORT WE PROVIDE FOR THE SERVICES, THE SPECIFIC FUNCTIONS OF THE SERVICES, THE SECURITY OF THE SERVICES, OR THE SERVICES’ RELIABILITY, QUALITY, ACCURACY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS, PROVIDE CERTAIN OUTPUTS OR ACHIEVE CERTAIN RESULTS.
 </li>
 <li>
-<a id="9" name="9"></a>SOME JURISDICTIONS PROVIDE FOR CERTAIN IMPLIED WARRANTIES, SUCH AS THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE DISCLAIM ANY AND ALL IMPLIED OR EXPRESS PROMISES OR WARRANTIES ABOUT THE SERVICES.
+SOME JURISDICTIONS PROVIDE FOR CERTAIN IMPLIED WARRANTIES, SUCH AS THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE DISCLAIM ANY AND ALL IMPLIED OR EXPRESS PROMISES OR WARRANTIES ABOUT THE SERVICES.
 </li>
 
-**Limitation of Liability**<br/>
+<a id="9" name="9"></a>**Limitation of Liability**<br/>
 <br/>
 	TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE AND UNDERSTAND THAT VERIZON MEDIA ENTITIES WILL NOT BE LIABLE FOR: ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, TREBLE OR OTHER MULTIPLES OF DAMAGES, EXEMPLARY OR PUNITIVE DAMAGES ARISING FROM OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF THE SERVICES. VERIZON MEDIA ENTITIES ARE NOT RESPONSIBLE FOR ANY LOST PROFITS, LOST REVENUES, LOST BUSINESS OPPORTUNITIES, DIMINUTION IN VALUE, INCLUDING ANY ALLEGED LOSS OR DIMINUTION IN VALUE OF PERSONAL INFORMATION, OR ANY OTHER LOSSES (COLLECTIVELY, “LOSSES”) ARISING FROM OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF OR ACCESS TO THE SERVICES, INCLUDING, BUT NOT LIMITED TO, LOSSES RESULTING FROM OR IN CONNECTION WITH: THE DELETION OF, ALTERATION OF, MIS-DELIVERY OF, OR FAILURE TO STORE DATA MAINTAINED OR TRANSMITTED BY THE SERVICES; THE LIMITING, SUSPENSION OR TERMINATION OF YOUR ACCOUNT; YOUR DOWNLOADING OR SHARING OF INFORMATION, INCLUDING PERSONAL INFORMATION, VIA THE SERVICES; THE UNAUTHORIZED ACCESS TO YOUR ACCOUNT OR ANY DATA MAINTAINED OR TRANSMITTED BY THE SERVICES; LINKS PROVIDED BY THE SERVICES OR THIRD PARTIES TO EXTERNAL SITES OR RESOURCES; YOUR DEALINGS WITH OR PARTICIPATION IN PROMOTIONS OF ADVERTISERS FOUND ON OR THROUGH THE SERVICES; OR ANY GOOD OR SERVICES SOLD BY SUCH ADVERTISERS. VERIZON MEDIA ENTITIES WILL NOT BE LIABLE FOR PROBLEMS CAUSED BY OTHERS, THE WRONGFUL OR UNLAWFUL ACTIONS OF THIRD PARTIES, OR AN ACT OF GOD. THE LIMITATIONS AND EXCLUSIONS IN THESE TERMS WILL APPLY WHETHER OR NOT WE HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY LOSSES ARISING.<br/>
 <br/>
@@ -137,9 +137,9 @@ TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE, ALONG WITH OUR PARENT CO
 
 **Feedback**<br/>
 <br/>
-	You agree that any recommendation, idea, proposal, suggestion, feedback or other input (“Feedback”) you submit to us related to our products, services, websites, apps, or technology may be used by <a id="11" name="11"></a>us without any notice, obligation, restriction, reimbursement or compensation to you and you waive (or agree not to enforce) any and all rights that may now or in future exist (including moral and equivalent rights) in any Feedback.
+	You agree that any recommendation, idea, proposal, suggestion, feedback or other input (“Feedback”) you submit to us related to our products, services, websites, apps, or technology may be used by us without any notice, obligation, restriction, reimbursement or compensation to you and you waive (or agree not to enforce) any and all rights that may now or in future exist (including moral and equivalent rights) in any Feedback.
 
-**Fee-Based Services and Billing. **Unless otherwise specified in the additional terms that apply to the Services you are using, the terms in this Section 11 apply to you.
+<a id="11" name="11"></a>**Fee-Based Services and Billing. **Unless otherwise specified in the additional terms that apply to the Services you are using, the terms in this Section 11 apply to you.
 
 <li>
 We offer products and subscriptions for a fee (“fee-based Services”). These fee-based Services are governed by the additional terms you agree to when you register for the fee-based Service and these Terms. If you register for a fee-based Service, you must designate a payment method and provide us with accurate billing and payment information and you have the continuing obligation to keep it up to date. Many fee-based Services require you to have, or register for, a Yahoo, AOL or other Verizon Media ID. If you are an AOL Dial-Up customer, please see additional terms by clicking <u>[here](/policies/us/en/verizonmedia/terms/otos/additional/dial/index.html)</u>.
@@ -272,20 +272,12 @@ Yahoo Cricket is provided by Yahoo India Private Limited.
 <li>
 In Section 13 above, find the provider of the Services you are using. That is the provider that you are contracting with for the Services. The choice of law, the location for resolving disputes, certain defined terms (including the Applicable Verizon Media Entity), and other important region specific provisions are in this Section 14. If you have any questions, please contact customer care using the contact information in the region that applies to you below.
 </li>
-
-**REGION SHORTCUTS:**<br/>
-[The Americas](#14.2)<br/>
-[Asia Pacific](#3)<br/>
-[Europe, Middle East and Africa](#4)
-
-<u>**The Americas**</u>
-
 <li>
-**United States (us):**
-<ol start="1" style="list-style-type: lower-alpha;" type="a">
+<a id="1" name="1"></a>**United States (us):**
+<ol start="1" style="list-style-type: lower-alpha;">
 <li>
 **Defined Terms**
-<ol style="list-style-type:lower-roman;">
+<ol start="1" style="list-style-type: lower-roman;">
 <li>
 Applicable Verizon Media Entity: Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
 </li>
@@ -354,13 +346,16 @@ In New Jersey, all of the limitations on liability set forth in Section 9 shall 
 
 You agree to not use the Services to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.
 
-**Argentina (ar), Chile (cl), Colombia (co), Mexico (mx), Peru (pe), and Venezuela (ve):**
+**Argentina (ar), Chile (cl), Colombia (co), **
+<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+		</style>
+**Hong Kong (hk),​ Mexico (mx), Peru (pe), and Venezuela (ve):**
 
 <li>
 **Defined Terms**
 <ol start="1" style="list-style-type: lower-roman;">
 <li>
-Applicable Verizon Media Entity: Verizon Media Hispanic Americas LLC (Address: 1921 NW 87 Avenue, Doral, FL 33172, USA)
+Applicable Verizon Media Entity: Verizon Media International Inc. (Address: 1921 NW 87 Avenue, Doral, FL 33172, USA)
 </li>
 <li>
 Minimum Age: 13 years old
@@ -410,6 +405,12 @@ Minimum Age: 13 years old
 <u>[Colombia](https://help.yahoo.com/kb/index?locale=es_CO&amp;page=product&amp;y=PROD_ACCT)</u>
 </li>
 <li>
+<p>
+<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+				</style>
+[Hong Kong](https://hk.help.yahoo.com/kb/account)</p>
+</li>
+<li>
 <u>[Mexico](https://help.yahoo.com/kb/index?locale=es_MX&amp;page=product&amp;y=PROD_ACCT)</u>
 </li>
 <li>
@@ -433,7 +434,7 @@ You agree to not use the Services to provide material support or resources (or t
 
 <li>
 **Defined Terms**
-<ol style="list-style-type:lower-roman;">
+<ol start="1" style="list-style-type: lower-roman;">
 <li>
 Applicable Verizon Media Entity: Verizon Media do Brasil Internet Ltda. (Address: Av. Brigadeiro Faria Lima, 3.600 - 9o andar, São Paulo/SP, 04538-132, Brasil)
 </li>
@@ -484,14 +485,11 @@ Some provinces and territories do not allow for the exclusion of warranties (inc
 
 <a id="3" name="3"></a>Some provinces and territories do not provide exclusion of limitation of liability for all types of damages (including the province of Quebec). In these provinces, we will only be liable to you for damages that we are expressly required to be liable to you under applicable law.
 
-**<u>Asia Pacific</u>**
+**Australia (au):**
 
 <li>
-**Australia (au):**
-<ol type="a">
-<li>
 **Defined Terms**
-<ol type="i">
+<ol start="1" style="list-style-type: lower-roman;">
 <li>
 Applicable Verizon Media Entity:
 <ol>
@@ -506,36 +504,13 @@ Minimum Age: 13 years old
 
 **Customer Support.** For customer support, see [this page](https://help.yahoo.com/kb/index?locale=en_AU&amp;page=product&amp;y=PROD_ACCT).
 
-**Hong Kong (hk):**
-
-<li>
-**Defined Terms**
-<ol type="i">
-<li>
-Applicable Verizon Media Entity:
-<ol>
-<li>
-For Yahoo Answers, Yahoo Auctions, Yahoo Celebrity, Yahoo Charity, Yahoo Deals, Yahoo Dictionary, Yahoo Education, Yahoo Finance, Yahoo Food, Yahoo Groups, Yahoo Movie, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo Store, Yahoo Style, Yahoo Stylemen, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Company is Yahoo! Hong Kong Limited (Address: 15/F Lee Garden Two, 28 Yun Ping Road, Causeway Bay, Hong Kong) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Hong Kong Limited will be governed by the laws of Hong Kong without regard to its conflict of law provisions, and (b) you and Yahoo! Hong Kong Limited agree to submit to the exclusive jurisdiction of the courts of Hong Kong.
-</li>
-<li>
-For other Services:
-<ol type="a">
-<li>
-the Applicable Verizon Media Entity is our entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity; or
-</li>
-<li>
-if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, Virginia 20166 USA), and for such Services the terms of Section 14.2 (United States) apply.
-</li>
-
-Minimum Age: 13 years old
-
-**Customer Support**. For customer support, see [this page](https://hk.help.yahoo.com/kb/account).
+**Reserved.**
 
 **India (in):**
 
 <li>
 **Defined Terms**
-<ol type="i">
+<ol start="1" style="list-style-type: lower-roman;">
 <li>
 Applicable Verizon Media Entity:
 <ol>
@@ -544,7 +519,7 @@ For Yahoo Answers, Yahoo Celebrity, Yahoo Cricket, Yahoo Finance, Yahoo Groups, 
 </li>
 <li>
 For other Services:
-<ol type="a">
+<ol start="1" style="list-style-type: lower-alpha;">
 <li>
 the Applicable Verizon Media Entity is the same one that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity; or
 </li>
@@ -562,7 +537,7 @@ if no Verizon Media Entity is specified to be the provider in respect of a speci
 
 <li>
 **Defined Terms**
-<ol type="i">
+<ol start="1" style="list-style-type: lower-roman;">
 <li>
 Applicable Verizon Media Entity:
 <ol>
@@ -599,7 +574,7 @@ For modifications to these Terms or the Services that we need to make in order t
 
 <li>
 **Defined Terms**
-<ol type="i">
+<ol start="1" style="list-style-type: lower-roman;">
 <li>
 Applicable Verizon Media Entity:
 <ol>
@@ -618,7 +593,7 @@ Minimum Age: 13 years old
 
 <li>
 **Defined Terms**
-<ol type="i">
+<ol start="1" style="list-style-type: lower-roman;">
 <li>
 Applicable Verizon Media Entity:
 <ol>
@@ -627,7 +602,7 @@ For Yahoo Answers, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Groups
 </li>
 <li>
 For other Services:
-<ol type="a">
+<ol start="1" style="list-style-type: lower-alpha;">
 <li>
 the Applicable Verizon Media Entity is the Verizon Media Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity; or
 </li>
@@ -683,11 +658,8 @@ if no Verizon Media Entity is specified to be the provider in respect of a speci
 
 **Customer Support**. For customer support, see [this page](https://help.yahoo.com/kb/index?locale=zh_TW&amp;page=product&amp;y=PROD_ACCT).
 
-<u>**Europe, Middle East and Africa**</u>
-
-<li>
 **Europe, Middle East and Africa**
-<ol type="a">
+
 <li>
 **Defined Terms**
 <ol style="list-style-type:lower-roman;">
@@ -779,4 +751,4 @@ Additional terms for Italian users can be found [here](/policies/ie/it/verizonm
 
 Additional terms for German users can be found [here](https://www.verizonmedia.com/policies/ie/de/verizonmedia/terms/additionalterms/index.html).
 
-**Last updated: 9 April 2020**
+**Last updated: August 2020**
