@@ -98,11 +98,11 @@ Stay up-to-date with the latest news stories from Verizon.
 
 ### Read this and other top stories
 
-**07.22.2020**
+**08.06.2020**
 
-#### [What does academic growth look like](/about/news/what-does-academic-growth-look)
+#### [A STEM star thrives in Cleveland—before and during the pandemic](/about/news/stem-star-thrives-cleveland-during-pandemic)
 
-These three schools used resources from Verizon Innovative Learning to level up.
+High-achieving student uses Verizon Innovative Learning tech to shine brighter, both before and during the pandemic.
 - [Our Company](/about/our-company)- [News](/about/media-center)- [Responsibility](/about/responsibility)- [Investors](/about/investors)- [Careers](/about/careers)
 Verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
 - [Wireless](https://www.verizonwireless.com/)- [Residential](https://www.verizon.com/?lid=//global//residential)- [Business](https://www.verizon.com/business/gateway/)- [Privacy Policy](https://www.verizon.com/about/privacy/)- [Do Not Sell My Personal Information](https://www.verizon.com/about/privacy/do-not-sell-my-info)- [Terms &amp; Conditions](https://www.verizon.com/about/terms-conditions/overview)- [Open Internet](/about/our-company/open-internet)- [Accessibility](/about/accessibility/overview)- [Important Consumer Info](/about/consumer-safety/important-consumer-information)- [Contact Us](https://www.verizon.com/support/residential/contact-us/homepage.htm)- [Sitemap](https://www.verizon.com/about/site-map)
