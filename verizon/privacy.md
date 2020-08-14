@@ -42,9 +42,6 @@ the ways that you interact with us
 You may interact with us in a variety of ways, for example, when you place an order or have questions about your account or services;  enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
 When you communicate with us, we may monitor or record the interaction to help us better serve you; to personalize your experiences; to train or otherwise support employees, resources or systems; and for security purposes. We may use artificial intelligence guided by humans, such as chat bots, to respond to your inquiry. When you interact with us through third-party services like Facebook Messenger or Twitter Direct Message, your communications are also governed by these companies’ privacy policies.
 
-The ways that you interact with us
-You may interact with us in a variety of ways, for example, when you place an order or have questions about your account or services;  enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
-When you communicate with us, we may monitor or record the interaction to help us better serve you; to personalize your experiences; to train or otherwise support employees, resources or systems; and for security purposes. We may use artificial intelligence guided by humans, such as chat bots, to respond to your inquiry. When you interact with us through third-party services like Facebook Messenger or Twitter Direct Message, your communications are also governed by these companies’ privacy policies.
 <ul>- [Contact, billing and other information you provide](#)
 - [How you use our services and your devices](#)
 - [How you use our websites and apps](#)
