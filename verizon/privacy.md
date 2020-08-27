@@ -14,7 +14,7 @@ Our Privacy Policy describes the information we collect, how it is used and shar
 </a>
 
 
-<li class="accordion-item" data-accordion-item="" data-layout-content-preview-placeholder-label='"Accordion item" block'>
+<li class="accordion-item" data-accordion-item="">
 <a class="accordion-title" href="#acc-item-30">
 
 <h2 class="accordion-title__heading cell medium-4 h3">
