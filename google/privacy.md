@@ -5,6 +5,12 @@ When you use our services, you’re trusting us with your information. We unders
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 
+Privacy Checkup
+
+Looking to change your privacy settings?
+
+[Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&amp;utm_medium=Promo-in-product&amp;utm_campaign=pp_intro)
+
 ## Contents
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
@@ -343,7 +349,7 @@ We change this Privacy Policy from time to time. We will not reduce your rights 
 ## Specific Google services
 
 The following privacy notices provide additional information about some Google services:
-- [Chrome &amp; the Chrome Operating System](https://www.google.com/chrome/intl/en/privacy.html)- [Play Books](https://play.google.com/books/intl/en/privacy.html)- [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&amp;hl=en)- [Fiber](https://fiber.google.com/legal/privacy.html)- [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)- [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)- [YouTube Kids](https://kids.youtube.com/privacynotice)- [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)- [Voice and Audio Collection from Children’s Features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/)
+- [Chrome &amp; the Chrome Operating System](https://www.google.com/chrome/intl/en/privacy.html)- [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&amp;hl=en)- [Fiber](https://fiber.google.com/legal/privacy.html)- [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)- [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)- [Read Along](https://readalong.google/intl/en_US/privacy)- [YouTube Kids](https://kids.youtube.com/privacynotice)- [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)- [Voice and Audio Collection from Children’s Features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/)
 ## Other useful resources
 
 The following links highlight useful resources for you to learn more about our practices and privacy settings.
