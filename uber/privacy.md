@@ -168,11 +168,9 @@ Uber Freight
 
 Safety
 
-Diversity
+Diversity and Inclusion
 
-Transparency
-
-ATG
+Advanced Technologies Group
 
 AI
 
