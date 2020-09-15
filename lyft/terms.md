@@ -1377,7 +1377,7 @@ By agreeing to arbitration, you understand that you and
                     Lyft Privacy Policy
                 
 
-**Last Updated: January 1, 2020**
+**Last Updated: September 14, 2020**
 
 
                     At Lyft our mission is to improve people’s lives with the world’s best transportation, providing a platform to help you
@@ -2012,6 +2012,10 @@ By agreeing to arbitration, you understand that you and
 <u>Email Webform</u>: You may <a href="https://help.lyft.com/hc/en-us/requests/new?ticket_form_id=360002128894">
                         write to us</a> to exercise rights. Please include your full name, email address, and phone number associated with your
                         use of the Lyft Platform, along with why you are writing, so that we can process your request in an efficient manner.
+                    
+
+
+                        To respond to some rights we will need to verify your request either by asking you to log in and authenticate your account or otherwise verify your identity by providing information about yourself or your account. Authorized agents can make a request on your behalf if you have given them legal power of attorney or you provide signed permission, verification of your identity, and confirmation that you provided the agent permission to submit the request.
                     
 
 
