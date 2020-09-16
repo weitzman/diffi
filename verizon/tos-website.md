@@ -98,11 +98,11 @@ Stay up-to-date with the latest news stories from Verizon.
 
 ### Read this and other top stories
 
-**08.27.2020**
+**09.15.2020**
 
-#### [Empowering a Compton teen through tech—even during a pandemic](/about/news/empowering-compton-teen-during-pandemic)
+#### [Watch &#x27;Speed of Thought,&#x27; a documentary from the 5G frontier](/about/news/speed-of-thought-5g-network-documentary)
 
-An engaged mentor helps Compton teen shape his future through tech, even during a pandemic.
+Learn about the film “Speed of Thought” and 5G Ultra Wideband’s potential impact on smart city networks, the education opportunity gap, firefighter safety and remote surgery.
 - [Our Company](/about/our-company)- [News](/about/media-center)- [Responsibility](/about/responsibility)- [Investors](/about/investors)- [Careers](/about/careers)
 Verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
 - [Wireless](https://www.verizon.com)- [Residential](https://www.verizon.com/home/)- [Business](https://www.verizon.com/business/)- [Privacy Policy](https://www.verizon.com/about/privacy/)- [Do Not Sell My Personal Information](https://www.verizon.com/about/privacy/do-not-sell-my-info)- [Terms &amp; Conditions](https://www.verizon.com/about/terms-conditions/overview)- [Open Internet](/about/our-company/open-internet)- [Accessibility](/about/accessibility/overview)- [Important Consumer Info](/about/consumer-safety/important-consumer-information)- [Contact Us](https://www.verizon.com/support/residential/contact-us/homepage.htm)- [Sitemap](https://www.verizon.com/info/sitemap/)
