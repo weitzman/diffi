@@ -204,3 +204,12 @@ We may update this Privacy Policy from time to time, so you should check it peri
 		701 First Avenue<br/>
 		Sunnyvale, CA 94089</p>
 </li>
+
+**Recent Versions**
+
+<li>
+May 2018 - update to privacy notice;
+</li>
+<li>
+October 2019 - Oath to Verizon Media name change
+</li>
