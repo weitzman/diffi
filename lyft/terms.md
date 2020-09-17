@@ -2064,7 +2064,7 @@ By agreeing to arbitration, you understand that you and
 ## RIDER
 
 ## RIDER
-- [Sign up to ride](/rider)- [Business Profile](/rider/business)- [Cities](/rider/cities)- [Help](https://help.lyft.com/hc/categories/115002006488-Riding-with-Lyft)- [Safety](/rider/safety)- [Rewards](/rider/rewards)- [Events](/events)- [Fare Estimate](/fare-estimate)- [Airports](/airports)- [Gift Cards](/gift)- [Donate](/donate)- [Blog](/blog)
+- [Sign up to ride](/rider)- [Business Profile](/rider/business)- [Cities](/rider/cities)- [Help](https://help.lyft.com/hc/categories/115002006488-Riding-with-Lyft)- [Safety](/rider/safety)- [Rewards](/rider/rewards)- [Events](/events)- [Fare Estimate](rider/fare-estimate)- [Airports](/airports)- [Gift Cards](/gift)- [Donate](/donate)- [Blog](/blog)
 ## LYFT
 
 ## LYFT
