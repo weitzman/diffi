@@ -98,11 +98,11 @@ Stay up-to-date with the latest news stories from Verizon.
 
 ### Read this and other top stories
 
-**09.17.2020**
+**09.22.2020**
 
-#### [Tiger Tech: Where are they now? ](/about/news/tiger-tech-where-are-they-now)
+#### [10 ways 5G and mobile edge computing could change your life](/about/news/10-ways-5g-mobile-edge-computing)
 
-Verizon Innovative Learning inspires former Neil Armstrong Middle School students to pursue STEM studies in college.
+As carriers and network operators start rolling out the initial phase of 5G networks and services, the implementation of edge computing architecture will be key.
 - [Our Company](/about/our-company)- [News](/about/media-center)- [Responsibility](/about/responsibility)- [Investors](/about/investors)- [Careers](/about/careers)
 Verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
 - [Wireless](https://www.verizon.com)- [Residential](https://www.verizon.com/home/)- [Business](https://www.verizon.com/business/)- [Privacy Policy](https://www.verizon.com/about/privacy/)- [Do Not Sell My Personal Information](https://www.verizon.com/about/privacy/do-not-sell-my-info)- [Terms &amp; Conditions](https://www.verizon.com/about/terms-conditions/overview)- [Open Internet](/about/our-company/open-internet)- [Accessibility](/about/accessibility/overview)- [Important Consumer Info](/about/consumer-safety/important-consumer-information)- [Contact Us](https://www.verizon.com/support/residential/contact-us/homepage.htm)- [Sitemap](https://www.verizon.com/info/sitemap/)
