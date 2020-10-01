@@ -153,12 +153,6 @@ Choose whether your name and photo appear next to your activity, like reviews an
 
 [Go to Shared Endorsements](https://myaccount.google.com/shared-endorsements?utm_source=pp)
 
-### Information you share
-
-If you’re a G Suite user, control whom you share information with through your account on Google+.
-
-[Go to Information You Share](https://plus.google.com/settings?utm_source=pp)
-
 ### Ways to review &amp; update your information
 
 ### My Activity
@@ -218,7 +212,7 @@ We’ll share personal information outside of Google when we have your consent. 
 
 ### With domain administrators
 
-If you’re a student or work for an organization that uses Google services (like G Suite), your [domain administrator](https://support.google.com/a?p=privpol_admin) and resellers who manage your account will have access to your Google Account. They may be able to:
+If you’re a student or work for an organization that uses Google services, your [domain administrator](https://support.google.com/a?p=privpol_admin) and resellers who manage your account will have access to your Google Account. They may be able to:
 - Access and retain information stored in your account, like your email- View statistics regarding your account, like how many apps you install- Change your account password- Suspend or terminate your account access- Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request- Restrict your ability to delete or edit your information or your privacy settings
 ### For external processing
 
@@ -266,7 +260,7 @@ We regularly review this Privacy Policy and make sure that we process your infor
 
 ## Data transfers
 
-We maintain [servers around the world](privacy#footnote-servers) and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain [legal frameworks](privacy/frameworks) relating to the transfer of data, such as the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks.
+We maintain [servers around the world](privacy#footnote-servers) and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain [legal frameworks](privacy/frameworks) relating to the transfer of data.
 
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
