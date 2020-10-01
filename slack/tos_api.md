@@ -1,5 +1,5 @@
 
-**Effective: August 31, 2018**
+**Effective: September 30th, 2020**
 
 These Slack API Terms of Service (the "**API Terms**") describe your rights and responsibilities when accessing our publicly available application programming interfaces (the "**APIs**") and related [API documentation](https://api.slack.com/). Please read them carefully. We are grateful you're here.
 
@@ -25,7 +25,7 @@ Your license to access our APIs and documentation is limited and subject to comp
 
 ### Transparency &amp; Reporting
 
-If you offer your Application for use by others outside your organization, you must maintain a user agreement and privacy policy for your Application, which is prominently identified or located where users download or access your Application. Your privacy policy must meet applicable legal standards and describe the collection, use, storage and sharing of data in clear, understandable and accurate terms. You must promptly notify us in writing via email to [security@slack.com](mailto:security@slack.com) of any breaches of your user agreement or privacy policy that impact or may impact customers or users of the Services. Please review our [Privacy Policy](https://slack.com/privacy-policy) for more information on how we collect and use data relating to the use and performance of our websites and products. 
+If you offer your Application for use by others outside your organization, you must maintain a user agreement and privacy policy for your Application, which is prominently identified or located where users download or access your Application. Your privacy policy must meet applicable legal standards and describe the collection, use, storage and sharing of data in clear, understandable and accurate terms. You are required to follow applicable legal requirements if the use of your app will result in the international transfer of personal data. You must promptly notify us in writing via email to [security@slack.com](mailto:security@slack.com) of any breaches of your user agreement or privacy policy that impact or may impact customers or users of the Services. Please review our [Privacy Policy](https://slack.com/privacy-policy) for more information on how we collect and use data relating to the use and performance of our websites and products. 
 
 ### Our Right to Suspend Access and Audit
 
@@ -92,6 +92,10 @@ The parties are independent contractors. The Contract does not create a partners
 ### Email and Slack Messages
 
 Except as otherwise set forth herein, all notices under the Contract will be by email, although if you have a Services account, we may instead choose to provide notice to you through the Services (e.g., a slackbot notification). Notices to Slack will be sent to [feedback@slack.com](mailto:feedback@slack.com), except for legal notices, such as notices of termination, which must be sent to [legal@slack.com](mailto:legal@slack.com). Notices will be deemed to have been duly given (a) the day after they are sent, in the case of notices through email; and (b) the same day, in the case of notices through the Services. 
+
+### Export Controls &amp; Sanctions
+
+Applications made available on the Slack platform may be subject to United States’ and other jurisdictions’ export control and sanctions laws and regulations. You agree to comply strictly with all such export control and sanctions laws and regulations that apply to your distribution or use of the Slack API and Applications subject to requirements in the [Slack Application Developer Policy](https://api.slack.com/developer-policy).
 
 ### Modifications to our APIs and Documentation
 
