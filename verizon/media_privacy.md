@@ -1,7 +1,7 @@
 
 # Welcome to the Verizon Media Privacy Policy
 
-**Last updated: October 2019**
+**Last updated: October 2020**
 
 <li>**About Verizon Media**
 <ol start="1" style="list-style-type: lower-alpha;">
@@ -11,6 +11,7 @@ Verizon Media, previously known as Oath, is a wholly-owned subsidiary of [Verizo
 <li>
 We provide control tools to help you manage your experience with us. If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy. If you have not yet agreed to this Privacy Policy, the [legacy Yahoo Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) or [legacy Oath Privacy Policy (for AOL)](http://privacy.aol.com/legacy) still apply to your account. For Verizon Media products or services that are accessed without signing in to an account, this Privacy Policy applies to those products and services as of May 25, 2018. If you are creating a new account, the terms below apply starting today.
 </li>
+1. Except as set out elsewhere in this Privacy Policy, when we refer to ‘Verizon Media’, it means Oath, Inc., the US-established company that supplies the Services to you (and acts as data controller of the personal data Verizon Media collects when you use those Services).
 
 <li>
 Our commitment is to put users first. We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.
@@ -24,7 +25,7 @@ We believe you should have tools to control your information. You can find contr
 </li>
 
 <li>
-We may collect and combine information when you interact with Verizon Media Services information outlined below:
+**Certain categories of information collected by Verizon Media are necessary to use our Services, such as the information you must provide when registering for some Services. **We may collect and combine information when you interact with Verizon Media Services information outlined below:
 </li>
 <li>
 **Information You Provide to Us. **We may collect the information that you provide to us, such as:
@@ -83,7 +84,7 @@ We are able to deliver, personalize, and improve our Services by combining and u
 Provide, maintain, improve, and develop relevant features, content, and Services.
 </li>
 <li>
-Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](/policies/us/en/verizonmedia/privacy/products/communications/faq/index.html)). You can review and control certain types of information tied to your Verion Media account by using [Privacy Controls](/policies/us/en/verizonmedia/privacy/dashboard/index.html). 
+Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](/policies/us/en/verizonmedia/privacy/products/communications/faq/index.html)). You can review and control certain types of information tied to your Verizon Media account by using [Privacy Controls](/policies/us/en/verizonmedia/privacy/dashboard/index.html). 
 </li>
 <li>
 Fulfill your requests and when authorized by you. 
@@ -181,11 +182,18 @@ To learn more about security, including the steps we have taken and steps you ca
 Our Services are for a general audience. We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law. With parental permission, a child under age 13 might have an Verizon Media Family Account. Visit [Children's Privacy &amp; Family Accounts](/policies/us/en/verizonmedia/privacy/products/family/index.html) to learn more about children’s privacy at Verizon Media.
 </li>
 
+Our Legal Bases for Processing Information.  We mainly rely on three separate bases to lawfully process your information. First, we need to process your information in certain ways to provide our services to you, in accordance with our Terms of Service. This processing is necessary to perform the contract between you and us. Second, where you have given us consent to use your information in certain ways, we will rely on your consent. Third, in certain cases, we may process your information where necessary for the purposes of our legitimate interests or the legitimate interests of third parties, where those legitimate interests are not overridden by your rights or interests. Occasionally, Verizon Media may rely on other legal bases to process your information, such as to protect a user’s vital interests (such as where there is a risk of imminent harm) or to comply with a legal obligation. Please see our [Legal bases](/policies/us/en/verizonmedia/privacy/legalbases/index.html) page for more information.
+
+**Data Processing and Transfers**
+
 <li>
 When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services. Some of these countries may not have the same data protection safeguards as the country where you reside. 
 </li>
 <li>
-Verizon Media may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses. By using our Services, you consent to us transferring information about you to these countries. For more information, please visit our [Data Transfer](/policies/us/en/verizonmedia/privacy/topics/datatransfer/index.html) page.
+Verizon Media processes information related to individuals in the EU/EEA/UK and transfers that information from the EU/EEA/UK through various compliance mechanisms, including data processing agreements based on the European Commission’sA Standard Contractual Clauses. By using our Services, you consent to us transferring information about you to these countries. For more information, please visit our [Data Transfer](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/datatransfer/index.html) page.
+</li>
+<li>
+The United States and other non-EU/EEA/UK countries have different laws on data protection and rules in relation to government access to information. If you are based in the EU/EEA/UK, when your data is moved from your home country to a third country outside the EU/EEA/UK, some of these countries may not have the same data protection safeguards as your home country.
 </li>
 
 <li>
@@ -204,6 +212,20 @@ We may update this Privacy Policy from time to time, so you should check it peri
 		701 First Avenue<br/>
 		Sunnyvale, CA 94089</p>
 </li>
+<li>
+If you wish to contact our Data Protection Officer, you can do so by post to: Attn: Data Protection Officer, Verizon Media EMEA, 5-7 Point Square, North Wall Quay, Dublin 1, Ireland.
+</li>
+<li>
+<p>Our Article 27 Representative can be contacted by email at [GDPRrepresentative@mhc.ie](mailto:GDPRRepresentative@mhc.ie), or by post at:<br/>
+<br/>
+		MHC GDPR Representative<br/>
+		Mason Hayes and Curran Professional Services Limited<br/>
+		South Bank House<br/>
+		Barrow Street<br/>
+		Dublin 4<br/>
+		Ireland<br/>
+		Tel: +353 1 614 5000</p>
+</li>
 
 **Recent Versions**
 
@@ -213,3 +235,4 @@ May 2018 - update to privacy notice;
 <li>
 October 2019 - Oath to Verizon Media name change
 </li>
+1. October 2020 - updates to data transfers and legal bases
