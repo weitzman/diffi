@@ -145,7 +145,7 @@ Manage your preferences about the ads shown to you on Google and on sites and ap
 
 Control what others see about you across Google services.
 
-[Go to About You](https://aboutme.google.com/?utm_source=pp)
+[Go to About You](https://myaccount.google.com/profile?utm_source=pp)
 
 ### Shared endorsements
 
