@@ -3,7 +3,7 @@
 
 We build privacy that works for everyone. Protecting our usersâ privacy and security is a responsibility that comes with creating products and services that are free and accessible for all. This is especially important as technology progresses and safety needs evolve. We look to these principles to guide our products, our processes, and our people in keeping our usersâ data private, safe, and secure.
 
-### Respect our users.<br> â¨Respect their privacy.</br>
+### Respect our users.<br>â¨Respect their privacy.</br>
 
 We believe these ideas are inseparable. Together, they represent a single, core belief that has influenced everything weâve made since day one, and everything weâll make moving forward. When people use our products, they trust us with their information, and itâs our job to do right by them. This means always being thoughtful about what data we use, how we use it, and how we protect it.
 
