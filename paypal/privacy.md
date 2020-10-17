@@ -1,13 +1,13 @@
 
 &gt;&gt; [View all legal agreements](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full?locale.x=en_US)
 
-# <h2>PayPal Privacy Statement</h2>
+# PayPal Privacy Statement
 
 <p> 
 
  
 
-<style type="text/css">div&gt;p {padding-top: 0px; } ol.table-content &gt; li, li&gt;ol, li&gt;ol&gt;li {margin-top: 1rem; } table.ua_table {border: 2px solid #000; border-collapse: collapse; width: auto } .ua_table table {border: 2px solid #000; border-collapse: collapse; width: auto; margin: 0.25em 0.0625rem; } ul {line-height: 120%; margin-bottom: .5rem; } .ua_table th {border: 2px solid #000; padding: 0 0.1875rem; text-align: center; vertical-align: middle } .ua_table td {border: 2px solid #000; padding: 0.1875rem; text-align: inherit; vertical-align: middle } .ua_table td&gt;p, .ua_table p {margin: 0.0625rem; padding: 0 0.1875rem; } .ua_legalhub_div {padding: 0.3125em }
+<style type="text/css">h1&gt;span.cust-h1.pypl-heading.h2{ display:block;	}div&gt;p {padding-top: 0px; } ol.table-content &gt; li, li&gt;ol, li&gt;ol&gt;li {margin-top: 1rem; } table.ua_table {border: 2px solid #000; border-collapse: collapse; width: auto } .ua_table table {border: 2px solid #000; border-collapse: collapse; width: auto; margin: 0.25em 0.0625rem; } ul {line-height: 120%; margin-bottom: .5rem; } .ua_table th {border: 2px solid #000; padding: 0 0.1875rem; text-align: center; vertical-align: middle } .ua_table td {border: 2px solid #000; padding: 0.1875rem; text-align: inherit; vertical-align: middle } .ua_table td&gt;p, .ua_table p {margin: 0.0625rem; padding: 0 0.1875rem; } .ua_legalhub_div {padding: 0.3125em }
 </style>
 <p> 
 
