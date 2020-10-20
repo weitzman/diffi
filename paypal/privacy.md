@@ -307,9 +307,7 @@ No
 |**For nonaffiliates to market to you**|No|We don’t share
 
 No
-<th style="width:33.0%">Questions?</th>|Call our customer service at 1-888-221-1161or visit us at [**https://www.paypal.com/us/smarthelp/contact-us?email=privacy**](https://www.paypal.com/us/smarthelp/contact-us?email=privacy). 
-
-Call our customer service at 1-888-221-1161or visit us at [**https://www.paypal.com/us/smarthelp/contact-us?email=privacy**](https://www.paypal.com/us/smarthelp/contact-us?email=privacy). 
+<th style="width:33.0%">			Questions?			</th><th style="text-align:left;font-weight:normal">Call our customer service at 1-888-221-1161or visit us at [**https://www.paypal.com/us/smarthelp/contact-us?email=privacy**](https://www.paypal.com/us/smarthelp/contact-us?email=privacy). </th>
 <th colspan="2">Who we are</th>
 |**Who is providing this Privacy <u>Statement</u>?**|This privacy notice is provided by PayPal, Inc. and is applicable to your personal U.S. PayPal and/or Xoom accounts. 
 
