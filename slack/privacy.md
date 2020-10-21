@@ -1,5 +1,5 @@
 
-**Effective: October 5, 2020 **
+**Effective: October 5, 2020**
 
 This Privacy Policy describes how Slack collects, uses and discloses information, and what choices you have with respect to the information.
 
