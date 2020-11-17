@@ -13,7 +13,7 @@
 
  
 
-Effective May 13, 2020
+Effective October 16, 2020
 
 1. [**Overview**](#overview)
 <li>[**Your privacy rights and choices**](#privacyRights)
@@ -131,9 +131,10 @@ Here are the kinds of personal data that we may collect when you create an accou
 - Global Positioning System (GPS) information when you give us permission through your device settings
 - IP-based geolocation
 
-7. Audio, electronic, visual, or similar information, for example:
+7. Audio, electronic, visual, biometric, or similar information, for example:
 
 - Call recordings when you talk to customer service
+- Voice identification, when you consent to this biometric method of authentication
 - Photo IDs and profile pictures you provide
 
 8. Professional or employment information, for example:
