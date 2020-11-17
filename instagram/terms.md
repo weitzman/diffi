@@ -1,6 +1,8 @@
 
 ## Terms of Use
 
+These terms will be updated effective December 20, 2020. To preview the new version prior to its effective date, click [here](http://help.instagram.com/1215086795543252?helpref=page_content).
+
 ### **The Instagram Service**
 
 We agree to provide you with the Instagram Service. The Service includes all of the Instagram products, features, applications, services, technologies, and software that we provide to advance Instagram's mission: To bring you closer to the people and things you love. The Service is made up of the following aspects (the Service):
