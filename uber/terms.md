@@ -13,7 +13,11 @@
 
 These Terms of Use ("Terms") govern your access or use, from within the United States and its territories and possessions, of the applications, websites, content, products, and services (the "Services," as more fully defined below in Section 3) made available in the United States and its territories and possessions by Uber USA, LLC and its parents, subsidiaries, representatives, affiliates, officers and directors (collectively, "Uber"). PLEASE READ THESE TERMS CAREFULLY, AS THEY CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU AND UBER. In these Terms, the words "including" and "include" mean "including, but not limited to."
 
-By accessing or using the Services, you confirm your agreement to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Services. These Terms expressly supersede prior agreements or arrangements with you. Uber may immediately terminate these Terms or any Services with respect to you, or generally cease offering or deny access to the Services or any portion thereof, at any time for any reason.
+By accessing or using the Services, you confirm your agreement to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Services. These Terms expressly supersede prior agreements or arrangements with you regarding the use of the Services.
+
+Notwithstanding the foregoing, these Terms do not supersede or otherwise impact the enforceability of any agreements you may have with Uber or its subsidiaries regarding driving, delivering and/or providing transportation and/or delivery services (e.g. the Platform Access Agreement, the Technology Services Agreement and/or any similar agreements). To the extent (but only to the extent) any agreement you may have with Uber regarding driving, delivering and/or providing transportation and/or delivery services conflicts with these Terms, those agreements (and not these Terms) will prevail. 
+
+Uber may immediately terminate these Terms or any Services with respect to you, or generally cease offering or deny access to the Services or any portion thereof, at any time for any reason.
 
 IMPORTANT: PLEASE REVIEW THE ARBITRATION AGREEMENT SET FORTH BELOW CAREFULLY, AS IT WILL REQUIRE YOU TO RESOLVE DISPUTES WITH UBER ON AN INDIVIDUAL BASIS THROUGH FINAL AND BINDING ARBITRATION. BY ENTERING THIS AGREEMENT, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND ALL OF THE TERMS OF THIS AGREEMENT AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION.
 
