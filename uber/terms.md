@@ -6,7 +6,7 @@
 
                   This probably isn't the experience you were expecting. Internet Explorer isn't supported on Uber.com. Try switching to a different browser to view our site.
                 
-- [Uber](https://www.uber.com/)- <button data-baseweb="button" class="da db cy d4 dc dd de bh df dg dh di dj dk b5 dl dm dn do dp dq dr ds c8 c7 c9 c6 ba dt du dv dw dx dy dz e0 e1 e2 e3 cc bk e4 e5 cx"><svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.5 6.5c0 3-2.5 5.5-5.5 5.5S6.5 9.5 6.5 6.5 9 1 12 1s5.5 2.5 5.5 5.5zm-3 0C14.5 5.1 13.4 4 12 4S9.5 5.1 9.5 6.5 10.6 9 12 9s2.5-1.1 2.5-2.5zM3 20c0-3.3 2.7-6 6-6h6c3.3 0 6 2.7 6 6v3h-3v-3c0-1.7-1.4-3-3-3H9c-1.6 0-3 1.3-3 3v3H3v-3z" fill="currentColor"></path></svg></button>- <button data-baseweb="button" class="da db cy d4 dc dd de bh df dg dh di dj dk b5 dl dm dn do dp dq dr ds c8 c7 c9 c6 ba dt du dv e6 e7 e8 e9 e0 e1 ea eb ec ed ee ef e5 cx eg eh">Sign up</button>- <button data-baseweb="button" data-drawer="Company" class="da db cy d4 dc dd de bh df dg dh di dj dk b5 dl dm dn do dp dq dr ds c8 c7 c9 c6 ba dt du dv dw dx dy dz e0 e1 e2 e3 cc bk e4 e5"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" color="white"><path d="M2 6h20v3H2V6z" fill="currentColor"></path>,<path d="M2 15h20v3H2v-3z" fill="currentColor"></path></svg></button>
+- [Uber](https://www.uber.com/)- <button data-baseweb="button" class="d6 d7 cu d0 d8 d9 da bc db dc dd de df dg cf dh di dj dk dl dm dn do c3 c2 c4 c1 b5 dp dq dr ds dt du dv dw dx dy dz c7 bf e0 e1 ct"><svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.5 6.5c0 3-2.5 5.5-5.5 5.5S6.5 9.5 6.5 6.5 9 1 12 1s5.5 2.5 5.5 5.5zm-3 0C14.5 5.1 13.4 4 12 4S9.5 5.1 9.5 6.5 10.6 9 12 9s2.5-1.1 2.5-2.5zM3 20c0-3.3 2.7-6 6-6h6c3.3 0 6 2.7 6 6v3h-3v-3c0-1.7-1.4-3-3-3H9c-1.6 0-3 1.3-3 3v3H3v-3z" fill="currentColor"></path></svg></button>- <button data-baseweb="button" class="d6 d7 cu d0 d8 d9 da bc db dc dd de df dg cf dh di dj dk dl dm dn do c3 c2 c4 c1 b5 dp dq dr e2 e3 e4 e5 dw dx e6 e7 e8 e9 ea eb e1 ct ec ed">Sign up</button>- <button data-baseweb="button" data-drawer="Company" class="d6 d7 cu d0 d8 d9 da bc db dc dd de df dg cf dh di dj dk dl dm dn do c3 c2 c4 c1 b5 dp dq dr ds dt du dv dw dx dy dz c7 bf e0 e1"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" color="white"><path d="M2 6h20v3H2V6z" fill="currentColor"></path>,<path d="M2 15h20v3H2v-3z" fill="currentColor"></path></svg></button>
 # <a id="_fbum8ceet34q"></a>U.S. Terms of Use
 
 ## <a id="_ekm5kelf4h8p"></a>1. Contractual Relationship
@@ -212,8 +212,6 @@ AI
 Elevate
 
 © <!-- -->2020<!-- --> Uber Technologies Inc.
-
-
 
 Privacy
 
