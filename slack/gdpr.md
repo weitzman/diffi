@@ -21,7 +21,7 @@ If you’d like to learn more about Slack’s security policies and procedures, 
 
 ## International Data Transfers
 
-To comply with European Union data protection laws around international data transfer mechanisms, we offer European Union Model Clauses, also known as Standard Contractual Clauses, to meet adequacy and security requirements for our customers who operate in the European Union and the United Kingdom. A copy of our standard data processing addendum, incorporating Model Clauses, is available here.
+To comply with European Union data protection laws around international data transfer mechanisms, we offer European Union Model Clauses, also known as Standard Contractual Clauses, to meet adequacy and security requirements for our customers who operate in the European Union and the United Kingdom. A copy of our standard data processing addendum, incorporating Model Clauses, is available [here](/terms-of-service/data-processing).
 
 While Slack remains self-certified under the E.U.-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield, we aren’t currently relying on these frameworks for the transfer of personal data.
 
