@@ -492,7 +492,7 @@
 												</a><a id="gnav20-Careers-L3-15" class="gnav20-subanchor gnav20-hide-on-mobile" href="https://www.verizon.com/about/careers/locations/north-america" aria-label="North America" target="_self">North America
 												</a></li><li class="gnav20-Level-2 gnav20-sub-nav-list gnav20-bold-link gnav20-column-break"><a id="gnav20-Careers-L2-12" class="gnav20-subanchor gnav20-hide-on-desktop" href="https://www.verizon.com/about/work" aria-label="Search Jobs" target="_blank">Search Jobs
 										</a><a id="gnav20-Careers-L2-12" class="gnav20-subanchor gnav20-hide-on-mobile" href="https://www.verizon.com/about/work" aria-label="Search Jobs" target="_blank">Search Jobs
-										</a></li>1. [About](/about)<i class="fa fa-angle-right fa-arrow" data-unicode="f107"></i>1. Terms of Use 1. 
+										</a></li>1. [About](/about)<i class="fa fa-angle-right fa-arrow" data-unicode="f107"></i> 1. 
 # Terms of Use
 
 We want to make it easier for everyone to find information and access resources across our websites. Listed below, you can find terms for using Verizon’s websites. You can also view specific [terms for Verizon Wireless websites](http://www.verizonwireless.com/b2c/globalText?textName=WEBSITE_USE&amp;jspName=footer/webuse.jsp), as well as [terms for Verizon business customers](http://www.verizonenterprise.com/terms/).
