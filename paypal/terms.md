@@ -45,7 +45,7 @@ Business PayPal accounts may be subject to fees that differ from the fees applic
 
 **By opening up a business PayPal account or converting a personal PayPal account to a business PayPal account, you certify to us that you are using it primarily for a business or commercial purpose. You also consent to PayPal obtaining your personal and/or business credit report from a credit reporting agency at account opening and whenever we reasonably believe there may be an increased level of risk associated with your business PayPal account.**
 
-###  
+ 
 
 #### Commercial Entity Status
 
