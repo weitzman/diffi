@@ -1,14 +1,14 @@
 
 # Lyft Terms of Service
 
-Last Updated: November 27, 2019
+Last Updated: December 9, 2020
 
 
-                    These Terms of Service constitute a legally binding agreement (the “Agreement”)
-                    between you and Lyft, Inc., its parents, subsidiaries, representatives, affiliates,
-                    officers and directors (collectively, “Lyft,” “we,” “us” or “our”) governing your use
-                    of the Lyft application, website, and technology platform (collectively, the “Lyft
-                    Platform”).
+                    These Terms of Service constitute a legally binding agreement (the “Agreement”) between you and
+                    Lyft, Inc., its parents, subsidiaries, representatives, affiliates, officers and directors
+                    (collectively, “Lyft,” “we,” “us” or “our”) governing your use of the Lyft application (the “Lyft
+                    App”), website, and technology platform (collectively, the “Lyft Platform”).
+
                 
 
 
@@ -27,89 +27,84 @@ Last Updated: November 27, 2019
                     you expressly acknowledge that you understand this Agreement (including the dispute
                     resolution and arbitration provisions in Section 17) and accept all of its terms.
                     If you do not agree to be bound by the terms and
-                    conditions of this Agreement, you may not use or access the Lyft Platform or any of
-                    the services provided through the Lyft Platform. If you use the Lyft Platform
+                        conditions of this Agreement, you may not use or access the Lyft Platform or any of
+                        the services provided through the Lyft Platform. If you use the Lyft Platform
                     in another country, you agree to be subject to Lyft's terms of service for that country.
+                
+
+
+                    When using the Lyft Platform, you also agree to conduct yourself in accordance with our <a href="https://www.lyft.com/safety/community-guidelines">Community
+                        Guidelines</a>, which shall form part of this Agreement between you and Lyft.
                 
 
 ## The Lyft Platform
 
 
-                    The Lyft Platform provides a marketplace where persons who seek transportation to
-                    certain destinations (“Riders”) can be matched with transportation options to such
-                    destinations. One option for Riders is to request a ride from rideshare drivers who
-                    are driving to or through those destinations (“Drivers”). Drivers and Riders are
-                    collectively referred to herein as “Users,” and the driving services provided by
-                    Drivers to Riders shall be referred to herein as "Rideshare Services." As a User,
-                    you authorize Lyft to match you with a Driver or Rider based on factors such as
-                    your location, the estimated time to pickup, your destination, user preferences, and
-                    platform efficiency, and to cancel an existing match and rematch based on the same
-                    considerations. Any decision by a User to offer or accept Rideshare Services is a
-                    decision made in such User’s sole discretion. Each Rideshare Service provided by a
-                    Driver to a Rider shall constitute a separate agreement between such persons.
+                    The Lyft Platform provides a marketplace where, among other things, persons who seek transportation
+                    to certain destinations (“Riders”) can be matched with transportation options to such destinations.
+                    One option for Riders is to request a ride from rideshare drivers who are driving to or through
+                    those destinations (“Drivers”). Drivers and Riders are collectively referred to herein as “Users,”
+                    and the driving services provided by Drivers to Riders shall be referred to herein as “Rideshare
+                    Services.” As a User, you authorize Lyft to match you with Drivers or Riders based on factors such
+                    as your location, the requested pickup location, the estimated time to pickup, your destination,
+                    User preferences, driver mode, and platform efficiency, and to cancel an existing match and/or
+                    rematch you with a Driver or Rider based on the same considerations. Any decision by a User to offer
+                    or accept Rideshare Services is a decision made in such User’s sole discretion. Each Rideshare
+                    Service provided by a Driver to a Rider shall constitute a separate agreement between such persons.
                 
 
 
-                    In certain markets, Riders may have the option to rent bikes or scooters through the
-                    Lyft Platform to ride to their destination. In some markets these bikes and scooters
-                    are owned by Lyft. In other markets Lyft operates a bike-share or scooter-share
-                    program on behalf of third parties. In either case, your rental and use of bikes and
-                    scooters through the Lyft Platform is subject to additional agreements between you and
-                    Lyft and third parties as applicable to the particular market ("Supplemental Agreements").
-                    Please review any applicable Supplemental Agreements carefully. If
-                    you do not agree to be bound by the terms and conditions of a supplemental agreement,
-                    you may not rent or use the bikes or scooters in such market. In the event of
-                    any conflict between this Agreement and the terms and conditions of any Supplemental
-                    Agreement, the terms of this agreement shall control.
-                    
+                    In certain markets, Riders may have the option to rent bikes or scooters through the Lyft Platform
+                    to ride to their destination. In some markets these bikes and scooters are owned by Lyft. In other
+                    markets Lyft operates a bike-share or scooter-share program on behalf of third parties. In either
+                    case, your rental and use of bikes and scooters through the Lyft Platform is subject to additional
+                    agreements between you and Lyft and third parties as applicable to the particular market
+                    (“Supplemental Agreements”). Please review any applicable Supplemental Agreements carefully. IF YOU
+                    DO NOT AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF A SUPPLEMENTAL AGREEMENT, YOU MAY NOT RENT
+                    OR USE THE BIKES OR SCOOTERS IN SUCH MARKET. In the event of any conflict between this Agreement and
+                    the terms and conditions of any Supplemental Agreement, the terms of this Agreement shall control.
+                
 
 ## Modification to the Agreement
 
 
-                    Lyft reserves the right to modify the terms and conditions of this Agreement, such
-                    modifications shall be binding on you only upon your acceptance of the modified
-                    Agreement. Lyft reserves the right to modify any information on pages referenced in
-                    the hyperlinks from this Agreement from time to time, and such modifications shall
-                    become effective upon posting. Continued use of the Lyft Platform or Rideshare Services
-                    after any such changes shall constitute your consent to such changes. Unless material
-                    changes are made to the arbitration provisions herein, you agree that modification
-                    of this Agreement does not create a renewed opportunity to opt out of arbitration
-                    (if applicable).
+                    Lyft reserves the right to modify the terms and conditions of this Agreement, and such modifications
+                    shall be binding on you only upon your acceptance of the modified Agreement. Lyft reserves the right
+                    to modify any information on pages referenced in the hyperlinks from this Agreement from time to
+                    time, and such modifications shall become effective upon posting. Continued use of the Lyft Platform
+                    or Rideshare Services after any such changes shall constitute your consent to such changes. Unless
+                    material changes are made to the arbitration provisions herein, you agree that modification of this
+                    Agreement does not create a renewed opportunity to opt out of arbitration (if applicable).
                 
 
 ## Eligibility
 
 
-                    The Lyft Platform may only be used by individuals who have the right and
-                    authority to enter into this Agreement, are fully able and competent to satisfy
-                    the terms, conditions, and obligations herein. The Lyft Platform is not
-                    available to Users who have had their User account temporarily or permanently
-                    deactivated. You may not allow other persons to use your User account, and you
-                    agree that you are the sole authorized user of your account. To use the Lyft
-                    Platform, each User shall create a User account. Each person may only create
-                    one User account, and Lyft reserves the right to deactivate any additional or
-                    duplicate accounts.
+                    The Lyft Platform may only be used by individuals who have the right and authority to enter into
+                    this Agreement and are fully able and competent to satisfy the terms, conditions, and obligations
+                    herein. The Lyft Platform is not available to Users who have had their User account temporarily or
+                    permanently deactivated. You may not allow other persons to use your User account, and you agree
+                    that you are the sole authorized user of your account. To use the Lyft Platform, each User shall
+                    create a User account. Each person may only create one User account, and Lyft reserves the right to
+                    deactivate any additional or duplicate accounts. Your participation in certain Lyft programs and use
+                    of certain Lyft products or services may be subject to additional eligibility requirements as
+                    determined by Lyft.
                 
 
 
-                    By becoming a User, you represent and warrant that you are at least 18 years
-                    old.  Notwithstanding the foregoing, if you are the parent or legal guardian of
-                    a 16 or 17-year old minor you may create a Lyft account for such minor to use
-                    the Lyft Platform subject to the following requirements and restrictions: (a)
-                    you ensure that the minor’s use of the Lyft Platform is limited solely to
-                    accessing and using bike-share or scooter-share services where expressly
-                    permitted under the Supplemental Agreement applicable to such services, (b) you
-                    ensure that the minor’s use of the Lyft Platform and applicable bike-share or
-                    scooter-share services is done in compliance and acknowledgement of all
-                    applicable safety instructions and warnings in this Agreement, any applicable
-                    Supplemental Agreements, and the Lyft App, (c) you ensure that the minor does
-                    not request or accept any Rideshare Services unless accompanied by you or an
-                    authorized guardian, and (d) you expressly guarantee the minor’s acceptance of
-                    the terms of this Agreement. You will be responsible for any breach of the above
-                    representations, warranties and/or this Agreement, and/or any attempt of the
-                    minor to disaffirm this Agreement. Furthermore, you hereby represent that you
-                    are fully authorized to execute this Agreement on behalf of yourself and all
-                    other parents or legal guardians of the minor rider.
+                    By becoming a User, you represent and warrant that you are at least 18 years old. Notwithstanding
+                    the foregoing, if you are the parent or legal guardian of a 16 or 17-year-old minor you may create a
+                    Lyft account for such minor to use the Lyft Platform subject to the following requirements and
+                    restrictions: (a) you ensure that the minor’s use of the Lyft Platform is limited solely to
+                    accessing and using bike-share or scooter-share services where expressly permitted under the
+                    Supplemental Agreement applicable to such services, (b) you determine that the bike-share and
+                    scooter-share services are suitable for the minor, (c) you ensure that the minor’s use of the Lyft
+                    Platform and applicable bike-share or scooter-share services is done in compliance and
+                    acknowledgement of all applicable safety instructions and warnings in this Agreement, any applicable
+                    Supplemental Agreements, and the Lyft App, (d) you ensure that the minor does not request or accept
+                    any Rideshare Services unless accompanied by you or an authorized guardian, (e) you explain the
+                    terms of this Agreement to the minor, and (f) you expressly guarantee the minor’s acceptance of the
+                    terms of this Agreement.
                 
 
 
@@ -126,24 +121,21 @@ Last Updated: November 27, 2019
 ## Charges
 
 
-                    As a rider, you understand that request or use of Rideshare Services may result
-                    in  charges to you (“Charges”). Charges related to bikes and scooters are
-                    addressed in  the applicable Supplemental Agreement. Charges for Rideshare
-                    Services include Fares  and other applicable fees, tolls, surcharges, and taxes
-                    as set forth on your market’s Lyft Cities page ([www.lyft.com/cities](https://www.lyft.com/cities)), plus any tips to
-                    the  Driver that you elect to pay. Lyft has the authority and reserves the right
-                    to  determine and modify pricing by posting applicable pricing terms to your
-                    market’s  Lyft Cities page or quoting you a price for a specific ride at the
-                    time you make a  request. Pricing may vary based on the type of service you
-                    request (e.g., shared,  economy, extra seats, luxury) as described on your
-                    market’s Lyft Cities page. You are  responsible for reviewing the applicable
-                    Lyft Cities page or price quote within the  Lyft app and shall be responsible
-                    for all Charges incurred under your User account  regardless of your awareness
-                    of such Charges or the amounts thereof.
+                    As a Rider, you understand that request or use of Rideshare Services may result in charges to you
+                    (“Charges”). Charges related to bikes and scooters are addressed in the applicable Supplemental
+                    Agreement. Charges for Rideshare Services include Fares and other applicable fees, tolls,
+                    surcharges, and taxes as set forth on your market’s Lyft Cities page ([www.lyft.com/cities](https://www.lyft.com/cities)), plus any
+                    tips to the Driver that you elect to pay. Lyft has the authority and reserves the right to determine
+                    and modify pricing by posting applicable pricing terms to your market’s Lyft Cities page or quoting
+                    you a price for a specific ride at the time you make a request. Pricing may vary based on the type
+                    of service you request (e.g., shared, economy, extra seats, luxury) as described on your market’s
+                    Lyft Cities page. You are responsible for reviewing the applicable Lyft Cities page or price quote
+                    within the Lyft App and shall be responsible for all Charges incurred under your User account
+                    regardless of your awareness of such Charges or the amounts thereof.
                 
 
 
-                    Fares. There are two types of fares, variable and quoted.
+                    Fares. There are two types of Fares, variable and quoted.
                 
 
 <li>
@@ -174,19 +166,18 @@ Last Updated: November 27, 2019
                         as set forth on the applicable Lyft Cities page.
                     </li>
 <li>
-**Prime Time**. At times of high demand for Rideshare Services
-                        ("Prime Time”) you acknowledge that Charges may increase substantially. For all
-                        rides with a variable fare, we will use reasonable efforts to inform you of any Prime
-                        Time multipliers in effect at the time of your request. For quoted fares we may
-                        factor in the Prime Time multiplier into the quoted price of the ride.
+**Prime Time**. At certain times, including times of high demand for Rideshare
+                        Services (“Prime Time”), you acknowledge that Charges may increase substantially. For all rides
+                        with a variable fare, we will use reasonable efforts to inform you of any Prime Time increases
+                        in effect at the time of your request. For Quoted Fares we may factor in the Prime Time
+                        increases into the quoted price of the ride.
+
                     </li>
 <li>
-**Cancellation Fee**. After requesting a ride you may cancel it
-                        through the app, but note that in certain cases a cancellation fee may apply.
-                        You may also be charged if you fail to show up after requesting a ride. Please
-                        check out our Help Center to learn more about
-                        <a href="https://help.lyft.com/hc/articles/115012922687-Cancellation-policy-for-passengers">
-                        Lyft’s cancellation policy</a>, including applicable fees.
+**Cancellation Fee**. After requesting a ride you may cancel it through the Lyft
+                        App, but note that in certain cases a cancellation fee may apply. You may also be charged if you
+                        fail to show up after requesting a ride. Please check out our Help Center to learn more about <a href="https://help.lyft.com/hc/en-us/articles/115012922687-Cancellation-policy-for-passengers">Lyft’s
+                            cancellation policy</a>, including applicable fees.
                     </li>
 <li>
 **Damage Fee**. If a Driver reports that you have materially
@@ -199,24 +190,22 @@ Last Updated: November 27, 2019
 <li>
 **Tolls**. In some instances tolls (or return tolls) may apply to
                         your ride. Please see our Help Center and your market’s Lyft Cities page for
-                        more <a href="https://help.lyft.com/hc/articles/115012927787-Toll-info-for-passengers">
-                        information about toll charges</a> and a list of applicable
-                        <a href="https://help.lyft.com/hc/articles/213815078-List-of-Tolls">tolls
-                        and return charges</a>. We do not guarantee that the amount charged by Lyft
+                        more <a href="https://help.lyft.com/hc/en-us/articles/115012927787-Toll-info-for-passengers">
+                            information about toll charges</a> and a list of applicable
+                        <a href="https://help.lyft.com/hc/en-us/articles/115012927227">tolls
+                            and return charges</a>. We do not guarantee that the amount charged by Lyft
                         will match the toll charged to the Driver, if any.
                     </li>
 <li>
-**Other Charges**. Other fee and surcharges may apply to your
-                        ride, including: actual or anticipated airport fees, state or local fees, or
-                        event fees as determined by Lyft or its marketing partners. In addition, where
-                        required by law Lyft will collect applicable taxes. See your market's
-                        Lyft Cities page for details on other Charges that may apply to your ride.
+**Other Charges**. Other fees and surcharges may apply to your ride, including:
+                        actual or anticipated airport fees, state or local fees, or event fees as determined by Lyft or
+                        its marketing partners. In addition, where required by law Lyft will collect applicable taxes.
+                        See your market’s Lyft Cities page for details on other Charges that may apply to your ride.
                     </li>
 <li>
-**Tips**. Following a ride, you may elect to tip your Driver in
-                        cash or through the Lyft application. You may also elect to set a default tip
-                        amount or percentage through the app; Any tips will be provided entirely to the
-                        applicable Driver.
+**Tips**. Following a ride, you may elect to tip your Driver in cash or through the
+                        Lyft Platform. You may also elect to set a default tip amount or percentage through the Lyft
+                        App. Any tips will be provided entirely to the applicable Driver.
                     </li>
 
 
@@ -224,16 +213,15 @@ Last Updated: November 27, 2019
                 
 
 <li>
-**Facilitation of Charges**. All Charges are facilitated through a
-                        third-party payment processor (e.g., First Data, Stripe, Inc., or Braintree, a
-                        division of PayPal, Inc.). Lyft may replace its third-party payment processor
-                        without notice to you. Charges shall only be made through the Lyft
-                        Platform. With the exception of tips, cash payments are strictly prohibited.
-                        Your payment of Charges to Lyft satisfies your payment obligation for your use
-                        of the Lyft Platform and Rideshare Services. Lyft may group multiple charges
-                        into a single aggregate transaction on your payment method based on the date(s)
-                        they were incurred. If you don't recognize a transaction, then check your ride
-                        receipts and payment history.
+**Facilitation of Charges**. All Charges are facilitated through a third-party
+                        payment processor (e.g., First Data, Stripe, Inc., or Braintree, a division of PayPal, Inc.).
+                        Lyft may replace its third-party payment processor without notice to you. Charges shall only be
+                        made through the Lyft Platform. With the exception of tips, cash payments are strictly
+                        prohibited. Your payment of Charges to Lyft satisfies your payment obligation for your use of
+                        the Lyft Platform and Rideshare Services. Lyft may group multiple Charges into a single
+                        aggregate transaction on your payment method based on the nature of the Charges and/or the
+                        date(s) they were incurred. If you don't recognize a transaction, then check your ride receipts
+                        and payment history.
                     </li>
 <li>
 **No Refunds**. All Charges are non-refundable. This no-refund
@@ -242,17 +230,15 @@ Last Updated: November 27, 2019
                         or any other reason whatsoever.
                     </li>
 <li>
-**Coupons**. You may receive coupons that you can apply toward
-                        payment of certain Charges upon completion of a Ride. Coupons are only valid
-                        for use on the Lyft Platform, and are not transferable or redeemable for cash
-                        except as required by law.  Coupons cannot be combined, and if the cost of your
-                        ride exceeds the applicable credit or discount value we will charge your
-                        payment method on file for the outstanding cost of the Ride. For quoted or
-                        variable fares, Lyft may deduct the amount attributable to the Service Fee,
-                        Tolls, or Other Charges before application of the coupon. Additional
-                        restrictions on coupons may apply as communicated to you in a relevant
-                        promotion or by clicking on the relevant coupon within the Promotions
-                        section of the Lyft App.
+**Coupons**. You may receive coupons that you can apply toward payment of certain
+                        Charges upon completion of a Ride. Coupons are only valid for use on the Lyft Platform, and are
+                        not transferable or redeemable for cash except as required by law. Coupons cannot be combined
+                        unless expressly provided otherwise, and if the cost of your ride exceeds the applicable credit
+                        or discount value we will charge your payment method on file for the outstanding cost of the
+                        Ride. For quoted or variable fares, Lyft may deduct the amount attributable to the Service Fee,
+                        Tolls, or Other Charges before application of the coupon. Additional restrictions on coupons may
+                        apply as communicated to you in a relevant promotion or by clicking on the relevant coupon
+                        within the Promotions section of the Lyft App.
                     </li>
 <li>
 **Credit Card Authorization**. Upon addition of a new payment
@@ -265,32 +251,34 @@ Last Updated: November 27, 2019
                         subject to overdraft of NSF charges by the bank issuing your debit or prepaid
                         card. We cannot be held responsible for these charges and are unable to assist
                         you in recovering them from your issuing bank. Check out our Help Center to
-                        learn more about <a href="https://help.lyft.com/hc/articles/214216577-I-m-Seeing-a-Charge-from-Lyft-on-my-Bank-Account">
-                        our use of pre-authorization holds</a>.
+                        learn more about <a href="https://help.lyft.com/hc/en-us/articles/115012926167">
+                            our use of pre-authorization holds</a>.
                     </li>
 
 ## Payments
 
 
                     If you are a Driver, you will receive payment for your provision of Rideshare
-                    Services pursuant to the terms of the [Driver Addendum](https://www.lyft.com/terms/driver-addendum), which shall
+                    Services pursuant to the terms of the <a href="https://www.lyft.com/terms/driver-addendum">Driver
+                        Addendum</a>, which shall
                     form part of this Agreement between you and Lyft.
                 
 
 ## Lyft Communications
 
 
-                    By entering into this Agreement or using the Lyft Platform, you agree to receive
-                    communications from us, including via e-mail, text message, calls, and push
-                    notifications. You agree that texts, calls or prerecorded messages may be generated
-                    by automatic telephone dialing systems. Communications from Lyft, its affiliated
-                    companies and/or Drivers, may include but are not limited to: operational
-                    communications concerning your User account or use of the Lyft Platform or
-                    Rideshare Services, use of bikes and scooters through the Lyft Platform, updates
-                    concerning new and existing features on the Lyft Platform, communications
-                    concerning promotions run by us or our third-party partners, and news
-                    concerning Lyft and industry developments. Standard text messaging charges
-                    applied by your cell phone carrier will apply to text messages we send.
+                    By entering into this Agreement or using the Lyft Platform, you agree to receive communications from
+                    us or communications related to the Lyft Platform at any of the phone numbers provided to Lyft by
+                    you or on your behalf, including via e-mail, text message, calls, and push notifications. You agree
+                    that texts, calls or prerecorded messages may be generated by automatic telephone dialing systems.
+                    Communications from Lyft, its affiliated companies and/or Drivers, may include but are not limited
+                    to: operational communications concerning your User account or use of the Lyft Platform or Rideshare
+                    Services, use of bikes and scooters through the Lyft Platform, updates concerning new and existing
+                    features on the Lyft Platform, communications concerning marketing or promotions run by us or our
+                    third-party partners, and news concerning Lyft and industry developments. If you change or
+                    deactivate the phone number you provided to Lyft, you agree to update your account information to
+                    help prevent us from inadvertently communicating with anyone who acquires your old number. Standard
+                    text messaging charges applied by your cell phone carrier will apply to text messages we send.
                 
 
 
@@ -321,7 +309,7 @@ Last Updated: November 27, 2019
                     public, and we act only as a passive conduit for your online posting of your
                     Information. You agree to provide and maintain accurate, current and complete
                     information and that we and other members of the public may rely on your
-                    Information as accurate, current and complete.  To enable Lyft to use your
+                    Information as accurate, current and complete. To enable Lyft to use your
                     Information for the purposes described in the Privacy Policy and this Agreement,
                     you grant to us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free,
                     transferable, sub-licensable (through multiple tiers) right and license to exercise
@@ -351,12 +339,9 @@ Last Updated: November 27, 2019
                 
 
 
-                    Currently, Lyft's referral program ("Referral Program")
-                    provides you with incentives to refer your friends and family to become new
-                    Users of the Lyft Platform in your country (the “Referral Program").
-                    Your participation in the Referral Program is subject to this Agreement and
-                    the additional <a href="https://www.lyft.com/invite-terms">Referral Program
-                    rules</a>.
+                    Currently, Lyft’s referral program provides you with incentives to refer your friends and family to
+                    become new Users of the Lyft Platform in your country (the “Referral Program”). Your participation
+                    in the Referral Program is subject to this Agreement and the additional [Referral Program rules](https://www.lyft.com/terms/referrals).
                 
 
 ## Restricted Activities
@@ -434,8 +419,8 @@ Last Updated: November 27, 2019
                         condition, marital status, age or sexual orientation;
                     </li>
 <li>
-                      violate any of the Referral Program rules if you participate in the Referral
-                      Program; or
+                        violate any of the Referral Program rules if you participate in the Referral
+                        Program; or
                     </li>
 <li>
                         cause any third party to engage in the restricted activities above.
@@ -462,11 +447,11 @@ Last Updated: November 27, 2019
                         safety recalls have been remedied per manufacturer instructions.
                     </li>
 <li>
-                        You will not engage in reckless behavior while driving, drive unsafely, operate
-                        a vehicle that is unsafe to drive, permit an unauthorized third party to
-                        accompany you in the vehicle while providing Rideshare Services, Rideshare provide
-                        Services as a Driver while under the influence of alcohol or drugs, or take action
-                        that harms or threatens to harm the safety of the Lyft community or third parties.
+                        You will not engage in reckless behavior while driving, drive unsafely, operate a vehicle that
+                        is unsafe to drive, permit an unauthorized third party to accompany you in the vehicle while
+                        providing Rideshare Services, provide Services as a Driver while under the influence of alcohol
+                        or drugs, or take action that harms or threatens to harm the safety of the Lyft community or
+                        third parties.
                     </li>
 <li>
                         You will only provide Rideshare Services using the vehicle that has been reported to,
@@ -490,14 +475,14 @@ Last Updated: November 27, 2019
                         the law.
                     </li>
 <li>
-                        You will not discriminate against Riders with disabilities and agree to review
-                        Lyft's [Anti-Discrimination Policies](https://help.lyft.com/hc/en-us/articles/115012923767-Anti-Discrimination-Policies).
-                        You will make responsible accommodation as required by law and our
-                        <a href="https://help.lyft.com/hc/articles/115013080048-Service-animal-policy">
-                        Service Animal Policy</a> and [Wheelchair Policy](https://help.lyft.com/hc/en-us/articles/115012926827-Wheelchair-Policy)
-                        for Riders who travel with their service animals or who use wheelchairs
-                        (or other mobility devices) that can be folded for safe and secure storage in the
-                        car's trunk or backseat.
+                        You will not discriminate against Riders with disabilities and agree to review Lyft’s
+                        <a href="https://help.lyft.com/hc/en-us/articles/115012923767-Anti-Discrimination-Policies">Anti-Discrimination
+                            Policies</a>. You will make reasonable accommodation as required by law and our
+                        <a href="https://help.lyft.com/hc/en-us/articles/115013080048-Service-animal-policy">Service
+                            Animal Policy</a> and <a href="https://help.lyft.com/hc/en-us/articles/115012926827-Wheelchair-Policy">Wheelchair
+                            Policy</a> for Riders who travel with their service animals or
+                        who use wheelchairs (or other mobility devices) that can be folded for safe and secure storage
+                        in the car’s trunk or backseat.
                     </li>
 <li>
                         You agree that we may obtain information about you, including your criminal and
@@ -533,33 +518,30 @@ Last Updated: November 27, 2019
                 
 
 
-                    LYFT and other Lyft logos, designs, graphics, icons, scripts and service names are
-                    registered trademarks, trademarks or trade dress of Lyft in the United States
-                    and/or other countries (collectively, the “Lyft Marks”). If you provide Rideshare
-                    Services as a Driver, Lyft grants to you, during the term of this Agreement, and
-                    subject to your compliance with the terms and conditions of this Agreement, a limited,
-                    revocable, non-exclusive license to display and use the Lyft Marks solely on the
-                    Lyft stickers/decals, Lyft Amp, and any other Lyft-Branded items provided by Lyft
-                    directly to you in connection with providing the Rideshare Services ("License").
-                    The License is non-transferable and non-assignable, and you shall not grant to any
-                    third party any right, permission, license or sublicense with respect to any of the
-                    rights granted hereunder without Lyft’s prior written permission, which it may
-                    withhold in its sole discretion. The Lyft logo (or any Lyft Marks) may not be
-                    used in any manner that is likely to cause confusion, including but not limited
-                    to: use of a Lyft Mark in a domain name or Lyft referral code, or use of a Lyft
-                    Mark as a social media handle or name, avatar, profile photo, icon, favicon,
-                    or banner. You may identify yourself as a Driver on the Lyft Platform, but may
-                    not misidentify yourself as Lyft, an employee of Lyft, or a representative of Lyft.
+                    LYFT and other Lyft logos, designs, graphics, icons, scripts and service names are registered
+                    trademarks, trademarks or trade dress of Lyft in the United States and/or other countries
+                    (collectively, the “Lyft Marks”). If you provide Rideshare Services as a Driver, Lyft grants to you,
+                    during the term of this Agreement, and subject to your compliance with the terms and conditions of
+                    this Agreement, a limited, revocable, non-exclusive license to display and use the Lyft Marks solely
+                    on the Lyft stickers/decals, Lyft Amp, and any other Lyft-branded items provided by Lyft directly to
+                    you in connection with providing the Rideshare Services (“License”). The License is non-transferable
+                    and non-assignable, and you shall not grant to any third party any right, permission, license or
+                    sublicense with respect to any of the rights granted hereunder without Lyft’s prior written
+                    permission, which it may withhold in its sole discretion. The Lyft logo (or any Lyft Marks) may not
+                    be used in any manner that is likely to cause confusion, including but not limited to: use of a Lyft
+                    Mark in a domain name or Lyft referral code, or use of a Lyft Mark as a social media handle or name,
+                    avatar, profile photo, icon, favicon, or banner. You may identify yourself as a Driver on the Lyft
+                    Platform, but may not misidentify yourself as Lyft, an employee of Lyft, or a representative of
+                    Lyft.
                 
 
 
-                    You acknowledge that Lyft is the owner and licensor of the Lyft Marks, including
-                    all goodwill associated therewith, and that your use of the Lyft logo
-                    (or any Lyft Marks) will confer no interest in or ownership of the Lyft Marks in you
-                    but rather inures to the benefit of Lyft. You agree to use the Lyft logo strictly in
-                    accordance with Lyft’s Trademark Usage Guidelines, as may be provided to you and revised
-                    from time to time, and to immediately cease any use that Lyft determines to nonconforming
-                    or otherwise unacceptable.
+                    You acknowledge that Lyft is the owner and licensor of the Lyft Marks, including all goodwill
+                    associated therewith, and that your use of the Lyft logo (or any Lyft Marks) will confer no interest
+                    in or ownership of the Lyft Marks in you but rather inures to the benefit of Lyft. You agree to use
+                    the Lyft logo strictly in accordance with Lyft’s Brand Guidelines, as may be provided to you and
+                    revised from time to time, and to immediately cease any use that Lyft determines to nonconforming or
+                    otherwise unacceptable.
                 
 
 
@@ -604,7 +586,8 @@ Last Updated: November 27, 2019
 
                     Lyft respects the intellectual property of others, and expects Users to do the
                     same. If you believe, in good faith, that any materials on the Lyft Platform
-                    infringe upon your copyrights, please [view our Copyright Policy](https://www.lyft.com/copyright) for information
+                    infringe upon your copyrights, please <a href="https://www.lyft.com/copyright">view our Copyright
+                        Policy</a> for information
                     on how to make a copyright complaint.
                 
 
@@ -628,35 +611,34 @@ Last Updated: November 27, 2019
                 
 
 
-                    The Lyft Platform is provided on an “as is” basis and without any warranty or
-                    condition, express, implied or statutory. We do not guarantee and do not promise
-                    any specific results from use of the Lyft Platform and/or the Rideshare Services,
-                    including the ability to provide or receive Rideshare Services at any given location
-                    or time. To the fullest extent permitted by law, we specifically disclaim any
-                    implied warranties of title, merchantability, fitness for a particular purpose and
-                    non-infringement. Some states do not allow the disclaimer of implied warranties, so
-                    the foregoing disclaimer may not apply to you.
+                    The Lyft Platform is provided on an “as is” basis and without any warranty or condition, express,
+                    implied or statutory. We do not guarantee and do not promise any specific results from use of the
+                    Lyft Platform and/or the Rideshare Services, including the ability to provide or receive Rideshare
+                    Services at any given location or time. Lyft reserves the right, for example, to limit or eliminate
+                    access to the Lyft Platform for Rideshare Services in specific geographic areas and/or at specific
+                    times based on commercial viability, public health concerns, or changes in law. To the fullest
+                    extent permitted by law, we specifically disclaim any implied warranties of title, merchantability,
+                    fitness for a particular purpose and non-infringement. Some states do not allow the disclaimer of
+                    implied warranties, so the foregoing disclaimer may not apply to you.
                 
 
 
-                    We do not warrant that your use of the Lyft Platform or Rideshare Services will be
-                    accurate, complete, reliable, current, secure, uninterrupted, always available, or
-                    error- free, or will meet your requirements, that any defects in the Lyft Platform
-                    will be corrected, or that the Lyft Platform is free of viruses or other harmful
-                    components. We disclaim liability for, and no warranty is made with respect to,
-                    connectivity and availability of the Lyft Platform or Rideshare Services.
+                    We do not warrant that your use of the Lyft Platform or Rideshare Services will be accurate,
+                    complete, reliable, current, secure, uninterrupted, always available, or error-free, or will meet
+                    your requirements, that any defects in the Lyft Platform will be corrected, or that the Lyft
+                    Platform is free of viruses or other harmful components. We disclaim liability for, and no warranty
+                    is made with respect to, connectivity and availability of the Lyft Platform or Rideshare Services.
                 
 
 
-                    We cannot guarantee that each Rider is who he or she claims to be. Please use
-                    common sense when using the Lyft Platform and Rideshare Services, including looking
-                    at the photos of the Driver or Rider you have matched with to make sure it is the
-                    same individual you see in person. Please note that there are also risks of dealing
-                    with underage persons or people acting under false pretense, and we do not accept
-                    responsibility or liability for any content, communication or other use or access
-                    of the Lyft Platform by persons under the age of 18 in violation of this Agreement.
-                    We encourage you to communicate directly with each potential Driver or Rider prior
-                    to engaging in an arranged transportation service.
+                    We cannot guarantee that each Rider or Driver is who he or she claims to be. Please use common sense
+                    when using the Lyft Platform and Rideshare Services, including looking at the photos of the Driver
+                    or Rider you have matched with to make sure it is the same individual you see in person. Please note
+                    that there are also risks of dealing with underage persons or people acting under false pretense,
+                    and we do not accept responsibility or liability for any content, communication or other use or
+                    access of the Lyft Platform by persons under the age of 18 in violation of this Agreement. We
+                    encourage you to communicate directly with each potential Driver or Rider prior to engaging in an
+                    arranged transportation service.
                 
 
 
@@ -715,37 +697,33 @@ Last Updated: November 27, 2019
                 
 
 
-                    Lyft advises you to use the Lyft Platform with a data plan with unlimited or very
-                    high data usage limits, and Lyft shall not responsible or liable for any fees,
-                    costs, or overage charges associated with any data plan you use to access the Lyft
-                    Platform.
+                    Lyft advises you to use the Lyft Platform with a data plan with unlimited or very high data usage
+                    limits, and Lyft shall not be responsible or liable for any fees, costs, or overage charges
+                    associated with any data plan you use to access the Lyft Platform.
                 
 
 
-                    This paragraph applies to any version of the Lyft Platform that you acquire from
-                    the Apple App Store. This Agreement is entered into between you and Lyft. Apple,
-                    Inc. (“Apple”) is not a party to this Agreement and shall have no obligations with
-                    respect to the Lyft Platform. Lyft, not Apple, is solely responsible for the Lyft
-                    Platform and the content thereof as set forth hereunder. However, Apple and Apple’s
-                    subsidiaries are third party beneficiaries of this Agreement. Upon your acceptance
-                    of this Agreement, Apple shall have the right (and will be deemed to have accepted
-                    the right) to enforce this Agreement against you as a third party beneficiary
-                    thereof. This Agreement incorporates by reference <a href="http://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/">
-                    Apple’s Licensed Application End User License Agreement</a>, for purposes of which,
-                    you are “the end-user.” In the event of a conflict in the terms of the Licensed
-                    Application End User License Agreement and this Agreement, the terms of this
-                    Agreement shall control.
+
+
+                    As a Driver, you may be able to use "Lyft Nav built by Google" while providing Rideshare Services on
+                    the Platform. Riders and Drivers may also use Google Maps while using the Lyft App. In either case,
+                    you agree that Google may collect your location data when the Lyft App is running in order to
+                    provide and improve Google's services, that such data may also be shared with Lyft in order to
+                    improve its operations, and that Google's [terms](https://www.google.com/help/terms_maps/) and [privacy policy](https://policies.google.com/privacy?hl=en&amp;gl=gl) will apply to this
+                    usage.
                 
 
 
-                    As a Driver, you may be able to use "Lyft Nav built by Google" while providing
-                    Rideshare Services on the Platform. Riders and Drivers may also use Google Maps
-                    while using the App. In either case, you agree that Google may collect your
-                    location data when the Lyft App is running in order to provide and improve
-                    Google's services, that such data may also be shared with Lyft in order to
-                    improve its operations, and that Google's <a href="https://www.google.com/help/terms_maps.html">
-                    terms</a> and <a href="https://www.google.com/intl/en_gl/policies/privacy/">
-                    privacy policy</a> will apply to this usage.
+                    Lyft shall not be in breach of this Agreement nor liable for failure or delay in performing
+                    obligations under this Agreement if such failure or delay results from events, circumstances or
+                    causes beyond its reasonable control including (without limitation) natural disasters or acts of
+                    God; acts of terrorism; labor disputes or stoppages; war; government action; epidemic or pandemic;
+                    chemical or biological contamination; strikes, riots, or acts of domestic or international
+                    terrorism; quarantines; national or regional emergencies; or any other cause, whether similar in
+                    kind to the foregoing or otherwise, beyond the party’s reasonable control. All service dates under
+                    this Agreement affected by force majeure shall be tolled for the duration of such force majeure. The
+                    parties hereby agree, when feasible, not to cancel but reschedule the pertinent obligations as soon
+                    as practicable after the force majeure condition ceases to exist.
                 
 
 ## State and Local Disclosures
@@ -766,7 +744,7 @@ Last Updated: November 27, 2019
                     losses, costs, liabilities and expenses (including reasonable attorneys’ fees)
                     relating to or arising out of your use of the Lyft Platform and participation in
                     the Rideshare Services, including: (1) your breach of this Agreement or the documents
-                    it incorporates by reference;  (2) your violation of any law or the rights of a third
+                    it incorporates by reference; (2) your violation of any law or the rights of a third
                     party, including, Drivers, Riders, other motorists, and pedestrians, as a result of
                     your own interaction with such third party; (3) any allegation that any materials
                     that you submit to us or transmit through the Lyft Platform or to us infringe or
@@ -781,49 +759,42 @@ Last Updated: November 27, 2019
 ## Limitation of Liability
 
 
-                    In no event will Lyft, including our affiliates, subsidiaries, parents, successors
-                    and assigns, and each of our respective officers, directors, employees, agents, or
-                    shareholders (collectively “Lyft” for purposes of this section), be liable to you
-                    for any incidental, special, exemplary, punitive, consequential, or indirect
-                    damages (including damages for deletion, corruption, loss of data, loss of
-                    programs, failure to store any information or other content maintained or
-                    transmitted by the Lyft Platform, service interruptions, or for the cost of
-                    procurement of substitute services) arising out of or in connection with the Lyft
-                    Platform, the Rideshare Services, or this Agreement, however arising including
-                    negligence, even if we or our agents or representatives know or have been advised
-                    of the possibility of such damages. The Lyft Platform may be used by you to request
-                    and schedule transportation, goods, or other services with third party providers,
-                    but you agree that Lyft has no responsibility or liability to you related to any
-                    transportation, goods or other services provided to you by third party providers
-                    other than as expressly set forth in this agreement. Certain jurisdictions may not
-                    allow the exclusion or limitation of certain damages. If these laws apply to you,
-                    some or all of the above disclaimers, exclusions or limitations may not apply to
-                    you, and you may have additional rights.
+                    IN NO EVENT WILL LYFT, INCLUDING OUR AFFILIATES, SUBSIDIARIES, PARENTS, SUCCESSORS AND ASSIGNS, AND
+                    EACH OF OUR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR SHAREHOLDERS (COLLECTIVELY “LYFT”
+                    FOR PURPOSES OF THIS SECTION), BE LIABLE TO YOU FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE,
+                    CONSEQUENTIAL, OR INDIRECT DAMAGES (INCLUDING DAMAGES FOR DELETION, CORRUPTION, LOSS OF DATA, LOSS
+                    OF PROGRAMS, FAILURE TO STORE ANY INFORMATION OR OTHER CONTENT MAINTAINED OR TRANSMITTED BY THE LYFT
+                    PLATFORM, SERVICE INTERRUPTIONS, OR FOR THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES) ARISING OUT
+                    OF OR IN CONNECTION WITH THE LYFT PLATFORM, RIDESHARE SERVICES, OR THIS AGREEMENT, HOWEVER ARISING
+                    INCLUDING NEGLIGENCE, EVEN IF WE OR OUR AGENTS OR REPRESENTATIVES KNOW OR HAVE BEEN ADVISED OF THE
+                    POSSIBILITY OF SUCH DAMAGES. THE LYFT PLATFORM MAY BE USED BY YOU TO REQUEST AND SCHEDULE
+                    TRANSPORTATION, GOODS, OR OTHER SERVICES WITH THIRD-PARTY PROVIDERS, BUT YOU AGREE THAT LYFT HAS NO
+                    RESPONSIBILITY OR LIABILITY TO YOU RELATED TO ANY TRANSPORTATION, GOODS OR OTHER SERVICES PROVIDED
+                    TO YOU BY THIRD PARTY PROVIDERS OTHER THAN AS EXPRESSLY SET FORTH IN IN THIS AGREEMENT. CERTAIN
+                    JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO
+                    YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU
+                    MAY HAVE ADDITIONAL RIGHTS.
                 
 
 ## Term and Termination
 
 
-                    This Agreement is effective upon your creation of a User account. This
-                    Agreement may be terminated: a) by User, without cause, upon seven (7) days’
-                    prior written notice to Lyft; or b) by either Party immediately, without
-                    notice, upon the other Party’s material breach of this Agreement, including but
-                    not limited to any breach of Section 9 or breach of Section 10(a) through (i)
-                    of this Agreement. In addition, Lyft may terminate this Agreement or deactivate
-                    your User account immediately in the event: (1) you no longer qualify to
-                    provide Rideshare Services or to operate the approved vehicle under applicable
-                    law, rule, permit, ordinance or regulation; (2) you fall below Lyft’s star rating
-                    or cancellation threshold; (3) Lyft has the good faith belief that such action is
-                    necessary to protect the safety of the Lyft community or third parties,
-                    provided that in the event of a deactivation pursuant to (1)-(3) above, you
-                    will be given notice of the potential or actual deactivation and an opportunity
-                    to attempt to cure the issue to Lyft’s reasonable satisfaction prior to Lyft
-                    permanently terminating the Agreement. For all other breaches of this
-                    Agreement, you will be provided notice and an opportunity to cure the breach.
-                    If the breach is cured in a timely manner and to Lyft’s satisfaction, this
-                    Agreement will not be permanently terminated. Sections 2, 6, 7 (with respect to
-                    the license), 11-12, 14-19, and 21 shall survive any termination or expiration
-                    of this Agreement.
+                    This Agreement is effective upon your acceptance of this Agreement. This Agreement may be
+                    terminated: a) by User, without cause, upon seven (7) days’ prior written notice to Lyft; or b) by
+                    either Party immediately, without notice, upon the other Party’s material breach of this Agreement,
+                    including but not limited to any breach of Section 9 or breach of Section 10(a) through (i) of this
+                    Agreement. In addition, Lyft may terminate this Agreement or deactivate your User account
+                    immediately in the event: (1) you no longer qualify to provide Rideshare Services or to operate the
+                    approved vehicle under applicable law, rule, permit, ordinance or regulation; (2) you fall below
+                    Lyft’s star rating or cancellation threshold; (3) Lyft has the good faith belief that such action is
+                    necessary to protect the safety of the Lyft community or third parties, provided that in the event
+                    of a deactivation pursuant to (1)-(3) above, you will be given notice of the potential or actual
+                    deactivation and an opportunity to attempt to cure the issue to Lyft’s reasonable satisfaction prior
+                    to Lyft permanently terminating the Agreement. For all other breaches of this Agreement, you will be
+                    provided notice and an opportunity to cure the breach. If the breach is cured in a timely manner and
+                    to Lyft’s satisfaction, this Agreement will not be permanently terminated. Sections 2, 6, 7 (with
+                    respect to the license), 11-12, 14-19, and 21 shall survive any termination or expiration of this
+                    Agreement.
                 
 
 ## Dispute Resolution and Arbitration Agreement
@@ -833,65 +804,56 @@ Last Updated: November 27, 2019
                 
 
 
-You and Lyft mutually agree to waive our respective
-                    rights to resolution of disputes in a court of law by a judge or jury and agree
-                    to resolve any dispute by arbitration, as set forth below. This
-                    agreement to arbitrate (“Arbitration Agreement”) is governed by the Federal
-                    Arbitration Act and survives after the Agreement terminates or your
-                    relationship with Lyft ends. Any arbitration under this
-                    Agreement will take place on an individual basis; class arbitrations and class
-                    actions are not permitted. Except as expressly provided below, this
-                    Arbitration Agreement applies to all Claims (defined below) between you and
-                    Lyft, including our affiliates, subsidiaries, parents, successors and assigns,
-                    and each of our respective officers, directors, employees, agents, or
-                    shareholders. This Arbitration Agreement also applies to claims between you and
-                    Lyft’s service providers, including but not limited to background check providers
-                    and payment processors; and such service providers shall be considered intended
-                    third party beneficiaries of this Arbitration Agreement.
+                    YOU AND LYFT MUTUALLY AGREE TO WAIVE OUR RESPECTIVE RIGHTS TO RESOLUTION OF DISPUTES IN A COURT OF
+                    LAW BY A JUDGE OR JURY AND AGREE TO RESOLVE ANY DISPUTE BY ARBITRATION, as set forth below. This
+                    agreement to arbitrate (“Arbitration Agreement”) is governed by the Federal Arbitration Act (“FAA”);
+                    but if the FAA is inapplicable for any reason, then this Arbitration Agreement is governed by the
+                    laws of the State of Delaware, including Del. Code tit. 10, § 5701 et seq., without regard to choice
+                    of law principles. This Arbitration Agreement survives after the Agreement terminates or your
+                    relationship with Lyft ends. ANY ARBITRATION UNDER THIS AGREEMENT WILL TAKE PLACE ON AN INDIVIDUAL
+                    BASIS; CLASS ARBITRATIONS AND CLASS ACTIONS ARE NOT PERMITTED. Except as expressly provided below,
+                    this Arbitration Agreement applies to all Claims (defined below) between you and Lyft, including our
+                    affiliates, subsidiaries, parents, successors and assigns, and each of our respective officers,
+                    directors, employees, agents, or shareholders. This Arbitration Agreement also applies to claims
+                    between you and Lyft’s service providers, including but not limited to background check providers
+                    and payment processors; and such service providers shall be considered intended third-party
+                    beneficiaries of this Arbitration Agreement.
                 
 
 
-                    Except as expressly provided below, all disputes and claims
-                    between us (each a “Claim” and collectively, “Claims”) shall be exclusively
-                    resolved by binding arbitration solely between you and Lyft. These Claims
-                    include, but are not limited to, any dispute, claim or controversy, whether based
-                    on past, present, or future events, arising out of or relating to: this Agreement
-                    and prior versions thereof (including the breach, termination, enforcement,
-                    interpretation or validity thereof), the Lyft Platform, the Rideshare Services,
-                    rental or use of bikes or scooters through the Lyft Platform, Lyft promotions,
-                    gift card, referrals or loyalty programs, any other goods or services made
-                    available through the Lyft Platform, your relationship with Lyft, the threatened
-                    or actual suspension, deactivation or termination of your User Account or this
-                    Agreement, background checks performed by or on Lyft’s behalf, payments
-                    made by you or any payments made or allegedly owed to you, any promotions
-                    or offers made by Lyft, any city, county, state or federal wage-hour law, trade
-                    secrets, unfair competition, compensation, breaks and rest periods, expense
-                    reimbursement, wrongful termination, discrimination, harassment, retaliation,
-                    fraud, defamation, emotional distress, breach of any express or implied contract or
-                    covenant, claims arising under federal or state consumer protection laws; claims
-                    arising under antitrust laws, claims arising under the Telephone Consumer
-                    Protection Act and Fair Credit Reporting Act; and claims arising under the Uniform
-                    Trade Secrets Act, Civil Rights Act of 1964, Americans With Disabilities Act, Age
-                    Discrimination in Employment Act, Older Workers Benefit Protection Act, Family
-                    Medical Leave Act, Fair Labor Standards Act, Employee Retirement Income Security
-                    Act (except for individual claims for employee benefits under any benefit plan
-                    sponsored by Lyft and covered by the Employee Retirement Income Security Act of
-                    1974 or funded by insurance), and state statutes, if any, addressing the same or
-                    similar subject matters, and all other federal and state statutory and common law
-                    claims. All disputes concerning the arbitrability of a Claim (including disputes
-                    about the scope, applicability, enforceability, revocability or validity of the
-                    Arbitration Agreement) shall be decided by the arbitrator, except as expressly
-                    provided below.
+                    Except as expressly provided below, ALL DISPUTES AND CLAIMS BETWEEN US (EACH A “CLAIM” AND
+                    COLLECTIVELY, “CLAIMS”) SHALL BE EXCLUSIVELY RESOLVED BY BINDING ARBITRATION SOLELY BETWEEN YOU AND
+                    LYFT. These Claims include, but are not limited to, any dispute, claim or controversy, whether based
+                    on past, present, or future events, arising out of or relating to: this Agreement and prior versions
+                    thereof (including the breach, termination, enforcement, interpretation or validity thereof), the
+                    Lyft Platform, the Rideshare Services, rental or use of bikes or scooters through the Lyft Platform,
+                    Lyft promotions, gift card, referrals or loyalty programs, any other goods or services made
+                    available through the Lyft Platform, your relationship with Lyft, the threatened or actual
+                    suspension, deactivation or termination of your User Account or this Agreement, background checks
+                    performed by or on Lyft’s behalf, payments made by you or any payments made or allegedly owed to
+                    you, any promotions or offers made by Lyft, any city, county, state or federal wage-hour law, trade
+                    secrets, unfair competition, compensation, breaks and rest periods, expense reimbursement, wrongful
+                    termination, discrimination, harassment, retaliation, fraud, defamation, emotional distress, breach
+                    of any express or implied contract or covenant, claims arising under federal or state consumer
+                    protection laws; claims arising under antitrust laws, claims arising under the Telephone Consumer
+                    Protection Act and Fair Credit Reporting Act; and claims arising under the Uniform Trade Secrets
+                    Act, Civil Rights Act of 1964, Americans With Disabilities Act, Age Discrimination in Employment
+                    Act, Older Workers Benefit Protection Act, Family Medical Leave Act, Fair Labor Standards Act,
+                    Employee Retirement Income Security Act of 1974 (except for individual claims for employee benefits
+                    under any benefit plan sponsored by Lyft and covered by the Employee Retirement Income Security Act
+                    of 1974 or funded by insurance), and state statutes, if any, addressing the same or similar subject
+                    matters, and all other federal and state statutory and common law claims. All disputes concerning
+                    the arbitrability of a Claim (including disputes about the scope, applicability, enforceability,
+                    revocability or validity of the Arbitration Agreement) shall be decided by the arbitrator, except as
+                    expressly provided below.
                 
 
 
-By agreeing to arbitration, you understand that you and
-                    Lyft are waiving the right to sue in court or have a jury trial for all Claims,
-                    except as expressly otherwise provided in this Arbitration Agreement.
-                    This Arbitration Agreement is intended to require arbitration of every claim or
-                    dispute that can lawfully be arbitrated, except for those claims and disputes
-                    which by the terms of this Arbitration Agreement are expressly excluded from
-                    the requirement to arbitrate.
+                    BY AGREEING TO ARBITRATION, YOU UNDERSTAND THAT YOU AND LYFT ARE WAIVING THE RIGHT TO SUE IN COURT
+                    OR HAVE A JURY TRIAL FOR ALL CLAIMS, EXCEPT AS EXPRESSLY OTHERWISE PROVIDED IN THIS ARBITRATION
+                    AGREEMENT. This Arbitration Agreement is intended to require arbitration of every claim or dispute
+                    that can lawfully be arbitrated, except for those claims and disputes which by the terms of this
+                    Arbitration Agreement are expressly excluded from the requirement to arbitrate.
                 
 
 ##### 
@@ -901,10 +863,10 @@ By agreeing to arbitration, you understand that you and
 
                     You understand and agree that you and Lyft may each bring Claims in arbitration
                     against the other only in an individual capacity and not on a class, collective
-                    action, or representative basis (“Class Action Waiver”).  You understand and
+                    action, or representative basis (“Class Action Waiver”). You understand and
                     agree that you and Lyft both are waiving the right to pursue or have a dispute
                     resolved as a plaintiff or class member in any purported class, collective or
-                    representative proceeding.  Notwithstanding the foregoing, this subsection (b)
+                    representative proceeding. Notwithstanding the foregoing, this subsection (b)
                     shall not apply to representative private attorneys general act claims brought
                     against Lyft, which are addressed separately in Section 17(c).
                 
@@ -919,19 +881,16 @@ By agreeing to arbitration, you understand that you and
                 
 
 
-                    Notwithstanding any other provision of this Agreement, the Arbitration Agreement
-                    or the AAA Rules, disputes regarding the scope, applicability, enforceability,
-                    revocability or validity of the Class Action Waiver may be resolved only by a
-                    civil court of competent jurisdiction and not by an arbitrator. In any case in
-                    which: (1) the dispute is filed as a class, collective, or representative action
-                    and (2) there is a final judicial determination that the Class Action Waiver is
-                    unenforceable with respect to any Claim or any particular remedy for a Claim
-                    (such as a request for public injunctive relief), then that Claim or particular
-                    remedy (and only that Claim or particular remedy) shall be severed from any
-                    remaining claims and/or remedies and may be brought in a civil court of
-                    competent jurisdiction, but the Class Action Waiver shall be enforced in
-                    arbitration on an individual basis as to all other Claims or remedies to the
-                    fullest extent possible.
+                    Notwithstanding any other provision of this Agreement, the Arbitration Agreement or the AAA Rules,
+                    disputes regarding the interpretation, applicability, or enforceability of the Class Action Waiver
+                    may be resolved only by a court and not by an arbitrator. In any case in which: (1) the dispute is
+                    filed as a class, collective, or representative action and (2) there is a final judicial
+                    determination that the Class Action Waiver is unenforceable with respect to any Claim or any
+                    particular remedy for a Claim (such as a request for public injunctive relief), then that Claim or
+                    particular remedy (and only that Claim or particular remedy) shall be severed from any remaining
+                    claims and/or remedies and may be brought in a court of competent jurisdiction, but the Class Action
+                    Waiver shall be enforced in arbitration on an individual basis as to all other Claims or remedies to
+                    the fullest extent possible.
                 
 
 ##### 
@@ -975,18 +934,15 @@ By agreeing to arbitration, you understand that you and
                 
 
 
-                    Any arbitration conducted pursuant to this Arbitration Agreement shall be
-                    administered by the American Arbitration Association (“AAA”) pursuant to its
-                    [Consumer Arbitration Rules](https://www.adr.org/Rules) 
-                    that are in effect at the time the arbitration is initiated, as modified by the terms set forth in this Agreement. 
-                    Copies of these rules can be obtained at the AAA’s website (www.adr.org) (the “AAA
-                    Rules”) or by calling the AAA at 1-800-778-7879. Notwithstanding the foregoing,
-                    if requested by you and if proper based on the facts and circumstances of the
-                    Claims presented, the arbitrator shall have the discretion to select a
-                    different set of AAA Rules, but in no event shall the arbitrator consolidate
-                    more than one person’s Claims, or otherwise preside over any form of
-                    representative, collective, or class proceeding. The parties may select a
-                    different arbitration administrator upon mutual written agreement.
+                    Any arbitration conducted pursuant to this Arbitration Agreement shall be administered by the
+                    American Arbitration Association (“AAA”) pursuant to its [Consumer Arbitration Rules](https://www.adr.org/Rules) that are in
+                    effect at the time the arbitration is initiated, as modified by the terms set forth in this
+                    Agreement. Copies of these rules can be obtained at the AAA’s website (www.adr.org) (the “AAA
+                    Rules”). Notwithstanding the foregoing, if requested by you and if proper based on the facts and
+                    circumstances of the Claims presented, the arbitrator shall have the discretion to select a
+                    different set of AAA Rules, but in no event shall the arbitrator consolidate more than one person’s
+                    Claims, or otherwise preside over any form of representative, collective, or class proceeding. The
+                    parties may select a different arbitration administrator upon mutual written agreement.
                 
 
 
@@ -1027,32 +983,27 @@ By agreeing to arbitration, you understand that you and
                         pay all AAA filing and arbitration fees.
                     </li>
 <li>
-                        With respect to any Claims brought by Lyft against a Driver, or for Claims
-                        brought by a Driver against Lyft that: (A) are based on an alleged employment
-                        relationship between Lyft and a Driver; (B) arise out of, or relate to, Lyft’s
-                        actual deactivation of a Driver’s User account or a threat by Lyft to
-                        deactivate a Driver’s User account; (C) arise out of, or relate to, Lyft’s
-                        actual termination of a Driver’s Agreement with Lyft under the termination
-                        provisions of this Agreement, or a threat by Lyft to terminate a Driver’s
-                        Agreement; (D) arise out of, or relate to, Fares (as defined in this Agreement,
-                        including Lyft’s commission or fees on the Fares), tips, or average hourly
-                        guarantees owed by Lyft to Drivers for Rideshare Services, other than disputes
-                        relating to referral bonuses, other Lyft promotions, or consumer-type disputes,
-                        or (E) arise out of or relate to background checks performed in connection with
-                        a user seeking to become a Driver (the subset of Claims in subsections (A)-(E)
-                        shall be collectively referred to as “Driver Claims”), Lyft shall pay all costs
-                        unique to arbitration (as compared to the costs of adjudicating the same claims
-                        before a court), including the regular and customary arbitration fees and
-                        expenses (to the extent not paid by Lyft pursuant to the fee provisions above).
-                        However, if you are the party initiating the Driver Claim, you shall be
-                        responsible for contributing up to an amount equal to the filing fee that would
-                        be paid to initiate the claim in the court of general jurisdiction in the state
-                        in which you provide Rideshare Services to Riders, unless a lower fee amount would
-                        be owed by you pursuant to the AAA Rules, applicable law, or subsection (e)(1)
-                        above.  Any dispute as to whether a cost is unique to arbitration shall be
-                        resolved by the arbitrator. For purposes of this Section 17(e)(3), the term
-                        “Driver” shall be deemed to include both Drivers and Driver applicants who have
-                        not been approved to drive.
+                        With respect to any Claims brought by Lyft against a Driver, or for Claims brought by a Driver
+                        against Lyft that: (A) are based on an alleged employment relationship between Lyft and a
+                        Driver; (B) arise out of, or relate to, Lyft’s actual deactivation of a Driver’s User account or
+                        a threat by Lyft to deactivate a Driver’s User account; (C) arise out of, or relate to, Lyft’s
+                        actual termination of a Driver’s Agreement with Lyft under the termination provisions of this
+                        Agreement, or a threat by Lyft to terminate a Driver’s Agreement; (D) arise out of, or relate
+                        to, Fares (as defined in this Agreement, including Lyft’s commission or fees on the Fares),
+                        tips, or average hourly guarantees owed by Lyft to Drivers for Rideshare Services, other than
+                        disputes relating to referral bonuses, other Lyft promotions, or consumer-type disputes, or (E)
+                        arise out of or relate to background checks performed in connection with a user seeking to
+                        become a Driver (the subset of Claims in subsections (A)-(E) shall be collectively referred to
+                        as “Driver Claims”), Lyft shall pay all costs unique to arbitration (as compared to the costs of
+                        adjudicating the same claims before a court), including the regular and customary arbitration
+                        fees and expenses (to the extent not paid by Lyft pursuant to the fee provisions above).
+                        However, if you are the party initiating the Driver Claim, you shall be responsible for
+                        contributing up to an amount equal to the filing fee that would be paid to initiate the claim in
+                        the court of general jurisdiction in the state in which you provide Rideshare Services to
+                        Riders, unless a lower fee amount would be owed by you pursuant to the AAA Rules, applicable
+                        law, or subsection (e)(1) above. Any dispute as to whether a cost is unique to arbitration shall
+                        be resolved by the arbitrator. For purposes of this Section 17(e)(2), the term “Driver” shall be
+                        deemed to include both Drivers and Driver applicants who have not been approved to drive.
                     </li>
 <li>
                         Except as provided in Federal Rule of Civil Procedure 68 or any state
@@ -1130,14 +1081,14 @@ By agreeing to arbitration, you understand that you and
                     state or federal agency, and nothing in this Arbitration Agreement shall be deemed
                     to preclude or excuse a party from bringing an administrative claim before any
                     agency in order to fulfill the party's obligation to exhaust administrative
-                    remedies before making a claim in arbitration  However, should you bring an
+                    remedies before making a claim in arbitration However, should you bring an
                     administrative claim, you may only seek or recover money damages of any type
                     pursuant to this Arbitration Provision, and you knowingly and voluntarily waive the
                     right to seek or recover money damages of any type pursuant to any administrative
-                    complaint, except for a complaint issued by the NLRB.  Should you participate in an
+                    complaint, except for a complaint issued by the NLRB. Should you participate in an
                     NLRB proceeding, you may only recover money damages if such recovery does not arise
                     from or relate to a claim previously adjudicated under this Arbitration Provision
-                    or settled by you.  Similarly, you may not recover money damages under this
+                    or settled by you. Similarly, you may not recover money damages under this
                     Arbitration Provision if you have already adjudicated such claim with the NLRB.
                     Nothing in this Agreement or Arbitration Agreement prevents your participation in
                     an investigation by a government agency of any report, claim or charge otherwise
@@ -1149,11 +1100,10 @@ By agreeing to arbitration, you understand that you and
                 
 
 
-                    In addition to the severability provisions in subsections (b) and (c) above, in
-                    the event  that any portion of this Arbitration Agreement is deemed illegal or
-                    unenforceable  under applicable law not preempted by the FAA, such provision
-                    shall be severed and  the remainder of the Arbitration Agreement shall be given
-                    full force and effect.
+                    Except as otherwise provided in the severability provisions in subsections (b) and (c) above, in the
+                    event that any portion of this Arbitration Agreement is deemed illegal or unenforceable under
+                    applicable law not preempted by the FAA, such provision shall be severed and the remainder of the
+                    Arbitration Agreement shall be given full force and effect.
                 
 
 ##### 
@@ -1172,26 +1122,23 @@ By agreeing to arbitration, you understand that you and
                 
 
 ##### 
-                    (j)  Opting Out of Arbitration for Driver Claims That Are Not In a Pending
+                    (j) Opting Out of Arbitration for Driver Claims That Are Not In a Pending
                     Settlement Action.
                 
 
 
-                    As a Driver or Driver applicant, you may opt out of the requirement to arbitrate
-                    Driver Claims defined in Section 17(e)(3) (except as limited by Section 17(i)
-                    above) pursuant to the terms of this subsection if you have not previously
-                    agreed to an arbitration provision in Lyft’s Terms of Service where you had the
-                    opportunity to opt out of the requirement to arbitrate. If you have previously
-                    agreed to such an arbitration provision, you may opt out of any revisions to
-                    your prior arbitration agreement made by this provision in the manner specified
-                    below, but opting out of this arbitration provision has no effect on any
-                    previous, other, or future arbitration agreements that you may have with Lyft.
-                    If you have not previously agreed to such an arbitration provision and do not
-                    wish to be subject to this Arbitration Agreement with respect to Driver Claims,
-                    you may opt out of arbitration with respect to such Driver Claims, other than
-                    those in a Pending Settlement Action, by notifying Lyft in writing of your
-                    desire to opt out of arbitration for such Driver Claims, which writing must be
-                    dated, signed and delivered by electronic mail to arbitrationoptout@lyft.com.
+                    As a Driver or Driver applicant, you may opt out of the requirement to arbitrate Driver Claims
+                    defined in Section 17(e)(2) (except as limited by Section 17(i) above) pursuant to the terms of this
+                    subsection if you have not previously agreed to an arbitration provision in Lyft’s Terms of Service
+                    where you had the opportunity to opt out of the requirement to arbitrate. If you have previously
+                    agreed to such an arbitration provision, you may opt out of any revisions to your prior arbitration
+                    agreement made by this provision in the manner specified below, but opting out of this arbitration
+                    provision has no effect on any previous, other, or future arbitration agreements that you may have
+                    with Lyft. If you have not previously agreed to such an arbitration provision and do not wish to be
+                    subject to this Arbitration Agreement with respect to Driver Claims, you may opt out of arbitration
+                    with respect to such Driver Claims, other than those in a Pending Settlement Action, by notifying
+                    Lyft in writing of your desire to opt out of arbitration for such Driver Claims, which writing must
+                    be dated, signed and delivered by electronic mail to arbitrationoptout@lyft.com.
                 
 
 
@@ -1199,11 +1146,11 @@ By agreeing to arbitration, you understand that you and
                     opt out of this Arbitration Agreement with respect to Driver Claims that are
                     not part of a Pending Settlement Action, (B) the writing must include the name,
                     phone number, and email address associated with your User Account, and (C) the
-                    email containing the signed writing must be sent within 30 days of  the date
-                    this Agreement is executed by you. Should you not opt out within the  30-day
-                    period, you and Lyft shall be bound by the terms of this Arbitration  Agreement
-                    in full (including with respect to Driver Claims that are not part of  a Pending
-                    Settlement Action). As provided in paragraph 17(i) above, any opt out  that you
+                    email containing the signed writing must be sent within 30 days of the date
+                    this Agreement is executed by you. Should you not opt out within the 30-day
+                    period, you and Lyft shall be bound by the terms of this Arbitration Agreement
+                    in full (including with respect to Driver Claims that are not part of a Pending
+                    Settlement Action). As provided in paragraph 17(i) above, any opt out that you
                     submit shall not apply to any Driver Claims that are part of a Pending
                     Settlement Action and your Driver Claims in any such Pending Settlement Action
                     shall continue to be governed by the arbitration provisions that are contained
@@ -1212,21 +1159,18 @@ By agreeing to arbitration, you understand that you and
                 
 
 
-                    Cases have been filed against Lyft and may be filed in the future involving
-                    Driver Claims. You should assume that there are now, and may be in the future,
-                    lawsuits against Lyft alleging class, collective, and/or representative Driver
-                    Claims in which the plaintiffs seek to act on your behalf, and which, if
-                    successful, could result in some monetary recovery to you. But if you do agree
-                    to arbitration of Driver Claims with Lyft under this Arbitration Agreement, you
-                    are agreeing in advance that you will bring all such claims, and seek all
-                    monetary and other relief, against Lyft in an individual arbitration,  except
-                    for the Driver Claims that are part of a Pending Settlement Action. You  are
-                    also agreeing in advance that you will not participate in, or seek to  recover
-                    monetary or other relief, for such claims in any court action or class,
-                    collective, and/or representative action. You have the right to consult with
-                    counsel of your choice concerning this Arbitration Agreement and you will not
-                    be subject to retaliation if you exercise your right to assert claims or opt-
-                    out of any Driver Claims under this Arbitration Agreement.
+                    Cases have been filed against Lyft and may be filed in the future involving Driver Claims. You
+                    should assume that there are now, and may be in the future, lawsuits against Lyft alleging class,
+                    collective, and/or representative Driver Claims in which the plaintiffs seek to act on your behalf,
+                    and which, if successful, could result in some monetary recovery to you. But if you do agree to
+                    arbitration of Driver Claims with Lyft under this Arbitration Agreement, you are agreeing in advance
+                    that you will bring all such claims, and seek all monetary and other relief, against Lyft in an
+                    individual arbitration, except for the Driver Claims that are part of a Pending Settlement Action.
+                    You are also agreeing in advance that you will not participate in, or seek to recover monetary or
+                    other relief, for such claims in any court action or class, collective, and/or representative
+                    action. You have the right to consult with counsel of your choice concerning this Arbitration
+                    Agreement and you will not be subject to retaliation if you exercise your right to assert claims or
+                    opt-out of any Driver Claims under this Arbitration Agreement.
                 
 
 ##### 
@@ -1253,87 +1197,88 @@ By agreeing to arbitration, you understand that you and
 ## Confidentiality
 
 
-                    You agree not to use any technical, financial, strategic and other proprietary and
-                    confidential information relating to Lyft’s business, operations and properties,
-                    information about a User made available to you in connection with such User’s use
-                    of the Platform, which may include the User’s name, pick-up location, contact
-                    information and photo (“Confidential Information”) disclosed to you by Lyft for
-                    your own use or for any purpose other than as contemplated herein. You shall not
-                    disclose or permit disclosure of any Confidential Information to third parties,
-                    and you agree not to store separate and outside of the Lyft Platform any User
-                    Information obtained from the Lyft Platform. As a Driver, you understand that some
-                    of Rider Information you receive may be protected by federal and/or state
-                    confidentiality laws, such as the Health Information Portability and Accountability
-                    Act of 1996 ("HIPAA"), governing the privacy and security of protected (patient)
-                    health information. In the event that you know a Rider, you should not disclose
-                    to anyone the identity of the Rider or the location that you picked up, or dropped
-                    of the Rider as this could violate HIPAA. You understand that any violation of the
-                    Agreement's confidentiality provisions may violate HIPAA or state confidentiality
-                    laws and could result in civil or criminal penalties against you. You agree to
-                    take all reasonable measures to protect the secrecy of and avoid disclosure
-                    or use of Confidential Information of Lyft in order to prevent it from
-                    falling into the public domain. Notwithstanding the above, you shall not have
-                    liability to Lyft with regard to any Confidential Information which you can prove:
-                    was in the public domain at the time it was disclosed by Lyft or has entered the
-                    public domain through no fault of yours; was known to you, without restriction, at
-                    the time of disclosure, as demonstrated by files in existence at the time of
-                    disclosure; is disclosed with the prior written approval of Lyft; becomes known to
-                    you, without restriction, from a source other than Lyft without breach of this
-                    Agreement by you and otherwise not in violation of Lyft’s rights; or is disclosed
-                    pursuant to the order or requirement of a court, administrative agency, or other
-                    governmental body; provided, however, that You shall provide prompt notice of such
-                    court order or requirement to Lyft to enable Lyft to seek a protective order or
-                    otherwise prevent or restrict such disclosure.
+                    You agree not to use any technical, financial, strategic and other proprietary and confidential
+                    information relating to Lyft’s business, operations and properties, information about a User made
+                    available to you in connection with such User’s use of the Platform, which may include the User’s
+                    name, pick-up location, contact information and photo (“Confidential Information”) disclosed to you
+                    by Lyft for your own use or for any purpose other than as contemplated herein. You shall not
+                    disclose or permit disclosure of any Confidential Information to third parties, and you agree not to
+                    store separate and outside of the Lyft Platform any User Information obtained from the Lyft
+                    Platform. As a Driver, you understand that some of Rider Information you receive may be protected by
+                    federal and/or state confidentiality laws, such as the Health Information Portability and
+                    Accountability Act of 1996 (“HIPAA”), governing the privacy and security of protected (patient)
+                    health information. In the event that you know a Rider, you should not disclose to anyone the
+                    identity of the Rider or the location that you picked up, or dropped off the Rider, as this could
+                    violate HIPAA. You understand that any violation of the Agreement’s confidentiality provisions may
+                    violate HIPAA or state confidentiality laws and could result in civil or criminal penalties against
+                    you. You agree to take all reasonable measures to protect the secrecy of and avoid disclosure or use
+                    of Confidential Information of Lyft in order to prevent it from falling into the public domain.
+                    Notwithstanding the above, you shall not have liability to Lyft with regard to any Confidential
+                    Information which you can prove: was in the public domain at the time it was disclosed by Lyft or
+                    has entered the public domain through no fault of yours; was known to you, without restriction, at
+                    the time of disclosure, as demonstrated by files in existence at the time of disclosure; is
+                    disclosed with the prior written approval of Lyft; becomes known to you, without restriction, from a
+                    source other than Lyft without breach of this Agreement by you and otherwise not in violation of
+                    Lyft’s rights; or is disclosed pursuant to the order or requirement of a court, administrative
+                    agency, or other governmental body; provided, however, that You shall provide prompt notice of such
+                    court order or requirement to Lyft to enable Lyft to seek a protective order or otherwise prevent or
+                    restrict such disclosure.
                 
 
 ## Relationship with Lyft
 
 
-                    As a Driver on the Lyft Platform, you acknowledge and agree that you and Lyft are
-                    in a direct business relationship, and the relationship between the parties under
-                    this Agreement is solely that of independent contracting parties.  You and Lyft
-                    expressly agree that (1) this is not an employment agreement and does not create an
-                    employment relationship between you and Lyft; and (2) no joint venture, franchisor-
-                    franchisee, partnership, or agency relationship is intended or created by this
-                    Agreement.  You have no authority to bind Lyft, and you undertake not to hold
-                    yourself out as an employee, agent or authorized representative of Lyft.
+                    As a Driver on the Lyft Platform, you acknowledge and agree that you and Lyft are in a direct
+                    business relationship, and the relationship between the parties under this Agreement is solely that
+                    of independent contracting parties. You and Lyft expressly agree that (1) this is not an employment
+                    agreement and does not create an employment relationship between you and Lyft; and (2) no joint
+                    venture, franchisor-franchisee, partnership, or agency relationship is intended or created by this
+                    Agreement. You have no authority to bind Lyft, and you undertake not to hold yourself out as an
+                    employee, agent or authorized representative of Lyft.
                 
 
 
-                    Lyft does not, and shall not be deemed to, direct or control you generally or
-                    in your performance under this Agreement specifically, including in connection
-                    with your provision of Rideshare Services, your acts or omissions, or your
-                    operation and maintenance of your vehicle. You retain the sole right to determine
-                    when, where, and for how long you will utilize the Lyft Platform. You retain the
-                    option to accept or to decline or ignore a Rider’s request for Rideshare Services
-                    via the Lyft Platform, or to cancel an accepted request for Rideshare Services
-                    via the Lyft Platform, subject to Lyft’s then-current cancellation policies.
-                    With the exception of any signage required by law or permit/license rules or
-                    requirements, Lyft shall have no right to require you to: (a) display Lyft’s
-                    names, logos or colors on your vehicle(s); or (b) wear a uniform or any other
-                    clothing displaying Lyft’s names, logos or colors. You acknowledge and agree
-                    that you have complete discretion to provide Rideshare Services or otherwise
-                    engage in other business or employment activities.
+                    Lyft does not, and shall not be deemed to, direct or control you generally or in your performance
+                    under this Agreement specifically, including in connection with your provision of Rideshare
+                    Services, your acts or omissions, or your operation and maintenance of your vehicle. You retain the
+                    sole right to determine when, where, and for how long you will utilize the Lyft Platform. Lyft does
+                    not, and shall not be deemed to, unilaterally prescribe specific dates, times of day, or any minimum
+                    number of hours for you to utilize the Lyft Platform. You retain the option to accept or to decline
+                    or ignore a Rider’s request for Rideshare Services via the Lyft Platform, or to cancel an accepted
+                    request for Rideshare Services via the Lyft Platform, subject to Lyft’s then-current cancellation
+                    policies. Lyft does not, and shall not be deemed to, require you to accept any specific request for
+                    Rideshare Services as a condition of maintaining access to the platform. With the exception of any
+                    signage required by law or permit/license rules or requirements, Lyft shall have no right to require
+                    you to: (a) display Lyft’s names, logos or colors on your vehicle(s); or (b) wear a uniform or any
+                    other clothing displaying Lyft’s names, logos or colors. You acknowledge and agree that you have
+                    complete discretion to provide Rideshare Services or otherwise engage in any other business or
+                    employment activities, including but not limited to providing services similar to the Rideshare
+                    Services to other companies, and that Lyft does not, and shall not be deemed to, restrict you from
+                    engaging in any such activity.
                 
 
 ## Other Services
 
 
-                    In addition to connecting Riders with Drivers, the Lyft Platform may enable
-                    Users to provide or receive services from other third parties. For
-                    example, Users may be able to use the Lyft Platform to plan and reserve
-                    rides on public transportation, take a ride in an autonomous vehicle
-                    provided by a third party, rent vehicles, or obtain financial services
-                    provided by third parties (collectively, the “Other Services”). You understand
-                    and that the Other Services are subject to the terms and pricing of the
-                    third-party provider. If you choose to purchase Other Services through the
-                    Lyft Platform, you authorize Lyft to charge your payment method on file
-                    according to the pricing terms set by the third-party provider. You agree that
-                    Lyft is not responsible and may not be held liable for the Other Services or
-                    the actions or omissions of the third-party provider. Such Other Services may
-                    not be investigated, monitored or checked for accuracy, appropriateness, or
-                    completeness by us, and we are not responsible for any Other Services
-                    accessed through the Lyft Platform.
+                    In addition to connecting Riders with Drivers, the Lyft Platform may enable Users to provide or
+                    receive services from other third parties. For example, Users may be able to use the Lyft Platform
+                    to plan and reserve rides on public transportation, take a ride in an autonomous vehicle provided by
+                    a third party, rent vehicles, or obtain financial services provided by third parties (collectively,
+                    the “Other Services”). You understand that the Other Services are subject to the terms and pricing
+                    of the third-party provider. If you choose to purchase Other Services through the Lyft Platform, you
+                    authorize Lyft to charge your payment method on file according to the pricing terms set by the
+                    third-party provider. You agree that Lyft is not responsible and may not be held liable for the
+                    Other Services or the actions or omissions of the third-party provider. Such Other Services may not
+                    be investigated, monitored or checked for accuracy, appropriateness, or completeness by us, and we
+                    are not responsible for any Other Services accessed through the Lyft Platform. This Agreement
+                    incorporates by reference <a href="https://www.adt.com/about-adt/legal/mobile-monitoring-terms-lyft">ADT Mobile Security
+                        Monitoring Terms</a>. In the event of a conflict in the
+                    terms of the ADT Mobile Security Monitoring Terms and this Agreement, the terms of this Agreement
+                    shall control with respect to Lyft and your agreements with Lyft herein, and the limitations of
+                    liability set forth in Section 15 above shall also apply to ADT. The Dispute Resolution and
+                    Arbitration Agreement provisions in Section 17 above shall apply instead of any terms in the ADT
+                    Mobile Security Monitoring Terms for all purposes except with respect to claims that are solely
+                    against ADT.
                 
 
 ## General
@@ -1344,12 +1289,12 @@ By agreeing to arbitration, you understand that you and
                     law provision is only intended to specify the use of California law to interpret
                     this Agreement and is not intended to create any other substantive right to non-
                     Californians to assert claims under California law whether by statute, common law,
-                    or otherwise.  If any provision of this Agreement is or becomes invalid or non-
+                    or otherwise. If any provision of this Agreement is or becomes invalid or non-
                     binding, the parties shall remain bound by all other provisions of this Agreement.
                     In that event, the parties shall replace the invalid or non-binding provision with
-                    provisions that are valid and binding and that have, to the  greatest extent
+                    provisions that are valid and binding and that have, to the greatest extent
                     possible, a similar effect as the invalid or non-binding provision, given the
-                    contents and purpose of this Agreement.  You agree that this Agreement and all
+                    contents and purpose of this Agreement. You agree that this Agreement and all
                     incorporated agreements may be automatically assigned by Lyft, in our sole
                     discretion by providing notice to you. Except as explicitly stated otherwise, any
                     notices to Lyft shall be given by certified mail, postage prepaid and return
@@ -1369,7 +1314,7 @@ By agreeing to arbitration, you understand that you and
 
 
                     If you have any questions regarding the Lyft Platform or Rideshare Services,
-                    please contact us through our [Help Center](https://help.lyft.com/).
+                    please contact us through our [Help Center](https://help.lyft.com/hc/en-us).
                 
 
 # 
@@ -1379,22 +1324,29 @@ By agreeing to arbitration, you understand that you and
 **Last Updated: September 14, 2020**
 
 
-                    At Lyft our mission is to improve people’s lives with the world’s best transportation, providing a platform to help you
-                    get from point A to point B. To do that, we need to collect, use, and share some of your personal information. This
-                    Privacy Policy is meant to help you understand how Lyft does that and how to exercise the choices and rights you have in
+                    At Lyft our mission is to improve people’s lives with the world’s best transportation, providing a
+                    platform to help you
+                    get from point A to point B. To do that, we need to collect, use, and share some of your personal
+                    information. This
+                    Privacy Policy is meant to help you understand how Lyft does that and how to exercise the choices
+                    and rights you have in
                     your information.
                 
 
 
-                    Lyft’s [privacy homepage](https://www.lyft.com/privacy/home) provides additional information about our
-                    commitment to respecting your personal information, including ways for you to access and delete that information.
+                    Lyft’s [privacy homepage](https://www.lyft.com/privacy/home) provides additional
+                    information about our
+                    commitment to respecting your personal information, including ways for you to access and delete that
+                    information.
                 
 
 ## The Scope of This Policy
 
 
-                    This policy applies to all Lyft users, including Riders and Drivers (including Driver applicants), and to all Lyft
-                    platforms and services, including our apps, websites, features, and other services (collectively, the “Lyft Platform”).
+                    This policy applies to all Lyft users, including Riders and Drivers (including Driver applicants),
+                    and to all Lyft
+                    platforms and services, including our apps, websites, features, and other services (collectively,
+                    the “Lyft Platform”).
                     Please remember that your use of the Lyft Platform is also subject to our
                     [Terms of Service](https://www.lyft.com/terms).
                 
@@ -1402,110 +1354,158 @@ By agreeing to arbitration, you understand that you and
 ## The Information We Collect
 
 
-                    When you use the Lyft Platform, we collect the information you provide, usage information, and information about your
-                    device. We also collect information about you from other sources like third party services, and optional programs in
-                    which you participate, which we may combine with other information we have about you. Here are the types of information
+                    When you use the Lyft Platform, we collect the information you provide, usage information, and
+                    information about your
+                    device. We also collect information about you from other sources like third party services, and
+                    optional programs in
+                    which you participate, which we may combine with other information we have about you. Here are the
+                    types of information
                     we collect about you:
                 
 
 ### A. Information You Provide to Us
 
 
-**Account Registration.** When you create an account with Lyft, we collect the information you provide us,
-                        such as your name, email address, phone number, birth date, and payment information. You may choose to share additional
-                        info with us for your Rider profile, like your photo or saved addresses (e.g., home or work), and set up other
+**Account Registration.** When you create an account with Lyft, we collect the
+                        information you provide us,
+                        such as your name, email address, phone number, birth date, and payment information. You may
+                        choose to share additional
+                        info with us for your Rider profile, like your photo or saved addresses (e.g., home or work),
+                        and set up other
                         preferences (such as your preferred pronouns).
                     
 
 
-**Driver Information.** If you apply to be a Driver, we will collect the information you provide in your
-                        application, including your name, email address, phone number, birth date, profile photo, physical address, government
-                        identification number (such as social security number), driver’s license information, vehicle information, and car
-                        insurance information. We collect the payment information you provide us, including your bank routing numbers, and tax
-                        information. Depending on where you want to drive, we may also ask for additional business license or permit
-                        information. We may need additional information from you at some point after you become a Driver, including information
+**Driver Information.** If you apply to be a Driver, we will collect the
+                        information you provide in your
+                        application, including your name, email address, phone number, birth date, profile photo,
+                        physical address, government
+                        identification number (such as social security number), driver’s license information, vehicle
+                        information, and car
+                        insurance information. We collect the payment information you provide us, including your bank
+                        routing numbers, and tax
+                        information. Depending on where you want to drive, we may also ask for additional business
+                        license or permit
+                        information. We may need additional information from you at some point after you become a
+                        Driver, including information
                         to confirm your identity (like a photo).
                     
 
 
-**Ratings and Feedback.** When you rate and provide feedback about Riders or Drivers, we collect all of the
+**Ratings and Feedback.** When you rate and provide feedback about Riders or
+                        Drivers, we collect all of the
                         information you provide in your feedback.
                     
 
 
-**Communications.** When you contact us or we contact you, we collect any information that you provide,
+**Communications.** When you contact us or we contact you, we collect any
+                        information that you provide,
                         including the contents of the messages or attachments you send us.
                     
 
 ### B. Information We Collect When You Use the Lyft Platform
 
 
-**Location Information.** Great rides start with an easy and accurate pickup. The Lyft Platform collects
-                        location information (including GPS and WiFi data) differently depending on your Lyft app settings and device
+**Location Information.** Great rides start with an easy and accurate pickup. The
+                        Lyft Platform collects
+                        location information (including GPS and WiFi data) differently depending on your Lyft app
+                        settings and device
                         permissions as well as whether you are using the platform as a Rider or Driver:
                     
 
 <li>
-                            Riders: We collect your device’s precise location when you open and use the Lyft app, including while the app is running
-                            in the background from the time you request a ride until it ends. Lyft also tracks the precise location of scooters and
+                            Riders: We collect your device’s precise location when you open and use the Lyft app,
+                            including while the app is running
+                            in the background from the time you request a ride until it ends. Lyft also tracks the
+                            precise location of scooters and
                             e-bikes at all times.
                         </li>
 <li>
-                            Drivers: We collect your device’s precise location when you open and use the app, including while the app is running in
-                            the background when it is in driver mode. We also collect precise location for a limited time after you exit driver mode
-                            in order to detect ride incidents, and continue collecting it until a reported or detected incident is no longer active.
+                            Drivers: We collect your device’s precise location when you open and use the app, including
+                            while the app is running in
+                            the background when it is in driver mode. We also collect precise location for a limited
+                            time after you exit driver mode
+                            in order to detect ride incidents, and continue collecting it until a reported or detected
+                            incident is no longer active.
                         </li>
 
 
-**Usage Information.** We collect information about your use of the Lyft Platform, including ride
-                        information like the date, time, destination, distance, route, payment, and whether you used a promotional or referral
-                        code. We also collect information about your interactions with the Lyft Platform like our apps and websites, including
+**Usage Information.** We collect information about your use of the Lyft Platform,
+                        including ride
+                        information like the date, time, destination, distance, route, payment, and whether you used a
+                        promotional or referral
+                        code. We also collect information about your interactions with the Lyft Platform like our apps
+                        and websites, including
                         the pages and content you view and the dates and times of your use.
                     
 
 
-**Device Information.** We collect information about the devices you use to access the Lyft Platform,
-                        including device model, IP address, type of browser, version of operating system, identity of carrier and manufacturer,
-                        radio type (such as 4G), preferences and settings (such as preferred language), application installations, device
-                        identifiers, advertising identifiers, and push notification tokens. If you are a Driver, we also collect mobile sensor
-                        data from your device (such as speed, direction, height, acceleration, deceleration, and other technical data).
+**Device Information.** We collect information about the devices you use to access
+                        the Lyft Platform,
+                        including device model, IP address, type of browser, version of operating system, identity of
+                        carrier and manufacturer,
+                        radio type (such as 4G), preferences and settings (such as preferred language), application
+                        installations, device
+                        identifiers, advertising identifiers, and push notification tokens. If you are a Driver, we also
+                        collect mobile sensor
+                        data from your device (such as speed, direction, height, acceleration, deceleration, and other
+                        technical data).
                     
 
 
-**Communications Between Riders and Drivers.** We work with a third party to facilitate phone calls and
-                        text messages between Riders and Drivers without sharing either party’s actual phone number with the other. But while we
-                        use a third party to provide the communication service, we collect information about these communications, including the
-                        participants’ phone numbers, the date and time, and the contents of SMS messages. For security purposes, we may also
-                        monitor or record the contents of phone calls made through the Lyft Platform, but we will always let you know we are
+**Communications Between Riders and Drivers.** We work with a third party to
+                        facilitate phone calls and
+                        text messages between Riders and Drivers without sharing either party’s actual phone number with
+                        the other. But while we
+                        use a third party to provide the communication service, we collect information about these
+                        communications, including the
+                        participants’ phone numbers, the date and time, and the contents of SMS messages. For security
+                        purposes, we may also
+                        monitor or record the contents of phone calls made through the Lyft Platform, but we will always
+                        let you know we are
                         about to do so before the call begins.
                     
 
 
-**Address Book Contacts.** You may set your device permissions to grant Lyft access to your contact lists
-                        and direct Lyft to access your contact list, for example to help you refer friends to Lyft. If you do this, we will
+**Address Book Contacts.** You may set your device permissions to grant Lyft access
+                        to your contact lists
+                        and direct Lyft to access your contact list, for example to help you refer friends to Lyft. If
+                        you do this, we will
                         access and store the names and contact information of the people in your address book.
                     
 
 
-**Cookies, Analytics, and Third Party Technologies.** We collect information through the use of “cookies”,
+**Cookies, Analytics, and Third Party Technologies.** We collect information
+                        through the use of “cookies”,
                         tracking pixels, data analytics tools like <a href="https://policies.google.com/technologies/partner-sites">Google
-                        Analytics</a>, SDKs, and other third party technologies to understand how you navigate through the Lyft Platform and
-                        interact with Lyft advertisements, to make your Lyft experience safer, to learn what content is popular, to improve your
-                        site experience, to serve you better ads on other sites, and to save your preferences. Cookies are small text files that
-                        web servers place on your device; they are designed to store basic information and to help websites and apps recognize
-                        your browser. We may use both session cookies and persistent cookies. A session cookie disappears after you close your
-                        browser. A persistent cookie remains after you close your browser and may be accessed every time you use the Lyft
-                        Platform. You should consult your web browser(s) to modify your cookie settings. Please note that if you delete or
+                            Analytics</a>, SDKs, and other third party technologies to understand how you navigate
+                        through the Lyft Platform and
+                        interact with Lyft advertisements, to make your Lyft experience safer, to learn what content is
+                        popular, to improve your
+                        site experience, to serve you better ads on other sites, and to save your preferences. Cookies
+                        are small text files that
+                        web servers place on your device; they are designed to store basic information and to help
+                        websites and apps recognize
+                        your browser. We may use both session cookies and persistent cookies. A session cookie
+                        disappears after you close your
+                        browser. A persistent cookie remains after you close your browser and may be accessed every time
+                        you use the Lyft
+                        Platform. You should consult your web browser(s) to modify your cookie settings. Please note
+                        that if you delete or
                         choose not to accept cookies from us, you may miss out on certain features of the Lyft Platform.
                     
 
-### C.  Information We Collect from Third Parties
+### C. Information We Collect from Third Parties
 
 
-**Third Party Services.** Third party services provide us with information needed for core aspects of the
-                        Lyft Platform, as well as for additional services, programs, loyalty benefits, and promotions that can enhance your Lyft
-                        experience. These third party services include background check providers, insurance partners, financial service
-                        providers, marketing providers, and other businesses. We obtain the following information about you from these third
+**Third Party Services.** Third party services provide us with information needed
+                        for core aspects of the
+                        Lyft Platform, as well as for additional services, programs, loyalty benefits, and promotions
+                        that can enhance your Lyft
+                        experience. These third party services include background check providers, insurance partners,
+                        financial service
+                        providers, marketing providers, and other businesses. We obtain the following information about
+                        you from these third
                         party services:
                     
 
@@ -1513,36 +1513,46 @@ By agreeing to arbitration, you understand that you and
                             Information to make the Lyft Platform safer, like background check information for drivers;
                         </li>
 <li>
-                            Information about your participation in third party programs that provide things like insurance coverage and financial
+                            Information about your participation in third party programs that provide things like
+                            insurance coverage and financial
                             instruments, such as insurance, payment, transaction, and fraud detection information;
                         </li>
 <li>
-                            Information to operationalize loyalty and promotional programs, such as information about your use of such programs; and
+                            Information to operationalize loyalty and promotional programs, such as information about
+                            your use of such programs; and
                         </li>
 <li>
-                            Information about you provided by specific services, such as demographic and market segment information.
+                            Information about you provided by specific services, such as demographic and market segment
+                            information.
                         </li>
 
 
-**Enterprise Programs.** If you use Lyft through your employer or other organization that participates in
-                        one of our Lyft Business enterprise programs, we will collect information about you from those parties, such as your
+**Enterprise Programs.** If you use Lyft through your employer or other
+                        organization that participates in
+                        one of our Lyft Business enterprise programs, we will collect information about you from those
+                        parties, such as your
                         name and contact information.
                     
 
 
-**Concierge Service.** Sometimes another business or entity may order you a Lyft ride. If an organization
-                        has ordered a ride for you using our Concierge service, they will provide us your contact information and the pickup and
+**Concierge Service.** Sometimes another business or entity may order you a Lyft
+                        ride. If an organization
+                        has ordered a ride for you using our Concierge service, they will provide us your contact
+                        information and the pickup and
                         drop-off location of your ride.
                     
 
 
-**Referral Programs.** Friends help friends use the Lyft Platform. If someone refers you to Lyft, we will
+**Referral Programs.** Friends help friends use the Lyft Platform. If someone
+                        refers you to Lyft, we will
                         collect information about you from that referral including your name and contact information.
                     
 
 
-**Other Users and Sources.** Other users or public or third-party sources such as law enforcement,
-                        insurers, media, or pedestrians may provide us information about you, for example as part of an investigation into an
+**Other Users and Sources.** Other users or public or third-party sources such as
+                        law enforcement,
+                        insurers, media, or pedestrians may provide us information about you, for example as part of an
+                        investigation into an
                         incident or to provide you support.
                     
 
@@ -1572,8 +1582,10 @@ By agreeing to arbitration, you understand that you and
                     </li>
 
 
-**Providing the Lyft Platform.** We use your personal information to provide an intuitive, useful,
-                    efficient, and worthwhile experience on our platform. To do this, we use your personal information to:
+**Providing the Lyft Platform.** We use your personal information to provide an
+                    intuitive, useful,
+                    efficient, and worthwhile experience on our platform. To do this, we use your personal information
+                    to:
                 
 
 <li>
@@ -1586,7 +1598,8 @@ By agreeing to arbitration, you understand that you and
                         Calculate prices and process payments;
                     </li>
 <li>
-                        Allow Riders and Drivers to connect regarding their ride and to choose to share their location with others;
+                        Allow Riders and Drivers to connect regarding their ride and to choose to share their location
+                        with others;
                     </li>
 <li>
                         Communicate with you about your rides and experience;
@@ -1602,8 +1615,10 @@ By agreeing to arbitration, you understand that you and
                     </li>
 
 
-**Maintaining the Security and Safety of the Lyft Platform and its Users.** Providing you a secure and safe
-                    experience drives our platform, both on the road and on our apps. To do this, we use your personal information to:
+**Maintaining the Security and Safety of the Lyft Platform and its Users.** Providing
+                    you a secure and safe
+                    experience drives our platform, both on the road and on our apps. To do this, we use your personal
+                    information to:
                 
 
 <li>
@@ -1626,7 +1641,8 @@ By agreeing to arbitration, you understand that you and
                     </li>
 
 
-**Building and Maintaining the Lyft Community.** Lyft works to be a positive part of the community. We use
+**Building and Maintaining the Lyft Community.** Lyft works to be a positive part of
+                    the community. We use
                     your personal information to:
                 
 
@@ -1634,26 +1650,30 @@ By agreeing to arbitration, you understand that you and
                         Communicate with you about events, promotions, elections, and campaigns;
                     </li>
 <li>
-                        Personalize and provide content, experiences, communications, and advertising to promote and grow the Lyft Platform; and
+                        Personalize and provide content, experiences, communications, and advertising to promote and
+                        grow the Lyft Platform; and
                     </li>
 <li>
                         Help facilitate donations you choose to make through the Lyft Platform.
                     </li>
 
 
-**Providing Customer Support.** We work hard to provide the best experience possible, including supporting
+**Providing Customer Support.** We work hard to provide the best experience possible,
+                    including supporting
                     you when you need it. To do this, we use your personal information to:
                 
 
 <li>
-                        Investigate and assist you in resolving questions or issues you have regarding the Lyft Platform; and
+                        Investigate and assist you in resolving questions or issues you have regarding the Lyft
+                        Platform; and
                     </li>
 <li>
                         Provide you support or respond to you.
                     </li>
 
 
-**Improving the Lyft Platform.** We are always working to improve your experience and provide you with new
+**Improving the Lyft Platform.** We are always working to improve your experience and
+                    provide you with new
                     and helpful features. To do this, we use your personal information to:
                 
 
@@ -1667,20 +1687,25 @@ By agreeing to arbitration, you understand that you and
                         Prevent, find, and resolve software or hardware bugs and issues; and
                     </li>
 <li>
-                        Monitor and improve our operations and processes, including security practices, algorithms, and other modeling.
+                        Monitor and improve our operations and processes, including security practices, algorithms, and
+                        other modeling.
                     </li>
 
 
-**Responding to Legal Proceedings and Requirements.** Sometimes the law, government entities, or other
-                    regulatory bodies impose demands and obligations on us with respect to the services we seek to provide. In such a
+**Responding to Legal Proceedings and Requirements.** Sometimes the law, government
+                    entities, or other
+                    regulatory bodies impose demands and obligations on us with respect to the services we seek to
+                    provide. In such a
                     circumstance, we may use your personal information to respond to those demands or obligations.
                 
 
 ## How We Share Your Information
 
 
-                    We do not sell your personal information. To make the Lyft Platform work, we may need to share your personal information
-                    with other users, third parties, and service providers. This section explains when and why we share your information.
+                    We do not sell your personal information. To make the Lyft Platform work, we may need to share your
+                    personal information
+                    with other users, third parties, and service providers. This section explains when and why we share
+                    your information.
                 
 
 ### A. Sharing Between Lyft Users
@@ -1688,78 +1713,109 @@ By agreeing to arbitration, you understand that you and
 **Riders and Drivers.**
 
 
-**Rider information shared with Driver:** Upon receiving a ride request, we share with the Driver the Rider’s
-                        pickup location, name, profile photo, rating, Rider statistics (like approximate number of rides and years as a Rider),
-                        and information the Rider includes in their Rider profile (like preferred pronouns). Upon pickup and during the ride, we
-                        share with the Driver the Rider’s destination and any additional stops the Rider inputs into the Lyft app. Once the ride
-                        is finished, we also eventually share the Rider’s rating and feedback with the Driver. (We remove the Rider’s identity
-                        associated with ratings and feedback when we share it with Drivers, but a Driver may be able to identify the Rider that
+**Rider information shared with Driver:** Upon receiving a ride request, we share with the
+                        Driver the Rider’s
+                        pickup location, name, profile photo, rating, Rider statistics (like approximate number of rides
+                        and years as a Rider),
+                        and information the Rider includes in their Rider profile (like preferred pronouns). Upon pickup
+                        and during the ride, we
+                        share with the Driver the Rider’s destination and any additional stops the Rider inputs into the
+                        Lyft app. Once the ride
+                        is finished, we also eventually share the Rider’s rating and feedback with the Driver. (We
+                        remove the Rider’s identity
+                        associated with ratings and feedback when we share it with Drivers, but a Driver may be able to
+                        identify the Rider that
                         provided the rating or feedback.)
                     
 
 
-**Driver information shared with Rider:** Upon a Driver accepting a requested ride, we will share with the Rider
-                        the Driver’s name, profile photo, preferred pronouns, rating, real-time location, and the vehicle make, model, color,
-                        and license plate, as well as other information in the Driver’s Lyft profile, such as information Drivers choose to add
-                        (like country flag and why you drive) and Driver statistics (like approximate number of rides and years as a Driver).
+**Driver information shared with Rider:** Upon a Driver accepting a requested ride, we will
+                        share with the Rider
+                        the Driver’s name, profile photo, preferred pronouns, rating, real-time location, and the
+                        vehicle make, model, color,
+                        and license plate, as well as other information in the Driver’s Lyft profile, such as
+                        information Drivers choose to add
+                        (like country flag and why you drive) and Driver statistics (like approximate number of rides
+                        and years as a Driver).
                     
 
 
-                        Although we help Riders and Drivers communicate with one another to arrange a pickup, we do not share your actual phone
-                        number or other contact information with other users. If you report a lost or found item to us, we will seek to connect
-                        you with the relevant Rider or Driver, including sharing actual contact information with your consent.
+                        Although we help Riders and Drivers communicate with one another to arrange a pickup, we do not
+                        share your actual phone
+                        number or other contact information with other users. If you report a lost or found item to us,
+                        we will seek to connect
+                        you with the relevant Rider or Driver, including sharing actual contact information with your
+                        consent.
                     
 
 
-**Shared Ride Riders.** When Riders use a Lyft Shared ride, we share each Rider’s name and profile picture
-                        to ensure safety. Riders may also see each other’s pickup and drop-off locations as part of knowing the route while
+**Shared Ride Riders.** When Riders use a Lyft Shared ride, we share each Rider’s
+                        name and profile picture
+                        to ensure safety. Riders may also see each other’s pickup and drop-off locations as part of
+                        knowing the route while
                         sharing the ride.
                     
 
 
-**Rides Requested or Paid For by Others.** Some rides you take may be requested or paid for by others. If
-                        you take one of those rides using your Lyft Business Profile account, a code or coupon, a corporate credit card linked
-                        to another account, or another user otherwise requests a ride for you, we may share some or all of your ride details
-                        with that other party, including the date, time, charge, rating given, region of trip, and pick up and drop off location
+**Rides Requested or Paid For by Others.** Some rides you take may be requested or
+                        paid for by others. If
+                        you take one of those rides using your Lyft Business Profile account, a code or coupon, a
+                        corporate credit card linked
+                        to another account, or another user otherwise requests a ride for you, we may share some or all
+                        of your ride details
+                        with that other party, including the date, time, charge, rating given, region of trip, and pick
+                        up and drop off location
                         of your ride.
                     
 
 
-**Referral Programs.** If you refer someone to the Lyft Platform, we will let them know that you generated
-                        the referral. If another user referred you, we may share information about your use of the Lyft Platform with that user.
-                        For example, a referral source may receive a bonus when you join the Lyft Platform or complete a certain number of rides
+**Referral Programs.** If you refer someone to the Lyft Platform, we will let them
+                        know that you generated
+                        the referral. If another user referred you, we may share information about your use of the Lyft
+                        Platform with that user.
+                        For example, a referral source may receive a bonus when you join the Lyft Platform or complete a
+                        certain number of rides
                         and would receive such information.
                     
 
 ### B. Sharing With Third-Party Service Providers for Business Purposes
 
 
-                        Depending on whether you’re a Rider or a Driver, Lyft may share the following categories of your personal information
-                        for a business purpose (as we have done for the preceding 12 months) to provide you with a variety of the Lyft
+                        Depending on whether you’re a Rider or a Driver, Lyft may share the following categories of your
+                        personal information
+                        for a business purpose (as we have done for the preceding 12 months) to provide you with a
+                        variety of the Lyft
                         Platform’s features and services:
                     
 
 <li>
-                            Personal identifiers, such as your name, address, email address, date of birth, government identification number (such
-                            as social security number), driver’s license information, vehicle information, and car insurance information;
+                            Personal identifiers, such as your name, address, email address, date of birth, government
+                            identification number (such
+                            as social security number), driver’s license information, vehicle information, and car
+                            insurance information;
                         </li>
 <li>
-                            Financial information, such as bank routing numbers, tax information, and any other payment information you provide us;
+                            Financial information, such as bank routing numbers, tax information, and any other payment
+                            information you provide us;
                         </li>
 <li>
-                            Commercial information, such as ride information, Driver/Rider statistics and feedback, and Driver/Rider transaction
+                            Commercial information, such as ride information, Driver/Rider statistics and feedback, and
+                            Driver/Rider transaction
                             history;
                         </li>
 <li>
-                            Internet or other electronic network activity information, such as your IP address, type of browser, version of
-                            operating system, carrier and/or manufacturer, device identifiers, and mobile advertising identifiers; and
+                            Internet or other electronic network activity information, such as your IP address, type of
+                            browser, version of
+                            operating system, carrier and/or manufacturer, device identifiers, and mobile advertising
+                            identifiers; and
                         </li>
 <li>
                             Location data.
                         </li>
 
 
-                        We disclose those categories of personal information to service providers to fulfill the following business purposes:
+                        We disclose those categories of personal information to service providers to fulfill the
+                        following business purposes:
                     
 
 <li>
@@ -1808,12 +1864,14 @@ By agreeing to arbitration, you understand that you and
 ### C. For Legal Reasons and to Protect the Lyft Platform
 
 
-                        We may share your personal information in response to a legal obligation, or if we have determined that sharing your
+                        We may share your personal information in response to a legal obligation, or if we have
+                        determined that sharing your
                         personal information is reasonably necessary or appropriate to:
                     
 
 <li>
-                            Comply with any applicable federal, state, or local law or regulation, civil, criminal or regulatory inquiry,
+                            Comply with any applicable federal, state, or local law or regulation, civil, criminal or
+                            regulatory inquiry,
                             investigation or legal process, or enforceable governmental request;
                         </li>
 <li>
@@ -1823,116 +1881,152 @@ By agreeing to arbitration, you understand that you and
                             Enforce our Terms of Service;
                         </li>
 <li>
-                            Cooperate with law enforcement agencies concerning conduct or activity that we reasonably and in good faith believe may
+                            Cooperate with law enforcement agencies concerning conduct or activity that we reasonably
+                            and in good faith believe may
                             violate federal, state, or local law; or
                         </li>
 <li>
-                            Exercise or defend legal claims, protect against harm to our rights, property, interests, or safety or the rights,
-                            property, interests, or safety of you, third-parties, or the public as required or permitted by law.
+                            Exercise or defend legal claims, protect against harm to our rights, property, interests, or
+                            safety or the rights,
+                            property, interests, or safety of you, third-parties, or the public as required or permitted
+                            by law.
                         </li>
 
 ### D. In Connection with Sale or Merger
 
 
-                        We may share your personal information while negotiating or in relation to a change of corporate control such as a
+                        We may share your personal information while negotiating or in relation to a change of corporate
+                        control such as a
                         restructuring, merger, or sale of our assets.
                     
 
 ### E. Upon Your Further Direction
 
 
-                        With your permission or upon your direction, we may disclose your personal information to interact with a third party or
+                        With your permission or upon your direction, we may disclose your personal information to
+                        interact with a third party or
                         for other purposes.
                     
 
 ## How We Store and Protect Your Information
 
 
-                    We retain your information for as long as necessary to provide you and our other users the Lyft Platform. This means we
-                    keep your profile information for as long as you maintain an account. We retain transactional information such as rides
-                    and payments for at least seven years to ensure we can perform legitimate business functions, such as accounting for tax
-                    obligations. If you request account deletion, we will delete your information as set forth in the “Deleting Your
+                    We retain your information for as long as necessary to provide you and our other users the Lyft
+                    Platform. This means we
+                    keep your profile information for as long as you maintain an account. We retain transactional
+                    information such as rides
+                    and payments for at least seven years to ensure we can perform legitimate business functions, such
+                    as accounting for tax
+                    obligations. If you request account deletion, we will delete your information as set forth in the
+                    “Deleting Your
                     Account” section below.
                 
 
 
-                    We take reasonable and appropriate measures designed to protect your personal information. But no security measures can
-                    be 100% effective, and we cannot guarantee the security of your information, including against unauthorized intrusions
+                    We take reasonable and appropriate measures designed to protect your personal information. But no
+                    security measures can
+                    be 100% effective, and we cannot guarantee the security of your information, including against
+                    unauthorized intrusions
                     or acts by third parties.
                 
 
 ## Your Rights And Choices Regarding Your Data
 
 
-                    As explained more below and on our [privacy homepage](https://www.lyft.com/privacy/home), Lyft provides ways
-                    for you to access and delete your personal information as well as exercise other data rights that give you certain
+                    As explained more below and on our [privacy homepage](https://www.lyft.com/privacy/home),
+                    Lyft provides ways
+                    for you to access and delete your personal information as well as exercise other data rights that
+                    give you certain
                     control over your personal information.
                 
 
 ### A. All Users
 
 
-**Email Subscriptions.** You can always unsubscribe from our commercial or promotional emails by clicking
-                        unsubscribe in those messages. We will still send you transactional and relational emails about your use of the Lyft
+**Email Subscriptions.** You can always unsubscribe from our commercial or
+                        promotional emails by clicking
+                        unsubscribe in those messages. We will still send you transactional and relational emails about
+                        your use of the Lyft
                         Platform.
                     
 
 
-**Text Messages.** You can opt out of receiving commercial or promotional text messages by texting the word
-                        END to 46080 from the mobile device receiving the messages. You may also opt out of receiving all texts from Lyft
-                        (including transactional or relational messages) by texting the word STOPALL to 46080 from the mobile device receiving
-                        the messages. Note that opting out of receiving all texts may impact your use of the Lyft Platform. Drivers can also opt
-                        out of driver-specific messages by texting STOP in response to a driver SMS. To re-enable texts you can text START in
+**Text Messages.** You can opt out of receiving commercial or promotional text
+                        messages by texting the word
+                        END to 46080 from the mobile device receiving the messages. You may also opt out of receiving
+                        all texts from Lyft
+                        (including transactional or relational messages) by texting the word STOPALL to 46080 from the
+                        mobile device receiving
+                        the messages. Note that opting out of receiving all texts may impact your use of the Lyft
+                        Platform. Drivers can also opt
+                        out of driver-specific messages by texting STOP in response to a driver SMS. To re-enable texts
+                        you can text START in
                         response to an unsubscribe confirmation SMS.
                     
 
 
-**Push Notifications.** You can opt out of receiving push notifications through your device settings.
-                        Please note that opting out of receiving push notifications may impact your use of the Lyft Platform (such as receiving
+**Push Notifications.** You can opt out of receiving push notifications through
+                        your device settings.
+                        Please note that opting out of receiving push notifications may impact your use of the Lyft
+                        Platform (such as receiving
                         a notification that your ride has arrived).
                     
 
 
-**Profile Information.** You can review and edit certain account information you have chosen to add to your
+**Profile Information.** You can review and edit certain account information you
+                        have chosen to add to your
                         profile by logging in to your account settings and profile.
                     
 
 
-**Location Information.** You can prevent your device from sharing location information through your
-                        device’s system settings. But if you do, this may impact Lyft’s ability to provide you our full range of features and
+**Location Information.** You can prevent your device from sharing location
+                        information through your
+                        device’s system settings. But if you do, this may impact Lyft’s ability to provide you our full
+                        range of features and
                         services.
                     
 
 
-**Cookie Tracking.** You can modify your cookie settings on your browser, but if you delete or choose not
+**Cookie Tracking.** You can modify your cookie settings on your browser, but if
+                        you delete or choose not
                         to accept our cookies, you may be missing out on certain features of the Lyft Platform.
                     
 
 
-**Do Not Track.** Your browser may offer you a “Do Not Track” option, which allows you to signal to
-                        operators of websites and web applications and services that you do not want them to track your online activities. The
+**Do Not Track.** Your browser may offer you a “Do Not Track” option, which allows
+                        you to signal to
+                        operators of websites and web applications and services that you do not want them to track your
+                        online activities. The
                         Lyft Platform does not currently support Do Not Track requests at this time.
                     
 
 
-**Deleting Your Account.** If you would like to delete your Lyft account, please visit our
-                        [privacy homepage](https://www.lyft.com/privacy/home). In some cases, we will be unable to delete your account, such as
-                        if there is an issue with your account related to trust, safety, or fraud. When we delete your account, we may retain
-                        certain information for legitimate business purposes or to comply with legal or regulatory obligations. For example, we
-                        may retain your information to resolve open insurance claims, or we may be obligated to retain your information as part
-                        of an open legal claim. When we retain such data, we do so in ways designed to prevent its use for other purposes.
+**Deleting Your Account.** If you would like to delete your Lyft account, please
+                        visit our
+                        [privacy homepage](https://www.lyft.com/privacy/home). In some cases, we will be
+                        unable to delete your account, such as
+                        if there is an issue with your account related to trust, safety, or fraud. When we delete your
+                        account, we may retain
+                        certain information for legitimate business purposes or to comply with legal or regulatory
+                        obligations. For example, we
+                        may retain your information to resolve open insurance claims, or we may be obligated to retain
+                        your information as part
+                        of an open legal claim. When we retain such data, we do so in ways designed to prevent its use
+                        for other purposes.
                     
 
 ### B. California Residents
 
 
-                        The California Consumer Privacy Act provides some California residents with the additional rights listed below. To
+                        The California Consumer Privacy Act provides some California residents with the additional
+                        rights listed below. To
                         exercise these rights see the “Exercising Your California Privacy Rights” section or visit our
                         [privacy homepage](https://www.lyft.com/privacy/home).
                     
 
 
-**Right to Know.** You have the right to know and see what data we have collected about you over the past
+**Right to Know.** You have the right to know and see what data we have collected
+                        about you over the past
                         12 months, including:
                     
 
@@ -1953,9 +2047,12 @@ By agreeing to arbitration, you understand that you and
                         </li>
 
 
-**Right to Delete.** You have the right to request that we delete the personal information we have
-                        collected from you (and direct our service providers to do the same). There are a number of exceptions, however, that
-                        include, but are not limited to, when the information is necessary for us or a third party to do any of the following:
+**Right to Delete.** You have the right to request that we delete the personal
+                        information we have
+                        collected from you (and direct our service providers to do the same). There are a number of
+                        exceptions, however, that
+                        include, but are not limited to, when the information is necessary for us or a third party to do
+                        any of the following:
                     
 
 <li>
@@ -1977,81 +2074,107 @@ By agreeing to arbitration, you understand that you and
                             Protect the free speech rights of you or other users;
                         </li>
 <li>
-                            Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et seq.);
+                            Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et
+                            seq.);
                         </li>
 <li>
-                            Engage in public or peer-reviewed scientific, historical, or statistical research in the public interests that adheres
+                            Engage in public or peer-reviewed scientific, historical, or statistical research in the
+                            public interests that adheres
                             to all other applicable ethics and privacy laws;
                         </li>
 <li>
                             Comply with a legal obligation; or
                         </li>
 <li>
-                            Make other internal and lawful uses of the information that are compatible with the context in which you provided it.
+                            Make other internal and lawful uses of the information that are compatible with the context
+                            in which you provided it.
                         </li>
 
 
-**Other Rights.** You can request certain information about our disclosure of personal information to third
-                        parties for their own direct marketing purposes during the preceding calendar year. This request is free and may be made
-                        once a year. You also have the right not to be discriminated against for exercising any of the rights listed above.
+**Other Rights.** You can request certain information about our disclosure of
+                        personal information to third
+                        parties for their own direct marketing purposes during the preceding calendar year. This request
+                        is free and may be made
+                        once a year. You also have the right not to be discriminated against for exercising any of the
+                        rights listed above.
                     
 
 
-**Exercising Your California Privacy Rights.** To request access to or deletion of your personal
-                        information, or to exercise any other data rights under California law, please contact us using one of the following
+**Exercising Your California Privacy Rights.** To request access to or deletion of
+                        your personal
+                        information, or to exercise any other data rights under California law, please contact us using
+                        one of the following
                         methods:
                     
 
 
-<u>Website</u>: You may visit our [privacy homepage](https://www.lyft.com/privacy/home) to authenticate and
+<u>Website</u>: You may visit our <a href="https://www.lyft.com/privacy/home">privacy
+                            homepage</a> to authenticate and
                         exercise rights via our website.
                     
 
 
 <u>Email Webform</u>: You may <a href="https://help.lyft.com/hc/en-us/requests/new?ticket_form_id=360002128894">
-                        write to us</a> to exercise rights. Please include your full name, email address, and phone number associated with your
-                        use of the Lyft Platform, along with why you are writing, so that we can process your request in an efficient manner.
+                            write to us</a> to exercise rights. Please include your full name, email address, and phone
+                        number associated with your
+                        use of the Lyft Platform, along with why you are writing, so that we can process your request in
+                        an efficient manner.
                     
 
 
-                        To respond to some rights we will need to verify your request either by asking you to log in and authenticate your account or otherwise verify your identity by providing information about yourself or your account. Authorized agents can make a request on your behalf if you have given them legal power of attorney or you provide signed permission, verification of your identity, and confirmation that you provided the agent permission to submit the request.
+                        To respond to some rights we will need to verify your request either by asking you to log in and
+                        authenticate your account or otherwise verify your identity by providing information about
+                        yourself or your account. Authorized agents can make a request on your behalf if you have given
+                        them legal power of attorney or you provide signed permission, verification of your identity,
+                        and confirmation that you provided the agent permission to submit the request.
                     
 
 
-**Response Timing and Format.** We aim to respond to a consumer request for access or deletion within 45
-                        days of receiving that request. If we require more time, we will inform you of the reason and extension period in
+**Response Timing and Format.** We aim to respond to a consumer request for access
+                        or deletion within 45
+                        days of receiving that request. If we require more time, we will inform you of the reason and
+                        extension period in
                         writing.
                     
 
 ## Children’s Data
 
 
-                    Lyft is not directed to children, and we don’t knowingly collect personal information from children under the age of 13.
-                    If we find out that a child under 13 has given us personal information, we will take steps to delete that information.
-                    If you believe that a child under the age of 13 has given us personal information, please contact us at our
+                    Lyft is not directed to children, and we don’t knowingly collect personal information from children
+                    under the age of 13.
+                    If we find out that a child under 13 has given us personal information, we will take steps to delete
+                    that information.
+                    If you believe that a child under the age of 13 has given us personal information, please contact us
+                    at our
                     [Help Center](https://help.lyft.com/hc).
                 
 
 ## Links to Third Party Websites
 
 
-                    The Lyft Platform may contain links to third-party websites. Those websites may have privacy policies that differ from
-                    ours. We are not responsible for those websites, and we recommend that you review their policies. Please contact those
+                    The Lyft Platform may contain links to third-party websites. Those websites may have privacy
+                    policies that differ from
+                    ours. We are not responsible for those websites, and we recommend that you review their policies.
+                    Please contact those
                     websites directly if you have any questions about their privacy policies.
                 
 
 ## Changes to This Privacy Policy
 
 
-                    We may update this policy from time to time as the Lyft Platform changes and privacy law evolves. If we update it, we
-                    will do so online, and if we make material changes, we will let you know through the Lyft Platform or by some other
-                    method of communication like email. When you use Lyft, you are agreeing to the most recent terms of this policy.
+                    We may update this policy from time to time as the Lyft Platform changes and privacy law evolves. If
+                    we update it, we
+                    will do so online, and if we make material changes, we will let you know through the Lyft Platform
+                    or by some other
+                    method of communication like email. When you use Lyft, you are agreeing to the most recent terms of
+                    this policy.
                 
 
 ## Contact Us
 
 
-                    If you have any questions or concerns about your privacy or anything in this policy, including if you need to access
+                    If you have any questions or concerns about your privacy or anything in this policy, including if
+                    you need to access
                     this policy in an alternative format, we encourage you to
                     [contact us](https://help.lyft.com/hc/en-us/requests/new?ticket_form_id=360002128894).
                 
