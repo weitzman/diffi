@@ -2182,11 +2182,11 @@ Last Updated: December 9, 2020
 ## DRIVER
 
 ## DRIVER
-- [Become a Driver](/driver)- [Cities](/driver/cities)- [Help](https://help.lyft.com/hc/categories/115002009967-Driving-with-Lyft)- [Safety](/driver/safety)- [Express Drive](/expressdrive)- [Application Requirements](/driver-application-requirements)- [Insurance](/driver/insurance)- [Earnings](/driver-pay)- [Bonus](/driver/bonus)- [Lyft Rewards](/driver/rewards)- [Jobs](/driving-jobs)- [Hub](/hub)
+- [Become a Driver](/driver)- [Cities](/driver/cities)- [Help](https://help.lyft.com/hc/categories/115002009967-Driving-with-Lyft)- [Safety](/driver/safety)- [Express Drive](/expressdrive)- [Application Requirements](/driver-application-requirements)- [Insurance](/driver/insurance)- [Earnings](/driver/pay)- [Bonus](/driver/bonus)- [Lyft Rewards](/driver/rewards)- [Jobs](/driving-jobs)- [Hub](/hub)
 ## RIDER
 
 ## RIDER
-- [Sign up to ride](/rider)- [Business Profile](/rider/business)- [Cities](/rider/cities)- [Help](https://help.lyft.com/hc/categories/115002006488-Riding-with-Lyft)- [Safety](/rider/safety)- [Rewards](/rider/rewards)- [Events](/events)- [Fare Estimate](rider/fare-estimate)- [Airports](/airports)- [Gift Cards](/gift)- [Donate](/donate)- [Blog](/blog)
+- [Sign up to ride](/rider)- [Business Profile](/rider/business)- [Cities](/rider/cities)- [Help](https://help.lyft.com/hc/categories/115002006488-Riding-with-Lyft)- [Safety](/rider/safety)- [Rewards](/rider/rewards)- [Events](/events)- [Fare Estimate](/rider/fare-estimate)- [Airports](/airports)- [Gift Cards](/gift)- [Donate](/donate)- [Blog](/blog)
 ## LYFT
 
 ## LYFT
