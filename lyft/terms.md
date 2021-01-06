@@ -2186,7 +2186,7 @@ Last Updated: December 9, 2020
 ## RIDER
 
 ## RIDER
-- [Sign up to ride](/rider)- [Business Profile](/rider/business)- [Cities](/rider/cities)- [Help](https://help.lyft.com/hc/categories/115002006488-Riding-with-Lyft)- [Safety](/rider/safety)- [Rewards](/rider/rewards)- [Events](/events)- [Fare Estimate](/rider/fare-estimate)- [Airports](/airports)- [Gift Cards](/gift)- [Donate](/donate)- [Blog](/blog)
+- [Get a ride](https://lyft.sng.link/Adnq0/l8f8?_dl=lyft%3A%2F%2F)- [Business Profile](/rider/business)- [Cities](/rider/cities)- [Help](https://help.lyft.com/hc/categories/115002006488-Riding-with-Lyft)- [Safety](/rider/safety)- [Rewards](/rider/rewards)- [Events](/events)- [Fare Estimate](/rider/fare-estimate)- [Airports](/airports)- [Gift Cards](/gift)- [Donate](/donate)- [Blog](/blog)
 ## LYFT
 
 ## LYFT
