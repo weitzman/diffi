@@ -6,7 +6,7 @@
 #### [**I. Introduction**](#kix.a9vfzgr9inga)**  /  **[**II. Overview**](https://www.uber.com/legal/document/?name=privacy-notice&amp;country=united-states&amp;lang=en#vyc1h97fgp79)**  /  **[**III. Data collections and uses **](#kix.c84v3wvk4ned)** /  **[**IV. Choice and transparency**](#kix.5k74fzky02db)**  /  **[**V. Updates to this notice**](#kix.bzfd50nscybt)
 
 ## <a id="_b4yy10l84zsr"></a>I. Introduction
-|When you use Uber, you trust us with your personal data. We’re committed to keeping that trust. That starts with helping you understand our privacy practices.This notice describes the personal data we collect, how it’s used and shared, and your choices regarding this data. We recommend that you read this along with our [<u>privacy overview</u>](https://www.uber.com/privacy/overview), which highlights key points about our privacy practices.  **Last modified**: October 15, 2020**Effective date**: October 15, 2020 [<u>Download previous version</u>](http://t.uber.com/privacy-notice-2019)
+|When you use Uber, you trust us with your personal data. We’re committed to keeping that trust. That starts with helping you understand our privacy practices.This notice describes the personal data we collect, how it’s used and shared, and your choices regarding this data. We recommend that you read this along with our [<u>privacy overview</u>](https://www.uber.com/privacy/overview), which highlights key points about our privacy practices.  **Last modified**: October 15, 2020**Effective date**: October 15, 2020 [<u>Download previous version</u>](https://d1nyezh1ys8wfo.cloudfront.net/static/PDFs/Legal_PDFs/2019-07+Uber+Privacy+Notice.pdf)
 
 This notice describes the personal data we collect, how it’s used and shared, and your choices regarding this data. We recommend that you read this along with our [<u>privacy overview</u>](https://www.uber.com/privacy/overview), which highlights key points about our privacy practices.  
 
@@ -180,8 +180,6 @@ Advanced Technologies Group
 
 AI
 
-Elevate
-
 © <!-- -->2021<!-- --> Uber Technologies Inc.
 
 Privacy
@@ -190,4 +188,3 @@ Accessibility
 
 Terms
 <li aria-expanded="false" class="dl c2 c1 c3 c4 nl fp fq bk bl bg df" data-nodeid="" role="treeitem" tabindex="0"><h3 class="e8 b5 dq np nq nr ms" data-baseweb="typo-headinglarge">Company</h3><svg fill="none" height="24" viewbox="0 0 24 24" width="24"><path d="M18 8v3.8l-6 4.6-6-4.6V8l6 4.6L18 8z" fill="currentColor"></path></svg><ul class="c2 c1 ns nl fp fq nt bg df lr nm" role="group"><li aria-expanded="false" class="nu c2 c1 c3 c4 nl fp fq bk bl bg df" data-nodeid="" role="treeitem" tabindex="0">[About us](https://www.uber.com/about/)<ul class="c2 c1 ns nl fp fq nt bg df lr nm" role="group">
-### 
