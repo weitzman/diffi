@@ -209,8 +209,6 @@ Advanced Technologies Group
 
 AI
 
-Elevate
-
 © <!-- -->2021<!-- --> Uber Technologies Inc.
 
 Privacy
@@ -219,4 +217,3 @@ Accessibility
 
 Terms
 <li role="treeitem" data-nodeid="" tabindex="0" aria-expanded="false" class="dl c2 c1 c3 c4 nl fp fq bk bl bg df"><h3 data-baseweb="typo-headinglarge" class="e8 b5 dq np nq nr ms">Company</h3><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 8v3.8l-6 4.6-6-4.6V8l6 4.6L18 8z" fill="currentColor"></path></svg><ul role="group" class="c2 c1 ns nl fp fq nt bg df lr nm"><li role="treeitem" data-nodeid="" tabindex="0" aria-expanded="false" class="nu c2 c1 c3 c4 nl fp fq bk bl bg df">[About us](https://www.uber.com/about/)<ul role="group" class="c2 c1 ns nl fp fq nt bg df lr nm">
-### 
