@@ -1321,7 +1321,7 @@ Last Updated: December 9, 2020
                     Lyft Privacy Policy
                 
 
-**Last Updated: September 14, 2020**
+**Last Updated: January 12, 2021**
 
 
                     At Lyft our mission is to improve people’s lives with the world’s best transportation, providing a
@@ -1355,12 +1355,9 @@ Last Updated: December 9, 2020
 
 
                     When you use the Lyft Platform, we collect the information you provide, usage information, and
-                    information about your
-                    device. We also collect information about you from other sources like third party services, and
-                    optional programs in
-                    which you participate, which we may combine with other information we have about you. Here are the
-                    types of information
-                    we collect about you:
+                    information about your device. We also collect information about you from other sources like
+                    third-party services, and optional programs in which you participate, which we may combine with
+                    other information we have about you. Here are the types of information we collect about you:
                 
 
 ### A. Information You Provide to Us
@@ -1383,12 +1380,10 @@ Last Updated: December 9, 2020
                         identification number (such as social security number), driver’s license information, vehicle
                         information, and car
                         insurance information. We collect the payment information you provide us, including your bank
-                        routing numbers, and tax
-                        information. Depending on where you want to drive, we may also ask for additional business
-                        license or permit
-                        information. We may need additional information from you at some point after you become a
-                        Driver, including information
-                        to confirm your identity (like a photo).
+                        routing numbers, and tax information. Depending on where you want to drive, we may also ask for
+                        additional business license or permit information or other information to manage driving and
+                        programs relevant to that location. We may need additional information from you at some point
+                        after you become a Driver, including information to confirm your identity (like a photo).
                     
 
 
@@ -1475,10 +1470,10 @@ Last Updated: December 9, 2020
                     
 
 
-**Cookies, Analytics, and Third Party Technologies.** We collect information
+**Cookies, Analytics, and Third-Party Technologies.** We collect information
                         through the use of “cookies”,
                         tracking pixels, data analytics tools like <a href="https://policies.google.com/technologies/partner-sites">Google
-                            Analytics</a>, SDKs, and other third party technologies to understand how you navigate
+                            Analytics</a>, SDKs, and other third-party technologies to understand how you navigate
                         through the Lyft Platform and
                         interact with Lyft advertisements, to make your Lyft experience safer, to learn what content is
                         popular, to improve your
@@ -1498,28 +1493,26 @@ Last Updated: December 9, 2020
 ### C. Information We Collect from Third Parties
 
 
-**Third Party Services.** Third party services provide us with information needed
-                        for core aspects of the
-                        Lyft Platform, as well as for additional services, programs, loyalty benefits, and promotions
-                        that can enhance your Lyft
-                        experience. These third party services include background check providers, insurance partners,
-                        financial service
-                        providers, marketing providers, and other businesses. We obtain the following information about
-                        you from these third
-                        party services:
+**Third-Party Services.** Third-party services provide us with information needed
+                        for core aspects of the Lyft Platform, as well as for additional services, programs, loyalty
+                        benefits, and promotions that can enhance your Lyft experience. These third-party services
+                        include background check providers, insurance partners, financial service providers, marketing
+                        providers, and other businesses. We obtain the following information about you from these
+                        third-party services:
                     
 
 <li>
                             Information to make the Lyft Platform safer, like background check information for drivers;
                         </li>
 <li>
-                            Information about your participation in third party programs that provide things like
+                            Information about your participation in third-party programs that provide things like
                             insurance coverage and financial
                             instruments, such as insurance, payment, transaction, and fraud detection information;
                         </li>
 <li>
-                            Information to operationalize loyalty and promotional programs, such as information about
-                            your use of such programs; and
+                            Information to operationalize loyalty and promotional programs or applications, services, or
+                            features you choose to connect or link to your Lyft account, such as information about your
+                            use of such programs, applications, services, or features; and
                         </li>
 <li>
                             Information about you provided by specific services, such as demographic and market segment
@@ -1758,14 +1751,12 @@ Last Updated: December 9, 2020
 
 
 **Rides Requested or Paid For by Others.** Some rides you take may be requested or
-                        paid for by others. If
-                        you take one of those rides using your Lyft Business Profile account, a code or coupon, a
-                        corporate credit card linked
-                        to another account, or another user otherwise requests a ride for you, we may share some or all
-                        of your ride details
-                        with that other party, including the date, time, charge, rating given, region of trip, and pick
-                        up and drop off location
-                        of your ride.
+                        paid for by others. If you take one of those rides using your Lyft Business Profile account, a
+                        code or coupon, a subsidized program (e.g., transit or government), or a corporate credit card
+                        linked to another account, or another user otherwise requests or pays for a ride for you, we may
+                        share some or all of your ride details with that other party, including the date, time, charge,
+                        rating given, region of trip, and pick up and drop off location of your ride.
+
                     
 
 
@@ -1789,10 +1780,9 @@ Last Updated: December 9, 2020
                     
 
 <li>
-                            Personal identifiers, such as your name, address, email address, date of birth, government
-                            identification number (such
-                            as social security number), driver’s license information, vehicle information, and car
-                            insurance information;
+                            Personal identifiers, such as your name, address, email address, phone number, date of
+                            birth, government identification number (such as social security number), driver’s license
+                            information, vehicle information, and car insurance information;
                         </li>
 <li>
                             Financial information, such as bank routing numbers, tax information, and any other payment
@@ -1887,9 +1877,8 @@ Last Updated: December 9, 2020
                         </li>
 <li>
                             Exercise or defend legal claims, protect against harm to our rights, property, interests, or
-                            safety or the rights,
-                            property, interests, or safety of you, third-parties, or the public as required or permitted
-                            by law.
+                            safety or the rights, property, interests, or safety of you, third parties, or the public as
+                            required or permitted by law.
                         </li>
 
 ### D. In Connection with Sale or Merger
@@ -2114,19 +2103,17 @@ Last Updated: December 9, 2020
                     
 
 
-<u>Email Webform</u>: You may <a href="https://help.lyft.com/hc/en-us/requests/new?ticket_form_id=360002128894">
-                            write to us</a> to exercise rights. Please include your full name, email address, and phone
-                        number associated with your
-                        use of the Lyft Platform, along with why you are writing, so that we can process your request in
-                        an efficient manner.
+<u>Email webform</u>: You may <a href="https://help.lyft.com/hc/en-us/requests/new?ticket_form_id=360002128894">
+                            write to us</a> to exercise rights.
                     
 
 
                         To respond to some rights we will need to verify your request either by asking you to log in and
                         authenticate your account or otherwise verify your identity by providing information about
                         yourself or your account. Authorized agents can make a request on your behalf if you have given
-                        them legal power of attorney or you provide signed permission, verification of your identity,
-                        and confirmation that you provided the agent permission to submit the request.
+                        them legal power of attorney or we are provided proof of signed permission,
+                        verification of your identity, and confirmation that you provided the agent permission to submit
+                        the request.
                     
 
 
@@ -2149,7 +2136,7 @@ Last Updated: December 9, 2020
                     [Help Center](https://help.lyft.com/hc).
                 
 
-## Links to Third Party Websites
+## Links to Third-Party Websites
 
 
                     The Lyft Platform may contain links to third-party websites. Those websites may have privacy
