@@ -162,6 +162,8 @@ Blog
 
 Careers
 
+AI
+
 Ride
 
 Drive
@@ -175,10 +177,6 @@ Uber Freight
 Safety
 
 Diversity and Inclusion
-
-Advanced Technologies Group
-
-AI
 
 © <!-- -->2021<!-- --> Uber Technologies Inc.
 
