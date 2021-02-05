@@ -49,7 +49,7 @@ We collect this information when a Google service on your device contacts our se
 
 We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:
 - Terms you search for- Videos you watch- [Views and interactions with content and ads](privacy#footnote-content-views)- Voice and audio information when you use audio features- Purchase activity- People with whom you communicate or share content- Activity on third-party sites and apps that use our services- Chrome browsing history you’ve [synced with your Google Account](privacy#footnote-chrome-sync)
-If you use our [services to make and receive calls or send and receive messages](privacy#footnote-calls-messages), we may collect telephony log information like your phone number, calling-party number, receiving-party number, forwarding numbers, time and date of calls and messages, duration of calls, routing information, and types of calls.
+If you use our [services to make and receive calls or send and receive messages](privacy#footnote-calls-messages), we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.
 
 You can visit your Google Account to find and manage activity information that’s saved in your account.
 
@@ -92,7 +92,7 @@ Depending on your settings, we may also show you [personalized ads](privacy#foot
 
 ### Measure performance
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, Google and a Google Analytics customer [may link information](privacy#footnote-link-info) about your activity from that site with activity from other sites that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](privacy#footnote-link-info) about your activity from that site with activity from other sites that use our ad services.
 
 ### Communicate with you
 
@@ -292,7 +292,7 @@ The CCPA requires a description of data practices using specific categories. Thi
 
 **Audio, electronic, visual and similar information**, such as [voice and audio information](https://support.google.com/websearch/answer/6030020) when you use audio features.
 
-**Professional, employment, and education information**, such as information [you provide](https://myaccount.google.com/profile) or that is maintained through a G Suite account by an organization at which you study or work.
+**Professional, employment, and education information**, such as information [you provide](https://myaccount.google.com/profile) or that is maintained through an organization using Google services at which you study or work.
 
 **Other information you create or provide**, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). [Google Dashboard](https://myaccount.google.com/dashboard) allows you to manage information associated with specific products.
 
@@ -322,7 +322,7 @@ The CCPA requires a description of data practices using specific categories. Thi
 
 **Service providers**, trusted businesses or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 
-**Domain administrators**, if you work or study at an organization that uses Google services like G Suite.
+[Domain administrators](https://support.google.com/a/answer/6208960?p=privpol_admin), if you work or study at an organization that uses Google services.
 
 **Law enforcement or other third parties**, for the legal reasons described in [Sharing your information](privacy#infosharing).
 
@@ -344,6 +344,8 @@ We change this Privacy Policy from time to time. We will not reduce your rights 
 
 The following privacy notices provide additional information about some Google services:
 - [Chrome &amp; the Chrome Operating System](https://www.google.com/chrome/intl/en/privacy.html)- [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&amp;hl=en)- [Fiber](https://fiber.google.com/legal/privacy.html)- [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)- [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)- [Read Along](https://readalong.google/intl/en_US/privacy)- [YouTube Kids](https://kids.youtube.com/privacynotice)- [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)- [Voice and Audio Collection from Children’s Features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/)
+If you’re a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice).
+
 ## Other useful resources
 
 The following links highlight useful resources for you to learn more about our practices and privacy settings.
@@ -523,7 +525,7 @@ For example, we operate data centers located [around the world](https://www.goog
 ### services to make and receive calls or send and receive messages
 
 Examples of these services include:
-- Google Hangouts, for making domestic and international calls- Google Voice, for making calls, sending text messages, and managing voicemail- Google Fi, for a phone plan
+- Google Voice, for making and receiving calls, sending text messages, and managing voicemail- Google Meet, for making and receiving video calls- Gmail, for sending and receiving emails- Google Chat, for sending and receiving messages- Google Duo, for making and receiving video calls and sending and receiving messages- Google Fi, for a phone plan
 ### show trends
 
 When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms. [Learn more](https://support.google.com/trends?p=privpol_about)
