@@ -27,7 +27,7 @@
 **Age.** If you are under the Minimum Age (as defined for your region in Section 14) you may not register for an account. Unless you are the holder of an existing account in the United States that is a Yahoo <u>[Family Account](https://help.yahoo.com/kb/SLN5679.html)</u>, you must be at least the Minimum Age to use the Services. Certain portions of the Services contain adult and/or mature content. Please do not access that content unless you are an adult (i.e., at least the age of majority in your country) or unless otherwise expressly indicated.
 </li>
 <li>
-**Member Conduct.** You agree not to use the Services to:
+**Member conduct.** You agree not to use the Services in any manner that violates these Terms or our [Community Guidelines](/policies/us/en/verizonmedia/guidelines/index.html), including to:
 <ol start="1" style="list-style-type: lower-roman;">
 <li>
 obtain or attempt to obtain unauthorized access to the Services or to our servers, systems, network, or data;
@@ -751,4 +751,4 @@ Additional terms for Italian users can be found [here](/policies/ie/it/verizonm
 
 Additional terms for German users can be found [here](https://www.verizonmedia.com/policies/ie/de/verizonmedia/terms/additionalterms/index.html).
 
-**Last updated: August 2020**
+**Last updated: February 2021**
