@@ -94,7 +94,7 @@ interfere with or disrupt the Services or servers, systems or networks connected
 
 **Procedure for Copyright or Other Intellectual Property Infringement Claims**<br/>
 <br/>
-	We respect the intellectual property of others, and we expect our users to do the same. We may, in appropriate circumstances and at our discretion, disable, terminate, and/or take other appropriate steps relating to the accounts of users who may be infringers. If you believe that your copyright or intellectual property rights have been infringed, please follow the instructions provided <u>[here](/policies/us/en/verizonmedia/ip/index.html)</u>
+	We respect the intellectual property of others, and we expect our users to do the same. We may, in appropriate circumstances and at our discretion, disable, terminate, and/or take other appropriate steps relating to the accounts of users who may be infringers. If you believe that your copyright or intellectual property rights have been infringed, please follow the instructions provided <u>[here](/policies/us/en/verizonmedia/ip/index.html)</u>.
 
 **Content in the Services and License Grant to ****Verizon Media** 
 
