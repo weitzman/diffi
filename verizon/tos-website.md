@@ -253,9 +253,9 @@
 												</a></li><li class="gnav20-Level-2 gnav20-sub-nav-list gnav20-bold-link gnav20-column-break"><a id="gnav20-Careers-L2-12" class="gnav20-subanchor gnav20-hide-on-desktop" href="https://www.verizon.com/about/work" aria-label="Search Jobs" target="_blank">Search Jobs
 										</a><a id="gnav20-Careers-L2-12" class="gnav20-subanchor gnav20-hide-on-mobile" href="https://www.verizon.com/about/work" aria-label="Search Jobs" target="_blank">Search Jobs
 										</a></li>
-<input type="text" value="" class="gnav20-search-text" name="q" placeholder="Search" autoComplete="off" aria-label="Enter Search Text"/><button class="gnav20-close-icon" aria-label="close search results"></button>[](javascript:void(0);)
+<input type="search" value="" class="gnav20-search-text" name="q" placeholder="Search" autoComplete="off" aria-label="Enter Search Text"/><button class="gnav20-close-icon" aria-label="close search results"></button>[](javascript:void(0);)
 
-<input type="text" value="" class="gnav20-search-text" name="q" placeholder="Search" autoComplete="off" aria-label="Enter Search Text"/><button class="gnav20-close-icon" aria-label="close search results"></button>[](javascript:void(0);)
+<input type="search" value="" class="gnav20-search-text" name="q" placeholder="Search" autoComplete="off" aria-label="Enter Search Text"/><button class="gnav20-close-icon" aria-label="close search results"></button>[](javascript:void(0);)
 <li class="gnav20-Level-2 gnav20-sub-nav-list gnav20-hide-on-desktop"><a id="gnav20-Our-Company-L2-1" class="gnav20-subanchor gnav20-hide-on-desktop" href="https://www.verizon.com/about/our-company" aria-label="Overview" target="_self">Overview
 										</a><a id="gnav20-Our-Company-L2-1" class="gnav20-subanchor gnav20-hide-on-mobile" href="https://www.verizon.com/about/our-company" aria-label="Overview" target="_self">Overview
 										</a></li><li class="gnav20-Level-2 gnav20-sub-nav-list gnav20-bold-link">[Who We Are](https://www.verizon.com/about/our-company/who-we-are)<a id="gnav20-Our-Company-L2-2" class="gnav20-subanchor gnav20-haschild gnav20-hide-on-mobile" href="https://www.verizon.com/about/our-company/who-we-are" aria-label="Who We Are" target="_self">Who We Are
