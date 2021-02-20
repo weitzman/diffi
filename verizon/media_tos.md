@@ -1,7 +1,7 @@
 
 # Verizon Media Terms of Service
 
-**In June 2017, we announced that Yahoo and AOL joined to become a unified digital and mobile media company as part of [Verizon](https://www.verizon.com/about/terms-conditions/terms-of-service). We are now operating under these unified Terms of Service. If you have a Yahoo or an AOL account, you will need to agree to these Terms. (Note, if you have not yet agreed to these Terms, the [legacy Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/directory/registration/index.htm?redirect=no) or [legacy Oath Terms of Service](http://legal.aol.com/legacy/terms-of-service_full-terms/) (for AOL) still apply to your account.) For all Verizon Media products or services that are accessed without signing into an account, the Terms below apply to those products and services effective May 25, 2018. If you are creating a new account, the Terms below apply starting today.**
+**In June 2017, we announced that Yahoo and AOL joined to become a unified digital and mobile media company as part of [Verizon](https://www.verizon.com/about/terms-conditions/overview). We are now operating under these unified Terms of Service. If you have a Yahoo or an AOL account, you will need to agree to these Terms. (Note, if you have not yet agreed to these Terms, the [legacy Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/directory/registration/index.htm?redirect=no) or [legacy Oath Terms of Service](http://legal.aol.com/legacy/terms-of-service_full-terms/) (for AOL) still apply to your account.) For all Verizon Media products or services that are accessed without signing into an account, the Terms below apply to those products and services effective May 25, 2018. If you are creating a new account, the Terms below apply starting today.**
 
 <li>
 <p>**Welcome to ****Verizon Media**<br/>
@@ -568,7 +568,7 @@ For modifications to these Terms or the Services that we need to make in order t
 
 **Limitation of Liability**. Nothing in these Terms affects any legal rights that you are entitled to as a consumer under Japanese law which cannot be contractually altered or waived. Accordingly, if the contract regarding the use of the Services pursuant to these Terms is deemed a consumer contract under the Consumer Contract Act of Japan, some of the exclusions and limitations in Section 9 of these Terms will not apply to you for liability resulting from our willful misconduct or gross negligence.
 
-**Customer Support**. For customer service, please see [this page](http://www.aol.jp/global/feedback/).
+**Customer Support**. For customer service, please see [this page](https://aol.uservoice.com/forums/923410/).
 
 **New Zealand (nz):**
 
@@ -732,7 +732,7 @@ If we permanently suspend or terminate your account, we will notify you in advan
 **Cooling off period for EU consumers.** The following provisions supplement Section 11 (Fee-Based Services and Billing).
 
 <li>
-If you are a consumer living in the EU, you can cancel your fee-based Service without giving a reason within 14 days from the day of the conclusion of the contract. You can notify us by completing and submitting this [form](https://io.help.yahoo.com/contact/index?page=contactform&amp;locale=en_GB&amp;token=Zh%2FBBVqXzLHlIbokbUqVWTUbuuQeXGkGgS3%2B4Rh5kxWAQXYZ547z%2B5LnIKLv8bEck3A0sV5mhjMquLxPTzbwFlxIPTI4PGo%2FbDbodxUliozOIP1RXs9thxait2y%2FhZGV%2FbCJV8mes9owO1ZuEuGGcw%3D%3D&amp;selectedChannel=email-icon) or if you have no other option, by returning [this form](https://verizonmedia.com/policies/uk/en/verizonmedia/terms/otos/paid/services/cancellation/form/index.html) to us by post. You must send your notification to us before expiry of the 14-day cancellation period.
+If you are a consumer living in the EU, you can cancel your fee-based Service without giving a reason within 14 days from the day of the conclusion of the contract. You can notify us by completing and submitting this [form](https://login.yahoo.com/?.done=https%3A%2F%2Fio.help.yahoo.com%2Fcontact%2Findex%3Fpage%3Dcontactform%26locale%3Den_GB%26token%3DZh%252FBBVqXzLHlIbokbUqVWTUbuuQeXGkGgS3%252B4Rh5kxWAQXYZ547z%252B5LnIKLv8bEck3A0sV5mhjMquLxPTzbwFlxIPTI4PGo%252FbDbodxUliozOIP1RXs9thxait2y%252FhZGV%252FbCJV8mes9owO1ZuEuGGcw%253D%253D%26selectedChannel%3Demail-icon&amp;.src=yhelp&amp;.intl=uk) or if you have no other option, by returning [this form](https://verizonmedia.com/policies/uk/en/verizonmedia/terms/otos/paid/services/cancellation/form/index.html) to us by post. You must send your notification to us before expiry of the 14-day cancellation period.
 </li>
 <li>
 <u>Exceptions</u>. If you purchase digital content not supplied in a tangible medium from us you agree that the cancellation period expires immediately once you begin to download or stream the digital content.
